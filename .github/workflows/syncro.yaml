@@ -1,8 +1,8 @@
-name: Sync Weekly Fork
+name: Sincronizza con upstream mantenendo le mie modifiche
 
 on:
   schedule:
-    - cron: '0 3 * * 1'
+    - cron: '0 3 * * 1'   # Lunedì alle 3 UTC
   workflow_dispatch:
 
 jobs:
@@ -13,53 +13,44 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configura Git
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-      - name: Rimuovi upstream vecchio se esiste
-        run: |
-          git remote remove upstream || true
-
-      - name: Aggiungi nuovo upstream
+      - name: Aggiungi upstream
         run: |
           git remote add upstream https://github.com/famelack/famelack-data.git
+          git fetch upstream
 
-      - name: Fetch dall'upstream
-        run: git fetch upstream
-
-      - name: Unisci upstream nel tuo branch (con risoluzione automatica conflitti)
+      - name: Salva le tue modifiche in un branch temporaneo
         run: |
           git checkout main
-          # Usa la strategia 'theirs' per accettare le modifiche upstream
-          # Questo mantiene i file che upstream ha modificato
-          git merge -X theirs upstream/main --allow-unrelated-histories --no-edit
-          
-          # Se ci sono ancora conflitti, forza l'accettazione delle versioni upstream
-          git status --porcelain | grep -E "^DU|^UD" | while read status file; do
-            if [[ $status == DU* ]] || [[ $status == UD* ]]; then
-              git checkout --theirs "$file" 2>/dev/null || true
-              git add "$file"
+          git branch -f mie-modifiche-temp HEAD
+
+      - name: Allinea main con upstream
+        run: git reset --hard upstream/main
+
+      - name: Ripristina i file che hai modificato (preservando le tue modifiche)
+        run: |
+          git diff --name-only mie-modifiche-temp upstream/main | while read file; do
+            if [ -n "$file" ]; then
+              git checkout mie-modifiche-temp -- "$file"
             fi
           done
-          
-          # Commit delle risoluzioni se necessario
-          if git diff-index --quiet HEAD --; then
-            echo "Nessun conflitto da risolvere"
+
+      - name: Committa se ci sono cambiamenti
+        run: |
+          if ! git diff --quiet; then
+            git commit -m "Auto-sync: ripristino modifiche locali dopo aggiornamento upstream"
           else
-            git commit -m "Risoluzione automatica conflitti merge da famelack-data"
+            echo "Nessuna modifica locale da ripristinare"
           fi
 
-      - name: Force push sul tuo fork
+      - name: Push sul tuo fork
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
-
-      # - name: Push sul tuo fork
-        # env:
-          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # run: |
-          # git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
+          git push --force origin main
