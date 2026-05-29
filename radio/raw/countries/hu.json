@@ -3,14 +3,13 @@
     "nanoid": "HudWTosenYehq5",
     "name": "103.9 Rock FM",
     "stream_urls": [
-      "https://icast.connectmedia.hu/5301/live.mp3",
-      "https://stream.rockradio.hu/"
+      "https://stream.rockradio.hu/",
+      "https://icast.connectmedia.hu/5301/live.mp3/"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "mYkOcAAwVBAPGP",
@@ -19,20 +18,7 @@
       "https://icast.connectmedia.hu/5301/live.mp3"
     ],
     "country": "hu",
-    "languages": [],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dCqM3HTFM9uXt7",
-    "name": "AdventNET Rádió",
-    "stream_urls": [
-      "https://radio.adventnet.hu:8443/stream"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    "languages": []
   },
   {
     "nanoid": "cFHTTFfIPBukwZ",
@@ -41,8 +27,7 @@
       "https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3"
     ],
     "country": "hu",
-    "languages": [],
-    "isGeoBlocked": false
+    "languages": []
   },
   {
     "nanoid": "iQCJUDWEqz45dr",
@@ -53,8 +38,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "UmQkVWmMLTviAC",
@@ -65,23 +49,23 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Iyz5WYJguHIheg",
     "name": "BDPST ROCK",
     "stream_urls": [
+      "https://s2.audiostream.hu/bdpstrock_FLAC",
       "https://bdpstrock.hu/live_320.mp3",
+      "https://bdpstrock.hu/live_HiFi.mp3",
       "https://bdpstrock.hu/live.mp3",
       "https://bdpstrock.hu/live_128.mp3"
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "uCra4J2ybJWDB4",
@@ -92,21 +76,19 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "IwyyxcU4DGXLSm",
     "name": "Best FM Eger",
     "stream_urls": [
-      "https://icast.connectmedia.hu/5116/live.mp3",
-      "https://icast.connectmedia.hu/5116/live.mp3/;"
+      "https://icast.connectmedia.hu/5116/live.mp3/;",
+      "https://icast.connectmedia.hu/5116/live.mp3"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Lgwl7p1RtWzftP",
@@ -117,8 +99,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "gXhbsyofRx3EDe",
@@ -129,20 +110,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "F32cIlSVBBNWIK",
-    "name": "Best FM Székesfehérvár",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5113/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "oWrrQ5y7U4a6vK",
@@ -153,8 +121,18 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "F32cIlSVBBNWIK",
+    "name": "Best FM Székesfehérvár",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5113/live.mp3"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "vTyC7IU9mPsfHS",
@@ -165,8 +143,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "lYW5lG0VcmiQk4",
@@ -178,8 +155,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "VlGnMSsZbjMPru",
@@ -190,8 +166,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "IGIv0mGf5c2KJV",
@@ -202,10 +177,9 @@
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "Z15tuYKqZV2Z3v",
@@ -215,10 +189,9 @@
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "FWjdOTrd1Mo05U",
@@ -229,8 +202,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "rzDbush7b85i5Z",
@@ -241,33 +213,19 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "KqC8s0qnvR7BA5",
     "name": "Cool FM",
     "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/cfmhq",
-      "https://mediagw.e-tiger.net/stream/coolfm"
+      "https://mediagw.e-tiger.net/stream/coolfm",
+      "https://mediagw.e-tiger.net/stream/cfmhq"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Zvx3GGf5l3zaTx",
-    "name": "Cool FM 90's",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc05"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "alqesKFVthREM9",
@@ -278,8 +236,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "AG21yEsHrSw8sF",
@@ -290,8 +247,18 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "Zvx3GGf5l3zaTx",
+    "name": "Cool FM 90's",
+    "stream_urls": [
+      "https://mediagw.e-tiger.net/stream/zc05"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "FSQejsmAjDEHjx",
@@ -302,8 +269,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "n0g9KdfNizyUyU",
@@ -314,8 +280,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "NdRShzodHGcixn",
@@ -326,8 +291,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "U1gZ7OGT2WvSXX",
@@ -338,20 +302,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FpV3j6SFkOdi0d",
-    "name": "Cool FM Dance 90s",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc06"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "8v9tc7GgYrznyF",
@@ -362,8 +313,18 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "FpV3j6SFkOdi0d",
+    "name": "Cool FM Dance 90s",
+    "stream_urls": [
+      "https://mediagw.e-tiger.net/stream/zc06"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "J7VIIXQtVgXVy4",
@@ -374,8 +335,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "zlgQEXUur2q78I",
@@ -386,8 +346,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "XYzfEn0kIcR9gG",
@@ -398,8 +357,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "YsfimfEtONyjUO",
@@ -410,8 +368,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Oo8J4wnjoz2hms",
@@ -422,8 +379,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "oIopnZ6xrRKkyY",
@@ -434,8 +390,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "pyn03nfZiivwUP",
@@ -446,8 +401,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "GXQarIhBS9CIPz",
@@ -458,8 +412,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "yVS6NqGOFlPnGa",
@@ -470,8 +423,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "nyIZy4pEjWeJFK",
@@ -482,8 +434,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "7R26dD40iQaDR9",
@@ -494,8 +445,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "UHISbzYQtDZBDx",
@@ -506,8 +456,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "FB3cuc5rD7nXnj",
@@ -518,8 +467,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "i8vSGcJbTUbytn",
@@ -530,8 +478,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "cPIOxXWOu3JS2g",
@@ -542,8 +489,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "C685sG64JFoHJO",
@@ -554,8 +500,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "niJRFUlAwUq1ur",
@@ -566,8 +511,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "PzdqyCKolNje44",
@@ -578,8 +522,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "FQdPNV0elXjyVd",
@@ -590,8 +533,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "mEqlxfJGEirIGl",
@@ -602,8 +544,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Yp7NxGauxqMrwj",
@@ -613,23 +554,22 @@
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "i3GV9ZUiFd2DqI",
     "name": "Dance Wave!",
     "stream_urls": [
+      "https://dancewave.online/dance.flac.ogg",
       "https://dancewave.online/station/dance-wave-ogg",
       "https://dancewave.online/dance.flac.ogg"
     ],
     "country": "hu",
     "languages": [
       "eng"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "ogdRFFSE7MxpgL",
@@ -640,22 +580,22 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Sli5b6f5rHlvpN",
     "name": "Danubius Rádió",
     "stream_urls": [
+      "https://stream.danubiusradio.hu/danubius_HiFi",
+      "https://danubiusradio.hu/live.mp3",
       "https://stream.danubiusradio.hu/danubius_320k",
-      "https://stream.danubiusradio.hu/danubius_192k",
-      "https://danubiusradio.hu/live.mp3"
+      "https://stream.danubiusradio.hu/danubius_128k",
+      "https://stream.danubiusradio.hu/danubius_192k"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "KFBiNIdhWikQvT",
@@ -666,8 +606,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "jQ8uQiyHysetkz",
@@ -679,8 +618,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "HUnOElkmmCEwS4",
@@ -691,20 +629,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yssvNpelyvDlDi",
-    "name": "Európa Rádió",
-    "stream_urls": [
-      "https://europaradio.hu/miskolc"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "ZOdHP35NDAl8Zo",
@@ -715,8 +640,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "aAOB2v3FPxNhhf",
@@ -727,8 +651,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "2HenIWKzAONYoh",
@@ -739,8 +662,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "JbJN7l7ghVL4KX",
@@ -751,8 +673,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "RQRBnlJRBXldH4",
@@ -763,8 +684,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "6mqUu9wsoPoY0W",
@@ -775,8 +695,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "yqLxOoaJ61saNZ",
@@ -787,8 +706,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "vUMtos6TVSRhII",
@@ -799,8 +717,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "WxMZyNT16pxr3s",
@@ -811,8 +728,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "t5ZFwpBaQ89euF",
@@ -823,8 +739,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "HUjtjfNjfKQRw6",
@@ -835,8 +750,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "1l7aYu7nneZoSc",
@@ -848,8 +762,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "GBUI0vCbZjxjhd",
@@ -860,8 +773,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "aincwnziVR1cxH",
@@ -872,8 +784,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "rpfeq0BConOuFA",
@@ -885,8 +796,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "TLIMLByP68iyt8",
@@ -897,10 +807,9 @@
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "ePOAuAmvmnc6Js",
@@ -911,8 +820,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "OdQWCBFfCFOu1Z",
@@ -923,8 +831,40 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "uhiBpj1Tlf4Uqs",
+    "name": "Luxfunk Blackmix",
+    "stream_urls": [
+      "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "uZcyqHND3vmlqu",
+    "name": "Luxfunk Dance",
+    "stream_urls": [
+      "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "IkKYjABANGMZoW",
+    "name": "Luxfunk Radio",
+    "stream_urls": [
+      "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "hxggjy96HibDXS",
@@ -936,8 +876,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "tWPiUJbBixGWjO",
@@ -947,10 +886,9 @@
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "s5EEvUC01Swj9u",
@@ -961,8 +899,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "pJl01Ph15VT2Jg",
@@ -973,8 +910,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "FLNEkoOCG0ku0D",
@@ -985,8 +921,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Ny7u8HRc19gZMl",
@@ -997,8 +932,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Cwi8KdIKKCrEHS",
@@ -1009,8 +943,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "rmItCOHch59xF2",
@@ -1021,8 +954,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "wfkBsYbZKpVUH2",
@@ -1034,8 +966,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "R4NYpQjXz4mP8j",
@@ -1045,11 +976,10 @@
     ],
     "country": "hu",
     "languages": [
+      "hun",
       "deu",
-      "hrv",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hrv"
+    ]
   },
   {
     "nanoid": "ntrsvVRJJHqb65",
@@ -1060,8 +990,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "9kzB7NiGb5kd6r",
@@ -1072,8 +1001,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "FDOEltysz9zmdI",
@@ -1084,8 +1012,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "cxAoTK6cyOXoGN",
@@ -1096,8 +1023,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "xBPnl6MSP7jNm1",
@@ -1108,8 +1034,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "LfFWA6H7CRv1vv",
@@ -1120,8 +1045,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "kQTKyIRGdzdsga",
@@ -1132,8 +1056,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "CvSuREjl9LEsm8",
@@ -1144,8 +1067,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "3Ht2PlrSNPkLed",
@@ -1156,8 +1078,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "WJUYgmpggAKw5q",
@@ -1168,8 +1089,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "KkKTg1cyicXvPx",
@@ -1180,8 +1100,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "0x1CX3VDfGA18o",
@@ -1192,8 +1111,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "lFL7WaRHV28xk8",
@@ -1205,8 +1123,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "aJmJSBpiZqGw0u",
@@ -1217,8 +1134,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "dOKSapNLmc2uj6",
@@ -1229,8 +1145,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "9j4dmFBc0tMpbv",
@@ -1241,8 +1156,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "RgneOgybkYgrpf",
@@ -1253,8 +1167,18 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "Z1pvIPtPO6AQHn",
+    "name": "Oxygen Xmas",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8000/xmas_320"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "Z1pvIPtPO6AQHn",
@@ -1278,8 +1202,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "9VOMMsqOqkDJ1B",
@@ -1290,8 +1213,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "cSiIXldLuoBpOB",
@@ -1302,20 +1224,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oPipztRkorAq8j",
-    "name": "Pécs Aktuál Rádió",
-    "stream_urls": [
-      "https://stream.pecsaktual.hu/paradio.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "e9Pb3OV7m2K8U9",
@@ -1327,8 +1236,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "3qMJzFevqjoRbL",
@@ -1339,155 +1247,31 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
-    "nanoid": "eaw3MIFvYh8Zn6",
-    "name": "Rábaköz Rádió",
+    "nanoid": "oPipztRkorAq8j",
+    "name": "Pécs Aktuál Rádió",
     "stream_urls": [
-      "https://radio.molnarkft.hu/rabakozradio"
+      "https://stream.pecsaktual.hu/paradio.mp3"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Itm5cMl3OJ2F60",
-    "name": "Rádió 1",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5201/live.mp3",
-      "https://icast.connectmedia.hu/5202/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4gQFeIf6LFRlmT",
-    "name": "Rádió 1 Békéscsaba",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5233/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oSW2xz3Oz4Rwmd",
-    "name": "Rádió 1 Eger",
-    "stream_urls": [
-      "https://www.radio1eger.hu/radio1eger.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2p9TbipVMea5gt",
-    "name": "Rádió 1 Gyöngyös",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5039/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vk2MZKM0ZAvKdO",
-    "name": "Rádió 1 Miskolc",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5211/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ynrg75uppPVtll",
-    "name": "Rádió 1 Paks",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5222/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nH0rrsgUD2HjPG",
-    "name": "Rádió 1 Sopron",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5015/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hD4cu71oykOPYd",
-    "name": "Rádió 1 Szeged",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5232/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JX1R1FgHTAWhF5",
-    "name": "Rádió 47",
-    "stream_urls": [
-      "https://s01.diazol.hu:9102/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "FbW4RDOIXsWqyJ",
     "name": "Radio Bias",
     "stream_urls": [
+      "https://admin.biasradio.com/listen/bias_radio/flac",
       "https://admin.biasradio.com/listen/bias_radio/live",
-      "https://admin.biasradio.com/listen/bias_radio/mobile",
-      "https://admin.biasradio.com/listen/bias_radio/flac"
+      "https://admin.biasradio.com/listen/bias_radio/mobile"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wrs2Oi52OyjJsk",
-    "name": "Rádió Dikh",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/6121/live.mp3"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "z03QzkVwzDIcSQ",
@@ -1498,8 +1282,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "obA7vgwPxKksVQ",
@@ -1509,10 +1292,9 @@
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "efRnth2hy4yvdo",
@@ -1523,8 +1305,18 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "tTQXjurGXe7sQZ",
+    "name": "Radio Sunrise",
+    "stream_urls": [
+      "https://s03.diazol.hu:7172/stream"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "tTQXjurGXe7sQZ",
@@ -1547,8 +1339,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "LACkj3xCJlVEFR",
@@ -1560,8 +1351,7 @@
     "country": "hu",
     "languages": [
       "eng"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "0j59UgKdhlrJio",
@@ -1573,8 +1363,7 @@
     "country": "hu",
     "languages": [
       "eng"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "gxf9vTVz9lgyO2",
@@ -1585,8 +1374,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "kKnMfOlRUDVOZk",
@@ -1599,8 +1387,51 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "6cn6XcAZM9wVys",
+    "name": "Rise FM Classic",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8443/RISE_CLASSIC_128"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "eHuv8g65QDJYn0",
+    "name": "Rise FM Deep",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8443/RISE_DEEPHOUSE_128"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "5vUHgUki3R0pm2",
+    "name": "Rise FM Hit House",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8443/RISE_HITHOUSE_128"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "vtfE5U9YCKiZIQ",
+    "name": "Rise FM R'n'B",
+    "stream_urls": [
+      "https://oxygenmusic.hu:8443/RISE_RNB_128"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "x2WojaWRPQFcHF",
@@ -1611,33 +1442,141 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "lDc8WnMyrPpMt7",
     "name": "Roxy Rádió",
     "stream_urls": [
-      "https://s2.audiostream.hu/roxy_192k",
-      "https://s2.audiostream.hu/roxy_FLAC"
+      "https://s2.audiostream.hu/roxy_FLAC",
+      "https://s2.audiostream.hu/roxy_192k"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
-    "nanoid": "hKbtNsvZOmtZd9",
-    "name": "Sárvár Rádió",
+    "nanoid": "eaw3MIFvYh8Zn6",
+    "name": "Rábaköz Rádió",
     "stream_urls": [
-      "https://stream.42netmedia.com:8443/sarvar"
+      "https://radio.molnarkft.hu/rabakozradio"
     ],
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "Itm5cMl3OJ2F60",
+    "name": "Rádió 1",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5201/live.mp3",
+      "https://icast.connectmedia.hu/5202/live.mp3"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "4gQFeIf6LFRlmT",
+    "name": "Rádió 1 Békéscsaba",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5233/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "oSW2xz3Oz4Rwmd",
+    "name": "Rádió 1 Eger",
+    "stream_urls": [
+      "https://www.radio1eger.hu/radio1eger.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "2p9TbipVMea5gt",
+    "name": "Rádió 1 Gyöngyös",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5039/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "vk2MZKM0ZAvKdO",
+    "name": "Rádió 1 Miskolc",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5211/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "Ynrg75uppPVtll",
+    "name": "Rádió 1 Paks",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5222/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "nH0rrsgUD2HjPG",
+    "name": "Rádió 1 Sopron",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5015/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "hD4cu71oykOPYd",
+    "name": "Rádió 1 Szeged",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/5232/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "JX1R1FgHTAWhF5",
+    "name": "Rádió 47",
+    "stream_urls": [
+      "https://s01.diazol.hu:9102/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "Wrs2Oi52OyjJsk",
+    "name": "Rádió Dikh",
+    "stream_urls": [
+      "https://icast.connectmedia.hu/6121/live.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "eS4C5Rlood0u3E",
@@ -1648,8 +1587,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "HK5SErm2aVqNcs",
@@ -1660,8 +1598,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "o7POxQaXORBM9l",
@@ -1672,8 +1609,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "5mfMnRP2X5Hrmg",
@@ -1684,8 +1620,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "6mAoP0D4Cl7VC2",
@@ -1696,8 +1631,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "Q6dnjmitth2Nzj",
@@ -1708,8 +1642,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "uyAMCevoIXClCK",
@@ -1721,8 +1654,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "YYm0c7dHVYhPzn",
@@ -1733,8 +1665,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "zGdgsSuJdQOvT2",
@@ -1745,8 +1676,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "kQSUkGfEg8kDVy",
@@ -1757,8 +1687,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "a3T58M8hsnPKSa",
@@ -1769,8 +1698,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "MCEdk7fyvvhNJQ",
@@ -1781,8 +1709,18 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "hKbtNsvZOmtZd9",
+    "name": "Sárvár Rádió",
+    "stream_urls": [
+      "https://stream.42netmedia.com:8443/sarvar"
     ],
-    "isGeoBlocked": false
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
   },
   {
     "nanoid": "MgxQbwKjOTnyq6",
@@ -1795,8 +1733,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "gzyI60bFJ2o73a",
@@ -1807,8 +1744,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "sy8rv51gPGh6kJ",
@@ -1819,8 +1755,7 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "fyUk6Zczu6GO9h",
@@ -1831,22 +1766,20 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "gXhAVeDX541Poi",
     "name": "Youventus Rádió",
     "stream_urls": [
+      "https://s2.audiostream.hu/juventus_FLAC",
       "https://s2.audiostream.hu/juventus_192k",
-      "https://youventusradio.hu/stream_96k",
-      "https://s2.audiostream.hu/juventus_FLAC"
+      "https://youventusradio.hu/stream_96k"
     ],
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "qlWprHXsYULVXL",
@@ -1856,10 +1789,9 @@
     ],
     "country": "hu",
     "languages": [
-      "eng",
-      "hun"
-    ],
-    "isGeoBlocked": false
+      "hun",
+      "eng"
+    ]
   },
   {
     "nanoid": "42gGHTbOgL7olD",
@@ -1870,7 +1802,6 @@
     "country": "hu",
     "languages": [
       "hun"
-    ],
-    "isGeoBlocked": false
+    ]
   }
 ]

@@ -1,42 +1,5 @@
 [
   {
-    "nanoid": "DrsEF8tv39HHeY",
-    "name": "Avtoradio",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PsZ39JP25LAMon",
-    "name": "GPB Radio 1",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uYenrtmRlQOzA2",
-    "name": "GPB Radio 2",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8",
-      "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RT3CrgfS8nFMwC",
     "name": "LF Radio",
     "stream_urls": [
@@ -44,10 +7,9 @@
     ],
     "country": "ge",
     "languages": [
-      "eng",
-      "kat"
-    ],
-    "isGeoBlocked": false
+      "kat",
+      "eng"
+    ]
   },
   {
     "nanoid": "lcST2mrbJkPWXB",
@@ -59,8 +21,7 @@
     "languages": [
       "eng",
       "kat"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "f5jBy64SQnpbhN",
@@ -71,8 +32,7 @@
     "country": "ge",
     "languages": [
       "kat"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "PmXY8zrKx6mJnA",
@@ -82,84 +42,20 @@
     ],
     "country": "ge",
     "languages": [
-      "eng",
-      "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WowJKkWxDm46jk",
-    "name": "Radio Ar Daidardo",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uAjmezILxrMZ1R",
-    "name": "Radio Chveneburi",
-    "stream_urls": [
-      "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8",
-      "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zd1u0JJ21zUKIL",
-    "name": "Radio Commersant",
-    "stream_urls": [
-      "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aM4zPHwEfgWo0W",
-    "name": "Radio Fortuna",
-    "stream_urls": [
-      "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
+      "kat",
+      "eng"
+    ]
   },
   {
     "nanoid": "86tQRYt2943voC",
     "name": "Radio Imedi",
     "stream_urls": [
-      "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8",
       "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
     ],
     "country": "ge",
     "languages": [
       "kat"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z6ZRQkRyisVHO0",
-    "name": "Radio Obieqtivi",
-    "stream_urls": [
-      "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8"
-    ],
-    "country": "ge",
-    "languages": [
-      "kat"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "3OBD5JDSL4Bigy",
@@ -170,8 +66,7 @@
     "country": "ge",
     "languages": [
       "kat"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "6BjD1gFHeqSAwn",
@@ -182,8 +77,7 @@
     "country": "ge",
     "languages": [
       "kat"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "kZoVAVhMSZq3DS",
@@ -194,8 +88,7 @@
     "country": "ge",
     "languages": [
       "kat"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "E8XDXmeHkwQw9X",
@@ -205,10 +98,9 @@
     ],
     "country": "ge",
     "languages": [
-      "eng",
-      "kat"
-    ],
-    "isGeoBlocked": false
+      "kat",
+      "eng"
+    ]
   },
   {
     "nanoid": "jbjA8JGHs4EMix",
@@ -220,7 +112,6 @@
     "languages": [
       "abk",
       "rus"
-    ],
-    "isGeoBlocked": false
+    ]
   }
 ]

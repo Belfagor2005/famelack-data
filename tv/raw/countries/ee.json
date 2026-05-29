@@ -39,36 +39,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cnFlZpQ0FKCBXe",
-    "name": "DanceTV EDM Mainstage",
-    "stream_urls": [
-      "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Q5enIVFByh6WlU",
     "name": "DanceTV House Floor",
     "stream_urls": [
       "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dGqTIRUXI72pxD",
-    "name": "DanceTV Minimal Tech",
-    "stream_urls": [
-      "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -86,46 +60,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FYDzTh0N4duFas",
-    "name": "ETV",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "w1TyAWzZva88k1",
-    "name": "ETV 2",
-    "stream_urls": [
-      "https://sb.err.ee/live/etv2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g3tSCZ3A6RSOUd",
-    "name": "ETV+",
-    "stream_urls": [
-      "https://sb.err.ee/live/etvpluss.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est",
-      "rus"
     ],
     "country": "ee",
     "isGeoBlocked": false
@@ -157,19 +91,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ET5aXCpL16C7nE",
-    "name": "Taevas TV7",
-    "stream_urls": [
-      "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "est"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "r2gF8oZvggcaZG",
     "name": "Vantage Dance",
     "stream_urls": [
@@ -183,7 +104,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i3qkHtWdmsIqE8",
+    "nanoid": "KFaKfUjRuHlz4N",
     "name": "Vantage Music",
     "stream_urls": [
       "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
@@ -194,6 +115,19 @@
     ],
     "country": "ee",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "6GLl0eCnvKpLx9",
+    "name": "Vantage Music UK",
+    "stream_urls": [
+      "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ayJ81MgKRadKk0",

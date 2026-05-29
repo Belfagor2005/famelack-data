@@ -94,19 +94,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0QTowwNml7pc3D",
-    "name": "Costa Rica Channel",
-    "stream_urls": [
-      "https://video0.rogohosting.com:19360/8006/8006.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U0CRP1XJWZMip7",
     "name": "Discover Pakistan",
     "stream_urls": [
@@ -185,18 +172,19 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "681XV5aGJin4Gd",
-    "name": "INTRAVEL Philippines",
+    "nanoid": "xhShEAoVCAmfV9",
+    "name": "INTRAVEL",
     "stream_urls": [
       "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8",
+      "https://amg00861-terncloud-amg00861c10-samsung-gb-2298.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-intravelsamsunguk-samsunggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "ph",
+    "country": "nl",
     "isGeoBlocked": true
   },
   {
@@ -229,8 +217,8 @@
     "nanoid": "50fISDUbgXCYss",
     "name": "Living Asia Channel",
     "stream_urls": [
-      "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
-      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
+      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+      "https://streams.comclark.com/pknsd/lac/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -254,19 +242,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IG7KP9uOfXV0Z7",
-    "name": "OEPM TV",
-    "stream_urls": [
-      "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HuAgGKfyx6NIKq",
     "name": "Palm Beaches TV",
     "stream_urls": [
@@ -277,6 +252,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -376,12 +364,80 @@
     "name": "大陸尋奇",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Kc5OXLZ9NEw"
+      "https://www.youtube-nocookie.com/embed/In_HXlgUt8w"
     ],
     "languages": [
       "zho"
     ],
     "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "travelxpBr1",
+    "name": "Travelxp (💬 🇧🇷)",
+    "stream_urls": [
+      "https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8?wowzasessionid=@iprtlk"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ttvlChannelPh2",
+    "name": "Ttvl Channel (🔉💬🇬🇧)🇵🇭",
+    "stream_urls": [
+      "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd?wowzasessionid=@iprtlk"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "travelPlusBr3",
+    "name": "Travel+ 🇧🇷",
+    "stream_urls": [
+      "https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/6735a44b06737c4a461f60d7/bunnycontent_main.m3u8?wowzasessionid=@iprtlk"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "viagensBr4",
+    "name": "Viagens 🇧🇷",
+    "stream_urls": [
+      "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vamboraChannelBr5",
+    "name": "Vambora Channel 🇧🇷",
+    "stream_urls": [
+      "https://video07.logicahost.com.br/vamborachannel/vamborachannel/playlist.m3u8?wowzasessionid=@iprtlk"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "travelEscapesUs6",
+    "name": "Travel Escapes 🇺🇸",
+    "stream_urls": [
+      "https://b385eb878e03425999616e7aedfe3605.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_TravelEscapes/playlist.m3u8?wowzasessionid=@iprtlk",
+      "https://videoelephantlimited-travelescapes-1-ca.tcltvplus.wurl.tv/playlist.m3u8?wowzasessionid=@iprtlk",
+      "https://videoelephantlimited-travelescapes-1-us.tcltvplus.wurl.tv/playlist.m3u8?wowzasessionid=@iprtlk"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "us",
     "isGeoBlocked": false
   }
 ]

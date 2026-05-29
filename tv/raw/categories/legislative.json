@@ -26,11 +26,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aMfHfOa13YZ4ZC",
+    "name": "ARTV",
+    "stream_urls": [
+      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DKTR1v3Aj-s"
+      "https://www.youtube-nocookie.com/embed/kUtedMvT7_Q"
     ],
     "languages": [
       "por"
@@ -211,19 +224,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p9TPCkNNGjcV0i",
-    "name": "City of Monroe Government Channel",
-    "stream_urls": [
-      "https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "asX42h8yD38q9i",
     "name": "City of Pompano Beach",
     "stream_urls": [
@@ -346,7 +346,7 @@
     "name": "Congreso del Perú en Vivo",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wveZU5xQLHo"
+      "https://www.youtube-nocookie.com/embed/C4Sr2pkQenk"
     ],
     "languages": [
       "spa"
@@ -477,8 +477,8 @@
     "nanoid": "yuAKJus9326voW",
     "name": "DCC",
     "stream_urls": [
-      "https://video.oct.dc.gov/out/u/DCC.m3u8",
-      "https://video.oct.dc.gov/out/u/15_12.m3u8"
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
+      "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -595,7 +595,6 @@
     "nanoid": "zfdgzXgQZmoAvu",
     "name": "Hellenic Parliament TV",
     "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
       "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
     ],
     "youtube_urls": [],
@@ -696,6 +695,19 @@
       "vie"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lvIrwQpUaM4Bib",
+    "name": "KTV",
+    "stream_urls": [
+      "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -831,6 +843,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kDdnzcMq5qo5B2",
+    "name": "MBTV",
+    "stream_urls": [
+      "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "J49I0cja3V1GVG",
     "name": "Midpen Media Center Channel 29",
     "stream_urls": [
@@ -861,6 +886,19 @@
     "name": "Natick Government Channel",
     "stream_urls": [
       "https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iyqtqcPLWjovz9",
+    "name": "NBTV",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -949,19 +987,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hKXziqHmvJRVZi",
-    "name": "Parlamentsfernsehen 1",
-    "stream_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "pGZdS7NMq1FAlR",
     "name": "Parliament TV",
     "stream_urls": [
@@ -975,10 +1000,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "arkaiC3h3BOt71",
-    "name": "PCTV 26",
+    "nanoid": "be0rVB6CUa2XW4",
+    "name": "Pasco TV",
     "stream_urls": [
-      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
+      "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -988,10 +1013,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "StqTBnuulyCkPJ",
-    "name": "PHLgovTV",
+    "nanoid": "arkaiC3h3BOt71",
+    "name": "PCTV 26",
     "stream_urls": [
-      "https://livestream.telvue.com/ctyphiladelphia1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+      "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1045,7 +1070,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MtZ1Aqy4UqQ"
+      "https://www.youtube-nocookie.com/embed/B5up5S5sAfo"
     ],
     "languages": [
       "por"
@@ -1072,9 +1097,10 @@
     "nanoid": "7uZQEY7iiyput2",
     "name": "Sansad TV 2",
     "stream_urls": [
+      "https://cdn-2.pishow.tv/live/39/master.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8",
-      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8",
-      "https://cdn-2.pishow.tv/live/39/master.m3u8"
+      "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1221,7 +1247,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/W1Wh-e26CUI"
+      "https://www.youtube-nocookie.com/embed/6SpDHfr1pSA"
     ],
     "languages": [
       "por"
@@ -1236,19 +1262,6 @@
       "https://stream3.camara.gov.br/tv1/manifest.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ljxQJllBAK9Pvk",
-    "name": "TV Câmara Porto Alegre",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pMFkwBKjklM"
-    ],
     "languages": [
       "por"
     ],

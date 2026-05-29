@@ -39,14 +39,14 @@
     "capital": "Tirana",
     "timeZone": "Europe/Tirane",
     "hasChannels": true,
-    "channelCount": 11
+    "channelCount": 8
   },
   "AM": {
     "country": "Armenia",
     "capital": "Yerevan",
     "timeZone": "Asia/Yerevan",
     "hasChannels": true,
-    "channelCount": 12
+    "channelCount": 13
   },
   "AO": {
     "country": "Angola",
@@ -130,7 +130,7 @@
     "capital": "Brussels",
     "timeZone": "Europe/Brussels",
     "hasChannels": true,
-    "channelCount": 212
+    "channelCount": 210
   },
   "BF": {
     "country": "Burkina Faso",
@@ -151,7 +151,7 @@
     "capital": "Manama",
     "timeZone": "Asia/Bahrain",
     "hasChannels": true,
-    "channelCount": 9
+    "channelCount": 5
   },
   "BI": {
     "country": "Burundi",
@@ -186,7 +186,7 @@
     "capital": "Bandar Seri Begawan",
     "timeZone": "Asia/Brunei",
     "hasChannels": true,
-    "channelCount": 8
+    "channelCount": 3
   },
   "BO": {
     "country": "Bolivia",
@@ -214,7 +214,7 @@
     "capital": "Nassau",
     "timeZone": "America/Nassau",
     "hasChannels": true,
-    "channelCount": 12
+    "channelCount": 11
   },
   "BT": {
     "country": "Bhutan",
@@ -291,14 +291,14 @@
     "capital": "Bern",
     "timeZone": "Europe/Zurich",
     "hasChannels": true,
-    "channelCount": 284
+    "channelCount": 275
   },
   "CI": {
     "country": "Ivory Coast",
     "capital": "Yamoussoukro",
     "timeZone": "Africa/Abidjan",
     "hasChannels": true,
-    "channelCount": 7
+    "channelCount": 8
   },
   "CK": {
     "country": "Cook Islands",
@@ -318,8 +318,8 @@
     "country": "Cameroon",
     "capital": "Yaoundé",
     "timeZone": "Africa/Douala",
-    "hasChannels": false,
-    "channelCount": 0
+    "hasChannels": true,
+    "channelCount": 1
   },
   "CN": {
     "country": "China",
@@ -340,7 +340,7 @@
     "capital": "San José",
     "timeZone": "America/Costa_Rica",
     "hasChannels": true,
-    "channelCount": 26
+    "channelCount": 25
   },
   "CU": {
     "country": "Cuba",
@@ -361,14 +361,14 @@
     "capital": "Willemstad",
     "timeZone": "America/Curacao",
     "hasChannels": true,
-    "channelCount": 17
+    "channelCount": 16
   },
   "CY": {
     "country": "Cyprus",
     "capital": "Nicosia",
     "timeZone": "Asia/Nicosia",
     "hasChannels": true,
-    "channelCount": 26
+    "channelCount": 25
   },
   "CZ": {
     "country": "Czechia",
@@ -410,21 +410,21 @@
     "capital": "Santo Domingo",
     "timeZone": "America/Santo_Domingo",
     "hasChannels": true,
-    "channelCount": 57
+    "channelCount": 53
   },
   "DZ": {
     "country": "Algeria",
     "capital": "Algiers",
     "timeZone": "Africa/Algiers",
     "hasChannels": true,
-    "channelCount": 10
+    "channelCount": 11
   },
   "EC": {
     "country": "Ecuador",
     "capital": "Quito",
     "timeZone": "America/Guayaquil",
     "hasChannels": true,
-    "channelCount": 115
+    "channelCount": 114
   },
   "EE": {
     "country": "Estonia",
@@ -473,7 +473,7 @@
     "capital": "Helsinki",
     "timeZone": "Europe/Helsinki",
     "hasChannels": true,
-    "channelCount": 65
+    "channelCount": 51
   },
   "FJ": {
     "country": "Fiji",
@@ -536,7 +536,7 @@
     "capital": "Tbilisi",
     "timeZone": "Asia/Tbilisi",
     "hasChannels": true,
-    "channelCount": 18
+    "channelCount": 10
   },
   "GF": {
     "country": "French Guiana",
@@ -585,7 +585,7 @@
     "capital": "Conakry",
     "timeZone": "Africa/Conakry",
     "hasChannels": true,
-    "channelCount": 3
+    "channelCount": 2
   },
   "GP": {
     "country": "Guadeloupe",
@@ -606,7 +606,7 @@
     "capital": "Athens",
     "timeZone": "Europe/Athens",
     "hasChannels": true,
-    "channelCount": 1015
+    "channelCount": 1001
   },
   "GS": {
     "country": "South Georgia and the South Sandwich Islands",
@@ -655,7 +655,7 @@
     "capital": "Tegucigalpa",
     "timeZone": "America/Tegucigalpa",
     "hasChannels": true,
-    "channelCount": 29
+    "channelCount": 30
   },
   "HR": {
     "country": "Croatia",
@@ -669,7 +669,7 @@
     "capital": "Port-au-Prince",
     "timeZone": "America/Port-au-Prince",
     "hasChannels": true,
-    "channelCount": 27
+    "channelCount": 26
   },
   "HU": {
     "country": "Hungary",
@@ -732,14 +732,14 @@
     "capital": "Tehran",
     "timeZone": "Asia/Tehran",
     "hasChannels": true,
-    "channelCount": 12
+    "channelCount": 13
   },
   "IS": {
     "country": "Iceland",
     "capital": "Reykjavik",
     "timeZone": "Atlantic/Reykjavik",
     "hasChannels": true,
-    "channelCount": 8
+    "channelCount": 6
   },
   "IT": {
     "country": "Italy",
@@ -760,7 +760,7 @@
     "capital": "Amman",
     "timeZone": "Asia/Amman",
     "hasChannels": true,
-    "channelCount": 11
+    "channelCount": 9
   },
   "JP": {
     "country": "Japan",
@@ -816,28 +816,28 @@
     "capital": "Pyongyang",
     "timeZone": "Asia/Pyongyang",
     "hasChannels": true,
-    "channelCount": 4
+    "channelCount": 3
   },
   "KR": {
     "country": "South Korea",
     "capital": "Seoul",
     "timeZone": "Asia/Seoul",
     "hasChannels": true,
-    "channelCount": 24
+    "channelCount": 7
   },
   "KW": {
     "country": "Kuwait",
     "capital": "Kuwait City",
     "timeZone": "Asia/Kuwait",
     "hasChannels": true,
-    "channelCount": 9
+    "channelCount": 8
   },
   "KY": {
     "country": "Cayman Islands",
     "capital": "George Town",
     "timeZone": "America/Cayman",
     "hasChannels": true,
-    "channelCount": 6
+    "channelCount": 5
   },
   "KZ": {
     "country": "Kazakhstan",
@@ -879,7 +879,7 @@
     "capital": "Sri Jayawardenepura Kotte",
     "timeZone": "Asia/Colombo",
     "hasChannels": true,
-    "channelCount": 26
+    "channelCount": 27
   },
   "LR": {
     "country": "Liberia",
@@ -892,8 +892,8 @@
     "country": "Lesotho",
     "capital": "Maseru",
     "timeZone": "Africa/Maseru",
-    "hasChannels": true,
-    "channelCount": 1
+    "hasChannels": false,
+    "channelCount": 0
   },
   "LT": {
     "country": "Lithuania",
@@ -907,7 +907,7 @@
     "capital": "Luxembourg",
     "timeZone": "Europe/Luxembourg",
     "hasChannels": true,
-    "channelCount": 19
+    "channelCount": 16
   },
   "LV": {
     "country": "Latvia",
@@ -998,7 +998,7 @@
     "capital": "Macau",
     "timeZone": "Asia/Macau",
     "hasChannels": true,
-    "channelCount": 7
+    "channelCount": 5
   },
   "MP": {
     "country": "Northern Mariana Islands",
@@ -1040,7 +1040,7 @@
     "capital": "Port Louis",
     "timeZone": "Indian/Mauritius",
     "hasChannels": true,
-    "channelCount": 8
+    "channelCount": 5
   },
   "MV": {
     "country": "Maldives",
@@ -1110,14 +1110,14 @@
     "capital": "Abuja",
     "timeZone": "Africa/Lagos",
     "hasChannels": true,
-    "channelCount": 34
+    "channelCount": 33
   },
   "NI": {
     "country": "Nicaragua",
     "capital": "Managua",
     "timeZone": "America/Managua",
     "hasChannels": true,
-    "channelCount": 20
+    "channelCount": 21
   },
   "NL": {
     "country": "Netherlands",
@@ -1166,14 +1166,14 @@
     "capital": "Muscat",
     "timeZone": "Asia/Muscat",
     "hasChannels": true,
-    "channelCount": 4
+    "channelCount": 2
   },
   "PA": {
     "country": "Panama",
     "capital": "Panama City",
     "timeZone": "America/Panama",
     "hasChannels": true,
-    "channelCount": 18
+    "channelCount": 16
   },
   "PE": {
     "country": "Peru",
@@ -1194,7 +1194,7 @@
     "capital": "Port Moresby",
     "timeZone": "Pacific/Port_Moresby",
     "hasChannels": true,
-    "channelCount": 2
+    "channelCount": 3
   },
   "PH": {
     "country": "Philippines",
@@ -1243,7 +1243,7 @@
     "capital": "East Jerusalem",
     "timeZone": "Asia/Hebron",
     "hasChannels": true,
-    "channelCount": 4
+    "channelCount": 3
   },
   "PT": {
     "country": "Portugal",
@@ -1264,21 +1264,21 @@
     "capital": "Asunción",
     "timeZone": "America/Asuncion",
     "hasChannels": true,
-    "channelCount": 31
+    "channelCount": 19
   },
   "QA": {
     "country": "Qatar",
     "capital": "Doha",
     "timeZone": "Asia/Qatar",
     "hasChannels": true,
-    "channelCount": 7
+    "channelCount": 5
   },
   "RE": {
     "country": "Réunion",
     "capital": "Saint-Denis",
     "timeZone": "Indian/Reunion",
     "hasChannels": true,
-    "channelCount": 24
+    "channelCount": 25
   },
   "RO": {
     "country": "Romania",
@@ -1313,7 +1313,7 @@
     "capital": "Riyadh",
     "timeZone": "Asia/Riyadh",
     "hasChannels": true,
-    "channelCount": 39
+    "channelCount": 36
   },
   "SB": {
     "country": "Solomon Islands",
@@ -1375,15 +1375,15 @@
     "country": "Sierra Leone",
     "capital": "Freetown",
     "timeZone": "Africa/Freetown",
-    "hasChannels": true,
-    "channelCount": 1
+    "hasChannels": false,
+    "channelCount": 0
   },
   "SM": {
     "country": "San Marino",
     "capital": "San Marino",
     "timeZone": "Europe/San_Marino",
     "hasChannels": true,
-    "channelCount": 3
+    "channelCount": 1
   },
   "SN": {
     "country": "Senegal",
@@ -1439,7 +1439,7 @@
     "capital": "Damascus",
     "timeZone": "Asia/Damascus",
     "hasChannels": true,
-    "channelCount": 10
+    "channelCount": 9
   },
   "SZ": {
     "country": "Eswatini",
@@ -1509,7 +1509,7 @@
     "capital": "Ashgabat",
     "timeZone": "Asia/Ashgabat",
     "hasChannels": true,
-    "channelCount": 3
+    "channelCount": 2
   },
   "TN": {
     "country": "Tunisia",
@@ -1551,7 +1551,7 @@
     "capital": "Taipei",
     "timeZone": "Asia/Taipei",
     "hasChannels": true,
-    "channelCount": 63
+    "channelCount": 36
   },
   "TZ": {
     "country": "Tanzania",
@@ -1593,14 +1593,14 @@
     "capital": "Montevideo",
     "timeZone": "America/Montevideo",
     "hasChannels": true,
-    "channelCount": 65
+    "channelCount": 64
   },
   "UZ": {
     "country": "Uzbekistan",
     "capital": "Tashkent",
     "timeZone": "Asia/Tashkent",
     "hasChannels": true,
-    "channelCount": 2
+    "channelCount": 3
   },
   "VA": {
     "country": "Vatican City",
@@ -1642,7 +1642,7 @@
     "capital": "Hanoi",
     "timeZone": "Asia/Ho_Chi_Minh",
     "hasChannels": true,
-    "channelCount": 17
+    "channelCount": 14
   },
   "VU": {
     "country": "Vanuatu",
@@ -1662,8 +1662,8 @@
     "country": "Samoa",
     "capital": "Apia",
     "timeZone": "Pacific/Apia",
-    "hasChannels": true,
-    "channelCount": 1
+    "hasChannels": false,
+    "channelCount": 0
   },
   "XC": {
     "country": "Northern Cyprus",
@@ -1677,7 +1677,7 @@
     "capital": "Pristina",
     "timeZone": "Europe/Belgrade",
     "hasChannels": true,
-    "channelCount": 6
+    "channelCount": 5
   },
   "XS": {
     "country": "Somaliland",

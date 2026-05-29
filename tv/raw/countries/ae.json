@@ -5,9 +5,7 @@
     "stream_urls": [
       "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rXnG4eiVVdM"
-    ],
+    "youtube_urls": [],
     "languages": [
       "ara"
     ],
@@ -32,7 +30,7 @@
     "name": "Al Mashhad",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w83yVGPCQIw"
+      "https://www.youtube-nocookie.com/embed/E6_BZFj-Sls"
     ],
     "languages": [
       "ara"
@@ -106,15 +104,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YYEqzQiS4ARl9R",
+    "name": "Al-Arabiya Business",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/rXnG4eiVVdM"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L928jkxbfp0TYR",
     "name": "Alarabiya",
     "stream_urls": [
-      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8"
+      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+      "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n7eQejkXbnM"
-    ],
+    "youtube_urls": [],
     "languages": [
       "ara"
     ],
@@ -153,45 +162,6 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Va6QU9n3q18"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QFKHFoExvGyTwt",
-    "name": "Cartoon Network",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/21hAlnDFTLw"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rVlkWuhkPTSNkw",
-    "name": "Cartoonito MENA",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4l5jmSgWW-Q"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "URU3r9PZvWBdLZ",
-    "name": "CNBC Arabia",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0kEpqSU0MRY"
     ],
     "languages": [
       "ara"
@@ -347,9 +317,9 @@
     "nanoid": "RC2hZ1z0vrHMtE",
     "name": "Sharjah TV",
     "stream_urls": [
+      "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
       "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
-      "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
-      "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8"
+      "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -367,7 +337,7 @@
       "https://stream.skynewsarabia.com/ott/ott.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ymYr5ze2XeA"
+      "https://www.youtube-nocookie.com/embed/U--OjmpjF5o"
     ],
     "languages": [
       "ara"

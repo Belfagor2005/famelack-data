@@ -1,43 +1,5 @@
 [
   {
-    "nanoid": "oOLRMY7KA7DrJc",
-    "name": "Kool FM",
-    "stream_urls": [
-      "https://radio.mbconline.xyz/hls/koolfm.m3u8"
-    ],
-    "country": "mu",
-    "languages": [
-      "eng",
-      "fra"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xvwolnNBDz00sY",
-    "name": "Radio Maurice",
-    "stream_urls": [
-      "https://radio.mbconline.xyz/hls/radiomaurice.m3u8"
-    ],
-    "country": "mu",
-    "languages": [
-      "fra"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDunkUmUnZAuns",
-    "name": "Radio Mauritius",
-    "stream_urls": [
-      "https://radio.mbconline.xyz/hls/radiomauritus.m3u8"
-    ],
-    "country": "mu",
-    "languages": [
-      "eng",
-      "hin"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ACFTeuALrrjNnx",
     "name": "Radio Plus",
     "stream_urls": [
@@ -47,8 +9,7 @@
     "languages": [
       "eng",
       "fra"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "29hDTUNbR2PbOo",
@@ -60,8 +21,7 @@
     "languages": [
       "eng",
       "fra"
-    ],
-    "isGeoBlocked": false
+    ]
   },
   {
     "nanoid": "yisZP0oSa3m8iu",
@@ -71,23 +31,9 @@
     ],
     "country": "mu",
     "languages": [
-      "eng",
-      "hin"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FpUS77yHCrIlbP",
-    "name": "Taal FM",
-    "stream_urls": [
-      "https://radio.mbconline.xyz/hls/tallfm.m3u8"
-    ],
-    "country": "mu",
-    "languages": [
-      "eng",
-      "hin"
-    ],
-    "isGeoBlocked": false
+      "hin",
+      "eng"
+    ]
   },
   {
     "nanoid": "24FMaZmbS7jUWd",
@@ -98,7 +44,17 @@
     "country": "mu",
     "languages": [
       "tam"
+    ]
+  },
+  {
+    "nanoid": "Bu1pfwEg1wv7w2",
+    "name": "Top FM",
+    "stream_urls": [
+      "https://s1.radioforge.com:4433/topfmlive/stream"
     ],
-    "isGeoBlocked": false
+    "country": "mu",
+    "languages": [
+      "fra"
+    ]
   }
 ]

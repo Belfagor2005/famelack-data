@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oHpWSCiwHvXaJw",
-    "name": "Assirat TV",
-    "stream_urls": [
-      "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "lb",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o4YWqt8qnKLyde",
     "name": "Charity TV",
     "stream_urls": [
@@ -104,10 +91,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "svC7kYWZwwTnpS",
-    "name": "Lana TV",
+    "nanoid": "P8ZAx04qUvleH2",
+    "name": "LTV",
     "stream_urls": [
-      "https://cdn.streamlane.tv/hls/ltv/master.m3u8"
+      "https://p-ltv.akamaized.net/ltv/ltv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -134,6 +121,32 @@
     "name": "Nour Al Sharq",
     "stream_urls": [
       "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "lb",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4vm1ec0Xp64a4w",
+    "name": "Nour El Shabeb",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "lb",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oEhSWMQYjnfEiY",
+    "name": "Nour Mariam",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

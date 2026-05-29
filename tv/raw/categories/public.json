@@ -52,6 +52,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xk5yIuyyO46fZW",
+    "name": "24 Horas",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cmUsBmwJXX5DLc",
     "name": "24 Horas Canarias",
     "stream_urls": [
@@ -187,11 +200,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pILTgjKOONeKEW",
-    "name": "El 33 Originals",
+    "nanoid": "qrNDt0itJuOiuA",
+    "name": "El 33",
     "stream_urls": [
       "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
       "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -236,6 +277,32 @@
     "youtube_urls": [],
     "languages": [
       "glg"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "254O8QVRoi3Ec6",
+    "name": "La 2",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false

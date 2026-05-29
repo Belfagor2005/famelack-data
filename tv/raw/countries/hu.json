@@ -52,19 +52,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bjtUkZwN7hFmXK",
-    "name": "Balaton TV",
-    "stream_urls": [
-      "https://stream.iptvservice.eu/hls/balatontv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oh8HdDJ2MJ0IrA",
     "name": "Budapest Europa Televizio",
     "stream_urls": [
@@ -143,10 +130,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "huuc6XjhSdQQbt",
+    "name": "M1 - Híradó",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/GqT-VRWJUBg"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ufaYLBxnznSR4O",
     "name": "Mora-Net TV",
     "stream_urls": [
       "https://stream.moranettv.hu/live/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MljOD4I2gVXOTA",
+    "name": "Obuda TV",
+    "stream_urls": [
+      "https://stream.streaming4u.hu/ObudaTV/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -180,10 +193,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eK0fkm8uLoPv1R",
+    "name": "PilisTV",
+    "stream_urls": [
+      "https://stream.streaming4u.hu/PilisTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "yLfdBafHhlhrgj",
     "name": "SIXO TV",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UxOgU5kfFfuxCm",
+    "name": "Tatai TV",
+    "stream_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -219,10 +258,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qptCnK4GQXEAoT",
+    "name": "Trimedio TV",
+    "stream_urls": [
+      "https://stream.streaming4u.hu/TriMedioTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "V9OoiU0u2pwSNH",
     "name": "TV Keszthely",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zm1DJdY6bU4270",
+    "name": "Vasarhelyi Televizio",
+    "stream_urls": [
+      "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
