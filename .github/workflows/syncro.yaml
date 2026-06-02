@@ -2,7 +2,7 @@ name: Sincronizza con upstream mantenendo le mie modifiche
 
 on:
   schedule:
-    - cron: '0 3 * * 1'   # Lunedì alle 3 UTC
+    - cron: '0 2 * * 1'   # Lunedì alle 3 UTC
   workflow_dispatch:
 
 jobs:
