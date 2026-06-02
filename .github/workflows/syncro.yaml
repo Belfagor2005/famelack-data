@@ -1,15 +1,15 @@
-name: Sincronizza con upstream mantenendo le mie modifiche
+name: Sync fork with upstream (preserve my changes)
 
 on:
   schedule:
-    - cron: '0 2 * * 1'   # Lunedì alle 3 UTC
-  workflow_dispatch:
+    - cron: '0 3 * * 1'   # ogni lunedì alle 3 UTC
+  workflow_dispatch:        # permette avvio manuale
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout del tuo fork
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -17,40 +17,20 @@ jobs:
 
       - name: Configura Git
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Aggiungi upstream
-        run: |
-          git remote add upstream https://github.com/famelack/famelack-data.git
-          git fetch upstream
+      - name: Aggiungi upstream (repo originale)
+        run: git remote add upstream https://github.com/famelack/famelack-data.git
 
-      - name: Salva le tue modifiche in un branch temporaneo
+      - name: Fetch degli ultimi aggiornamenti dall'upstream
+        run: git fetch upstream
+
+      - name: Merge con priorità alle nostre modifiche
         run: |
           git checkout main
-          git branch -f mie-modifiche-temp HEAD
-
-      - name: Allinea main con upstream
-        run: git reset --hard upstream/main
-
-      - name: Ripristina i file che hai modificato (preservando le tue modifiche)
-        run: |
-          git diff --name-only mie-modifiche-temp upstream/main | while read file; do
-            if [ -n "$file" ]; then
-              git checkout mie-modifiche-temp -- "$file"
-            fi
-          done
-
-      - name: Committa se ci sono cambiamenti
-        run: |
-          if ! git diff --quiet; then
-            git commit -m "Auto-sync: ripristino modifiche locali dopo aggiornamento upstream"
-          else
-            echo "Nessuna modifica locale da ripristinare"
-          fi
+          git merge upstream/main -X ours --no-edit
+          # -X ours significa: in caso di conflitto, tieni la MIA versione (le tue modifiche)
 
       - name: Push sul tuo fork
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git push --force origin main
+        run: git push origin main
