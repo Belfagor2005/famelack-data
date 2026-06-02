@@ -121,19 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aPpjoxS7Oyu4bM",
-    "name": "AWTV",
-    "stream_urls": [
-      "https://awtv.nuvemplay.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "o0UvEWQ7gtWbCm",
     "name": "Baywatch",
     "stream_urls": [
@@ -328,7 +315,8 @@
     "name": "Don't Tell The Bride",
     "stream_urls": [
       "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
+      "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -688,9 +676,7 @@
       "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": true
   },
@@ -959,6 +945,7 @@
     "nanoid": "UIWLgTqTBtbo6l",
     "name": "Todo Novelas",
     "stream_urls": [
+      "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8",
       "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
     ],
     "youtube_urls": [],

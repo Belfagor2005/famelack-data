@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
+    "nanoid": "ciUS0lRhmTtePT",
+    "name": "Anzoategui TV",
     "stream_urls": [
-      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -55,7 +55,7 @@
     "nanoid": "fUuKAKoxR67afP",
     "name": "Canal Once",
     "stream_urls": [
-      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -65,10 +65,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
+    "nanoid": "BcpXd12u6A6rk7",
+    "name": "Contactv",
     "stream_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+      "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -190,6 +190,19 @@
     "youtube_urls": [],
     "languages": [
       "eng",
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y5blHOrOCn0tLM",
+    "name": "Portuguesa Television",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
       "spa"
     ],
     "country": "ve",

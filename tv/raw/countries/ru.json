@@ -885,19 +885,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dey2lxno90kK7c",
-    "name": "OSN",
-    "stream_urls": [
-      "https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qr9xvBDjARPSP8",
     "name": "Otkritiy mir. Zdorove",
     "stream_urls": [
@@ -1382,6 +1369,7 @@
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1483,6 +1471,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j6MZdxXHuUAaPH",
+    "name": "Tavriya",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IjfaeT61g4IFJ9",
     "name": "Telekanal Krasnodar",
     "stream_urls": [
@@ -1538,7 +1539,6 @@
     "nanoid": "ifTYV3LUxWMK3L",
     "name": "TNT",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1924,7 +1924,7 @@
     "name": "Союзмультфильм: Ну, погоди!",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/thqNRlZDMs0"
+      "https://www.youtube-nocookie.com/embed/_XDRutngaaU"
     ],
     "languages": [
       "rus"

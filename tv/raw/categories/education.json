@@ -29,6 +29,7 @@
     "nanoid": "IJpns8FI8lNpRr",
     "name": "ARD-alpha",
     "stream_urls": [
+      "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
       "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
     ],
     "youtube_urls": [],
@@ -803,6 +804,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vGCm6ufhO0hHv0",
+    "name": "MediBizTV",
+    "stream_urls": [
+      "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tqCNZa0HLCee0u",
     "name": "Midpen Media Center Channel 28",
     "stream_urls": [
@@ -833,7 +847,7 @@
     "name": "Nat Geo Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PApZ2oT5SuA"
+      "https://www.youtube-nocookie.com/embed/q5xC6wv9Ut0"
     ],
     "languages": [
       "eng"
@@ -1252,10 +1266,50 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/bqBdguGwTOg"
     ],
+    "youtube_urls": [],
     "languages": [
-      "pol"
+      "spa"
     ],
-    "country": "pl",
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uhXaKy0zwMPJAb",
+    "name": "UNIANDES TV",
+    "stream_urls": [
+      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8192/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "Unisul TV",
+    "stream_urls": [
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -1269,6 +1323,19 @@
       "eng"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JliijnACP4jH0u",
+    "name": "Wiki TV",
+    "stream_urls": [
+      "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
     "isGeoBlocked": false
   },
   {

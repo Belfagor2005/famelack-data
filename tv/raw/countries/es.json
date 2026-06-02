@@ -26,6 +26,48 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KB99Wa2uILCWk1",
+    "name": "3Cat Exclusiu 1",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "j3tl4h3LoJOG0p",
+    "name": "3Cat Exclusiu 2",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "Kwb4zYk9mkeksQ",
+    "name": "3Cat Exclusiu 3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "MsBPAtiznwuBpL",
     "name": "3Cat Plats bruts",
     "stream_urls": [
@@ -580,6 +622,7 @@
     "nanoid": "7rliUvMeXLIrgh",
     "name": "Cine Western",
     "stream_urls": [
+      "https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8",
       "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
     ],
     "youtube_urls": [],
@@ -1112,19 +1155,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "j5aEA4hOVinh3j",
-    "name": "Nickelodeon",
-    "stream_urls": [
-      "https://xykt-fix.github.io/iptv/streams/SP57.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q7nooMvVTTe0YZ",
     "name": "Onda 15 TV",
     "stream_urls": [
@@ -1203,6 +1233,71 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L0dEIQTJzvEZO6",
+    "name": "PTV Cordoba",
+    "stream_urls": [
+      "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wyi6TV1fm0mxaX",
+    "name": "PTV Granada",
+    "stream_urls": [
+      "https://streamer.zapitv.com/PTV-granada/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Cliy0YRCsxozG",
+    "name": "PTV Linares",
+    "stream_urls": [
+      "https://streamer.zapitv.com/ptv-linarez/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "awdi4zyBaZyzdT",
+    "name": "PTV Malaga",
+    "stream_urls": [
+      "https://streamer.zapitv.com/PTV-malaga/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dZdJcGwwUlFFBA",
+    "name": "PTV Sevilla",
+    "stream_urls": [
+      "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MUGH45wnKxFBS7",
     "name": "Punt 3",
     "stream_urls": [
@@ -1256,10 +1351,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9yewxbvb9FUiND",
-    "name": "Rakuten TV Action Movies Spain",
+    "nanoid": "6xG0BDh6352B56",
+    "name": "Rakuten TV Comedy Movies Spain",
     "stream_urls": [
-      "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
+      "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1278,6 +1373,17 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HYpCGBVfi8MGbS",
+    "name": "Rantaró el ninja boy",
+    "stream_urls": [
+      "https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1402,6 +1508,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pIMH6WPwb6VNHf",
+    "name": "SX3",
+    "stream_urls": [
+      "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+      "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "Gwo0Rl1MzhMfE6",
     "name": "Taroteame",
     "stream_urls": [
@@ -1452,6 +1572,19 @@
     ],
     "country": "es",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RYfMxL6JZWi97a",
+    "name": "Teledeporte",
+    "stream_urls": [
+      "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "QXO7Ca6Qev84ww",
@@ -1509,6 +1642,7 @@
     "nanoid": "UIWLgTqTBtbo6l",
     "name": "Todo Novelas",
     "stream_urls": [
+      "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8",
       "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
     ],
     "youtube_urls": [],
@@ -1595,6 +1729,19 @@
     ],
     "country": "es",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZLXArsAwZ4HS4v",
+    "name": "TVG2",
+    "stream_urls": [
+      "https://crtvg-tvg2.flumotion.cloud/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "glg"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "ofMevJFkJJi256",

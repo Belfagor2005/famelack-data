@@ -1970,8 +1970,8 @@
     "nanoid": "JLfNH2O2h1Ue2z",
     "name": "Biz TV",
     "stream_urls": [
-      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+      "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2672,7 +2672,9 @@
       "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8",
       "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/sGYHrDwAaRg"
+    ],
     "languages": [
       "eng"
     ],
@@ -3548,9 +3550,9 @@
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "stream_urls": [
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
       "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -4062,7 +4064,7 @@
   },
   {
     "nanoid": "DwF7SkXFuhyXa4",
-    "name": "DAZN Ringside",
+    "name": "Dazn Ringside",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
     ],
@@ -4589,7 +4591,8 @@
     "name": "Don't Tell The Bride",
     "stream_urls": [
       "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
+      "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -5368,7 +5371,8 @@
     "nanoid": "vJVb5mO9wEX9a8",
     "name": "Fox Deportes",
     "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
+      "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8",
+      "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -8742,7 +8746,7 @@
   },
   {
     "nanoid": "Bp0NPXMkwMRSoG",
-    "name": "MovieSphere by Lionsgate",
+    "name": "MovieSphere US",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8",
       "https://pb-wmei1j77c66s0.akamaized.net/MovieSphere.m3u8"
@@ -9119,7 +9123,7 @@
     "name": "Nat Geo Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PApZ2oT5SuA"
+      "https://www.youtube-nocookie.com/embed/q5xC6wv9Ut0"
     ],
     "languages": [
       "eng"
@@ -9184,7 +9188,7 @@
     "name": "National Geographic YT",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wVd836vHl6s"
+      "https://www.youtube-nocookie.com/embed/lJOROUvD8sU"
     ],
     "languages": [
       "eng"
@@ -9368,6 +9372,17 @@
     "languages": [
       "eng"
     ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w0WczLx6RVHex0",
+    "name": "NESN Nation",
+    "stream_urls": [
+      "https://d1yhx4ygpfwmgm.cloudfront.net/v1/fast/nesnsamsungtvplus/772bf582-9476-4a30-a4c4-ba1c0839f167.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -10461,6 +10476,19 @@
     "languages": [],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VUygLVykVOKbWL",
+    "name": "Placid East HD",
+    "stream_urls": [
+      "https://toy.vcdn.fyi/placid/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "nCTnBkMsEV7jRj",
@@ -13149,7 +13177,7 @@
     "name": "The Why Files - Backstage",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g4hozYaC7F8"
+      "https://www.youtube-nocookie.com/embed/BgMmpLTrclA"
     ],
     "languages": [
       "eng"
@@ -13178,7 +13206,7 @@
       "https://tyt-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/g8j5Zbxt-Zo"
+      "https://www.youtube-nocookie.com/embed/0yngPImrFGw"
     ],
     "languages": [
       "eng"
@@ -13688,6 +13716,19 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QTGQ0QJLp8L1nk",
+    "name": "TV Daja",
+    "stream_urls": [
+      "https://edge.essastream.com/dajatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
     "country": "us",
     "isGeoBlocked": false
   },
@@ -15621,7 +15662,7 @@
     "name": "WildBrain: Liberty's Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K0YmH0Y7GTA"
+      "https://www.youtube-nocookie.com/embed/fZV3Vk1MrwY"
     ],
     "languages": [
       "eng"
@@ -15873,6 +15914,19 @@
     "name": "WKRC-TV 12.1",
     "stream_urls": [
       "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XRcjXT3ZrEQSky",
+    "name": "WLIO 8.1",
+    "stream_urls": [
+      "https://live.field59.com/wlio/wlio1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -16152,6 +16206,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Io7xRK2WVkGiOM",
+    "name": "World Poker Tour US",
+    "stream_urls": [
+      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
+      "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
+      "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "A6eg8xEPVoGZ6F",
     "name": "World’s Most Evil Killers",
     "stream_urls": [
@@ -16206,7 +16275,7 @@
     "name": "WPLG Local 10",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GXFFB2bVj5Q"
+      "https://www.youtube-nocookie.com/embed/zUnTWoxZ8mY"
     ],
     "languages": [
       "eng"
