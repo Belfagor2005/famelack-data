@@ -101,10 +101,11 @@
     ]
   },
   {
-    "nanoid": "xDXcMi9n5RKCuA",
-    "name": "Christmas FM Classics & Crooners",
+    "nanoid": "BcpSzWbWE8Q4Y9",
+    "name": "Christmas FM Classical & Carols",
     "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2550_128.mp3"
+      "https://christmasfm.cdnstream1.com/2549_64.aac",
+      "https://christmasfm.cdnstream1.com/2549_128.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -257,19 +258,6 @@
     ]
   },
   {
-    "nanoid": "ISQoHh139wZ69F",
-    "name": "Dunnes Radio",
-    "stream_urls": [
-      "https://stream.dunnesroblox.com/dunnesradio.mp3",
-      "https://icy-zurich.mpbnl.nl/dunnesradio.mp3"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ],
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YaOXMvRieeAmy7",
     "name": "East Coast FM",
     "stream_urls": [
@@ -318,8 +306,8 @@
     "nanoid": "ehoscFCaksi6N6",
     "name": "Gem Radio New Wave",
     "stream_urls": [
-      "https://gemradionw.radioca.st/;stream.nsv",
-      "https://gemradio.radioca.st/stream/1"
+      "https://gemradio.radioca.st/stream/1",
+      "https://gemradionw.radioca.st/;stream.nsv"
     ],
     "country": "ie",
     "languages": [
@@ -787,8 +775,8 @@
     "nanoid": "mfS4owe17ioU6d",
     "name": "Radio Nova",
     "stream_urls": [
-      "https://stream.audioxi.com/NOVA",
-      "https://edge2.audioxi.com/NOVA"
+      "https://edge2.audioxi.com/NOVA",
+      "https://stream.audioxi.com/NOVA"
     ],
     "country": "ie",
     "languages": [
@@ -823,8 +811,8 @@
     "nanoid": "9J67KkobCQXYss",
     "name": "Raidió Rí-Rá",
     "stream_urls": [
-      "https://icy-zurich.mpbnl.nl/rrr",
-      "https://uksoutha.streaming.broadcast.radio/ri-ra"
+      "https://uksoutha.streaming.broadcast.radio/ri-ra",
+      "https://icy-zurich.mpbnl.nl/rrr"
     ],
     "country": "ie",
     "languages": [
@@ -973,8 +961,8 @@
     "nanoid": "yIE7HPksTvGqA4",
     "name": "SPIN South West",
     "stream_urls": [
-      "https://live-bauerie.sharp-stream.com/SW",
       "https://edge.audioxi.com/SW",
+      "https://live-bauerie.sharp-stream.com/SW",
       "https://stream.audioxi.com/SW"
     ],
     "country": "ie",
@@ -1041,8 +1029,8 @@
     "nanoid": "R0hzPW9rfDKvmm",
     "name": "Today FM",
     "stream_urls": [
-      "https://pri.gocaster.net/td",
       "https://edge.audioxi.com/TDAAC",
+      "https://pri.gocaster.net/td",
       "https://live-bauerie.sharp-stream.com/TDAAC"
     ],
     "country": "ie",

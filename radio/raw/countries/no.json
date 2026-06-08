@@ -120,6 +120,7 @@
     "nanoid": "UjSEv5656d3O7z",
     "name": "NRK Folkemusikk",
     "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_folkemusikk_aac_h",
       "https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l"
     ],
     "country": "no",
@@ -158,9 +159,9 @@
     "nanoid": "toGa2uxE9JGszr",
     "name": "NRK mP3",
     "stream_urls": [
-      "https://lyd.nrk.no/nrk_radio_mp3_mp3_l",
+      "https://lyd.nrk.no/nrk_radio_mp3_aac_h",
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
-      "https://lyd.nrk.no/nrk_radio_mp3_aac_h"
+      "https://lyd.nrk.no/nrk_radio_mp3_mp3_l"
     ],
     "country": "no",
     "languages": [
@@ -540,8 +541,8 @@
     "nanoid": "9L1EA7q5NniPA3",
     "name": "P5 Hits",
     "stream_urls": [
-      "https://p4.p4groupaudio.com/P05_MM",
-      "https://p5.p4groupaudio.com/P05_MM"
+      "https://p5.p4groupaudio.com/P05_MM",
+      "https://p4.p4groupaudio.com/P05_MM"
     ],
     "country": "no",
     "languages": [
@@ -827,6 +828,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EgfjRZnyDeSQPF",
+    "name": "Radio Lyngdal",
+    "stream_urls": [
+      "https://live.radiolyngdal.com/rly_mq"
+    ],
+    "country": "no",
+    "languages": [
+      "eng",
+      "nor"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qfKXjqTPHVpkUf",
     "name": "Radio Norge",
     "stream_urls": [
@@ -836,6 +850,18 @@
     "languages": [
       "nor"
     ]
+  },
+  {
+    "nanoid": "GtSwh8SWcjsn9p",
+    "name": "Radio Nova",
+    "stream_urls": [
+      "https://stream.radionova.no/mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2sB6zjDJCj5MAH",
@@ -949,6 +975,19 @@
     "languages": [
       "nor"
     ]
+  },
+  {
+    "nanoid": "8DGpVRexygBiSH",
+    "name": "radiOrakel",
+    "stream_urls": [
+      "https://stream.radiorakel.no/radiorakel_hq",
+      "https://stream.radiorakel.no/fm993.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KFYQHRVe3B1LpL",

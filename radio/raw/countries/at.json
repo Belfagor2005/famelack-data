@@ -64,9 +64,9 @@
     "nanoid": "ytGuCfmxN1MQPK",
     "name": "88.6 OnAir",
     "stream_urls": [
-      "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
+      "https://edge07.streamonkey.net/radio886-onair/stream/mp3",
       "https://radio886.at/streams/radio_88.6/mp3",
-      "https://edge07.streamonkey.net/radio886-onair/stream/mp3"
+      "https://edge82.streamonkey.net/radio886-onair/stream/mp3"
     ],
     "country": "at",
     "languages": [
@@ -1016,8 +1016,8 @@
     "nanoid": "q1tDi40EdfQpKh",
     "name": "LoungeFM",
     "stream_urls": [
-      "https://s35.derstream.net/digital.mp3",
-      "https://s35.derstream.net/100austria.mp3"
+      "https://s35.derstream.net/100austria.mp3",
+      "https://s35.derstream.net/digital.mp3"
     ],
     "country": "at",
     "languages": [
@@ -1372,8 +1372,8 @@
     "nanoid": "HcnmO7KXZxwa0t",
     "name": "Radio Arabella Gold",
     "stream_urls": [
-      "https://edge70.streams.arabella.at/arabella-gold",
-      "https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge70.streams.arabella.at/arabella-gold"
     ],
     "country": "at",
     "languages": [
@@ -1385,8 +1385,8 @@
     "nanoid": "AQnH2STYshCpHg",
     "name": "Radio Arabella Golden Oldies",
     "stream_urls": [
-      "https://edge68.streams.arabella.at/arabella-goldenoldies",
-      "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge68.streams.arabella.at/arabella-goldenoldies"
     ],
     "country": "at",
     "languages": [
@@ -1411,8 +1411,8 @@
     "nanoid": "rhXZUe6EdxcjPn",
     "name": "Radio Arabella Hot",
     "stream_urls": [
-      "https://edge12.streams.arabella.at/arabella-hot",
-      "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
+      "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile",
+      "https://edge12.streams.arabella.at/arabella-hot"
     ],
     "country": "at",
     "languages": [
@@ -1486,8 +1486,7 @@
     "nanoid": "lB6ammxhNSaLaZ",
     "name": "Radio Arabella Schlager",
     "stream_urls": [
-      "https://edge64.streams.arabella.at/arabella-schlager",
-      "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile"
+      "https://edge64.streams.arabella.at/arabella-schlager"
     ],
     "country": "at",
     "languages": [
@@ -1759,10 +1758,10 @@
     ]
   },
   {
-    "nanoid": "HnqeeE2JGtY0bv",
-    "name": "Radio MAX - Merkur",
+    "nanoid": "CpgONYwBKOQQz7",
+    "name": "Radio MAX - Bipa",
     "stream_urls": [
-      "https://listen.radiomax.technology/merkur"
+      "https://listen.radiomax.technology/bipa"
     ],
     "country": "at",
     "languages": [
@@ -1915,8 +1914,8 @@
     "nanoid": "pscBKH5b2VMG5w",
     "name": "Radio U1 Tirol",
     "stream_urls": [
-      "https://live.u1-radio.at/u1-tirol-live/mp3-192",
       "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+      "https://live.u1-radio.at/u1-tirol-live/mp3-192",
       "https://live.u1-radio.at/"
     ],
     "country": "at",
@@ -2142,6 +2141,31 @@
     ]
   },
   {
+    "nanoid": "7C8xJTE7Gn9Owk",
+    "name": "Styria Lounge",
+    "stream_urls": [
+      "https://styrialounge.out.airtime.pro/styrialounge_a",
+      "https://styrialounge.out.airtime.pro:8000/styrialounge_a"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rf1IYjW29uqjXN",
+    "name": "Sub FM",
+    "stream_urls": [
+      "https://streamlive1.hearthis.at:8000/9061142.ogg"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FAJiJfhjlkeSpn",
     "name": "Super 80s",
     "stream_urls": [
@@ -2281,6 +2305,18 @@
     "name": "Yeshua.at Radio",
     "stream_urls": [
       "https://yeshua.at:8443/stream"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ql5iuC2ckeoxzL",
+    "name": "YU Radio",
+    "stream_urls": [
+      "https://stream.radiotechnikum.at:80/YURADIO"
     ],
     "country": "at",
     "languages": [

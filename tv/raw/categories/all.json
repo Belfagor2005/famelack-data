@@ -5222,9 +5222,9 @@
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "stream_urls": [
-      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
       "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+      "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -6053,6 +6053,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YVXMNDK2rpUCOO",
+    "name": "dlaCiebie.tv",
+    "stream_urls": [
+      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
@@ -21190,10 +21203,8 @@
       "https://tnt-television.com/NUMERICA/index.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
+    "languages": [],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -53844,13 +53855,13 @@
     "nanoid": "QckwZ7Qct3VYiH",
     "name": "Fateh TV",
     "stream_urls": [
-      "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
+      "https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783249561&st=-CNEhLDi2VkEY_caCemBGQ"
     ],
     "youtube_urls": [],
     "languages": [
-      "hin"
+      "rus"
     ],
-    "country": "in",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -53968,6 +53979,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sxADa5ErhUnV97",
+    "name": "Goodness TV",
+    "stream_urls": [
+      "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mal"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -54401,8 +54425,7 @@
     "nanoid": "TMPf8JDBp6GsA1",
     "name": "Ishwar Bhakti TV",
     "stream_urls": [
-      "https://cdn-2.pishow.tv/live/1464/master.m3u8",
-      "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
+      "https://cdn-2.pishow.tv/live/1464/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -55094,19 +55117,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xyoXb9DRIvZNx8",
-    "name": "Logos TV Estudio",
-    "stream_urls": [
-      "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aWUdvngHDj9fCb",
     "name": "Logos TV Kids",
     "stream_urls": [
@@ -55389,6 +55399,19 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/0f8IIfZGD0Y"
+    ],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zrn3dK1AY8AcF8",
+    "name": "Marhaban TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/7fIWpUWNzEE"
     ],
     "languages": [
       "ind"
@@ -59925,6 +59948,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wXR8eBaeZKqj0W",
+    "name": "QVC",
+    "stream_urls": [
+      "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oETlnLpYEDyNKk",
     "name": "QVC Beauty",
     "stream_urls": [
@@ -60000,7 +60036,7 @@
     "name": "QVC UK Main",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Re4IWynftC0"
+      "https://www.youtube-nocookie.com/embed/aCEeeWRKg_8"
     ],
     "languages": [
       "eng"

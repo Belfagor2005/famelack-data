@@ -427,8 +427,8 @@
     "nanoid": "a2VkRIpWSKrUa0",
     "name": "La Voz del Tomebamba",
     "stream_urls": [
-      "https://streamingecuador.com:8074/lavozdeltomebamba",
-      "https://streamingecuador.net:8074/lavozdeltomebamba"
+      "https://streamingecuador.net:8074/lavozdeltomebamba",
+      "https://streamingecuador.com:8074/lavozdeltomebamba"
     ],
     "country": "ec",
     "languages": [
@@ -468,6 +468,18 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "kkKpn6qTvm2aRv",
+    "name": "MachDeportes",
+    "stream_urls": [
+      "https://ss.ecuastreamhd.com:8186/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Y19AiySNF8f2tt",
@@ -684,9 +696,9 @@
     "nanoid": "fcqrn2hpazFR6c",
     "name": "Radio Canela",
     "stream_urls": [
+      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
       "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
-      "https://canelaradio.makrodigital.com/stream/canelaradioquito",
-      "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo"
+      "https://canelaradio.makrodigital.com:9280/stream"
     ],
     "country": "ec",
     "languages": [

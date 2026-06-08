@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ciUS0lRhmTtePT",
     "name": "Anzoategui TV",
     "stream_urls": [
@@ -117,6 +130,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3E5bqWDK2SMWXh",
     "name": "Latina TV",
     "stream_urls": [
@@ -169,19 +195,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kE8N5CkT9Xc9Iu",
-    "name": "Nortena Tv",
-    "stream_urls": [
-      "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
     "stream_urls": [
@@ -190,19 +203,6 @@
     "youtube_urls": [],
     "languages": [
       "eng",
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y5blHOrOCn0tLM",
-    "name": "Portuguesa Television",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
       "spa"
     ],
     "country": "ve",
@@ -347,6 +347,19 @@
     "name": "TV Oasis Monay",
     "stream_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "plr8p8zjDPs7Ks",
+    "name": "TVS",
+    "stream_urls": [
+      "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
