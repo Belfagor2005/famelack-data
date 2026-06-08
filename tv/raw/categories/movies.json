@@ -269,6 +269,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sM7rYQFLMt6qyU",
+    "name": "Bravo Farsi TV",
+    "stream_urls": [
+      "https://bravoohls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JIDClGIovnJEWq",
     "name": "Cafe Film",
     "stream_urls": [
@@ -337,7 +350,6 @@
     "nanoid": "7rliUvMeXLIrgh",
     "name": "Cine Western",
     "stream_urls": [
-      "https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8",
       "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
     ],
     "youtube_urls": [],
@@ -451,19 +463,6 @@
       "amh"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FJtzLdZFsgH9Sj",
-    "name": "Ekran Movies",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -846,19 +845,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gNZqBrN60JADEb",
-    "name": "Indywood TV",
-    "stream_urls": [
-      "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FJT1T5Bg3eMVVa",
     "name": "Itage TV",
     "stream_urls": [
@@ -1069,6 +1055,33 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "Gjmjoa2VOJKV6E",
+    "name": "Movify Kino",
+    "stream_urls": [
+      "https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "lav",
+      "rus"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MGmbqNX8bkdPaR",
+    "name": "My Cinema Europe",
+    "stream_urls": [
+      "https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ch",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "AWbO3MTrOLeQig",
     "name": "MyTime Movie Network",
     "stream_urls": [
@@ -1080,6 +1093,19 @@
     ],
     "country": "br",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNQTzHtY43GPXe",
+    "name": "MyTime Movie Network",
+    "stream_urls": [
+      "https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "t7yU2xMXa6gSC9",
@@ -1620,19 +1646,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jznTuWIBt2HrkT",
-    "name": "ZB Cinema",
-    "stream_urls": [
-      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {

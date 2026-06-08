@@ -47,8 +47,8 @@
     "nanoid": "QDH4U7P7TEPOsV",
     "name": "Radio 1",
     "stream_urls": [
-      "https://live.radio.si/Radio1",
-      "https://live.radio1.si/Radio80"
+      "https://live.radio1.si/Radio80",
+      "https://live.radio.si/Radio1"
     ],
     "country": "si",
     "languages": [
@@ -156,6 +156,19 @@
       "slv",
       "eng"
     ]
+  },
+  {
+    "nanoid": "vgk9tFtZIc1OGV",
+    "name": "Radio Nula",
+    "stream_urls": [
+      "https://strm.radionula.com/classics"
+    ],
+    "country": "si",
+    "languages": [
+      "eng",
+      "slv"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "kRoA0VIqkKJOKN",
@@ -331,6 +344,18 @@
     ]
   },
   {
+    "nanoid": "7WFGgTRR4jyJO6",
+    "name": "Rock Maribor",
+    "stream_urls": [
+      "https://live.radio.si/RockMB"
+    ],
+    "country": "si",
+    "languages": [
+      "slv"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ogPRzWLmxnwcOC",
     "name": "RTVSLO Muravidéki Magyar Rádió (MMR)",
     "stream_urls": [
@@ -358,18 +383,6 @@
     "name": "Val 202 (Radio Slovenija 2)",
     "stream_urls": [
       "https://mp3.rtvslo.si/val202"
-    ],
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "he3ir3FFJsOJab",
-    "name": "Val 202 (Radio Slovenija 2)",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/val202"
-    ],
-    "country": "si",
-    "languages": [
-      "slv"
     ],
     "isGeoBlocked": false
   }

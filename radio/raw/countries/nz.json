@@ -114,6 +114,18 @@
     ]
   },
   {
+    "nanoid": "7dNMc8FQvaNbCu",
+    "name": "CFM Coromandel",
+    "stream_urls": [
+      "https://stream.cfm.co.nz/low"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NCb5FXyvwm2n0m",
     "name": "Channel X",
     "stream_urls": [
@@ -381,6 +393,18 @@
     ]
   },
   {
+    "nanoid": "T3z1rxtgUtfMmu",
+    "name": "New Zealand Net Radio",
+    "stream_urls": [
+      "https://radio.nznetradio.net.nz/stream3"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9aZ0SylzyKtDWi",
     "name": "Newstalk ZB",
     "stream_urls": [
@@ -617,7 +641,6 @@
     "name": "Radiowave NZ",
     "stream_urls": [
       "https://stream.radiowavenz.com/stream-aac",
-      "https://stream.radiowavenz.com/stream-aac-low",
       "https://stream.radiowavenz.com/stream"
     ],
     "country": "nz",
@@ -703,6 +726,18 @@
       "eng",
       "tgl"
     ]
+  },
+  {
+    "nanoid": "EgF5LqeXyEmgv2",
+    "name": "SENZ",
+    "stream_urls": [
+      "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "g68UfJ8DWZUkUJ",
@@ -796,8 +831,8 @@
     "nanoid": "CVJfsdRECGySzJ",
     "name": "The Cheese",
     "stream_urls": [
-      "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
-      "https://station.thecheese.co.nz/listen/the_cheese/flac"
+      "https://station.thecheese.co.nz/listen/the_cheese/flac",
+      "https://station.thecheese.co.nz/listen/the_cheese/128.mp3"
     ],
     "country": "nz",
     "languages": [

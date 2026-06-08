@@ -14,8 +14,8 @@
     "nanoid": "7pCngK4k6I4uuy",
     "name": "988 FM",
     "stream_urls": [
-      "https://28103.live.streamtheworld.com/988_FMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac",
+      "https://28103.live.streamtheworld.com/988_FMAAC.aac"
     ],
     "country": "my",
     "languages": [
@@ -26,6 +26,7 @@
     "nanoid": "7Kyh24kH2vgIW7",
     "name": "Ai FM",
     "stream_urls": [
+      "https://22243.live.streamtheworld.com/AI_FMAAC.aac",
       "https://28153.live.streamtheworld.com/AI_FMAAC.aac",
       "https://22243.live.streamtheworld.com/AI_FMAAC.aac"
     ],
@@ -147,14 +148,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mDjxUIEdr9CmJb",
-    "name": "HITZ",
+    "nanoid": "67qwcysE359Rsc",
+    "name": "Johor FM",
     "stream_urls": [
-      "https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8"
+      "https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac"
     ],
     "country": "my",
     "languages": [
-      "eng"
+      "msa"
     ],
     "isGeoBlocked": false
   },
@@ -201,6 +202,18 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "v43ivaoccgdzB3",
+    "name": "LTR FM Radio Music",
+    "stream_urls": [
+      "https://stream.zeno.fm/p1ddt1trwchvv"
+    ],
+    "country": "my",
+    "languages": [
+      "msa"
+    ],
+    "isGeoBlocked": false
   },
   {
     "nanoid": "CHNWxeoRQ7buGF",
@@ -275,6 +288,7 @@
     "nanoid": "xgwbY7wBsk6cH9",
     "name": "Pahang FM",
     "stream_urls": [
+      "https://22253.live.streamtheworld.com/PAHANG_FMAAC.aac",
       "https://28163.live.streamtheworld.com/PAHANG_FMAAC.aac"
     ],
     "country": "my",
@@ -294,11 +308,23 @@
     ]
   },
   {
+    "nanoid": "i8hAKFD89NJy6x",
+    "name": "Perak FM",
+    "stream_urls": [
+      "https://22243.live.streamtheworld.com/PERAK_FMAAC.aac"
+    ],
+    "country": "my",
+    "languages": [
+      "msa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7GuIbqHCB0U2Jp",
     "name": "Raaga",
     "stream_urls": [
-      "https://stream.rcs.revma.com/1ut6qwtbv4uvv/8_o6tv5gnlktme02/playlist.m3u8",
-      "https://n06.rcs.revma.com/1ut6qwtbv4uvv"
+      "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
+      "https://stream.rcs.revma.com/1ut6qwtbv4uvv/8_o6tv5gnlktme02/playlist.m3u8"
     ],
     "country": "my",
     "languages": [
@@ -410,7 +436,8 @@
     "nanoid": "5pFewfCn9uzqKr",
     "name": "Terengganu FM",
     "stream_urls": [
-      "https://22283.live.streamtheworld.com/TERENGGANU_FMAAC.aac"
+      "https://22283.live.streamtheworld.com/TERENGGANU_FMAAC.aac",
+      "https://22243.live.streamtheworld.com/TERENGGANU_FMAAC_SC"
     ],
     "country": "my",
     "languages": [
