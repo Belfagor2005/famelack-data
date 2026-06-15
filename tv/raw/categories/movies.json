@@ -144,6 +144,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GyD5jgzfEEiUYG",
+    "name": "Asia Flix TV",
+    "stream_urls": [
+      "https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qS9h25t8tf42wr",
     "name": "Aurora Media Films",
     "stream_urls": [
@@ -256,32 +269,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5fPdHbPWBlhNGl",
-    "name": "Boreal",
-    "stream_urls": [
-      "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sM7rYQFLMt6qyU",
-    "name": "Bravo Farsi TV",
-    "stream_urls": [
-      "https://bravoohls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JIDClGIovnJEWq",
     "name": "Cafe Film",
     "stream_urls": [
@@ -350,6 +337,7 @@
     "nanoid": "7rliUvMeXLIrgh",
     "name": "Cine Western",
     "stream_urls": [
+      "https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8",
       "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
     ],
     "youtube_urls": [],
@@ -402,7 +390,8 @@
     "nanoid": "TzIN60aLMDMQAJ",
     "name": "Dom kino",
     "stream_urls": [
-      "https://streaming.thestream.cyou/live/44.m3u8"
+      "https://streaming.thestream.cyou/live/44.m3u8",
+      "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -845,6 +834,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iq4LfiXtlMe7B1",
+    "name": "Indiyskoye Kino",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gNZqBrN60JADEb",
+    "name": "Indywood TV",
+    "stream_urls": [
+      "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FJT1T5Bg3eMVVa",
     "name": "Itage TV",
     "stream_urls": [
@@ -976,19 +991,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DOhQjr6d6DYcGE",
-    "name": "Memorias TV Film",
-    "stream_urls": [
-      "https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "r3pcMeCTNiXCm8",
     "name": "Meta Film TV",
     "stream_urls": [
@@ -1055,6 +1057,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "mlJPw3ECDsvDmO",
+    "name": "MovieSphere UK",
+    "stream_urls": [
+      "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Gjmjoa2VOJKV6E",
     "name": "Movify Kino",
     "stream_urls": [
@@ -1118,6 +1133,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QAej6WE8pi9D6A",
+    "name": "Nashe Novoe Kino",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1411,6 +1439,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "U4qFQGhb2lylGn",
+    "name": "Sine Plus",
+    "stream_urls": [
+      "https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8ASIayZG97M5CC",
     "name": "SL 1",
     "stream_urls": [
@@ -1568,6 +1609,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5XYkspu1AifM0w",
+    "name": "viju TV1000 russkoe",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
+      "https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

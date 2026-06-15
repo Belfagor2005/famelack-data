@@ -29,7 +29,7 @@
     "nanoid": "CReHCdZVKTCuD1",
     "name": "360TuneBox",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch141/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783319761&st=iVNWplSFICoBBURsjIVTwQ"
+      "https://iptv.prosto.tv/ch141/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -177,6 +177,32 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/e7CM2kGoqXg"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yZyrZHNcmMNYOm",
+    "name": "FunBox UHD",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KG7zrdGqErjlji",
+    "name": "Gametoon",
+    "stream_urls": [
+      "https://iptv.prosto.tv/ch256/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -417,6 +443,19 @@
     "name": "Magic PowerRadio",
     "stream_urls": [
       "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GNlR02NgwiOglp",
+    "name": "MaLive",
+    "stream_urls": [
+      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

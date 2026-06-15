@@ -119,6 +119,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3VqJp1fO3TYTIw",
+    "name": "Angel TV Russian",
+    "stream_urls": [
+      "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Dp26BhBSy3QLvt",
     "name": "Arkhyz 24",
     "stream_urls": [
@@ -201,7 +214,6 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -223,6 +235,19 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "kA1UY3dRMwFBRR",
+    "name": "Channel 8 International",
+    "stream_urls": [
+      "https://v4.proofix.ru/8tv-europe/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PY8NMbdPt4ZJhu",
@@ -293,19 +318,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nJhafyMiMVkZKn",
-    "name": "Dag Music",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9ylmSDP9VSA"
-    ],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qOPKbSdUtm3BNM",
     "name": "Dagestan",
     "stream_urls": [
@@ -335,7 +347,8 @@
     "nanoid": "TzIN60aLMDMQAJ",
     "name": "Dom kino",
     "stream_urls": [
-      "https://streaming.thestream.cyou/live/44.m3u8"
+      "https://streaming.thestream.cyou/live/44.m3u8",
+      "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -397,10 +410,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AebbSbQ8k1zQps",
+    "name": "Euronews Russian",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WjfdMU5WtET4gX",
     "name": "Fast&FunBox",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch120/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783249561&st=-CNEhLDi2VkEY_caCemBGQ"
+      "https://iptv.prosto.tv/ch120/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -426,6 +452,7 @@
     "nanoid": "W7NdP3Tfi9qZIK",
     "name": "Friday!",
     "stream_urls": [
+      "https://vod.tuva.ru/friday/index.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -490,6 +517,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iq4LfiXtlMe7B1",
+    "name": "Indiyskoye Kino",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "etbkA5a5Tjztc5",
     "name": "Ingushetia",
     "stream_urls": [
@@ -535,6 +575,58 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pFy6wzyOpZM"
     ],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hqymLYqkbayatP",
+    "name": "KinoHit",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4CPujDIaOFYuUc",
+    "name": "Kinopokaz",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fw6W67VJmOC9sC",
+    "name": "Kinopremyera",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zMHUe24T0eMU11",
+    "name": "Kinosvidanie",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "rus"
     ],
@@ -623,7 +715,7 @@
     "nanoid": "Kf2cIv40QQrS0I",
     "name": "MCM Top",
     "stream_urls": [
-      "https://iptv.prosto.tv/ch137/tracks-v1a1/mono.m3u8?live=1&ip=104.28.156.59&id=921233&secret=9szoe89y&21yo=0&e=1783194291&st=-kALbkeUiNVyIGhNiqT7QA"
+      "https://iptv.prosto.tv/ch137/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -703,6 +795,7 @@
     "name": "Muz-TV",
     "stream_urls": [
       "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
+      "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -744,6 +837,19 @@
     "name": "Nano",
     "stream_urls": [
       "https://s1.tv-nano.com/Nano_rec/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QAej6WE8pi9D6A",
+    "name": "Nashe Novoe Kino",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -805,19 +911,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FPW5dG6jwJsfts",
-    "name": "Novyi Russkii",
-    "stream_urls": [
-      "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PQJUP9ib8lXjkv",
     "name": "NTK 21",
     "stream_urls": [
@@ -847,6 +940,7 @@
     "nanoid": "Sv2VTYi89RjCJK",
     "name": "NTV",
     "stream_urls": [
+      "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -879,6 +973,20 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GjOEGazOqwfLoM",
+    "name": "Okhota i rybalka",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
       "rus"
     ],
     "country": "ru",
@@ -967,6 +1075,19 @@
     "name": "Pervyy Respublikanskiy",
     "stream_urls": [
       "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kCBrKLRK8wKXax",
+    "name": "Pobeda",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/43.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1070,6 +1191,45 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "AG1c9dyu0hTbFo",
+    "name": "Retro",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NbMXz6pGZwmQWb",
+    "name": "Rodnoe Kino",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kJxhW4T0WgcTGG",
+    "name": "Rossiya 1 Vainah",
+    "stream_urls": [
+      "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7cwJKMK6fPevgm",
     "name": "RT",
     "stream_urls": [
@@ -1146,6 +1306,7 @@
     "nanoid": "xCt2mJKVQRLYsh",
     "name": "Russia-1",
     "stream_urls": [
+      "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1432,6 +1593,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RNUBpldOGsNXSB",
+    "name": "T24",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "99DtWOF0uOZLNA",
     "name": "Tamyr",
     "stream_urls": [
@@ -1462,6 +1636,19 @@
     "name": "Tavriya",
     "stream_urls": [
       "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n24WKhfbAy2vvs",
+    "name": "Telecafe",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1526,6 +1713,7 @@
     "nanoid": "ifTYV3LUxWMK3L",
     "name": "TNT",
     "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/38.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1552,7 +1740,8 @@
     "nanoid": "6yBLRoSzypIDNJ",
     "name": "TNV-Planet",
     "stream_urls": [
-      "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8"
+      "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+      "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1654,6 +1843,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wDy5L6UWLImGOC",
+    "name": "Unikum",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3OOeiozk8ilduN",
     "name": "Univer TV",
     "stream_urls": [
@@ -1673,6 +1875,20 @@
     "name": "Vera 24",
     "stream_urls": [
       "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5XYkspu1AifM0w",
+    "name": "viju TV1000 russkoe",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
+      "https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1872,6 +2088,19 @@
     "name": "Первый канал Европа",
     "stream_urls": [
       "https://streaming.thestream.cyou/live/210.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X0UpythUDXPOp6",
+    "name": "Россия-РТР",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

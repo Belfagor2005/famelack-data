@@ -93,6 +93,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MrDAdB1Ld8qhDL",
+    "name": "Aqlvoy",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "rus",
+      "uzb"
+    ],
+    "country": "uz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "724JcFRQ3UIDmr",
     "name": "Aqua Teen Hunger Force",
     "stream_urls": [],
@@ -2319,6 +2334,7 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/quW_Z7i-zKc"
     ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -16280,6 +16296,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KutUbScYEcqvqz",
+    "name": "Durian TV",
+    "stream_urls": [
+      "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dpWlLcrelGoz5q",
     "name": "Dushanbe HD",
     "stream_urls": [
@@ -16329,6 +16358,19 @@
       "spa"
     ],
     "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NC7SqlAIbLjEQr",
+    "name": "Eco TV",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -16561,7 +16603,7 @@
     "nanoid": "HthG1f5L2KKGYL",
     "name": "entelevision",
     "stream_urls": [
-      "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8"
+      "https://stream.haislin.com/entelevision/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -53448,19 +53490,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sxADa5ErhUnV97",
-    "name": "Goodness TV",
-    "stream_urls": [
-      "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sRG2OZeGCo5tIy",
     "name": "GoodNews TV",
     "stream_urls": [
@@ -53553,14 +53582,27 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nw0EUVWxNRLRmA",
-    "name": "Harvest USA",
+    "nanoid": "WknJSHyVxUbWNW",
+    "name": "HarPal Geo",
     "stream_urls": [
-      "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
+      "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "doCFHFc6UUzLBv",
+    "name": "Harvest TV",
+    "stream_urls": [
+      "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mal"
     ],
     "country": "in",
     "isGeoBlocked": false
@@ -53651,14 +53693,25 @@
     "nanoid": "9PE4R6NdLx4OF9",
     "name": "Huda TV",
     "stream_urls": [
-      "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "vie"
     ],
-    "country": "eg",
-    "isGeoBlocked": false
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "tZZYFUzbbvaZ5U",
+    "name": "HTV9",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "QyASYgL5e57Tu7",
@@ -53839,7 +53892,8 @@
     "nanoid": "TMPf8JDBp6GsA1",
     "name": "Ishwar Bhakti TV",
     "stream_urls": [
-      "https://cdn-2.pishow.tv/live/1464/master.m3u8"
+      "https://cdn-2.pishow.tv/live/1464/master.m3u8",
+      "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -53891,13 +53945,13 @@
     "nanoid": "DTrA30XU0Iez6A",
     "name": "JBS",
     "stream_urls": [
-      "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
+      "https://streaming.toutech.net/live/jtv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "ara"
     ],
-    "country": "us",
+    "country": "tn",
     "isGeoBlocked": false
   },
   {
@@ -54681,7 +54735,7 @@
     "name": "Madani Channel Urdu",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jJqs9-NJ_0U"
+      "https://www.youtube-nocookie.com/embed/tHYNJM2N-Rk"
     ],
     "languages": [
       "urd"
@@ -54890,7 +54944,7 @@
     "name": "Media Sunnah Aceh TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZgzoBK3lN6U"
+      "https://www.youtube-nocookie.com/embed/Ws6cqOQ_Owo"
     ],
     "languages": [
       "ind"
@@ -54915,13 +54969,13 @@
     "nanoid": "iv1DcBYyNzb89t",
     "name": "Mercy and Truth Ministries Television",
     "stream_urls": [
-      "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
+      "https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "spa"
     ],
-    "country": "jm",
+    "country": "ar",
     "isGeoBlocked": false
   },
   {

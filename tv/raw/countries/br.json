@@ -92,10 +92,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yeGOxGUEcp1bap",
-    "name": "Canal 25 Jundiai",
+    "nanoid": "rC9liFbpQiV2AH",
+    "name": "Canal 38",
     "stream_urls": [
-      "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
+      "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -254,19 +254,6 @@
     "name": "Demais TV",
     "stream_urls": [
       "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x5mwCmjYC8lT9Y",
-    "name": "Despertar TV",
-    "stream_urls": [
-      "https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -485,6 +472,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OpSrCbImNuNiXk",
+    "name": "Novo Tempo",
+    "stream_urls": [
+      "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cjEG8uZCZ337nx",
+    "name": "Nuevo Tiempo",
+    "stream_urls": [
+      "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2SkwDt1DzEdQq9",
+    "name": "Peppa Pig Brasil",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nferUU2U_Do"
+    ],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yzZp6BhMvaS7qt",
     "name": "PJ Masks Brasil",
     "stream_urls": [],
@@ -578,6 +604,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0z65klel8HhhQe",
+    "name": "Rede Globo",
+    "stream_urls": [
+      "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G7hfnJjWbtmF49",
     "name": "Rede Gospel",
     "stream_urls": [
@@ -623,6 +662,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/l2_O7pDT0Fg"
     ],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zcoCA9mHfb19F8",
+    "name": "REDE SPi",
+    "stream_urls": [
+      "https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "por"
     ],
@@ -943,19 +995,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pP6SnedE0hiHpP",
-    "name": "TV Arapuan",
-    "stream_urls": [
-      "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qIar6axvqjptwG",
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
@@ -1116,19 +1155,6 @@
     "name": "TV Encontro das Aguas",
     "stream_urls": [
       "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wn9zTtCDWftvkD",
-    "name": "TV Fronteira",
-    "stream_urls": [
-      "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1320,19 +1346,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOuzDU3o0FoYy3",
-    "name": "TV Parana Turismo",
-    "stream_urls": [
-      "https://200.189.113.201/hls/tve.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IRp7pJ3B28WfW",
     "name": "TV Passo Fundo",
     "stream_urls": [
@@ -1372,34 +1385,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AOrzbD7QEj8vaf",
-    "name": "TV Sim Cachoeiro",
-    "stream_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hwtT6piHOJApw7",
-    "name": "TV Sim Colatina",
-    "stream_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "26hxUXThjWRyJw",
     "name": "TV Sim Sao Mateus",
+    "stream_urls": [
+      "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3SFbEQ5XiHL1nO",
+    "name": "TV Sul Bahia",
     "stream_urls": [
       "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     ],
@@ -1443,19 +1443,6 @@
       "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0clXzJLP8rGUkm",
-    "name": "TV Thathi SBT",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CT8tn0Bn7vY"
-    ],
     "languages": [
       "por"
     ],
