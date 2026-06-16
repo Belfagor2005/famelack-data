@@ -1207,7 +1207,8 @@
     {
         "name": "Bergamo TV",
         "stream_urls": [
-            "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8"
+            "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8",
+            "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR"
         ],
         "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/bergamotv.png",
         "group": null,
@@ -4900,7 +4901,8 @@
     {
         "name": "Go-TV Channel",
         "stream_urls": [
-            "https://64b16f23efbee.streamlock.net/gooo/gooo/playlist.m3u8"
+            "https://64b16f23efbee.streamlock.net/gooo/gooo/playlist.m3u8",
+            "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f75951PbWWqgKDBDorh525uecKaGZD21FGSoCeR.sdp/playlist.m3u8"
         ],
         "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/GO-TV CHANNEL.png",
         "group": null,
