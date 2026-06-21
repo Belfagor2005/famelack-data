@@ -128660,8 +128660,8 @@
     "nanoid": "wqjKodsPnJC3Vk",
     "name": "Jozi FM",
     "stream_urls": [
-      "https://edge.iono.fm/xice/51_medium.aac",
-      "https://edge.iono.fm/xice/51_high.aac"
+      "https://edge.iono.fm/xice/51_high.aac",
+      "https://edge.iono.fm/xhls/51_high.m3u8"
     ],
     "country": "za",
     "languages": [
@@ -168837,6 +168837,18 @@
     "country": "mx",
     "languages": [
       "spa"
+    ],
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YIaqLgDaAAYnr2",
+    "name": "NEXT KIDS WORLDWIDE",
+    "stream_urls": [
+      "https://usa14.fastcast4u.com/proxy/tigreene?mp=/1"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ],
     "isGeoBlocked": false
   },
