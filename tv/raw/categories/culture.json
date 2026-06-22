@@ -93,6 +93,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "d4L8PBtWXj8rtD",
+    "name": "AsiriTV",
+    "stream_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QFiAYQi0p17BXu",
     "name": "ATXN3",
     "stream_urls": [
@@ -132,17 +145,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "il2nOFg4MhHcyB",
-    "name": "BBC Four UK HD",
+    "nanoid": "VtHTEOxTK0CD0C",
+    "name": "Belarus-3",
     "stream_urls": [
-      "https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8"
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "uk",
-    "isGeoBlocked": true
+    "country": "by",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "L3YkR6AcwrR8JI",
@@ -278,6 +291,19 @@
       "eng"
     ],
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -462,6 +488,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "31Wi6UqtxsYAm3",
+    "name": "Ev-tele",
+    "stream_urls": [
+      "https://playtv4k.live/live/EVTELE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "cg",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f5Yx0yGiPGMvvv",
     "name": "Flowers TV USA",
     "stream_urls": [
@@ -500,19 +539,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "stream_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -755,6 +781,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "VOTDSHArm72ENB",
+    "name": "Luys TV",
+    "stream_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hye",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EwK4bC43UwqpBP",
     "name": "Manavision",
     "stream_urls": [
@@ -881,6 +921,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dEANspwI90Hs8o",
+    "name": "NTV Mir",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "n3MPyyNxowDoVf",
     "name": "Odisha TV",
     "stream_urls": [
@@ -931,6 +984,19 @@
       "spa"
     ],
     "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2YKn96rbCyY3de",
+    "name": "ORF III",
+    "stream_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -986,36 +1052,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "stream_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bbo",
-      "bib",
-      "box",
-      "dgi",
-      "dyu",
-      "ful",
-      "gux",
-      "lee",
-      "lob",
-      "mos",
-      "rkm",
-      "sbd",
-      "stj",
-      "sym"
-    ],
-    "country": "bf",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "p36vvpwTrBuj6A",
     "name": "Russia-K",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+      "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1168,17 +1209,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4VBfGEAGOsSdAE",
-    "name": "Tra Vinh TV",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "SQGH8tX9KocSpb",
     "name": "Trishul Broadcasting Network",
     "stream_urls": [
@@ -1288,6 +1318,7 @@
     "nanoid": "fcllzx7ENtLcnw",
     "name": "UMSA TVU LP",
     "stream_urls": [
+      "https://edge.enhdtv.com/8190/index.m3u8",
       "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
@@ -1311,10 +1342,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XhURbZlUHvh8jv",
+    "name": "Verso TV",
+    "stream_urls": [
+      "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "stream_urls": [
-      "https://live.azenagroup.com/zenith/index.ll.m3u8"
+      "https://live.azenagroup.com/zenith/index.ll.m3u8",
+      "https://live.azenagroup.com/zenith/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

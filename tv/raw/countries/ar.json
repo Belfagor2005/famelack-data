@@ -131,19 +131,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SHCgFbO79Hh4Z8",
-    "name": "Beats Radio",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vjx9cYbBe3zOX1",
     "name": "Bragado TV",
     "stream_urls": [
@@ -226,19 +213,6 @@
     "name": "Canal 2 Gualeguay",
     "stream_urls": [
       "https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IWvykabh19mF8z",
-    "name": "Canal 2 Mar del Plata",
-    "stream_urls": [
-      "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -371,6 +345,7 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vu9GGKuz7Fo"
     ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -394,7 +369,7 @@
     "nanoid": "1Lh8QNqMEer0yM",
     "name": "Canal 7 Jujuy",
     "stream_urls": [
-      "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
+      "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -968,17 +943,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yurfvvnKGexwJR",
     "name": "Multivision Federal",
     "stream_urls": [
@@ -992,11 +956,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nCjEym27rIb7Sc",
-    "name": "NET TV",
+    "nanoid": "83vfpPczQc0o3d",
+    "name": "Neo TV",
     "stream_urls": [
-      "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
+      "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1019,6 +982,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ajBSt6NuLSUT5M",
+    "name": "Pop Radio 101.5",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/mDpl2M16qcs"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Qr9hVGq64gpwew",
     "name": "Power Max Radio TV",
     "stream_urls": [
@@ -1026,6 +1002,20 @@
     ],
     "youtube_urls": [],
     "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z1F9m21kKl0zlA",
+    "name": "PowerHD",
+    "stream_urls": [
+      "https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "ar",
@@ -1175,10 +1165,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "15KFLuGTzrHWsE",
-    "name": "Telecinco",
+    "nanoid": "lwUs8vce39cW6q",
+    "name": "Tele Posadas",
     "stream_urls": [
-      "https://videohd.live:19360/8016/8016.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1272,19 +1262,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ooBm3DinDNQ"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0RDZ86LiXSDIjn",
-    "name": "TIV Television",
-    "stream_urls": [
-      "https://videohd.live:19360/8008/8008.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],

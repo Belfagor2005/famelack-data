@@ -119,19 +119,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3VqJp1fO3TYTIw",
-    "name": "Angel TV Russian",
-    "stream_urls": [
-      "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Dp26BhBSy3QLvt",
     "name": "Arkhyz 24",
     "stream_urls": [
@@ -214,6 +201,8 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
+      "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -318,6 +307,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9L2pscQHcBOxS5",
+    "name": "Da Vinci",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qOPKbSdUtm3BNM",
     "name": "Dagestan",
     "stream_urls": [
@@ -413,6 +415,7 @@
     "nanoid": "AebbSbQ8k1zQps",
     "name": "Euronews Russian",
     "stream_urls": [
+      "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
       "https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
@@ -452,7 +455,6 @@
     "nanoid": "W7NdP3Tfi9qZIK",
     "name": "Friday!",
     "stream_urls": [
-      "https://vod.tuva.ru/friday/index.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -480,6 +482,19 @@
     "name": "Gulli Girl",
     "stream_urls": [
       "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y9MKN8crqFFTf4",
+    "name": "Home Shopping Russia",
+    "stream_urls": [
+      "https://moymir.ru/hls/onair.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -699,6 +714,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "NmNu9xP3DzG5RI",
+    "name": "Lugansk 24",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VuVzz3cHZwcEIp",
     "name": "Magnat",
     "stream_urls": [
@@ -755,7 +783,34 @@
     "nanoid": "RBcipQTyHVOX0t",
     "name": "Mir 24",
     "stream_urls": [
-      "https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+      "https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+      "https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P3LDP54vU2oJPU",
+    "name": "Moskva 24",
+    "stream_urls": [
+      "https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1UyRpSwD3INbAX",
+    "name": "Moskva. Doveriye",
+    "stream_urls": [
+      "https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -911,6 +966,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FPW5dG6jwJsfts",
+    "name": "Novyi Russkii",
+    "stream_urls": [
+      "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PQJUP9ib8lXjkv",
     "name": "NTK 21",
     "stream_urls": [
@@ -949,6 +1017,19 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dEANspwI90Hs8o",
+    "name": "NTV Mir",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Fjtpd5BvjmY1Dr",
@@ -1045,19 +1126,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ClrLVtv3nyuxRh",
-    "name": "Patriot",
-    "stream_urls": [
-      "https://catchup.videoline.ru/asvtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kDIn5P06JUE8QJ",
     "name": "Perviy Krymskiy",
     "stream_urls": [
@@ -1115,6 +1183,19 @@
     "name": "Pro100TV",
     "stream_urls": [
       "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "baWp5QhTh81ABF",
+    "name": "Prodvizhenie",
+    "stream_urls": [
+      "https://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1306,6 +1387,7 @@
     "nanoid": "xCt2mJKVQRLYsh",
     "name": "Russia-1",
     "stream_urls": [
+      "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8",
       "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8"
     ],
@@ -1333,7 +1415,8 @@
     "nanoid": "p36vvpwTrBuj6A",
     "name": "Russia-K",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
+      "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1437,6 +1520,7 @@
     "nanoid": "JIPUpjryYJZoMO",
     "name": "Smile TV",
     "stream_urls": [
+      "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
       "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1490,6 +1574,7 @@
     "nanoid": "3w30y8OQCcGoAy",
     "name": "Spas",
     "stream_urls": [
+      "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1764,19 +1849,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0hiQdgKd6nMh6h",
-    "name": "TV BRICS Russian",
-    "stream_urls": [
-      "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Szpgy7EpmRPYV0",
     "name": "TV Centr",
     "stream_urls": [
@@ -1884,11 +1956,50 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lHhrFobodop0gc",
+    "name": "viju Nature",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Q5p4g67XWwNDIs",
+    "name": "viju TV1000 action",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5XYkspu1AifM0w",
     "name": "viju TV1000 russkoe",
     "stream_urls": [
       "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
       "https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mfB2S9RXuCzEE1",
+    "name": "viju+ Sport",
+    "stream_urls": [
+      "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

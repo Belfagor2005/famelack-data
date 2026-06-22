@@ -39,19 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hNpror6ZnqPuws",
-    "name": "Aleph Business",
-    "stream_urls": [
-      "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sPGmyALtlBkjD3",
     "name": "Ameritrade",
     "stream_urls": [
@@ -96,19 +83,6 @@
     "stream_urls": [
       "https://live-news.asharq.com/asharq.m3u8",
       "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Tl12ojqlqKkMqp",
-    "name": "Asharq Radio",
-    "stream_urls": [
-      "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -405,7 +379,7 @@
       "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ShCdQy8l0SU"
+      "https://www.youtube-nocookie.com/embed/PRvnQNOaTFg"
     ],
     "languages": [
       "ben"
@@ -549,6 +523,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "99nnCKryI6XnTb",
+    "name": "Zuraca TV",
+    "stream_urls": [
+      "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "hkhk8nvVQebQV1",

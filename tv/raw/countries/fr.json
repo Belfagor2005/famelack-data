@@ -374,6 +374,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x5fWrafkMRpDW8",
+    "name": "Euronews Greek",
+    "stream_urls": [
+      "https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xrA5xgdFcK6f66",
     "name": "Euronews Italiano",
     "stream_urls": [],
@@ -434,6 +447,19 @@
     ],
     "languages": [
       "ron"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xsUZSvBNUz3yiT",
+    "name": "Euronews Spanish",
+    "stream_urls": [
+      "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -637,19 +663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ok1XbdadbIAXgd",
-    "name": "Francophonie24",
-    "stream_urls": [
-      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7MLHT3jxe1OcD2",
     "name": "Frequence Novelas",
     "stream_urls": [
@@ -836,7 +849,7 @@
     "name": "Mosaïk Cristal",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V4EEM4gTMvI"
+      "https://www.youtube-nocookie.com/embed/mB6R8I706YQ"
     ],
     "languages": [
       "fra"
@@ -865,6 +878,17 @@
     "languages": [
       "fra"
     ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "frxoUV6KIlJwd1",
+    "name": "MyTime Movie Network France",
+    "stream_urls": [
+      "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1236,6 +1260,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WRXxoyW4bEOLd9",
+    "name": "RMC Story",
+    "stream_urls": [
+      "https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xv9b7Q8DQqzTWg",
     "name": "RT France",
     "stream_urls": [
@@ -1386,12 +1423,65 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LPPYKgzOw76HUC",
+    "name": "The '80s Guy: Darksynth FM",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/i_bvvTXkDhc"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lyqsis1AvWCgnl",
     "name": "Totally Spies!",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/oQY_Aa78nCY"
     ],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iznqZt4QDsmnlv",
+    "name": "Trace Africa",
+    "stream_urls": [
+      "https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mWE4kH6ibcq6b4",
+    "name": "Trace Afrikora",
+    "stream_urls": [
+      "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0NnzYHacRaT04R",
+    "name": "Trace Ayiti",
+    "stream_urls": [
+      "https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "fra"
     ],
@@ -1412,10 +1502,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yLCxHzKZ8frJd2",
+    "name": "Trace Caribbean",
+    "stream_urls": [
+      "https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "70sX04jX14d4dB",
     "name": "Trace Gospel",
     "stream_urls": [
       "https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y5SbJctYBPjs3D",
+    "name": "Trace Jama",
+    "stream_urls": [
+      "https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GOL0LeAC5fNTzD",
+    "name": "Trace Kitoko",
+    "stream_urls": [
+      "https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1476,6 +1605,19 @@
     ],
     "country": "fr",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ZPDEacVJIZ5Ext",
+    "name": "Trace Vanilla Islands",
+    "stream_urls": [
+      "https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "inGlxKW8S2QpWf",
@@ -1567,6 +1709,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5bJwOX7I30jGk6",
+    "name": "W9",
+    "stream_urls": [
+      "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8MY8QweXbIf30Y",
     "name": "Wasabi la chaîne anime",
     "stream_urls": [
@@ -1592,7 +1747,8 @@
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "stream_urls": [
-      "https://live.azenagroup.com/zenith/index.ll.m3u8"
+      "https://live.azenagroup.com/zenith/index.ll.m3u8",
+      "https://live.azenagroup.com/zenith/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

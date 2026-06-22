@@ -55,6 +55,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vLJxCfSjAO72Wd",
+    "name": "Belmedia TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IqCXy1957XQ"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XHxGpxMeodxqTd",
     "name": "C Malayalam TV",
     "stream_urls": [
@@ -463,19 +476,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "NufmSZI2dWYsVg",
-    "name": "CFHD-DT",
-    "stream_urls": [
-      "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4vXtjAL0sTXinF",
     "name": "CFTM-DT",
     "stream_urls": [
@@ -558,19 +558,6 @@
     "name": "CityNews Edmonton",
     "stream_urls": [
       "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J0CqDMWbn8VHaM",
-    "name": "CityNews Toronto",
-    "stream_urls": [
-      "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -973,8 +960,8 @@
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "stream_urls": [
-      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+      "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1014,19 +1001,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "stream_urls": [
-      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1078,19 +1052,6 @@
       "ell",
       "eng",
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "stream_urls": [
-      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1204,6 +1165,19 @@
     "youtube_urls": [],
     "languages": [
       "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
