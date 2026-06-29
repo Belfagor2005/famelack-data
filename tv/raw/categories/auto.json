@@ -2,10 +2,11 @@
   {
     "nanoid": "kNhCBQ568qE2sj",
     "name": "Auto Plus",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "F9LfVyG31TYOvT",
     "name": "Avtoradio Ukraine",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch392/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch392/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -28,11 +30,12 @@
   {
     "nanoid": "gype1Rdsg8nVpE",
     "name": "Canal Motor",
-    "stream_urls": [
-      "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
-      "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+        "https://digicom.hls.iptvdc.com/motorstv/index.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "nor"
@@ -43,10 +46,11 @@
   {
     "nanoid": "lRn4zECLeGzUvI",
     "name": "Cars & Stars TV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch111/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch111/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -56,10 +60,11 @@
   {
     "nanoid": "94QOTvoD2MmNeP",
     "name": "Choppertown",
-    "stream_urls": [
-      "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -67,12 +72,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gq4mY3pzS19BJ0",
+    "name": "City Eden AutoGid",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47515/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tVKEKu2ttkc0Bj",
     "name": "Drive",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -82,10 +102,11 @@
   {
     "nanoid": "vADDMdGwASejWG",
     "name": "Fun Roads",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -95,10 +116,11 @@
   {
     "nanoid": "4Jx43q3AoFe9Yv",
     "name": "Garage TV Latin America",
-    "stream_urls": [
-      "https://stream1.sersat.com/hls/garagetv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream1.sersat.com/hls/garagetv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -136,11 +158,12 @@
   {
     "nanoid": "E00cpYmcTm5FiQ",
     "name": "Motorvision",
-    "stream_urls": [
-      "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -148,31 +171,33 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "5zsvZbp5i40Gds",
-    "name": "Motorvision+",
-    "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tUYx8kteikm3hV",
     "name": "PowerNation TV",
-    "stream_urls": [
-      "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
-      "https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8",
-      "https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
+        "https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8",
+        "https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CKd5S9TmaVqgyJ",
+    "name": "Shift TV",
+    "sources": {
+      "streams": [
+        "https://hls.shift.tv/live/shifttv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ],
+    "country": "hr",
     "isGeoBlocked": false
   },
   {
@@ -192,10 +217,11 @@
   {
     "nanoid": "1hiMxQ336UPBoI",
     "name": "Top Gear Classic",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xw2Xu5wKQVw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Xw2Xu5wKQVw"
+      ]
+    },
     "languages": [
       "eng"
     ],

@@ -2,10 +2,11 @@
   {
     "nanoid": "MvyVmSEdSVHVQb",
     "name": "4 Lobos Bollywood Radio",
-    "stream_urls": [
-      "https://puma.streemlion.com:4130/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://puma.streemlion.com:4130/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "vCB4V3E2BvUCzZ",
     "name": "60s Forever",
-    "stream_urls": [
-      "https://stream.zeno.fm/btrks671ynhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/btrks671ynhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "K0e6iOT3DzfdVS",
     "name": "80s Tamil Hits",
-    "stream_urls": [
-      "https://stream.zeno.fm/48w230kx8vzuv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/48w230kx8vzuv.aac"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -35,10 +38,11 @@
   {
     "nanoid": "T9paZ46M8HmfSd",
     "name": "89.4 Tamil FM",
-    "stream_urls": [
-      "https://centova.aarenworld.com/proxy/894tamilfm/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://centova.aarenworld.com/proxy/894tamilfm/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -46,10 +50,11 @@
   {
     "nanoid": "UtziVIOXV88Fh1",
     "name": "90s Tamil Melodies",
-    "stream_urls": [
-      "https://stream.zeno.fm/tqnws2eafwzuv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/tqnws2eafwzuv.aac"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -68,10 +73,11 @@
   {
     "nanoid": "NeFby0Xejc2cTW",
     "name": "A9 Radio",
-    "stream_urls": [
-      "https://a9radio1-a9media.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://a9radio1-a9media.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -79,10 +85,11 @@
   {
     "nanoid": "RFA7RWCK51O2lu",
     "name": "A9 Radio New Hits",
-    "stream_urls": [
-      "https://a9newhits-a9media.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://a9newhits-a9media.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -90,10 +97,11 @@
   {
     "nanoid": "1ZymGlep4JFIqS",
     "name": "A9 Radio Old Hits",
-    "stream_urls": [
-      "https://a9oldhits-a9media.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://a9oldhits-a9media.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -101,10 +109,11 @@
   {
     "nanoid": "CYEn1TpetZCce3",
     "name": "Aaha Radio",
-    "stream_urls": [
-      "https://s2.radio.co/s3801784f1/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co/s3801784f1/listen"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -112,10 +121,11 @@
   {
     "nanoid": "puLXdMV2oixF68",
     "name": "Aaj Tak Radio",
-    "stream_urls": [
-      "https://feeds.intoday.in/aajtak/api/master.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://feeds.intoday.in/aajtak/api/master.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -123,10 +133,11 @@
   {
     "nanoid": "TaeYnVnrYh7ge2",
     "name": "Aasman Radio",
-    "stream_urls": [
-      "https://aasman_radio.ice.infomaniak.ch/aasmanradio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://aasman_radio.ice.infomaniak.ch/aasmanradio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -134,10 +145,11 @@
   {
     "nanoid": "NjMrPOl8fE56uy",
     "name": "Abee Radio",
-    "stream_urls": [
-      "https://abee.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://abee.radioca.st/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -145,22 +157,25 @@
   {
     "nanoid": "yBhpaaByxdlX0M",
     "name": "Agra Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/m1krtxpk11zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/m1krtxpk11zuv"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "0iZwHgKERjUUeZ",
     "name": "Ajith FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/ntkhu40k17zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ntkhu40k17zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -168,10 +183,11 @@
   {
     "nanoid": "z3J7i9Tp6rKIG3",
     "name": "Ajmer Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/yftb93nbay8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yftb93nbay8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -179,10 +195,11 @@
   {
     "nanoid": "hkRtoCXEm1Xcd2",
     "name": "Akaram Radio",
-    "stream_urls": [
-      "https://globalwebmusic.com/akaram.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://globalwebmusic.com/akaram.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -190,10 +207,11 @@
   {
     "nanoid": "Fb6QHUXfe5bgLD",
     "name": "Akash Radio Leeds",
-    "stream_urls": [
-      "https://c2.radioboss.fm:8276/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c2.radioboss.fm:8276/stream"
+      ]
+    },
     "languages": [
       "hin",
       "pan",
@@ -203,927 +221,1072 @@
   {
     "nanoid": "3aD0xAwnhmQjTj",
     "name": "Akashvani",
-    "stream_urls": [
-      "https://audio-edge-fvq45.ams.d.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://audio-edge-fvq45.ams.d.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "x13FqwAEL7vabz",
     "name": "Akashvani Aaradhana",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "K1gZRIUjntb0gN",
     "name": "Akashvani Agra",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "mdpsHm7dkcDHA8",
     "name": "Akashvani Ahilyanagar",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "gIC63om6MbaURE",
     "name": "Akashvani Akola",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "IYPsJMDIhuXuzf",
     "name": "Akashvani Anantapur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "CucgBuwvHv8FBa",
     "name": "Akashvani Andhra Pradesh",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "0xQWaNFydkdsmH",
     "name": "Akashvani Ayodhya",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ihf3AssXXxVDZM",
     "name": "Akashvani Bangla",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8"
+      ]
+    },
     "languages": [
       "ben"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "UvI2plCQYXlnGa",
     "name": "Akashvani Baripada",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "ori"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "uSxCzEGDXUsfGg",
     "name": "Akashvani Beed",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "dTFWE7mb1j6qKC",
     "name": "Akashvani Belonia",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ben",
       "hin",
       "kokborok"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "g5m13XRY1UXRtx",
     "name": "Akashvani Bhaderwah",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/playlist.m3u8"
+      ]
+    },
     "languages": [
       "dogri",
       "hin",
       "urd"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "yWXPwqR0EylFH2",
     "name": "Akashvani Bhadravati",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "kan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "gFclFuSE4YNFVJ",
     "name": "Akashvani Bhuj",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8"
+      ]
+    },
     "languages": [
       "guj",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "J1JRfxLGgqsOwd",
     "name": "Akashvani Calicut",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8"
+      ]
+    },
     "languages": [
       "mal"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "nohEevrp7zLOlp",
     "name": "Akashvani Chittorgarh",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "rajasthani"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "H8E3WFdgSkeUC3",
     "name": "Akashvani Coimbatore",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "SPLYOwvFB8bJGI",
     "name": "Akashvani Cuttack",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ori"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "QGCB2ZoosmhNUF",
     "name": "Akashvani Daltonganj",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "nagpuri"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "0aVXgHBrTR1RNZ",
     "name": "Akashvani Dharashiv",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "0NomPEaoIhBU4L",
     "name": "Akashvani Gangtok",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "nep"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ppsOsndStu2mkW",
     "name": "Akashvani Guwahati Prayagjyotishpur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8"
+      ]
+    },
     "languages": [
       "asm",
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bSoW1qPCIxIbjA",
     "name": "Akashvani Gwalior",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "t8SYu79TkJDUcS",
     "name": "Akashvani Indore",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "urd"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Chl5l9Og4yn195",
     "name": "Akashvani Itanagar",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "j3ES7DS7UxQ9vO",
     "name": "Akashvani Jalgaon",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4lVFTULPcGtVcV",
     "name": "Akashvani Jhansi",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "fsJvwENPqtQTv6",
     "name": "Akashvani Jodhpur Sun City FM",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "rajasthani"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4hpWszihMbpc86",
     "name": "Akashvani Karnataka",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8"
+      ]
+    },
     "languages": [
       "kan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "5nrXiFHB49Rqhl",
     "name": "Akashvani Kathua",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8"
+      ]
+    },
     "languages": [
       "dogri",
       "hin",
       "urd"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "iGzzwoLGwJcqTp",
     "name": "Akashvani Kerla",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8"
+      ]
+    },
     "languages": [
       "mal"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "m6ndx3EKUKMRI7",
     "name": "Akashvani Kochi",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "mal"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "qJWUaKRNv6fTJb",
     "name": "Akashvani Kodaikanal",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "FGsZ5RVqSmkWnB",
     "name": "Akashvani Kohima",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "nagamese"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ng8uCWxb8hjjR7",
     "name": "Akashvani Kolkata Geetanjali",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8"
+      ]
+    },
     "languages": [
       "ben"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "DFab9gBx20RbnM",
     "name": "Akashvani Kolkata Sanchayita",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8"
+      ]
+    },
     "languages": [
       "ben"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "BWs84EDKa7QeIH",
     "name": "Akashvani Kozhikode Real FM",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "mal"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "NpiNIXr9zwh7la",
     "name": "Akashvani Kurnool",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "pli799MTHw2XE1",
     "name": "Akashvani Live News 24x7",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "LLGnJoiTO4PZto",
     "name": "Akashvani Madurai",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/chunklist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "u686xYeYeQK3vm",
     "name": "Akashvani Maitree",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio24564kbps.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio24564kbps.m3u8"
+      ]
+    },
     "languages": [
       "ben"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Z1wK1qfDBoEXH6",
     "name": "Akashvani Mangalore",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8"
+      ]
+    },
     "languages": [
       "kan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "CkR6gjZ3yuziwF",
     "name": "Akashvani Manjeri",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8"
+      ]
+    },
     "languages": [
       "mal"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "uU9OPn5UBLvQQ4",
     "name": "Akashvani Marathi Mumbai Asmita",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "C4mDRtIgXIrZuc",
     "name": "Akashvani Mhadei Panaji",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "kok",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "EDylLUQgyMTe8k",
     "name": "Akashvani Nagpur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "VeVYG7iZ37qGrr",
     "name": "Akashvani Nanded",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "zKNyJ3TeME64qv",
     "name": "Akashvani Nasik",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "n1gCxug33d908y",
     "name": "Akashvani Neighbourhood Service 1",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio233/hlspbaudio233_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio233/hlspbaudio233_Auto.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "lU2nNg0K6hA6iw",
     "name": "Akashvani News",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23132kbps.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23132kbps.m3u8"
+      ]
+    },
     "languages": [
       "zho"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "EewM6nNMOrtEri",
     "name": "Akashvani North East Livestream",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "khasi"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "yG90ciNQg40LUB",
     "name": "Akashvani Patna",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "TU4pzGXjPqb745",
     "name": "Akashvani Puducherry",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/chunklist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "cSnBbKaWcVxvNS",
     "name": "Akashvani Pune",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "mtMcvNlKG5q7Mf",
     "name": "Akashvani Pune FM",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8"
+      ]
+    },
     "languages": [
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "PY5BFjDhix1FYX",
     "name": "Akashvani Rajkot",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8"
+      ]
+    },
     "languages": [
       "guj",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "sU17mMr3wg2QXA",
     "name": "Akashvani Rewa",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "5wkv0bDFb1FVXA",
     "name": "Akashvani Sagar",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "dEXfRmKr1bWwRq",
     "name": "Akashvani Sambalpur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "ori"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "BUhV8GmjMHv3ut",
     "name": "Akashvani Shantiniketan",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ben"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "tzIUXz2GniWqJh",
     "name": "Akashvani Shillong",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "khasi"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4rM1pyCIKlq9vQ",
     "name": "Akashvani Silchar",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8"
+      ]
+    },
     "languages": [
       "asm"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kIOnmZcBiZVOW1",
     "name": "Akashvani Solapur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "xSYU7oySoWepnm",
     "name": "Akashvani Tamil Nadu",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "0xZkRzecPgJDn1",
     "name": "Akashvani Telangana",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "rsjlKRwMy4Inw8",
     "name": "Akashvani Tiruchirappalli",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/chunklist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "cUCca6pe00XO0b",
     "name": "Akashvani Tiruchirappalli FM",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kgAJ7umnIbRfQc",
     "name": "Akashvani Udaipur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "rajasthani"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4Dio3PSdJRBQbS",
     "name": "Akashvani Udaipur FM Lake City",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "rajasthani"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "2mYL2AEjL5c8hr",
     "name": "Akashvani Vadodara",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8"
+      ]
+    },
     "languages": [
       "guj",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "QFpKPfytapqTvN",
     "name": "Akashwani Gujarati",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8"
+      ]
+    },
     "languages": [
       "guj"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "tHzTAcCfvXPfE1",
     "name": "Amen FM",
-    "stream_urls": [
-      "https://ice7.securenetsystems.net/AMENFM"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ice7.securenetsystems.net/AMENFM"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -1131,10 +1294,11 @@
   {
     "nanoid": "yF1txMvvf3LPaQ",
     "name": "Amlisten",
-    "stream_urls": [
-      "https://stream-164.zeno.fm/yf5p1bya1feuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-164.zeno.fm/yf5p1bya1feuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1142,10 +1306,11 @@
   {
     "nanoid": "cUmikxnyVdbs1a",
     "name": "Amor FM",
-    "stream_urls": [
-      "https://amorfm_192.streampartner.nl/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://amorfm_192.streampartner.nl/stream"
+      ]
+    },
     "languages": [
       "hin",
       "nld",
@@ -1155,10 +1320,11 @@
   {
     "nanoid": "8qlko6bPDoHcoD",
     "name": "AMR Kannada Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/7g8axtgtsg0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7g8axtgtsg0uv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -1166,22 +1332,25 @@
   {
     "nanoid": "hhoGiMNTrAtXBI",
     "name": "Amrutvarshini",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8"
+      ]
+    },
     "languages": [
       "kan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "BQbT5KVQZmnh6h",
     "name": "Ananda Marga",
-    "stream_urls": [
-      "https://stream-152.zeno.fm/216zaqk88a0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-152.zeno.fm/216zaqk88a0uv"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -1190,10 +1359,11 @@
   {
     "nanoid": "abJhhHuftEStBU",
     "name": "Ananda Marga FM",
-    "stream_urls": [
-      "https://stream-151.zeno.fm/r5dxv34smm0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-151.zeno.fm/r5dxv34smm0uv"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -1202,22 +1372,25 @@
   {
     "nanoid": "S4RTDaETUR59Xm",
     "name": "Anant Radio",
-    "stream_urls": [
-      "https://node-27.zeno.fm/rzuke118e3quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://node-27.zeno.fm/rzuke118e3quv"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "L8iJeV4KxMsGEP",
     "name": "Anbu FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/c2p4f1np4bruv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/c2p4f1np4bruv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1225,10 +1398,11 @@
   {
     "nanoid": "imyxOEfFwoDcSO",
     "name": "Anbu FM Hindi",
-    "stream_urls": [
-      "https://stream.zeno.fm/u7yaqq493v8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/u7yaqq493v8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1236,10 +1410,11 @@
   {
     "nanoid": "miXYiuwWdaeid8",
     "name": "Anbu FM Kannada",
-    "stream_urls": [
-      "https://stream.zeno.fm/45f9c2byfy8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/45f9c2byfy8uv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -1247,10 +1422,11 @@
   {
     "nanoid": "G6T6HEsBEB0EGF",
     "name": "Anbu FM Malayalam",
-    "stream_urls": [
-      "https://stream.zeno.fm/8ca40byv4x8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/8ca40byv4x8uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -1258,10 +1434,11 @@
   {
     "nanoid": "a09OC407n6Ss24",
     "name": "Ankora Radio",
-    "stream_urls": [
-      "https://stream-153.zeno.fm/xush70b1cbruv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-153.zeno.fm/xush70b1cbruv"
+      ]
+    },
     "languages": [
       "ben"
     ]
@@ -1269,10 +1446,11 @@
   {
     "nanoid": "0qm9srYKwSJdLa",
     "name": "Antara Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/rzuke118e3quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rzuke118e3quv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1280,10 +1458,11 @@
   {
     "nanoid": "LMxcVEyCuUB8rj",
     "name": "AR Rahman Lite Radio",
-    "stream_urls": [
-      "https://psrlive2.listenon.in/arrlite"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://psrlive2.listenon.in/arrlite"
+      ]
+    },
     "languages": [
       "tel"
     ]
@@ -1291,11 +1470,12 @@
   {
     "nanoid": "PJC9StM3BIJSzc",
     "name": "AR Rahman Radio",
-    "stream_urls": [
-      "https://psrweb1.listenon.in/arr",
-      "https://psrlive2.listenon.in/arr"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://psrweb1.listenon.in/arr",
+        "https://psrlive2.listenon.in/arr"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1303,10 +1483,11 @@
   {
     "nanoid": "EzxVp3wUXawHQN",
     "name": "AR Rahman Tamil Hits",
-    "stream_urls": [
-      "https://stream-176.zeno.fm/p7b0e3ms97zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-176.zeno.fm/p7b0e3ms97zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1314,10 +1495,11 @@
   {
     "nanoid": "3PNxCs740ncsE0",
     "name": "Arulvakku FM",
-    "stream_urls": [
-      "https://stream.arulvakku.com/radio/8000/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.arulvakku.com/radio/8000/radio.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1325,10 +1507,11 @@
   {
     "nanoid": "CatXm20zO7Zx9h",
     "name": "Arumbu FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/22db1xmde2zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/22db1xmde2zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1336,10 +1519,11 @@
   {
     "nanoid": "5INqt42ycPULwB",
     "name": "Asal FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/pzgws1kc41zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pzgws1kc41zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1347,12 +1531,13 @@
   {
     "nanoid": "a0loe6EcdZQOV8",
     "name": "Aural Melodics",
-    "stream_urls": [
-      "https://stream-159.zeno.fm/7fmywrmrga0uv",
-      "https://stream.zeno.fm/7fmywrmrga0uv",
-      "https://stream.zeno.fm/a3250rmrga0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-159.zeno.fm/7fmywrmrga0uv",
+        "https://stream.zeno.fm/7fmywrmrga0uv",
+        "https://stream.zeno.fm/a3250rmrga0uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -1360,11 +1545,12 @@
   {
     "nanoid": "rSJEBl0d22ibrZ",
     "name": "Aural Oldies",
-    "stream_urls": [
-      "https://stream-158.zeno.fm/tksfwb1mgzzuv",
-      "https://stream.zeno.fm/anrf216cu68uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-158.zeno.fm/tksfwb1mgzzuv",
+        "https://stream.zeno.fm/anrf216cu68uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -1372,10 +1558,11 @@
   {
     "nanoid": "fA5l1y06bZJxZA",
     "name": "Aural Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/8ux50camqwzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/8ux50camqwzuv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -1383,10 +1570,11 @@
   {
     "nanoid": "3h5owYpe6eoUQR",
     "name": "Aural West",
-    "stream_urls": [
-      "https://stream.zeno.fm/xd6trx3e84zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/xd6trx3e84zuv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -1394,10 +1582,11 @@
   {
     "nanoid": "DdMZG1shg35nAF",
     "name": "Awaz FM",
-    "stream_urls": [
-      "https://uksoutha.streaming.broadcast.radio/awazfm"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://uksoutha.streaming.broadcast.radio/awazfm"
+      ]
+    },
     "languages": [
       "hin",
       "pan",
@@ -1407,10 +1596,11 @@
   {
     "nanoid": "eD2rp02rezcOQ3",
     "name": "Azevision Radio",
-    "stream_urls": [
-      "https://a5.asurahosting.com:8340/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://a5.asurahosting.com:8340/radio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1418,10 +1608,11 @@
   {
     "nanoid": "d2XNAqltMFTg5A",
     "name": "Bakthi Isai Radio",
-    "stream_urls": [
-      "https://bakthiisai-unicast2u.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://bakthiisai-unicast2u.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1429,10 +1620,11 @@
   {
     "nanoid": "PwFpuYhcykqKkB",
     "name": "Bhagavad Gita Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/pg7cf4xyw8quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pg7cf4xyw8quv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1440,10 +1632,11 @@
   {
     "nanoid": "nH7tIqm9iGDr2w",
     "name": "Bhajans Radio",
-    "stream_urls": [
-      "https://s5.citrus3.com:8148/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s5.citrus3.com:8148/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1451,10 +1644,11 @@
   {
     "nanoid": "d4JO5FK6MFy8yg",
     "name": "Bhakti Sagar Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/syu0rdutvxhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/syu0rdutvxhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1462,10 +1656,11 @@
   {
     "nanoid": "YdaqYOz8waADRF",
     "name": "Bhakti World",
-    "stream_urls": [
-      "https://gurbani.out.airtime.pro:8000/gurbani_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://gurbani.out.airtime.pro:8000/gurbani_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1473,10 +1668,11 @@
   {
     "nanoid": "DMwunF79jrLgQo",
     "name": "Bhakti World - Devi Maa",
-    "stream_urls": [
-      "https://ibadat.out.airtime.pro/ibadat_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ibadat.out.airtime.pro/ibadat_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1484,10 +1680,11 @@
   {
     "nanoid": "NUaFG0YMZpuiew",
     "name": "Bhakti World Bhagavad Gita",
-    "stream_urls": [
-      "https://stream.zeno.fm/ijklcild1wrtv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ijklcild1wrtv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1495,10 +1692,11 @@
   {
     "nanoid": "Gor9ALvPMUGRrg",
     "name": "Bhakti World Devi Maa",
-    "stream_urls": [
-      "https://ibadat.out.airtime.pro:8000/ibadat_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ibadat.out.airtime.pro:8000/ibadat_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1506,11 +1704,12 @@
   {
     "nanoid": "TrkaPsQ0GINVuv",
     "name": "Bhakti World Ganesha",
-    "stream_urls": [
-      "https://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
-      "https://radio2bindia.out.airtime.pro/radio2bindia_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
+        "https://radio2bindia.out.airtime.pro/radio2bindia_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1518,10 +1717,11 @@
   {
     "nanoid": "8Etv96q0LbXDSc",
     "name": "Bhakti World Gurbani",
-    "stream_urls": [
-      "https://gurbani.out.airtime.pro:8000/gurbani_b"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://gurbani.out.airtime.pro:8000/gurbani_b"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -1529,10 +1729,11 @@
   {
     "nanoid": "eETku4ULipmOfR",
     "name": "Bhakti World Hanuman",
-    "stream_urls": [
-      "https://2bhanuman.out.airtime.pro:8000/2bhanuman_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://2bhanuman.out.airtime.pro:8000/2bhanuman_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1540,10 +1741,11 @@
   {
     "nanoid": "AFcDvGz6s1vbhE",
     "name": "Bhakti World Krishna",
-    "stream_urls": [
-      "https://millenniumhits.out.airtime.pro:8000/millenniumhits_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://millenniumhits.out.airtime.pro:8000/millenniumhits_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1551,10 +1753,11 @@
   {
     "nanoid": "7zMsz1Ykt9XY24",
     "name": "Bhakti World Meditation",
-    "stream_urls": [
-      "https://djbeat.out.airtime.pro:8000/djbeat_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://djbeat.out.airtime.pro:8000/djbeat_a"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -1563,10 +1766,11 @@
   {
     "nanoid": "RLeCfWkH05mNjw",
     "name": "Bhakti World Sai Baba",
-    "stream_urls": [
-      "https://iskon2b.out.airtime.pro:8000/iskon2b_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://iskon2b.out.airtime.pro:8000/iskon2b_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1574,10 +1778,11 @@
   {
     "nanoid": "QcXZvDnZ2LqVAW",
     "name": "Bhakti World Shiva",
-    "stream_urls": [
-      "https://hot.out.airtime.pro:8000/hot_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://hot.out.airtime.pro:8000/hot_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1585,11 +1790,12 @@
   {
     "nanoid": "T6MBlPavDvjJxk",
     "name": "Bhakti World Shri Ram",
-    "stream_urls": [
-      "https://dard.out.airtime.pro:8000/dard_a",
-      "https://dard.out.airtime.pro/dard_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://dard.out.airtime.pro:8000/dard_a",
+        "https://dard.out.airtime.pro/dard_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1597,10 +1803,11 @@
   {
     "nanoid": "K547ULOBmpQCS2",
     "name": "Bhaktisudha",
-    "stream_urls": [
-      "https://n0a.radiojar.com/cfqyfcspcv8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://n0a.radiojar.com/cfqyfcspcv8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1608,10 +1815,11 @@
   {
     "nanoid": "FXmvmwsD0NQi4i",
     "name": "Bharat FM",
-    "stream_urls": [
-      "https://s2.radio.co/s44bb88930/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co/s44bb88930/listen"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -1620,10 +1828,11 @@
   {
     "nanoid": "kJCrTb2ujsaoHQ",
     "name": "Bhojpuri Song",
-    "stream_urls": [
-      "https://stream.zeno.fm/yz0ncx9gha0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yz0ncx9gha0uv"
+      ]
+    },
     "languages": [
       "bih"
     ]
@@ -1631,10 +1840,11 @@
   {
     "nanoid": "oZYjEamS3AiEyR",
     "name": "BIG 92.7 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/dbstwo3dvhhtv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dbstwo3dvhhtv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1642,10 +1852,11 @@
   {
     "nanoid": "D5Dkh0lQReDEBo",
     "name": "BIG 92.7 FM Tamil",
-    "stream_urls": [
-      "https://stream.zeno.fm/r2gn1pgm4qruv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/r2gn1pgm4qruv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1653,11 +1864,12 @@
   {
     "nanoid": "sln70CsBJfwC7i",
     "name": "BMZ Radio",
-    "stream_urls": [
-      "https://stream-59.zeno.fm/uy91e749fv8uv",
-      "https://stream.zeno.fm/uy91e749fv8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-59.zeno.fm/uy91e749fv8uv",
+        "https://stream.zeno.fm/uy91e749fv8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1665,10 +1877,11 @@
   {
     "nanoid": "9pmGK843Z5Hykd",
     "name": "Bol Punjabi Radio",
-    "stream_urls": [
-      "https://bolpunjabi-ekamsoftware.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://bolpunjabi-ekamsoftware.radioca.st/stream"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -1676,10 +1889,11 @@
   {
     "nanoid": "mR5VnXk9s4ltxK",
     "name": "Bolly 92.3 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/k4hwu4qa4qzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/k4hwu4qa4qzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1687,10 +1901,11 @@
   {
     "nanoid": "OmdPnVF9CUdxiE",
     "name": "BollyVibes Radio",
-    "stream_urls": [
-      "https://bollyvibes.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://bollyvibes.radioca.st/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1698,11 +1913,12 @@
   {
     "nanoid": "ooTZYBXkvJuuzX",
     "name": "Bollywood 2000s",
-    "stream_urls": [
-      "https://2.mystreaming.net/uber/bollywood2000s/icecast.audio",
-      "https://drive.uber.radio/uber/bollywood2000s/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://2.mystreaming.net/uber/bollywood2000s/icecast.audio",
+        "https://drive.uber.radio/uber/bollywood2000s/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1710,10 +1926,11 @@
   {
     "nanoid": "bGtaFByR6PWaCS",
     "name": "Bollywood 2010s",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/bollywood2010s/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/bollywood2010s/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1732,10 +1949,11 @@
   {
     "nanoid": "J8hyctXbfAstDG",
     "name": "Bollywood Classic Songs",
-    "stream_urls": [
-      "https://node-12.zeno.fm/60ef4p33vxquv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://node-12.zeno.fm/60ef4p33vxquv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1743,10 +1961,11 @@
   {
     "nanoid": "rFRqFfbbM3C1cp",
     "name": "Bollywood Dance",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/bollywooddance/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/bollywooddance/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1754,10 +1973,11 @@
   {
     "nanoid": "bqm4bCq1MjwgVA",
     "name": "Bollywood Diwali Party",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/bollywooddiwali/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/bollywooddiwali/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1765,10 +1985,11 @@
   {
     "nanoid": "R42y6RNnUhtbHb",
     "name": "Bollywood Gaane Purane",
-    "stream_urls": [
-      "https://stream.zeno.fm/6n6ewddtad0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6n6ewddtad0uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1776,10 +1997,11 @@
   {
     "nanoid": "WYOg7US1WjB61v",
     "name": "Bollywood Love",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/bollywoodlove/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1787,10 +2009,11 @@
   {
     "nanoid": "eGFuVc6WgkKtPn",
     "name": "Bollywood Mix",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/bollywoodmix/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/bollywoodmix/icecast.audio"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -1799,10 +2022,11 @@
   {
     "nanoid": "bJA1s17FHEwner",
     "name": "Bollywood Now",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/bollywoodnow/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1810,10 +2034,11 @@
   {
     "nanoid": "G1rK876XmotqnD",
     "name": "Bollywood Shahrukh Khan Hits",
-    "stream_urls": [
-      "https://2.mystreaming.net/uber/bollywoodshahrukhkhan/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://2.mystreaming.net/uber/bollywoodshahrukhkhan/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1821,10 +2046,11 @@
   {
     "nanoid": "um5Ty7rL4o2UGY",
     "name": "Bollywood Sonu Nigam Hits",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/uber/bollywoodsonunigam/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streaming.exclusive.radio/uber/bollywoodsonunigam/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1832,10 +2058,11 @@
   {
     "nanoid": "Z15pwSIngFBrsb",
     "name": "Bollywood Workout",
-    "stream_urls": [
-      "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/bollywoodworkout/icecast.audio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1843,10 +2070,11 @@
   {
     "nanoid": "5pj0k3V0KeFOM2",
     "name": "Bombay Beats",
-    "stream_urls": [
-      "https://strmreg.1.fm/bombaybeats_mobile_mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://strmreg.1.fm/bombaybeats_mobile_mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1854,10 +2082,11 @@
   {
     "nanoid": "BfggQjoiUGZURI",
     "name": "British Indian Tamil Radio",
-    "stream_urls": [
-      "https://hello.citrus3.com:2020/stream/britishindiantamilradio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://hello.citrus3.com:2020/stream/britishindiantamilradio"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1865,10 +2094,11 @@
   {
     "nanoid": "gy0Fiyv5tCBD6r",
     "name": "Cheemai FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/oogj1rc9cdctv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/oogj1rc9cdctv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1876,22 +2106,25 @@
   {
     "nanoid": "R291RhIOm3QOJt",
     "name": "Chellam FM",
-    "stream_urls": [
-      "https://sugu.radioca.st/stream/;stream/1"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://sugu.radioca.st/stream/;stream/1"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "7c6DZCEb0m5s8q",
     "name": "Chennai Live",
-    "stream_urls": [
-      "https://c2.radioboss.fm:8332/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c2.radioboss.fm:8332/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1899,10 +2132,11 @@
   {
     "nanoid": "2tU2uaTH59gIVG",
     "name": "Chillax FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/ohhsihm2byluv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ohhsihm2byluv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1922,10 +2156,11 @@
   {
     "nanoid": "qST6Vb29rtHnin",
     "name": "City FM Tamil",
-    "stream_urls": [
-      "https://stream.zeno.fm/r4znzpvskchvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/r4znzpvskchvv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -1933,10 +2168,11 @@
   {
     "nanoid": "aYj1F6dkJm7UQ8",
     "name": "Classic Radio Bhakti Sangeet",
-    "stream_urls": [
-      "https://stream.zeno.fm/epylmeu4zf7vv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/epylmeu4zf7vv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -1944,10 +2180,11 @@
   {
     "nanoid": "9py52M0OyPp2bV",
     "name": "Club Asia Radio",
-    "stream_urls": [
-      "https://s3.citrus3.com:8320/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s3.citrus3.com:8320/stream"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -1956,10 +2193,11 @@
   {
     "nanoid": "1MX1tFNDCgP40Q",
     "name": "Club FM",
-    "stream_urls": [
-      "https://strw3.openstream.co/1459"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://strw3.openstream.co/1459"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -2012,10 +2250,11 @@
   {
     "nanoid": "lyxAB1np1L1c5X",
     "name": "Covai FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/kzd2e3tx24zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/kzd2e3tx24zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2023,10 +2262,11 @@
   {
     "nanoid": "5Qd8Unlb9rEZ06",
     "name": "Dance Asia Radio",
-    "stream_urls": [
-      "https://s1.citrus3.com:8124/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s1.citrus3.com:8124/stream"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -2035,10 +2275,11 @@
   {
     "nanoid": "e01OvADM8C4e1b",
     "name": "Desi World Radio",
-    "stream_urls": [
-      "https://stream.zenolive.com/4mbfcn4mf24tv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zenolive.com/4mbfcn4mf24tv"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -2047,10 +2288,11 @@
   {
     "nanoid": "1nGPkz8XyRkQoE",
     "name": "Devaprasannam Radio",
-    "stream_urls": [
-      "https://devaprasannam-a9media.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://devaprasannam-a9media.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2058,10 +2300,11 @@
   {
     "nanoid": "IiGmlra89yLVLJ",
     "name": "Dharisanam FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/b741tfumhm8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/b741tfumhm8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2069,10 +2312,11 @@
   {
     "nanoid": "OOuSgYTx4vKuyE",
     "name": "Dil FM UK",
-    "stream_urls": [
-      "https://my4.radiolize.com/radio/8110/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://my4.radiolize.com/radio/8110/radio.mp3"
+      ]
+    },
     "languages": [
       "hin",
       "guj"
@@ -2081,10 +2325,11 @@
   {
     "nanoid": "GIit3SosJlAlGp",
     "name": "Diverse FM",
-    "stream_urls": [
-      "https://carol.epichosts.co.uk:8570/;"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://carol.epichosts.co.uk:8570/;"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -2093,22 +2338,25 @@
   {
     "nanoid": "JAU5jXkMH0EBt6",
     "name": "Dreamzz Punjabi Radio",
-    "stream_urls": [
-      "https://c7.radioboss.fm/stream/52"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c7.radioboss.fm/stream/52"
+      ]
+    },
     "languages": [
       "pan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "jPPPMbtALvde4f",
     "name": "DVN Radio",
-    "stream_urls": [
-      "https://ice31.securenetsystems.net/DVN"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ice31.securenetsystems.net/DVN"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -2116,10 +2364,11 @@
   {
     "nanoid": "8ru6zPUCHyoLBm",
     "name": "Eagle FM HD",
-    "stream_urls": [
-      "https://streaming.radio.co/sf833cd785/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/sf833cd785/listen"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2127,10 +2376,11 @@
   {
     "nanoid": "IzL8uMQQzt4Dx7",
     "name": "Easy 96 Radio",
-    "stream_urls": [
-      "https://ice8.securenetsystems.net/EASY96"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ice8.securenetsystems.net/EASY96"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2138,10 +2388,11 @@
   {
     "nanoid": "COUoR0QoBkYISH",
     "name": "EBC Radio 1170 AM",
-    "stream_urls": [
-      "https://ice7.securenetsystems.net/WWTR"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ice7.securenetsystems.net/WWTR"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2149,10 +2400,11 @@
   {
     "nanoid": "WSqFWjNrhO2cbU",
     "name": "ECR FM",
-    "stream_urls": [
-      "https://ecrfm-prabak78.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ecrfm-prabak78.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2160,10 +2412,11 @@
   {
     "nanoid": "yxNPXfKOpqus2D",
     "name": "Ente Radio 91.2 FM",
-    "stream_urls": [
-      "https://cast1.my-control-panel.com/proxy/enteradio/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://cast1.my-control-panel.com/proxy/enteradio/stream"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -2171,10 +2424,11 @@
   {
     "nanoid": "iy5dBdu8uWPjlm",
     "name": "Evergreen Tamil Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/2fhh49f3zf8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2fhh49f3zf8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2182,10 +2436,11 @@
   {
     "nanoid": "0yGDjMZpNtUjpe",
     "name": "Exclusively Bollywood",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/bollywood/icecast.audio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streaming.exclusive.radio/er/bollywood/icecast.audio"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -2194,10 +2449,11 @@
   {
     "nanoid": "XdIQwE5CE4Cvr9",
     "name": "Eye Tamil Radio",
-    "stream_urls": [
-      "https://streams.radio.co/s937ac5492/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streams.radio.co/s937ac5492/listen"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2205,10 +2461,11 @@
   {
     "nanoid": "WFrHve0QPKwMaT",
     "name": "Fever 104 FM",
-    "stream_urls": [
-      "https://radio.canstream.co.uk:8115/live.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio.canstream.co.uk:8115/live.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2216,10 +2473,11 @@
   {
     "nanoid": "aDQht4K5zt4V00",
     "name": "Filmy Mirchi",
-    "stream_urls": [
-      "https://stream-142.zeno.fm/6n6ewddtad0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-142.zeno.fm/6n6ewddtad0uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2227,24 +2485,27 @@
   {
     "nanoid": "Vc4ssZbNZs59wq",
     "name": "FM Arun Itanagar",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "RqgeZH5OKHMxmn",
     "name": "FM City 100.1",
-    "stream_urls": [
-      "https://stream-151.zeno.fm/4yfsm0d8n98uv",
-      "https://stream-158.zeno.fm/4yfsm0d8n98uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-151.zeno.fm/4yfsm0d8n98uv",
+        "https://stream-158.zeno.fm/4yfsm0d8n98uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -2252,61 +2513,70 @@
   {
     "nanoid": "m2zekgB8vKpHkg",
     "name": "FM Gold Chennai",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "tjBX0uaaMdt364",
     "name": "FM Gold Delhi",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "KiBCHFoztW7mqo",
     "name": "FM Gold Kolkata",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764kbps.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764kbps.m3u8"
+      ]
+    },
     "languages": [
       "ben",
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "SqzjEECjAFMX4V",
     "name": "FM Gold Mumbai",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Q9zxepe7Pe4wQD",
     "name": "FM Kottarakkara",
-    "stream_urls": [
-      "https://stream.zeno.fm/gqdb1rev5s8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gqdb1rev5s8uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -2314,162 +2584,187 @@
   {
     "nanoid": "KhtLH9CDYJJGM1",
     "name": "FM Nagercoil Kumari",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/chunklist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "83Kg2H01GDSZyO",
     "name": "FM Rainbow Chennai",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "p502suJGxkudNP",
     "name": "FM Rainbow Coimbatore",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ysaCRcysbCZY0j",
     "name": "FM Rainbow Cuttack",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "YuDSIi6css0ZMC",
     "name": "FM Rainbow Delhi",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "tczDnfMGiIC85J",
     "name": "FM Rainbow Hyderabad",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/chunklist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "l0FL3V71OFd56C",
     "name": "FM Rainbow Kochi",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "mal"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "c2NkC3iTsK6EsV",
     "name": "FM Rainbow Kolkata",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05864kbps.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05864kbps.m3u8"
+      ]
+    },
     "languages": [
       "ben",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "5bKp3BZg4iOMEL",
     "name": "FM Rainbow Mumbai",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "DTYrre9IhARtu3",
     "name": "FM Rainbow Puducherry",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "SEEPwrqdCMKFHv",
     "name": "FM Tragopan Kohima",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "nagamese"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "GmYQi2mOfBIqPn",
     "name": "FM Zoawi Aizawl",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mizo"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "wKClQqr3zmsX6O",
     "name": "Fusion Life Radio",
-    "stream_urls": [
-      "https://c28.radioboss.fm:18046/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c28.radioboss.fm:18046/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2477,10 +2772,11 @@
   {
     "nanoid": "perXef7yFNG8aI",
     "name": "Gazal Radio London",
-    "stream_urls": [
-      "https://streaming.webhostnepal.com/8018/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streaming.webhostnepal.com/8018/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2488,10 +2784,11 @@
   {
     "nanoid": "zIei2UMbrH63XB",
     "name": "German Tamil Radio",
-    "stream_urls": [
-      "https://gtr-unicast2u.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://gtr-unicast2u.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2499,11 +2796,12 @@
   {
     "nanoid": "m40QFIxv6lfQrT",
     "name": "Golden Voice Radio",
-    "stream_urls": [
-      "https://stream-159.zeno.fm/s3sqemewrg0uv",
-      "https://stream.zeno.fm/s3sqemewrg0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-159.zeno.fm/s3sqemewrg0uv",
+        "https://stream.zeno.fm/s3sqemewrg0uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2511,10 +2809,11 @@
   {
     "nanoid": "ffqL5BZURbuRwW",
     "name": "Goldy Bhal",
-    "stream_urls": [
-      "https://stream.zeno.fm/rfxzab5h3p8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rfxzab5h3p8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2522,10 +2821,11 @@
   {
     "nanoid": "i0ye92IvQzFIC5",
     "name": "Goldy Blast",
-    "stream_urls": [
-      "https://stream.zeno.fm/d0rwvvwa6p8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/d0rwvvwa6p8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2533,10 +2833,11 @@
   {
     "nanoid": "oHVygkLEFVfDiH",
     "name": "Goldy Cool",
-    "stream_urls": [
-      "https://stream.zeno.fm/3k1fb86tfm8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/3k1fb86tfm8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2544,10 +2845,11 @@
   {
     "nanoid": "qhslYRciV6YSmN",
     "name": "Goldy Evergreen",
-    "stream_urls": [
-      "https://stream.zeno.fm/n2fd0edh9k8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/n2fd0edh9k8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2555,10 +2857,11 @@
   {
     "nanoid": "QwgYxjen69gIRq",
     "name": "Goldy Garba",
-    "stream_urls": [
-      "https://stream.zeno.fm/n0zkr7wa6p8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/n0zkr7wa6p8uv"
+      ]
+    },
     "languages": [
       "guj"
     ]
@@ -2566,10 +2869,11 @@
   {
     "nanoid": "QDiPdC3Ru05iXh",
     "name": "Goldy Mukesh",
-    "stream_urls": [
-      "https://stream.zeno.fm/t39watus1p8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/t39watus1p8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2577,10 +2881,11 @@
   {
     "nanoid": "IX75iG7MisvgNn",
     "name": "Goldy Sarvaani",
-    "stream_urls": [
-      "https://stream.zeno.fm/c5bt9h37bm8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/c5bt9h37bm8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2588,22 +2893,25 @@
   {
     "nanoid": "mVeOOonSmdfCTP",
     "name": "Gunjan Radio",
-    "stream_urls": [
-      "https://streamasiacdn.atc-labs.com/gunjanradio.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streamasiacdn.atc-labs.com/gunjanradio.aac"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "fZHEB2rB2c8x7M",
     "name": "Gurbani Kirtan 24/7",
-    "stream_urls": [
-      "https://gurbanikirtan.radioca.st/start.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://gurbanikirtan.radioca.st/start.mp3"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -2611,10 +2919,11 @@
   {
     "nanoid": "nDtFdYt1C6EXRK",
     "name": "Gurgaon Ki Awaaz 107.8 FM",
-    "stream_urls": [
-      "https://gurgaonradio.out.airtime.pro/gurgaonradio_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://gurgaonradio.out.airtime.pro/gurgaonradio_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2931,10 +3240,11 @@
   {
     "nanoid": "YQJos4THHYXnQM",
     "name": "Harman Beats",
-    "stream_urls": [
-      "https://stream.zeno.fm/jmi0hwxrgmauv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/jmi0hwxrgmauv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2942,10 +3252,11 @@
   {
     "nanoid": "MRnImPoPMVPfrr",
     "name": "Harman Beats 2",
-    "stream_urls": [
-      "https://stream.zeno.fm/bxvvjamjkyfuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/bxvvjamjkyfuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2953,10 +3264,11 @@
   {
     "nanoid": "lymrTt85CoLXop",
     "name": "Harman DJ",
-    "stream_urls": [
-      "https://stream.zeno.fm/rtgshmfgkmtuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rtgshmfgkmtuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2964,10 +3276,11 @@
   {
     "nanoid": "PZ9GDpe8MxVytQ",
     "name": "Harris Jayaraj FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/ob6tjg8gulptv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ob6tjg8gulptv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2975,10 +3288,11 @@
   {
     "nanoid": "M2ms6iVc1RzpPA",
     "name": "Harris Jayaraj Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/0bhsthssutzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/0bhsthssutzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -2986,10 +3300,11 @@
   {
     "nanoid": "7lbhMwHMT27JdE",
     "name": "HawaMahal Radio",
-    "stream_urls": [
-      "https://stream-154.zeno.fm/csw7fv7sz1zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-154.zeno.fm/csw7fv7sz1zuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -2997,10 +3312,11 @@
   {
     "nanoid": "dVQYa8Re9ww0Bb",
     "name": "Healer Radio",
-    "stream_urls": [
-      "https://c13.radioboss.fm:8552/healerradio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c13.radioboss.fm:8552/healerradio"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3019,10 +3335,11 @@
   {
     "nanoid": "yfPdIfPNRqS6iu",
     "name": "Himal Radio - Hindi Filmy",
-    "stream_urls": [
-      "https://streaming.webhostnepal.com/8020/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streaming.webhostnepal.com/8020/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3030,10 +3347,11 @@
   {
     "nanoid": "BTgvlwKf4ZiT0G",
     "name": "Hindi Gold Radio",
-    "stream_urls": [
-      "https://azuracast.vibesounds.in:8010/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://azuracast.vibesounds.in:8010/radio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3041,10 +3359,11 @@
   {
     "nanoid": "T3HaMCjdhp4gXC",
     "name": "Hindi Retro",
-    "stream_urls": [
-      "https://stream.zeno.fm/v2zfmxef798uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/v2zfmxef798uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3052,10 +3371,11 @@
   {
     "nanoid": "VyNfnDlzlJrbe5",
     "name": "Hindvani Radio",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/129_medium.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/129_medium.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3063,12 +3383,13 @@
   {
     "nanoid": "mSIafefFbISe4s",
     "name": "Hits of Bollywood",
-    "stream_urls": [
-      "https://node-14.zeno.fm/rqqps6cbe3quv",
-      "https://stream.zeno.fm/8ty8szwpwfeuv",
-      "https://node-08.zeno.fm/a2gyqzwpwfeuv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://node-14.zeno.fm/rqqps6cbe3quv",
+        "https://stream.zeno.fm/8ty8szwpwfeuv",
+        "https://node-08.zeno.fm/a2gyqzwpwfeuv.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3076,10 +3397,11 @@
   {
     "nanoid": "GSmByUXUNEWHLO",
     "name": "Hits of Lata Mangeshkar",
-    "stream_urls": [
-      "https://stream.zeno.fm/g95zm67prfhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/g95zm67prfhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3098,10 +3420,11 @@
   {
     "nanoid": "KUEyPAtWkT4Ht0",
     "name": "IBC Tamil Radio",
-    "stream_urls": [
-      "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3109,10 +3432,11 @@
   {
     "nanoid": "MT2UV8dfTB6cvt",
     "name": "Ilayaraja Lite Radio",
-    "stream_urls": [
-      "https://psrlive2.listenon.in/irlite"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://psrlive2.listenon.in/irlite"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3131,10 +3455,11 @@
   {
     "nanoid": "i7nbvpVEX6uHGb",
     "name": "Ilayaraja Super Beats Radio",
-    "stream_urls": [
-      "https://psrlive2.listenon.in/irbeat"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://psrlive2.listenon.in/irbeat"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3142,10 +3467,11 @@
   {
     "nanoid": "HspzSwqTwjQG8a",
     "name": "ILC Tamil",
-    "stream_urls": [
-      "https://stream.zeno.fm/vewxk5336qzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/vewxk5336qzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3153,10 +3479,11 @@
   {
     "nanoid": "YDghrEm4Uij9K2",
     "name": "Inbam FM",
-    "stream_urls": [
-      "https://stream.radio.co/sf55ced545/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/sf55ced545/listen"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3164,10 +3491,11 @@
   {
     "nanoid": "fhSLcsgaEHTbdJ",
     "name": "Indian Link Radio",
-    "stream_urls": [
-      "https://indianlink1.radioca.st/;"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://indianlink1.radioca.st/;"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -3187,34 +3515,39 @@
   {
     "nanoid": "nVbQRS2mtR9inZ",
     "name": "Indifun Radio",
-    "stream_urls": [
-      "https://onlineradiobox.com/json/in/indifun/play"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://onlineradiobox.com/json/in/indifun/play"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "MONnfYOQcJuX7F",
     "name": "Indraprastha",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8"
+      ]
+    },
     "languages": [
       "urd"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bpQ1tYL7vKMUD2",
     "name": "Instrumental Music Radio",
-    "stream_urls": [
-      "https://azuracast.vibesounds.in:8030/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://azuracast.vibesounds.in:8030/radio.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3222,10 +3555,11 @@
   {
     "nanoid": "N4Gc7QZhCAs84K",
     "name": "Intense 102.9 FM",
-    "stream_urls": [
-      "https://ice6.securenetsystems.net/INTRADIO"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ice6.securenetsystems.net/INTRADIO"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -3234,10 +3568,11 @@
   {
     "nanoid": "DQ2Kz5XLQbDf6m",
     "name": "Isai FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/7b78sdv2x1zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7b78sdv2x1zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3245,10 +3580,11 @@
   {
     "nanoid": "oQYfJsjuxmdAw0",
     "name": "Isaiyaruvi FM",
-    "stream_urls": [
-      "https://cp1.hostcrate.com/8910/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://cp1.hostcrate.com/8910/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3256,10 +3592,11 @@
   {
     "nanoid": "lF8jvekRoHZ6TM",
     "name": "Jaipur Radio",
-    "stream_urls": [
-      "https://streamasiacdn.atc-labs.com/jaipurradio.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streamasiacdn.atc-labs.com/jaipurradio.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3274,6 +3611,7 @@
     "languages": [
       "kan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -3290,10 +3628,11 @@
   {
     "nanoid": "o5Y3Ln8Vmw9Di3",
     "name": "Jap Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/r3m0whh0kxquv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/r3m0whh0kxquv"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -3301,10 +3640,11 @@
   {
     "nanoid": "MiOqvSYX47ayQE",
     "name": "Jehovahrapha FM",
-    "stream_urls": [
-      "https://c22.radioboss.fm:8532/jehovahrapha"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c22.radioboss.fm:8532/jehovahrapha"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3312,11 +3652,12 @@
   {
     "nanoid": "onR61Xi1HLzYfO",
     "name": "Jesus Alive Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/qyb8s75nsceuv",
-      "https://stream.zenolive.com/qyb8s75nsceuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/qyb8s75nsceuv",
+        "https://stream.zenolive.com/qyb8s75nsceuv"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
@@ -3325,10 +3666,11 @@
   {
     "nanoid": "9aZnog26qtHHyf",
     "name": "JN FM Tamil",
-    "stream_urls": [
-      "https://stream.zeno.fm/0wck59rarchvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/0wck59rarchvv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3336,10 +3678,11 @@
   {
     "nanoid": "s1MqO85X5lx1ps",
     "name": "JN FM Tamil Classic",
-    "stream_urls": [
-      "https://stream.zeno.fm/qkdmq6d7kfhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/qkdmq6d7kfhvv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3347,10 +3690,11 @@
   {
     "nanoid": "x0rir3nTmj6I2Q",
     "name": "JU Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/60ef4p33vxquv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/60ef4p33vxquv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3358,10 +3702,11 @@
   {
     "nanoid": "9oAaHjwolICkzU",
     "name": "Kaathoram Live",
-    "stream_urls": [
-      "https://c30.radioboss.fm/stream/560"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c30.radioboss.fm/stream/560"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3369,10 +3714,11 @@
   {
     "nanoid": "bKnNkFDmwrt2YO",
     "name": "Kalabhavan Mani Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/s6hhy943w0hvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/s6hhy943w0hvv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3380,11 +3726,12 @@
   {
     "nanoid": "p8k7GXrZwX3x9r",
     "name": "Kalai FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/2vghnwshsqzuv.aac",
-      "https://stream.zenolive.com/2vghnwshsqzuv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2vghnwshsqzuv.aac",
+        "https://stream.zenolive.com/2vghnwshsqzuv.aac"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3392,10 +3739,11 @@
   {
     "nanoid": "VGgg18vGVNwf1S",
     "name": "Kancheeravam Radio",
-    "stream_urls": [
-      "https://radiosavre.com:8020/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radiosavre.com:8020/radio.mp3"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3403,10 +3751,11 @@
   {
     "nanoid": "gWdBFIiunf5YYL",
     "name": "Kannada Hits",
-    "stream_urls": [
-      "https://stream.zeno.fm/68snnbug8rhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/68snnbug8rhvv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -3414,10 +3763,11 @@
   {
     "nanoid": "CKLJX2L4fO1luv",
     "name": "Karur Life FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/k0qrmtts91zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/k0qrmtts91zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3425,10 +3775,11 @@
   {
     "nanoid": "GRqeUDigSCZiSZ",
     "name": "Kathiravan FM",
-    "stream_urls": [
-      "https://kathiravanfm-prabak78.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://kathiravanfm-prabak78.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3436,10 +3787,11 @@
   {
     "nanoid": "1KiTFEnJKxdNWk",
     "name": "Kaviyarasar Radio",
-    "stream_urls": [
-      "https://psrlive2.listenon.in/kavi"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://psrlive2.listenon.in/kavi"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3447,10 +3799,11 @@
   {
     "nanoid": "Wn0BVliM2zMAg6",
     "name": "KJ Yesudas Malayalam Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/9x1sw687nf9uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/9x1sw687nf9uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3458,10 +3811,11 @@
   {
     "nanoid": "8YbeAHU2ts1UkZ",
     "name": "Kripalu Bhakti Dhara Radio",
-    "stream_urls": [
-      "https://kbd.out.airtime.pro/kbd_b"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://kbd.out.airtime.pro/kbd_b"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3480,23 +3834,26 @@
   {
     "nanoid": "G2IsyoTv5WFd7C",
     "name": "KRPI 1550 AM Sher-E-Punjab",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAM_SC"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAM_SC"
+      ]
+    },
     "languages": [
       "pan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "r1P0RHGqMtcaXv",
     "name": "KS Chitra Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/aad4e51qz7zuv",
-      "https://stream-46.zeno.fm/aad4e51qz7zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/aad4e51qz7zuv",
+        "https://stream-46.zeno.fm/aad4e51qz7zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3504,10 +3861,11 @@
   {
     "nanoid": "lylk62SSPkyUWo",
     "name": "Kummalam Radio",
-    "stream_urls": [
-      "https://kummalam.stream.laut.fm/kummalam"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://kummalam.stream.laut.fm/kummalam"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3515,10 +3873,11 @@
   {
     "nanoid": "jzdlqLjtDYcQTo",
     "name": "Lankasri FM",
-    "stream_urls": [
-      "https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://rbx2.hnux.com/http://5984.cloudrad.io:8032/;stream.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3526,10 +3885,11 @@
   {
     "nanoid": "sxAJ6Y4KQXsaYF",
     "name": "Life FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/37tsftts91zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/37tsftts91zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3550,11 +3910,12 @@
   {
     "nanoid": "SOGMrRYi85yqoK",
     "name": "London Malayalam Radio",
-    "stream_urls": [
-      "https://ais-edge51-live365-dal02.cdnstream.com/a50671",
-      "https://ais-edge105-live365-dal02.cdnstream.com/a50671"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ais-edge51-live365-dal02.cdnstream.com/a50671",
+        "https://ais-edge105-live365-dal02.cdnstream.com/a50671"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3562,10 +3923,11 @@
   {
     "nanoid": "Q2ikTinJ5SSzPw",
     "name": "London Telugu Radio",
-    "stream_urls": [
-      "https://c8.radioboss.fm/stream/33"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c8.radioboss.fm/stream/33"
+      ]
+    },
     "languages": [
       "tel"
     ]
@@ -3573,10 +3935,11 @@
   {
     "nanoid": "9e8IugG4fNPNGL",
     "name": "Love Station Odisha",
-    "stream_urls": [
-      "https://stream-156.zeno.fm/dkpdmc8e0chvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-156.zeno.fm/dkpdmc8e0chvv"
+      ]
+    },
     "languages": [
       "ori"
     ]
@@ -3595,10 +3958,11 @@
   {
     "nanoid": "EJwLTvi5eOWIUn",
     "name": "Lyca Gold",
-    "stream_urls": [
-      "https://listen-lycaradio.sharp-stream.com/1035.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://listen-lycaradio.sharp-stream.com/1035.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3606,10 +3970,11 @@
   {
     "nanoid": "bBOemTC7OQdom8",
     "name": "M S Viswanathan FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/x7wc1xgllvsvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/x7wc1xgllvsvv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3617,10 +3982,11 @@
   {
     "nanoid": "nyhIjOrGAXLzVm",
     "name": "Madhur Sangeet",
-    "stream_urls": [
-      "https://stream.zeno.fm/8kqd6dp18vzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/8kqd6dp18vzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3628,10 +3994,11 @@
   {
     "nanoid": "z6J7M7MXYZyXjx",
     "name": "Madhur Sangeet Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/yv2k0dp18vzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yv2k0dp18vzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3639,10 +4006,11 @@
   {
     "nanoid": "z4qJWOQNtAkZmu",
     "name": "Malayalam 90s Hits",
-    "stream_urls": [
-      "https://stream.zeno.fm/gm3g9amzm0hvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gm3g9amzm0hvv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3650,10 +4018,11 @@
   {
     "nanoid": "36jQCetqggHwOB",
     "name": "Malayalam Bhakti Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/08e1vkshcc9uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/08e1vkshcc9uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3661,10 +4030,11 @@
   {
     "nanoid": "CWvA1Ao7ZHTtUb",
     "name": "Malayalam Evergreen",
-    "stream_urls": [
-      "https://stream-158.zeno.fm/5u6gkp9sp0hvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-158.zeno.fm/5u6gkp9sp0hvv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3672,10 +4042,11 @@
   {
     "nanoid": "VVUEOWovQZ5ixa",
     "name": "Malayalam Music Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/g8cx7tggb3quv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/g8cx7tggb3quv.aac"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3683,10 +4054,11 @@
   {
     "nanoid": "vFgbtZIgxwCw95",
     "name": "Malayalam Sadan",
-    "stream_urls": [
-      "https://stream-153.zeno.fm/8g9nvr1rkrhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-153.zeno.fm/8g9nvr1rkrhvv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3694,10 +4066,11 @@
   {
     "nanoid": "VngfwzbN5XquZ4",
     "name": "Mannargudi FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/8cyfy8vx34zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/8cyfy8vx34zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3705,10 +4078,11 @@
   {
     "nanoid": "x3w8xhmPsm3pru",
     "name": "Marudhara Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/eyxg23ky4x8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/eyxg23ky4x8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3716,10 +4090,11 @@
   {
     "nanoid": "5SJNB1mErw5aGq",
     "name": "Marymatha Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/g5ay9q4dgrruv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/g5ay9q4dgrruv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3727,36 +4102,41 @@
   {
     "nanoid": "6ARPZlYEQHoIRb",
     "name": "Mazhai FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/yu4c9ms3h2zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yu4c9ms3h2zuv"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "5vhYP8hoiId3KJ",
     "name": "MBC Best FM",
-    "stream_urls": [
-      "https://radio.mbconline.xyz/hls/bestfm.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio.mbconline.xyz/hls/bestfm.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "fra",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ainDVJcgFX7wXA",
     "name": "Megazone South",
-    "stream_urls": [
-      "https://vm65162.streamerr.co/listen/megazone_south/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://vm65162.streamerr.co/listen/megazone_south/radio.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3764,10 +4144,11 @@
   {
     "nanoid": "52j097sbsIR8pV",
     "name": "Mellisai FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/e9hsbbbey4zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/e9hsbbbey4zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3775,10 +4156,11 @@
   {
     "nanoid": "3WaB03ErpZmuf6",
     "name": "Melody Radio Telugu",
-    "stream_urls": [
-      "https://a1.asurahosting.com:9580/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://a1.asurahosting.com:9580/radio.mp3"
+      ]
+    },
     "languages": [
       "tel"
     ]
@@ -3786,10 +4168,11 @@
   {
     "nanoid": "vysN6PJoABFJDj",
     "name": "Minnal FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC.aac"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3797,10 +4180,11 @@
   {
     "nanoid": "mEn4wwCdkiJfFl",
     "name": "Mixify 90's Hits",
-    "stream_urls": [
-      "https://server.mixify.in/listen/listen/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://server.mixify.in/listen/listen/radio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3830,10 +4214,11 @@
   {
     "nanoid": "9QOj0GitkaNUIR",
     "name": "Mixify Evergreen Hits",
-    "stream_urls": [
-      "https://server.mixify.in/listen/evergreen/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://server.mixify.in/listen/evergreen/radio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3841,10 +4226,11 @@
   {
     "nanoid": "NWA4AzO31x3tTs",
     "name": "Mixify Hindi Hits",
-    "stream_urls": [
-      "https://server.mixify.in/listen/new_hits/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://server.mixify.in/listen/new_hits/radio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3852,10 +4238,11 @@
   {
     "nanoid": "ucIsd15mBPkbTB",
     "name": "Mohabbat Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/t2ekq8zsgtzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/t2ekq8zsgtzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3863,10 +4250,11 @@
   {
     "nanoid": "IoozY33xBjTtJg",
     "name": "Mohammed Rafi Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/6yqvumgfxtzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6yqvumgfxtzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3874,11 +4262,12 @@
   {
     "nanoid": "WY5Y2cAouHv5z0",
     "name": "Mohan Hits Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/wkqvzsg1238uv",
-      "https://psrlive4.listenon.in/mohan"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/wkqvzsg1238uv",
+        "https://psrlive4.listenon.in/mohan"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3886,10 +4275,11 @@
   {
     "nanoid": "lsebNbBe4vNCdz",
     "name": "Mohanlal Hits",
-    "stream_urls": [
-      "https://stream.zeno.fm/5vva7u4ts0quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/5vva7u4ts0quv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3897,10 +4287,11 @@
   {
     "nanoid": "erYecgX2Sbw24o",
     "name": "MTR FM",
-    "stream_urls": [
-      "https://radio.mediacp.eu/stream/mtr-fm/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio.mediacp.eu/stream/mtr-fm/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3908,10 +4299,11 @@
   {
     "nanoid": "fMHLGKBwlXKmwA",
     "name": "Mukesh Radio",
-    "stream_urls": [
-      "https://stream-014.zeno.fm/mrcz5sus1p8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-014.zeno.fm/mrcz5sus1p8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3919,11 +4311,12 @@
   {
     "nanoid": "HY2yt4bJyCcl40",
     "name": "Mukil FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/9s8119m1rzzuv",
-      "https://stream.zeno.fm/phv06yfkwzzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/9s8119m1rzzuv",
+        "https://stream.zeno.fm/phv06yfkwzzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3931,10 +4324,11 @@
   {
     "nanoid": "SlAwqqsnlgTB0u",
     "name": "Muthamil FM",
-    "stream_urls": [
-      "https://ec2.yesstreaming.net:2540/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ec2.yesstreaming.net:2540/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3942,10 +4336,11 @@
   {
     "nanoid": "EsXZE1OYJqdlNf",
     "name": "My Club Remix",
-    "stream_urls": [
-      "https://stream.zeno.fm/u7eee0hyzp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/u7eee0hyzp8uv"
+      ]
+    },
     "languages": [
       "hin",
       "ben"
@@ -3954,10 +4349,11 @@
   {
     "nanoid": "QyCyoIEdtblGw0",
     "name": "My Radio DJ",
-    "stream_urls": [
-      "https://stream.zeno.fm/84h97t3ewg0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/84h97t3ewg0uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3965,10 +4361,11 @@
   {
     "nanoid": "w7dqiqymRCAz1O",
     "name": "N Radio Live",
-    "stream_urls": [
-      "https://stream.zeno.fm/4yfsm0d8n98uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4yfsm0d8n98uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -3976,10 +4373,11 @@
   {
     "nanoid": "j3MS3xP0QkWWUA",
     "name": "Nakshatra Radio",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NAKSHATRA_S01AAC_SC"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/NAKSHATRA_S01AAC_SC"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -3987,10 +4385,11 @@
   {
     "nanoid": "K4ipNmQRqNw9AR",
     "name": "Namaste Bollywood Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/cqak4ap7by8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/cqak4ap7by8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -3998,10 +4397,11 @@
   {
     "nanoid": "BqkoJy4FX3cOyQ",
     "name": "Namm Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/6quh1pfnt1duv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6quh1pfnt1duv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4009,10 +4409,11 @@
   {
     "nanoid": "6FSvKMQ2yV9iAl",
     "name": "Namm Radio Gulf",
-    "stream_urls": [
-      "https://stream.zeno.fm/kgw2tp5p1y5tv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/kgw2tp5p1y5tv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4020,10 +4421,11 @@
   {
     "nanoid": "OQz7vPJEzEDOZq",
     "name": "Namm Radio Kannada",
-    "stream_urls": [
-      "https://stream.zenolive.com/bbs8prb015quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zenolive.com/bbs8prb015quv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4031,10 +4433,11 @@
   {
     "nanoid": "LXs5YQQDlRMEjJ",
     "name": "Namm Radio USA",
-    "stream_urls": [
-      "https://stream.zeno.fm/kc4wg3ent1duv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/kc4wg3ent1duv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4042,10 +4445,11 @@
   {
     "nanoid": "5TCmiEj4kLWCxd",
     "name": "Nanban FM",
-    "stream_urls": [
-      "https://nanbanfm-unicast2u.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://nanbanfm-unicast2u.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -4053,10 +4457,11 @@
   {
     "nanoid": "HY8rAzdP8ODu96",
     "name": "New Hits of Bollywood",
-    "stream_urls": [
-      "https://stream-146.zeno.fm/rqqps6cbe3quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-146.zeno.fm/rqqps6cbe3quv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4064,10 +4469,11 @@
   {
     "nanoid": "FyxlMPSvCv9pjL",
     "name": "NJ Sunrise Radio",
-    "stream_urls": [
-      "https://njsunrise.out.airtime.pro/njsunrise_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://njsunrise.out.airtime.pro/njsunrise_a"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -4075,10 +4481,11 @@
   {
     "nanoid": "4no3jnQHT1mwOY",
     "name": "NP 24 Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/8wk1s0pt008uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/8wk1s0pt008uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4086,10 +4493,11 @@
   {
     "nanoid": "RquWF2pjtcdDRI",
     "name": "Odisha Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/x23ttc8e0chvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/x23ttc8e0chvv"
+      ]
+    },
     "languages": [
       "ori"
     ]
@@ -4097,10 +4505,11 @@
   {
     "nanoid": "5AixXsibHrrKqy",
     "name": "Old Monk Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/pr0zc64zdy8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pr0zc64zdy8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4108,10 +4517,11 @@
   {
     "nanoid": "CJO7TOGPzfZlCL",
     "name": "Om Radio",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/OMRADIO_S01AAC_SC"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OMRADIO_S01AAC_SC"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -4119,10 +4529,11 @@
   {
     "nanoid": "o21irxDKYwkB1o",
     "name": "Oye India",
-    "stream_urls": [
-      "https://stream.zeno.fm/dw0605ca608uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dw0605ca608uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4130,10 +4541,11 @@
   {
     "nanoid": "3iFpILQpjnfNHI",
     "name": "Peace Radio",
-    "stream_urls": [
-      "https://peaceradio.out.airtime.pro/peaceradio_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://peaceradio.out.airtime.pro/peaceradio_a"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4141,10 +4553,11 @@
   {
     "nanoid": "QyOEm3pXUSTRrZ",
     "name": "Pollachi FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/f29eh57d3qzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/f29eh57d3qzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -4163,10 +4576,11 @@
   {
     "nanoid": "th7rw1sDFKzmD3",
     "name": "Pozhil FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/ssnf4ya44d0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ssnf4ya44d0uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -4174,10 +4588,11 @@
   {
     "nanoid": "tFQzincHzPXO4B",
     "name": "Pranayam Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/g2zves9gdwzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/g2zves9gdwzuv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4185,10 +4600,11 @@
   {
     "nanoid": "J4Nl8dAOLyNGDT",
     "name": "Psalms Radio",
-    "stream_urls": [
-      "https://s2.citrus3.com:8046/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s2.citrus3.com:8046/stream"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4196,22 +4612,25 @@
   {
     "nanoid": "44hIqmpCgk66If",
     "name": "Puneri Awaz 107.8 FM",
-    "stream_urls": [
-      "https://icecast.bkwsu.eu/radio-awaz-pune.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://icecast.bkwsu.eu/radio-awaz-pune.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "9cuGNXe5G57IHI",
     "name": "Raagam",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam64kbps.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam64kbps.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "kan",
@@ -4219,28 +4638,32 @@
       "tam",
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "WLSLzP0dZ5wde4",
     "name": "Radio 4 Public Health",
-    "stream_urls": [
-      "https://cast4.my-control-panel.com/proxy/demo4usv/live"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://cast4.my-control-panel.com/proxy/demo4usv/live"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "UQoW3mNqsSh6BF",
     "name": "Radio 24",
-    "stream_urls": [
-      "https://s7.everestcast.com:1155/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s7.everestcast.com:1155/stream"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
@@ -4261,10 +4684,11 @@
   {
     "nanoid": "fAsuQpJ0Wh4Jqg",
     "name": "Radio 90.5 FM",
-    "stream_urls": [
-      "https://ice42.securenetsystems.net/CR90"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/CR90"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4272,10 +4696,11 @@
   {
     "nanoid": "zhjgw7pw8AKrGj",
     "name": "Radio Aashiqanaa",
-    "stream_urls": [
-      "https://mars.streamerr.co/8154/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://mars.streamerr.co/8154/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4283,10 +4708,11 @@
   {
     "nanoid": "S8hpENPoA0KHJK",
     "name": "Radio Active 90.4 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/xwhhyc5nyk8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/xwhhyc5nyk8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4294,10 +4720,11 @@
   {
     "nanoid": "g0uTV12zg3IjHx",
     "name": "Radio AMR Kannada",
-    "stream_urls": [
-      "https://stream.zenolive.com/7g8axtgtsg0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zenolive.com/7g8axtgtsg0uv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4305,10 +4732,11 @@
   {
     "nanoid": "jSLKH85X6zqjJT",
     "name": "Radio Azad Hind 90.8 FM",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/uaphi"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/uaphi"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4328,10 +4756,11 @@
   {
     "nanoid": "7J9SiucK3CCQNn",
     "name": "Radio Baingan",
-    "stream_urls": [
-      "https://stream-141.zeno.fm/eyxg23ky4x8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-141.zeno.fm/eyxg23ky4x8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4339,10 +4768,11 @@
   {
     "nanoid": "Re0JikksnNksLY",
     "name": "Radio Bangla Net",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC"
+      ]
+    },
     "languages": [
       "ben"
     ]
@@ -4362,10 +4792,11 @@
   {
     "nanoid": "pYnLropLSUPE8A",
     "name": "Radio Bhumi 92.8 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/ybf1umk1k18uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ybf1umk1k18uv"
+      ]
+    },
     "languages": [
       "ben"
     ]
@@ -4385,22 +4816,25 @@
   {
     "nanoid": "cesqSBAvnTHkwO",
     "name": "Radio Bula Masti",
-    "stream_urls": [
-      "https://c7.radioboss.fm:18052/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c7.radioboss.fm:18052/stream"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "CsotllO9W7GW82",
     "name": "Radio BulBul",
-    "stream_urls": [
-      "https://stream.zeno.fm/1t5ceyhcxbruv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1t5ceyhcxbruv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4408,10 +4842,11 @@
   {
     "nanoid": "DihQzWzblGYE5N",
     "name": "Radio Central 24",
-    "stream_urls": [
-      "https://casper.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://casper.radioca.st/stream"
+      ]
+    },
     "languages": [
       "hin",
       "pan"
@@ -4420,11 +4855,12 @@
   {
     "nanoid": "s4VbTM275eFNF4",
     "name": "Radio City Kishore Kumar",
-    "stream_urls": [
-      "https://stream.zeno.fm/0ghtfp8ztm0uv",
-      "https://stream-48.zeno.fm/0ghtfp8ztm0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/0ghtfp8ztm0uv",
+        "https://stream-48.zeno.fm/0ghtfp8ztm0uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4432,10 +4868,11 @@
   {
     "nanoid": "jWVMqjlYDSEpFj",
     "name": "Radio Deewana",
-    "stream_urls": [
-      "https://stream.zeno.fm/x1q3r3qdxy8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/x1q3r3qdxy8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4443,10 +4880,11 @@
   {
     "nanoid": "JMb7OcyaNkP1Bl",
     "name": "Radio Dhwani",
-    "stream_urls": [
-      "https://static.s123-cdn-static-c.com/uploads/2568273/normal_5d8ba39d1261c.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://static.s123-cdn-static-c.com/uploads/2568273/normal_5d8ba39d1261c.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4454,10 +4892,11 @@
   {
     "nanoid": "7gpOixnxglTxTf",
     "name": "Radio Digital Malayali",
-    "stream_urls": [
-      "https://radio.digitalmalayali.in/listen/stream/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio.digitalmalayali.in/listen/stream/radio.mp3"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4465,22 +4904,25 @@
   {
     "nanoid": "yb4cjxtQEqyXTH",
     "name": "Radio Dil",
-    "stream_urls": [
-      "https://us3.streamingpulse.com/ssl/radiodil2"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://us3.streamingpulse.com/ssl/radiodil2"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "7i5TAgfna6kIgi",
     "name": "Radio Dipak",
-    "stream_urls": [
-      "https://stream.zeno.fm/2k6xfu1pvs8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2k6xfu1pvs8uv"
+      ]
+    },
     "languages": [
       "ben"
     ]
@@ -4488,10 +4930,11 @@
   {
     "nanoid": "doMf2hyKvOcWjD",
     "name": "Radio DS Mumbai",
-    "stream_urls": [
-      "https://streamasiacdn.atc-labs.com/radiods.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streamasiacdn.atc-labs.com/radiods.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4499,10 +4942,11 @@
   {
     "nanoid": "TE8o7VmqWh5tqq",
     "name": "Radio Dunia Odia",
-    "stream_urls": [
-      "https://stream.justneed.in:2087/listen/radio_dunia/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.justneed.in:2087/listen/radio_dunia/radio.mp3"
+      ]
+    },
     "languages": [
       "ori"
     ]
@@ -4510,10 +4954,11 @@
   {
     "nanoid": "LhhT8EAWh3jUjA",
     "name": "Radio Fuerza 3",
-    "stream_urls": [
-      "https://vivo.miradio.in:7039/live"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://vivo.miradio.in:7039/live"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4521,10 +4966,11 @@
   {
     "nanoid": "x7BQ77whchmCFi",
     "name": "Radio Girmit",
-    "stream_urls": [
-      "https://stream.radiojar.com/g6dgm6m6p3hvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/g6dgm6m6p3hvv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4532,10 +4978,11 @@
   {
     "nanoid": "KLaPuerbomztpx",
     "name": "Radio Gyansthali 89.6 FM",
-    "stream_urls": [
-      "https://streamasiacdn.atc-labs.com/gyansthali.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streamasiacdn.atc-labs.com/gyansthali.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4543,10 +4990,11 @@
   {
     "nanoid": "uzfS0h4kxcr9u0",
     "name": "Radio Hungama Bollywood Dil Se",
-    "stream_urls": [
-      "https://stream.zeno.fm/143d7gty24zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/143d7gty24zuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4554,10 +5002,11 @@
   {
     "nanoid": "WLMb9Cf3F6ZVL2",
     "name": "Radio Jagriti 90.4 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/kgdue4hmffhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/kgdue4hmffhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4565,10 +5014,11 @@
   {
     "nanoid": "p0PuKxYxYeeCwM",
     "name": "Radio Kasoot",
-    "stream_urls": [
-      "https://azuracast.radiokasoot.com/radio/8000/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://azuracast.radiokasoot.com/radio/8000/listen"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4576,10 +5026,11 @@
   {
     "nanoid": "Unojw3FCBkbm4x",
     "name": "Radio Keral",
-    "stream_urls": [
-      "https://ice31.securenetsystems.net/RADIOKERAL"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://ice31.securenetsystems.net/RADIOKERAL"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4587,10 +5038,11 @@
   {
     "nanoid": "LRyb7amfv8MEuh",
     "name": "Radio Kesari 90.0 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/7yhq985hnxhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7yhq985hnxhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4598,10 +5050,11 @@
   {
     "nanoid": "LxCJyhzxZK6zea",
     "name": "Radio Khushi 90.4 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/etf3x2h5rrhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/etf3x2h5rrhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4609,10 +5062,11 @@
   {
     "nanoid": "zozr5wmR49Yler",
     "name": "Radio Khushkhabri",
-    "stream_urls": [
-      "https://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3"
+      ]
+    },
     "languages": [
       "hin",
       "pan"
@@ -4621,10 +5075,11 @@
   {
     "nanoid": "xUbh3PTPKmzcVD",
     "name": "Radio Lata Mangeshkar",
-    "stream_urls": [
-      "https://stream.zeno.fm/87xam8pf7tzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/87xam8pf7tzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4643,10 +5098,11 @@
   {
     "nanoid": "jFjflDQmBGbOgf",
     "name": "Radio Madhoshi",
-    "stream_urls": [
-      "https://stream.zeno.fm/7rsl8fsccf8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7rsl8fsccf8uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4654,10 +5110,11 @@
   {
     "nanoid": "VSuehgk8T5z1mi",
     "name": "Radio Madhuban",
-    "stream_urls": [
-      "https://icecast.bkwsu.eu:8443/radiomadhuban.ogg"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://icecast.bkwsu.eu:8443/radiomadhuban.ogg"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4676,10 +5133,11 @@
   {
     "nanoid": "LYQDRjElikgsCv",
     "name": "Radio Malda",
-    "stream_urls": [
-      "https://stream.zeno.fm/10rt7tpf6ehvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/10rt7tpf6ehvv"
+      ]
+    },
     "languages": [
       "ben"
     ]
@@ -4687,10 +5145,11 @@
   {
     "nanoid": "4TNNf5SpL6H49T",
     "name": "Radio Manpasand",
-    "stream_urls": [
-      "https://c5.radioboss.fm:18125/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://c5.radioboss.fm:18125/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4698,10 +5157,11 @@
   {
     "nanoid": "Vq7DnTCikNUyox",
     "name": "Radio Mattoli 90.4 FM",
-    "stream_urls": [
-      "https://cast1.my-control-panel.com/proxy/radiomattoli/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://cast1.my-control-panel.com/proxy/radiomattoli/stream"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4709,10 +5169,11 @@
   {
     "nanoid": "0CWsETxOHNwVzc",
     "name": "Radio Media Village",
-    "stream_urls": [
-      "https://443-1.autopo.st/183/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://443-1.autopo.st/183/stream"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4720,10 +5181,11 @@
   {
     "nanoid": "xlfyXNM1dbGI08",
     "name": "Radio Mirchi Bengaluru",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06.mp3"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4731,10 +5193,11 @@
   {
     "nanoid": "nGH2lq30EfVMao",
     "name": "Radio Mirchi Hindi",
-    "stream_urls": [
-      "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://eu8.fastcast4u.com/proxy/clyedupq/stream"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4742,10 +5205,11 @@
   {
     "nanoid": "Nn6BUa7hfdp4ve",
     "name": "Radio Mythri",
-    "stream_urls": [
-      "https://stream.zeno.fm/ekthuu9bfwzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ekthuu9bfwzuv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4753,11 +5217,12 @@
   {
     "nanoid": "2z7tvvJTcw8KUW",
     "name": "Radio Namkin",
-    "stream_urls": [
-      "https://node-12.zeno.fm/yg1qhsbaqv5tv",
-      "https://stream.zeno.fm/yg1qhsbaqv5tv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://node-12.zeno.fm/yg1qhsbaqv5tv",
+        "https://stream.zeno.fm/yg1qhsbaqv5tv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4765,10 +5230,11 @@
   {
     "nanoid": "rPwEcuBOwNeuYl",
     "name": "Radio Naya Andaz",
-    "stream_urls": [
-      "https://radionayaandaz.out.airtime.pro/radionayaandaz_a"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radionayaandaz.out.airtime.pro/radionayaandaz_a"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4776,10 +5242,11 @@
   {
     "nanoid": "zpgGi8l6XFMIr2",
     "name": "Radio Nyra Hindi",
-    "stream_urls": [
-      "https://streams.radio.co/s8d06d0298/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streams.radio.co/s8d06d0298/listen"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4787,10 +5254,11 @@
   {
     "nanoid": "X055hO21PHWKH6",
     "name": "Radio Olive 106.3 FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4798,10 +5266,11 @@
   {
     "nanoid": "KERhdzu4wIexNS",
     "name": "Radio Olive Kids",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4809,10 +5278,11 @@
   {
     "nanoid": "ssRQC7m1up4y6x",
     "name": "Radio Olive Retro",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03_SC"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03_SC"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4820,11 +5290,12 @@
   {
     "nanoid": "UBxabUaqOAaQpW",
     "name": "Radio Onattukara",
-    "stream_urls": [
-      "https://stream.zeno.fm/fu94u25kqd0uv/;stream.mp3",
-      "https://stream.zeno.fm/fu94u25kqd0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/fu94u25kqd0uv/;stream.mp3",
+        "https://stream.zeno.fm/fu94u25kqd0uv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4832,11 +5303,12 @@
   {
     "nanoid": "9DjUpKwxmOaeIn",
     "name": "Radio Palakkad",
-    "stream_urls": [
-      "https://stream.zeno.fm/ddt8y2uhb2zuv",
-      "https://stream.zeno.fm/qgqrxfte41zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ddt8y2uhb2zuv",
+        "https://stream.zeno.fm/qgqrxfte41zuv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -4844,10 +5316,11 @@
   {
     "nanoid": "Bg39kdLClnW6T3",
     "name": "Radio Panchajanya",
-    "stream_urls": [
-      "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-8-27/24e94d7f-07dc-9d45-95d0-ddfbbda2b7ae.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-8-27/24e94d7f-07dc-9d45-95d0-ddfbbda2b7ae.mp3"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -4855,11 +5328,12 @@
   {
     "nanoid": "XnlUtV29DHnAzi",
     "name": "Radio Paramankurichi",
-    "stream_urls": [
-      "https://vpmurugun.radioca.st/autodj",
-      "https://vpmurugun.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://vpmurugun.radioca.st/autodj",
+        "https://vpmurugun.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -4867,12 +5341,13 @@
   {
     "nanoid": "qzau2I1PYizRhi",
     "name": "Radio Punjab Today",
-    "stream_urls": [
-      "https://stream.zeno.fm/019324w4ez4tv",
-      "https://stream.zeno.fm/5canbwkagwzuv",
-      "https://stream.zenolive.com/019324w4ez4tv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/019324w4ez4tv",
+        "https://stream.zeno.fm/5canbwkagwzuv",
+        "https://stream.zenolive.com/019324w4ez4tv"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -4880,10 +5355,11 @@
   {
     "nanoid": "J8Z0vshsX8WvYX",
     "name": "Radio Punjabi Mehak",
-    "stream_urls": [
-      "https://stream.zenolive.com/0xsvm1nr7a5tv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zenolive.com/0xsvm1nr7a5tv"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -4891,10 +5367,11 @@
   {
     "nanoid": "DanlJSShYC242f",
     "name": "Radio Punjabi Virsa",
-    "stream_urls": [
-      "https://node-15.zeno.fm/vpak30btzwzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://node-15.zeno.fm/vpak30btzwzuv"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -4902,10 +5379,11 @@
   {
     "nanoid": "3HfhfLFqksQBv6",
     "name": "Radio Quarantine Kolkata",
-    "stream_urls": [
-      "https://stream-173.zeno.fm/krk4kw830tzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-173.zeno.fm/krk4kw830tzuv"
+      ]
+    },
     "languages": [
       "ben"
     ]
@@ -4913,10 +5391,11 @@
   {
     "nanoid": "c6e4svNPg6sx2B",
     "name": "Radio Raibar",
-    "stream_urls": [
-      "https://cdn1.mediaisyou.com/radioraibar.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://cdn1.mediaisyou.com/radioraibar.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4924,11 +5403,12 @@
   {
     "nanoid": "3hsNE5WgTWHkUO",
     "name": "Radio Rang 89.6 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/44r9x09cqchvv",
-      "https://stream.zeno.fm/n58tt09cqchvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/44r9x09cqchvv",
+        "https://stream.zeno.fm/n58tt09cqchvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4936,10 +5416,11 @@
   {
     "nanoid": "QDAQBraMH3d5sk",
     "name": "Radio Retro Bollywood",
-    "stream_urls": [
-      "https://stream.zeno.fm/g372rxef798uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/g372rxef798uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4970,10 +5451,11 @@
   {
     "nanoid": "ybacaCMv78OIdi",
     "name": "Radio Risham Punjabi",
-    "stream_urls": [
-      "https://stream.zeno.fm/4pd041xv1a0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4pd041xv1a0uv"
+      ]
+    },
     "languages": [
       "pan"
     ]
@@ -4981,10 +5463,11 @@
   {
     "nanoid": "g3SoqcpeTdqbdV",
     "name": "Radio Sangam",
-    "stream_urls": [
-      "https://streaming.radio.co/s58948a3f0/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/s58948a3f0/listen"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -4992,10 +5475,11 @@
   {
     "nanoid": "sHzq4rQyIrjLhW",
     "name": "Radio Saptarang",
-    "stream_urls": [
-      "https://stream-58.zeno.fm/ttcsc4tf8yzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-58.zeno.fm/ttcsc4tf8yzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5003,10 +5487,11 @@
   {
     "nanoid": "BUxVRbPvvCuS4g",
     "name": "Radio SBS",
-    "stream_urls": [
-      "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5014,10 +5499,11 @@
   {
     "nanoid": "cf21e00DYR85n9",
     "name": "Radio sgmasti",
-    "stream_urls": [
-      "https://streamasiacdn.atc-labs.com/radiosgmasti.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streamasiacdn.atc-labs.com/radiosgmasti.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5025,10 +5511,11 @@
   {
     "nanoid": "2Jzg4xvE61c5kK",
     "name": "Radio Suno 91.7 FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -5036,10 +5523,11 @@
   {
     "nanoid": "g7QdU1ElXbvhJ2",
     "name": "Radio Suno Tamil",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5047,10 +5535,11 @@
   {
     "nanoid": "XLXhwiDCDZJoxW",
     "name": "Radio Tarana",
-    "stream_urls": [
-      "https://peridot.streamguys1.com:7150/Tarana.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://peridot.streamguys1.com:7150/Tarana.aac"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5058,10 +5547,11 @@
   {
     "nanoid": "AukgITw9BRUNIi",
     "name": "Radio Tirur",
-    "stream_urls": [
-      "https://sonic01.instainternet.com/8002/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://sonic01.instainternet.com/8002/stream"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -5069,10 +5559,11 @@
   {
     "nanoid": "zca8oPdUavmHOr",
     "name": "Radio Treetal Bangla",
-    "stream_urls": [
-      "https://stream.radiotreetal.com/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.radiotreetal.com/listen"
+      ]
+    },
     "languages": [
       "ben"
     ]
@@ -5080,10 +5571,11 @@
   {
     "nanoid": "ACsOTP6HHhHwu4",
     "name": "Radio Udaan",
-    "stream_urls": [
-      "https://stream.radioudaan.com/listen/radio_udaan/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.radioudaan.com/listen/radio_udaan/radio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5103,10 +5595,11 @@
   {
     "nanoid": "1DKC9fdTOtCmmt",
     "name": "Radio Voxa",
-    "stream_urls": [
-      "https://stream.zeno.fm/zrfx7zy2wwzuv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/zrfx7zy2wwzuv.aac"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -5114,10 +5607,11 @@
   {
     "nanoid": "w5NP7PJT4RH8Fz",
     "name": "Radio Vrishti",
-    "stream_urls": [
-      "https://stream.zeno.fm/bps115unz5uvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/bps115unz5uvv"
+      ]
+    },
     "languages": [
       "bih",
       "hin"
@@ -5126,10 +5620,11 @@
   {
     "nanoid": "8yD9zWIOgxpeTb",
     "name": "Radio Welcome 90.8 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/2tm4yz0pvxhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2tm4yz0pvxhvv"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
@@ -5138,10 +5633,11 @@
   {
     "nanoid": "i2OLrHY1w7QCB4",
     "name": "Radio Wow",
-    "stream_urls": [
-      "https://stream.zeno.fm/d22wrdbst5quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/d22wrdbst5quv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5149,10 +5645,11 @@
   {
     "nanoid": "HFEJbgxfbH8QpB",
     "name": "radioBollyFM",
-    "stream_urls": [
-      "https://stream.zeno.fm/zu59ykebs2zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/zu59ykebs2zuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5160,10 +5657,11 @@
   {
     "nanoid": "PeEaRvzVIcm74N",
     "name": "RadioNev",
-    "stream_urls": [
-      "https://a7.asurahosting.com:8140/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://a7.asurahosting.com:8140/radio.mp3"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
@@ -5183,22 +5681,25 @@
   {
     "nanoid": "9mIhhJOkvXqdY3",
     "name": "Rainbow Kannada Kaamanbilu",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8"
+      ]
+    },
     "languages": [
       "kan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "0eZZmTWdQGTwCn",
     "name": "Rajiv Dixit Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/heqderzet68uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/heqderzet68uv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5206,10 +5707,11 @@
   {
     "nanoid": "4iaa2NCG49aG2F",
     "name": "Rangeela Radio",
-    "stream_urls": [
-      "https://rangeelaradio.radioca.st/;"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://rangeelaradio.radioca.st/;"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5217,10 +5719,11 @@
   {
     "nanoid": "OKS88fAcoZRyTS",
     "name": "Red FM 93.5",
-    "stream_urls": [
-      "https://stream-174.zeno.fm/q97eczydqrhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-174.zeno.fm/q97eczydqrhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5228,10 +5731,11 @@
   {
     "nanoid": "fwC0zTfNd1Ilrx",
     "name": "Replay News",
-    "stream_urls": [
-      "https://replaynewshi.ice.infomaniak.ch/replaynewshi-128.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://replaynewshi.ice.infomaniak.ch/replaynewshi-128.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5239,10 +5743,11 @@
   {
     "nanoid": "nb9DIDxN1bnpD9",
     "name": "Retro Ma",
-    "stream_urls": [
-      "https://stream-154.zeno.fm/b6augfmdanzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-154.zeno.fm/b6augfmdanzuv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -5250,10 +5755,11 @@
   {
     "nanoid": "VEyqlJspARQMoJ",
     "name": "Rocker Radio Geetmala",
-    "stream_urls": [
-      "https://stream.zeno.fm/du9443htcfhvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/du9443htcfhvv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5261,10 +5767,11 @@
   {
     "nanoid": "rL2OQ5ueNB2zXY",
     "name": "Roobam FM",
-    "stream_urls": [
-      "https://s3.radio.co/sadfae7495/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s3.radio.co/sadfae7495/listen"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5272,10 +5779,11 @@
   {
     "nanoid": "fRT18Tq49tc506",
     "name": "Roq Raw Radio",
-    "stream_urls": [
-      "https://mystation.micast.media/radio/8090/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://mystation.micast.media/radio/8090/radio.mp3"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5283,10 +5791,11 @@
   {
     "nanoid": "UH5iFb5gIdcya0",
     "name": "S Janaki Radio",
-    "stream_urls": [
-      "https://psrlive2.listenon.in/janaki"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://psrlive2.listenon.in/janaki"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5294,10 +5803,11 @@
   {
     "nanoid": "zyoeHDcGvQqNlJ",
     "name": "Sahara FM Tamil",
-    "stream_urls": [
-      "https://azuracast.vibesounds.in:8000/radio.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://azuracast.vibesounds.in:8000/radio.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5305,10 +5815,11 @@
   {
     "nanoid": "DMCRCo6zLplyJL",
     "name": "Sakkath Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/3e6k4ryerd0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/3e6k4ryerd0uv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -5316,10 +5827,11 @@
   {
     "nanoid": "bGpNXlXeYansT0",
     "name": "Sakkath Radio Kannada",
-    "stream_urls": [
-      "https://node-31.zeno.fm/fcsk9ryerd0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://node-31.zeno.fm/fcsk9ryerd0uv"
+      ]
+    },
     "languages": [
       "kan"
     ]
@@ -5327,24 +5839,27 @@
   {
     "nanoid": "grxcgz220560bP",
     "name": "Samvadita Mumbai",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ZLfAp3gOC3xbWT",
     "name": "Sandesh Radio",
-    "stream_urls": [
-      "https://radio.garden/api/ara/content/listen/Myo7zNpV/channel.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio.garden/api/ara/content/listen/Myo7zNpV/channel.mp3"
+      ]
+    },
     "languages": [
       "guj",
       "hin"
@@ -5353,10 +5868,11 @@
   {
     "nanoid": "bqcubU7MJNzqPL",
     "name": "Sangeet 106.1 FM",
-    "stream_urls": [
-      "https://www.radiomast.io/stream/22e2c991-fc0c-4242-8cba-0a64d0aea809/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://www.radiomast.io/stream/22e2c991-fc0c-4242-8cba-0a64d0aea809/listen"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5364,12 +5880,13 @@
   {
     "nanoid": "CRdVipwUEBEHwH",
     "name": "Sangeet Samvaad",
-    "stream_urls": [
-      "https://n10.radiojar.com/7mh06pa8uwzuv.mp3",
-      "https://n08.radiojar.com/7mh06pa8uwzuv.mp3",
-      "https://ample.radiojar.com/7mh06pa8uwzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://n10.radiojar.com/7mh06pa8uwzuv.mp3",
+        "https://n08.radiojar.com/7mh06pa8uwzuv.mp3",
+        "https://ample.radiojar.com/7mh06pa8uwzuv"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5377,10 +5894,11 @@
   {
     "nanoid": "Dhl2mPM30ZClVn",
     "name": "Sathya Sai Discourse",
-    "stream_urls": [
-      "https://stream.sssmediacentre.org:8443/discourse"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.sssmediacentre.org:8443/discourse"
+      ]
+    },
     "languages": [
       "tel",
       "hin"
@@ -5400,10 +5918,11 @@
   {
     "nanoid": "mPjCXioTssTmA1",
     "name": "Shripad Radio",
-    "stream_urls": [
-      "https://shripadradio.radioca.st/;"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://shripadradio.radioca.st/;"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
@@ -5412,10 +5931,11 @@
   {
     "nanoid": "VXcldZl7uc86Ds",
     "name": "Shuddh Desi Radio",
-    "stream_urls": [
-      "https://streamer.radio.co/se30891e37/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/se30891e37/listen"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5423,10 +5943,11 @@
   {
     "nanoid": "0eorkyhTNjMRrJ",
     "name": "Sirpi FM",
-    "stream_urls": [
-      "https://sirpifmhd-unicast2u.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://sirpifmhd-unicast2u.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5434,10 +5955,11 @@
   {
     "nanoid": "Bsi41LJHvZF2dt",
     "name": "Sitara FM",
-    "stream_urls": [
-      "https://server6.radio-streams.net:18048/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://server6.radio-streams.net:18048/stream"
+      ]
+    },
     "languages": [
       "hin",
       "urd"
@@ -5446,10 +5968,11 @@
   {
     "nanoid": "PX3Snw5zwwspnm",
     "name": "Sivan Radio",
-    "stream_urls": [
-      "https://sivanradio.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://sivanradio.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5457,10 +5980,11 @@
   {
     "nanoid": "IGdZp0iCXYxjWJ",
     "name": "SLBC Tamil National Service",
-    "stream_urls": [
-      "https://stream.zeno.fm/xekhrn4zetzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/xekhrn4zetzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5468,10 +5992,11 @@
   {
     "nanoid": "zvkj2rLQ6UTzqc",
     "name": "Sneh Bhojpuri",
-    "stream_urls": [
-      "https://stream.zeno.fm/zqyhigwwo5mvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/zqyhigwwo5mvv"
+      ]
+    },
     "languages": [
       "bih"
     ]
@@ -5479,10 +6004,11 @@
   {
     "nanoid": "hrcANNJiWmnYVu",
     "name": "Sooriyan FM",
-    "stream_urls": [
-      "https://radio.lotustechnologieslk.net:8006/;stream.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio.lotustechnologieslk.net:8006/;stream.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5490,10 +6016,11 @@
   {
     "nanoid": "DNvpdD1vy20YjK",
     "name": "Spice FM",
-    "stream_urls": [
-      "https://spice988fm.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://spice988fm.radioca.st/stream"
+      ]
+    },
     "languages": [
       "hin",
       "pan"
@@ -5502,10 +6029,11 @@
   {
     "nanoid": "dYkHh1Gdaeb6Uz",
     "name": "SS Tamil Radio",
-    "stream_urls": [
-      "https://stream.rcast.net/68750"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.rcast.net/68750"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5513,10 +6041,11 @@
   {
     "nanoid": "W7lYva83O4OJbi",
     "name": "Sun Tamil Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/yavek61461zuv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yavek61461zuv.aac"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5524,10 +6053,11 @@
   {
     "nanoid": "JDl1KSzny3HNxv",
     "name": "Sunrise Radio",
-    "stream_urls": [
-      "https://stream1.themediasite.co.uk/8070/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream1.themediasite.co.uk/8070/stream"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -5536,10 +6066,11 @@
   {
     "nanoid": "Tlaxu0hIEkzWMP",
     "name": "Suvidha Radio",
-    "stream_urls": [
-      "https://my.ssl-stream.com/Suvidha_Radio"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://my.ssl-stream.com/Suvidha_Radio"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5547,10 +6078,11 @@
   {
     "nanoid": "VoDx2Hr8NqkSIJ",
     "name": "Swaranjali",
-    "stream_urls": [
-      "https://stream.zeno.fm/x7mve2vt01zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/x7mve2vt01zuv"
+      ]
+    },
     "languages": [
       "mal"
     ]
@@ -5558,10 +6090,11 @@
   {
     "nanoid": "AyubA79W2sJNYz",
     "name": "Tamil Amuthu Bakthi Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/bpc3ucypmm0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/bpc3ucypmm0uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5569,10 +6102,11 @@
   {
     "nanoid": "C6XTZUd4adimt3",
     "name": "Tamil Amuthu Chennai Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/k9e5pmbktp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/k9e5pmbktp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5580,10 +6114,11 @@
   {
     "nanoid": "eOjOEmtd8E0fT6",
     "name": "Tamil Amuthu Covai Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/dzxv07vktp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dzxv07vktp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5591,10 +6126,11 @@
   {
     "nanoid": "uMdlIgQbiG3Fpp",
     "name": "Tamil Amuthu Kovilpatti Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/4cmhxc3ktp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4cmhxc3ktp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5602,10 +6138,11 @@
   {
     "nanoid": "S1ft0zbK5C3TnN",
     "name": "Tamil Amuthu Madurai Radio",
-    "stream_urls": [
-      "https://stream-156.zeno.fm/utmhndkgtp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-156.zeno.fm/utmhndkgtp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5613,10 +6150,11 @@
   {
     "nanoid": "CpbVS5WtEBGkr3",
     "name": "Tamil Amuthu Mellisai Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/bfh4ywts2f8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/bfh4ywts2f8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5624,10 +6162,11 @@
   {
     "nanoid": "rmj84DGSk7zULV",
     "name": "Tamil Amuthu Nellai Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/gdkvpstgtp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gdkvpstgtp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5635,10 +6174,11 @@
   {
     "nanoid": "y8zIKbOOUvZgrk",
     "name": "Tamil Amuthu Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/p88vvwd0gm0uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/p88vvwd0gm0uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5646,10 +6186,11 @@
   {
     "nanoid": "L1vM9lHFR6h0sL",
     "name": "Tamil Amuthu Sivakasi Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/nxggffwgtp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/nxggffwgtp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5657,10 +6198,11 @@
   {
     "nanoid": "fPxn33Xizpilz8",
     "name": "Tamil Amuthu Trichy Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/feyrkb9htp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/feyrkb9htp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5668,10 +6210,11 @@
   {
     "nanoid": "UQ2CoINyxah9x3",
     "name": "Tamil Comedy Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/tmgktm50dzzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/tmgktm50dzzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5679,10 +6222,11 @@
   {
     "nanoid": "lvVTfCHuYUmpqq",
     "name": "Tamil Katerumbu FM",
-    "stream_urls": [
-      "https://tamilkaterumbufm-prabak78.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://tamilkaterumbufm-prabak78.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5690,10 +6234,11 @@
   {
     "nanoid": "dADecIXjluMq51",
     "name": "Tamil Latest Hits",
-    "stream_urls": [
-      "https://stream.zeno.fm/dkxftg6k7tzuv.aac"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dkxftg6k7tzuv.aac"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5701,10 +6246,11 @@
   {
     "nanoid": "TqoyAzXiIJJJ0E",
     "name": "Tamil Panpalai Gold",
-    "stream_urls": [
-      "https://tamilpanpalai.radioca.st/ind"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://tamilpanpalai.radioca.st/ind"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5712,10 +6258,11 @@
   {
     "nanoid": "Vbp37aiXezmy7d",
     "name": "Tamil Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/ncw879a2h8quv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ncw879a2h8quv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5723,10 +6270,11 @@
   {
     "nanoid": "Cy8w6RDyJacdln",
     "name": "Tamil Ragam",
-    "stream_urls": [
-      "https://cast4.asurahosting.com/proxy/neville/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://cast4.asurahosting.com/proxy/neville/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5734,10 +6282,11 @@
   {
     "nanoid": "v4R769fvhbVMec",
     "name": "Tamilthai Radio",
-    "stream_urls": [
-      "https://radio.massstream.net/8010/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio.massstream.net/8010/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5756,10 +6305,11 @@
   {
     "nanoid": "DoySoTTo8MI3Xa",
     "name": "Thaalam Radio",
-    "stream_urls": [
-      "https://thaalam.out.airtime.pro/thaalam_b"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://thaalam.out.airtime.pro/thaalam_b"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5779,10 +6329,11 @@
   {
     "nanoid": "7H6TqB4shT6cuc",
     "name": "Thamilaruvi Radio Germany",
-    "stream_urls": [
-      "https://servidor18-4.brlogic.com:7740/live"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://servidor18-4.brlogic.com:7740/live"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5790,10 +6341,11 @@
   {
     "nanoid": "w5xujGa4FgTUQy",
     "name": "Thandora FM",
-    "stream_urls": [
-      "https://stream-152.zeno.fm/7us8bucomafvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream-152.zeno.fm/7us8bucomafvv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5801,10 +6353,11 @@
   {
     "nanoid": "dHdD4Md79nJyh8",
     "name": "Thayagam Tamil Radio",
-    "stream_urls": [
-      "https://s3.yesstreaming.net:17045/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s3.yesstreaming.net:17045/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5812,10 +6365,11 @@
   {
     "nanoid": "6RfldGgfEP16ZM",
     "name": "The Better FM",
-    "stream_urls": [
-      "https://iceant.eclipse-streaming.co.za:8443/TWR-music.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://iceant.eclipse-streaming.co.za:8443/TWR-music.mp3"
+      ]
+    },
     "languages": [
       "eng",
       "hin"
@@ -5824,11 +6378,12 @@
   {
     "nanoid": "B5ROCVOcuUHPVL",
     "name": "The Leader FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/wg4b845c2wzuv",
-      "https://stream.zeno.fm/whwy245c2wzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/wg4b845c2wzuv",
+        "https://stream.zeno.fm/whwy245c2wzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5836,10 +6391,11 @@
   {
     "nanoid": "Q1xbNdKPerB6L7",
     "name": "Thenaruvi FM",
-    "stream_urls": [
-      "https://thenaruvivaanoli.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://thenaruvivaanoli.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5847,10 +6403,11 @@
   {
     "nanoid": "b9hs8XNCCHzMS6",
     "name": "Thendral FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/xzt706p3h2zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/xzt706p3h2zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5858,10 +6415,11 @@
   {
     "nanoid": "OMP9y2GE3Wc5cP",
     "name": "Thenral World Radio",
-    "stream_urls": [
-      "https://thenralw.radioca.st/LiveStream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://thenralw.radioca.st/LiveStream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5869,10 +6427,11 @@
   {
     "nanoid": "3t2kR0DQ22Mu2h",
     "name": "Thuli Vaanoli",
-    "stream_urls": [
-      "https://s4.voscast.com:8735/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s4.voscast.com:8735/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5891,13 +6450,15 @@
   {
     "nanoid": "2FvSlZJDeaCFuQ",
     "name": "Time FM",
-    "stream_urls": [
-      "https://neramfm.com:8000/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://neramfm.com:8000/stream"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -5914,10 +6475,11 @@
   {
     "nanoid": "lwyEm08hA5rsdN",
     "name": "TRT Tamil Oli",
-    "stream_urls": [
-      "https://radio13.pro-fhi.net:19236/stream.mp3"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://radio13.pro-fhi.net:19236/stream.mp3"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5925,10 +6487,11 @@
   {
     "nanoid": "PUSJn3lh5Piib5",
     "name": "Tube Tamil FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/p5k41f436qzuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/p5k41f436qzuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5936,10 +6499,11 @@
   {
     "nanoid": "NCaxwKnEyuqSMm",
     "name": "Tune India Radio",
-    "stream_urls": [
-      "https://s2.radio.co/se5e166e2f/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co/se5e166e2f/listen"
+      ]
+    },
     "languages": [
       "hin"
     ]
@@ -5947,11 +6511,12 @@
   {
     "nanoid": "8jeqJ2wZy6T1pS",
     "name": "Ujala Radio",
-    "stream_urls": [
-      "https://server4.ujala.nl/stream/2/listen.mp3",
-      "https://stream.ujala.nl/ujala"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://server4.ujala.nl/stream/2/listen.mp3",
+        "https://stream.ujala.nl/ujala"
+      ]
+    },
     "languages": [
       "hin",
       "nld"
@@ -5960,10 +6525,11 @@
   {
     "nanoid": "FIw7GtJplXSKyC",
     "name": "Ullasam FM",
-    "stream_urls": [
-      "https://eu10.fastcast4u.com:6740/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://eu10.fastcast4u.com:6740/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5971,10 +6537,11 @@
   {
     "nanoid": "9E4lkq2eQgymKv",
     "name": "Vadivelu Comedy Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/02n962ezyp8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/02n962ezyp8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5982,10 +6549,11 @@
   {
     "nanoid": "tdJgJxRZ0fEXN2",
     "name": "Vagai Tamil FM",
-    "stream_urls": [
-      "https://vtfm2020-vtfm.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://vtfm2020-vtfm.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -5993,11 +6561,12 @@
   {
     "nanoid": "ybnllq9up813lF",
     "name": "Vaigai FM",
-    "stream_urls": [
-      "https://cast1.asurahosting.com/proxy/geethan3/stream",
-      "https://cast1.my-control-panel.com/proxy/geethan3/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://cast1.asurahosting.com/proxy/geethan3/stream",
+        "https://cast1.my-control-panel.com/proxy/geethan3/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6005,10 +6574,11 @@
   {
     "nanoid": "pN3UtjEMoQmIgC",
     "name": "Valipokan FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/dcts7v7sef9uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dcts7v7sef9uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6016,10 +6586,11 @@
   {
     "nanoid": "JnkXKcZtgNjFTj",
     "name": "VanavilFM",
-    "stream_urls": [
-      "https://s7.yesstreaming.net:9000/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s7.yesstreaming.net:9000/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6027,10 +6598,11 @@
   {
     "nanoid": "7w2a2ZocYYZJGx",
     "name": "VanavilFM - AR Rahman Radio",
-    "stream_urls": [
-      "https://s7.yesstreaming.net:8038/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s7.yesstreaming.net:8038/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6038,10 +6610,11 @@
   {
     "nanoid": "aTMVwmpRFJJZWR",
     "name": "VanavilFM - Radio Maestro",
-    "stream_urls": [
-      "https://s7.yesstreaming.net:8092/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s7.yesstreaming.net:8092/stream"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6049,10 +6622,11 @@
   {
     "nanoid": "RwA7asv6y50GVH",
     "name": "Vasantha Ragam FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/xpbsngksa2zuv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/xpbsngksa2zuv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6060,216 +6634,249 @@
   {
     "nanoid": "B2GIRdPdhhnuh2",
     "name": "VB KANNADA",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "kan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "keaTdbb0DtBvyW",
     "name": "VB MALAYALAM",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8"
+      ]
+    },
     "languages": [
       "mal"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Gz9ehxxGv4whoO",
     "name": "VB Tamil Chennai",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "FghreuyTqZfwQM",
     "name": "VB Telugu Hyderabad",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "CyKROp0rGmTjrh",
     "name": "VB Telugu Vijayawada",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "tel"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "cyyMCu8KqFilwJ",
     "name": "VBS Ahmedabad",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/chunklist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "guj",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "TPrLmBMImGUx4k",
     "name": "VBS Cuttack",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "ori"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "vCtApkrW4o4Tag",
     "name": "VBS Delhi",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "EFTZnMckNdduEz",
     "name": "VBS Jamshedpur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "nagpuri"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "iWVfCaYmZeeUtH",
     "name": "VBS Kolkata",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8"
+      ]
+    },
     "languages": [
       "ben",
       "eng",
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "rjjwQ2S7tfsGki",
     "name": "VBS Mumbai",
-    "stream_urls": [
-      "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "S5EBnBC5IIVMNB",
     "name": "VBS Nagpur",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "CiTaFXFXSer29P",
     "name": "VBS Panaji",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "kok",
       "mar"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "a0HG9h50IgqZ8C",
     "name": "VBS Rajkot",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin",
       "pan"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "fGn7zKJ8Eu9JiL",
     "name": "Vijay FM",
-    "stream_urls": [
-      "https://vijayfm-prabak78.radioca.st/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://vijayfm-prabak78.radioca.st/stream"
+      ]
+    },
     "languages": [
       "tam"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "toUbIKysZjHodT",
     "name": "Vividh Bharati",
-    "stream_urls": [
-      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"
+      ]
+    },
     "languages": [
       "hin"
     ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
     "nanoid": "lVyhcu2JPVtaNJ",
     "name": "VSVP Tech FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/egprld1sdsvvv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/egprld1sdsvvv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6277,10 +6884,11 @@
   {
     "nanoid": "ZEDANvqSN755Fw",
     "name": "West Indian Vibes Radio",
-    "stream_urls": [
-      "https://s6.citrus3.com:8396/stream"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s6.citrus3.com:8396/stream"
+      ]
+    },
     "languages": [
       "hin",
       "eng"
@@ -6289,10 +6897,11 @@
   {
     "nanoid": "EBUHcXazYchmRP",
     "name": "World to World Radio",
-    "stream_urls": [
-      "https://streaming.radio.co/s4f2cc35de/listen"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/s4f2cc35de/listen"
+      ]
+    },
     "languages": [
       "mal",
       "eng"
@@ -6301,10 +6910,11 @@
   {
     "nanoid": "KHHrtHyB36eRfq",
     "name": "Yaazhisai FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/nxb2dpmmhm8uv"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/nxb2dpmmhm8uv"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6312,11 +6922,12 @@
   {
     "nanoid": "q6IqCWa5jBo33x",
     "name": "Yugam Radio",
-    "stream_urls": [
-      "https://s6.yesstreaming.net:19012/stream",
-      "https://s6.yesstreaming.net:19012/stream;"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://s6.yesstreaming.net:19012/stream",
+        "https://s6.yesstreaming.net:19012/stream;"
+      ]
+    },
     "languages": [
       "tam"
     ]
@@ -6324,10 +6935,11 @@
   {
     "nanoid": "rw6K0oheHc65Kw",
     "name": "Yuvan Shankar Raja Radio",
-    "stream_urls": [
-      "https://psrlive2.listenon.in/ysr"
-    ],
-    "country": "in",
+    "sources": {
+      "streams": [
+        "https://psrlive2.listenon.in/ysr"
+      ]
+    },
     "languages": [
       "tam"
     ]

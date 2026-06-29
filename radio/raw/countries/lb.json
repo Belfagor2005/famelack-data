@@ -2,10 +2,11 @@
   {
     "nanoid": "ESwSvJVDPKgpeq",
     "name": "Adeem Radio",
-    "stream_urls": [
-      "https://usa19.fastcast4u.com/adeem"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://usa19.fastcast4u.com/adeem"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "kVOTrP4OlLBL2U",
     "name": "Al Bal Radio",
-    "stream_urls": [
-      "https://albal-lbnet2.radioca.st/stream"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://albal-lbnet2.radioca.st/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -35,10 +37,11 @@
   {
     "nanoid": "eXmytAcXadqX0i",
     "name": "Fame FM",
-    "stream_urls": [
-      "https://l3.itworkscdn.net/itwaudio/9044/stream"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://l3.itworkscdn.net/itwaudio/9044/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -46,10 +49,11 @@
   {
     "nanoid": "SneFsDOFPTeF2f",
     "name": "Hit 90",
-    "stream_urls": [
-      "https://nrj.de/hits90"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://nrj.de/hits90"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -68,22 +72,25 @@
   {
     "nanoid": "jiBElfeGiDk8tc",
     "name": "Jabal Lebnan Radio",
-    "stream_urls": [
-      "https://streaming.nrjaudio.fm/ousra9m4z85f"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://streaming.nrjaudio.fm/ousra9m4z85f"
+      ]
+    },
     "languages": [
       "ara"
     ],
+    "country": "lb",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ib4sGLbG47jdET",
     "name": "LBI Radio",
-    "stream_urls": [
-      "https://live.lbiradio.com/listen/station_1/1"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://live.lbiradio.com/listen/station_1/1"
+      ]
+    },
     "languages": [
       "eng",
       "ara",
@@ -93,10 +100,11 @@
   {
     "nanoid": "yyLGbMPUADY3pO",
     "name": "Light FM 90.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LIGHTFMAAC_SC"
+      ]
+    },
     "languages": [
       "eng",
       "fra"
@@ -105,10 +113,11 @@
   {
     "nanoid": "QwgBH6GgOnzYSL",
     "name": "Radio Albachaer",
-    "stream_urls": [
-      "https://stream-169.zeno.fm/q3wqw4ahtuhvv"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://stream-169.zeno.fm/q3wqw4ahtuhvv"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -116,10 +125,11 @@
   {
     "nanoid": "0T1uDrHjwtxHiW",
     "name": "Radio Delta 101.7",
-    "stream_urls": [
-      "https://radiodelta.fm/mp3"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://radiodelta.fm/mp3"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -127,11 +137,12 @@
   {
     "nanoid": "hi1IsLlCwFTpaF",
     "name": "Radio Fairouziat",
-    "stream_urls": [
-      "https://stream-155.zeno.fm/9vrahqqfuuhvv",
-      "https://stream.zeno.fm/9vrahqqfuuhvv"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://stream-155.zeno.fm/9vrahqqfuuhvv",
+        "https://stream.zeno.fm/9vrahqqfuuhvv"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -139,10 +150,11 @@
   {
     "nanoid": "i3Gl9jEnsGRxGK",
     "name": "Radio Liban",
-    "stream_urls": [
-      "https://media2.streambrothers.com:2020/stream/8194"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://media2.streambrothers.com:2020/stream/8194"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -150,10 +162,11 @@
   {
     "nanoid": "CZrJOdrkNbNJpw",
     "name": "Radio Liban Libre",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/qtqeb"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/qtqeb"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -161,10 +174,11 @@
   {
     "nanoid": "HiIq9ehZW9eJj6",
     "name": "Radio Naim Halawi",
-    "stream_urls": [
-      "https://streamer.radio.co/sf2fa6ce9d/listen"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/sf2fa6ce9d/listen"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -172,10 +186,11 @@
   {
     "nanoid": "XGiJfaMy37UBcN",
     "name": "Radio Rama",
-    "stream_urls": [
-      "https://radiorama-lbnet2.radioca.st/rama"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://radiorama-lbnet2.radioca.st/rama"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -183,10 +198,11 @@
   {
     "nanoid": "eOUh3M7HRsRE8T",
     "name": "Radio Souvenirs",
-    "stream_urls": [
-      "https://stream.zeno.fm/ctmapun6ot5vv"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ctmapun6ot5vv"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -194,10 +210,11 @@
   {
     "nanoid": "oAQnuxxAjQyWbo",
     "name": "Rahbaniyat",
-    "stream_urls": [
-      "https://stream.zeno.fm/4g8xck48kfhvv"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4g8xck48kfhvv"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -205,10 +222,11 @@
   {
     "nanoid": "8VZNMiiLIwcAcW",
     "name": "Sancta Maria Radio",
-    "stream_urls": [
-      "https://streaming.radio.co/sa7e0251a2/listen"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/sa7e0251a2/listen"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -216,10 +234,11 @@
   {
     "nanoid": "1pXX8XekoWk5Jw",
     "name": "Sawt El Chaab",
-    "stream_urls": [
-      "https://audio.osina.cloud:9320/stream"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://audio.osina.cloud:9320/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -239,10 +258,11 @@
   {
     "nanoid": "E2KSG3ePqhzOyd",
     "name": "Tripoli FM",
-    "stream_urls": [
-      "https://cast4.my-control-panel.com/proxy/tripolifm/stream"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://cast4.my-control-panel.com/proxy/tripolifm/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -250,10 +270,11 @@
   {
     "nanoid": "jykaeZy07Y8qBR",
     "name": "Virgin Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/dwxw3p9vea0uv"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dwxw3p9vea0uv"
+      ]
+    },
     "languages": [
       "ara",
       "eng"
@@ -274,35 +295,40 @@
   {
     "nanoid": "JL3oDUNXkY7SOm",
     "name": "Virgin Radio Stars",
-    "stream_urls": [
-      "https://stream.zeno.fm/h66yxnapga0uv"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/h66yxnapga0uv"
+      ]
+    },
     "languages": [
       "ara",
       "eng"
     ],
+    "country": "lb",
     "isGeoBlocked": false
   },
   {
     "nanoid": "q2B6xOZeLCN989",
     "name": "Voice of Grace",
-    "stream_urls": [
-      "https://securestreams5.reliastream.com:1820/;l"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://securestreams5.reliastream.com:1820/;l"
+      ]
+    },
     "languages": [
       "ara"
     ],
+    "country": "lb",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Jr4wTzJZXBuUwu",
     "name": "Voice of Lebanon",
-    "stream_urls": [
-      "https://l3.itworkscdn.net/itwaudio/9054/stream"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://l3.itworkscdn.net/itwaudio/9054/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -310,10 +336,11 @@
   {
     "nanoid": "xEKdJ8OTzunaKr",
     "name": "Voice of Lebanon 93.3",
-    "stream_urls": [
-      "https://audio.osina.cloud:9323/stream"
-    ],
-    "country": "lb",
+    "sources": {
+      "streams": [
+        "https://audio.osina.cloud:9323/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]

@@ -2,10 +2,11 @@
   {
     "nanoid": "8T7n8bqVAC0sl8",
     "name": "MTV Guyana",
-    "stream_urls": [
-      "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

@@ -2,11 +2,12 @@
   {
     "nanoid": "5MYt98eEQLh8Ll",
     "name": "America TeVe",
-    "stream_urls": [
-      "https://live.gideo.video/americateve2/master.m3u8",
-      "https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.gideo.video/americateve2/master.m3u8",
+        "https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -16,10 +17,11 @@
   {
     "nanoid": "452xTTX1nRDBiZ",
     "name": "Candelita TV",
-    "stream_urls": [
-      "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -29,10 +31,11 @@
   {
     "nanoid": "ZJCzbVc31LkU2Y",
     "name": "CAtv",
-    "stream_urls": [
-      "https://video2.getstreamhosting.com:19360/8216/8216.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video2.getstreamhosting.com:19360/8216/8216.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -57,10 +60,11 @@
   {
     "nanoid": "laN58G2pOTHWk2",
     "name": "DNJ TV",
-    "stream_urls": [
-      "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -70,10 +74,11 @@
   {
     "nanoid": "bD45kzyCkGUkuS",
     "name": "Familia Vision HD",
-    "stream_urls": [
-      "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -83,10 +88,11 @@
   {
     "nanoid": "P4mxJMVl2wyiPi",
     "name": "Faro de Santidad TV",
-    "stream_urls": [
-      "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -122,10 +128,11 @@
   {
     "nanoid": "ESeEpgafREEMIe",
     "name": "La-X",
-    "stream_urls": [
-      "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -135,10 +142,11 @@
   {
     "nanoid": "8vjdEy4opeeKWC",
     "name": "NG Radio TV",
-    "stream_urls": [
-      "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -148,10 +156,11 @@
   {
     "nanoid": "7W5fz3owCOtino",
     "name": "Nueva Vida FM",
-    "stream_urls": [
-      "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -161,10 +170,11 @@
   {
     "nanoid": "dfwJqEOqj4nFiU",
     "name": "Radio Isla TV",
-    "stream_urls": [
-      "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -174,10 +184,11 @@
   {
     "nanoid": "LNGJVkOrgPhVTB",
     "name": "Salvacion TV",
-    "stream_urls": [
-      "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -214,10 +225,11 @@
   {
     "nanoid": "QYv70qSnNhaax1",
     "name": "Triunfo 96.9 FM",
-    "stream_urls": [
-      "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -240,10 +252,11 @@
   {
     "nanoid": "pCErNDOF1ndRX6",
     "name": "WECN",
-    "stream_urls": [
-      "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -253,10 +266,11 @@
   {
     "nanoid": "MvEadpgWzJjCTE",
     "name": "WELU 8.1",
-    "stream_urls": [
-      "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -266,10 +280,11 @@
   {
     "nanoid": "bwDkPgO9EH6E9o",
     "name": "WIPR-TV 6.1",
-    "stream_urls": [
-      "https://streamwipr.pr/hls/stream/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamwipr.pr/hls/stream/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -277,12 +292,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6DxixUnn8FbaeV",
-    "name": "WKAQ-TV 2.1",
-    "stream_urls": [
-      "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "nanoid": "XjdAPMm3YO01Fo",
+    "name": "WKAQ-TV 2.2",
+    "sources": {
+      "streams": [
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -292,10 +308,11 @@
   {
     "nanoid": "pK67X1nTuCfVIB",
     "name": "WRUA-DT1",
-    "stream_urls": [
-      "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://link.frontlayer.com/services/hls2/fl496518/index.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -305,10 +322,25 @@
   {
     "nanoid": "zi89aJl9FoLNYA",
     "name": "WWXY-DT1",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
-    "youtube_urls": [],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IiR71uuMJmqUVL",
+    "name": "WWXY-DT3",
+    "sources": {
+      "streams": [
+        "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -318,10 +350,11 @@
   {
     "nanoid": "8a8fZdLhOTX7As",
     "name": "WXWZ-LD 23.1",
-    "stream_urls": [
-      "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

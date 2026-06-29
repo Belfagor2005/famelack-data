@@ -2,10 +2,11 @@
   {
     "nanoid": "0V285cGFPzBhjV",
     "name": "Glam Radio",
-    "stream_urls": [
-      "https://stream.glamradio.fm:8443/glamradio"
-    ],
-    "country": "xk",
+    "sources": {
+      "streams": [
+        "https://stream.glamradio.fm:8443/glamradio"
+      ]
+    },
     "languages": [
       "sqi"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "aAQL4XYSeu4e9D",
     "name": "Klan Kosova FM",
-    "stream_urls": [
-      "https://s4.radio.co/sd1d1904dc/listen"
-    ],
-    "country": "xk",
+    "sources": {
+      "streams": [
+        "https://s4.radio.co/sd1d1904dc/listen"
+      ]
+    },
     "languages": [
       "sqi"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "iEe89K7Z4IEza1",
     "name": "Kolektiv Radio",
-    "stream_urls": [
-      "https://studio28.radiolize.com/radio/8100/radio.mp3"
-    ],
-    "country": "xk",
+    "sources": {
+      "streams": [
+        "https://studio28.radiolize.com/radio/8100/radio.mp3"
+      ]
+    },
     "languages": [
       "sqi"
     ]
@@ -35,10 +38,11 @@
   {
     "nanoid": "xq8tT7iJh1z5kK",
     "name": "Radio Plus 102.2 FM",
-    "stream_urls": [
-      "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
-    ],
-    "country": "xk",
+    "sources": {
+      "streams": [
+        "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+      ]
+    },
     "languages": [
       "sqi"
     ]

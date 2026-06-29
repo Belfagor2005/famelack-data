@@ -2,10 +2,11 @@
   {
     "nanoid": "TyHDI9jrAXYapb",
     "name": "Flashback 60s",
-    "stream_urls": [
-      "https://ice-11.spilarinn.is/60flashback"
-    ],
-    "country": "is",
+    "sources": {
+      "streams": [
+        "https://ice-11.spilarinn.is/60flashback"
+      ]
+    },
     "languages": [
       "isl"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "RU3Egr7YsDSI4N",
     "name": "Flashback 80s",
-    "stream_urls": [
-      "https://ice-11.spilarinn.is/80flashback"
-    ],
-    "country": "is",
+    "sources": {
+      "streams": [
+        "https://ice-11.spilarinn.is/80flashback"
+      ]
+    },
     "languages": [
       "isl"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "knfgmnBdPaCh7T",
     "name": "Fred Film Radio",
-    "stream_urls": [
-      "https://s10.webradio-hosting.com/proxy/fredradiois/stream"
-    ],
-    "country": "is",
+    "sources": {
+      "streams": [
+        "https://s10.webradio-hosting.com/proxy/fredradiois/stream"
+      ]
+    },
     "languages": [
       "isl"
     ]
@@ -35,10 +38,11 @@
   {
     "nanoid": "yK1hJZhTyY2YF5",
     "name": "K100",
-    "stream_urls": [
-      "https://ice-11.spilarinn.is/kaninnmobile"
-    ],
-    "country": "is",
+    "sources": {
+      "streams": [
+        "https://ice-11.spilarinn.is/kaninnmobile"
+      ]
+    },
     "languages": [
       "isl"
     ]
@@ -46,10 +50,11 @@
   {
     "nanoid": "KcoEkoyFf4rhg5",
     "name": "Retro 89.5",
-    "stream_urls": [
-      "https://ice-11.spilarinn.is/retromobile"
-    ],
-    "country": "is",
+    "sources": {
+      "streams": [
+        "https://ice-11.spilarinn.is/retromobile"
+      ]
+    },
     "languages": [
       "isl"
     ]
@@ -57,10 +62,11 @@
   {
     "nanoid": "u7fVaqg7PH5IHU",
     "name": "Útvarp Saga",
-    "stream_urls": [
-      "https://stream.utvarpsaga.is/Hljodver"
-    ],
-    "country": "is",
+    "sources": {
+      "streams": [
+        "https://stream.utvarpsaga.is/Hljodver"
+      ]
+    },
     "languages": [
       "isl"
     ]

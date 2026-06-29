@@ -2,10 +2,11 @@
   {
     "nanoid": "giiPsqSX7HOSrs",
     "name": "KKMP",
-    "stream_urls": [
-      "https://s2.yesstreaming.net/proxy/bluecont/stream"
-    ],
-    "country": "mp",
+    "sources": {
+      "streams": [
+        "https://s2.yesstreaming.net/proxy/bluecont/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]

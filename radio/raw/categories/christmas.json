@@ -13,10 +13,11 @@
   {
     "nanoid": "vgVepMOz7Qgte4",
     "name": "0nlineradio American Christmas",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/us-christmas"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/us-christmas"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -25,10 +26,11 @@
   {
     "nanoid": "2A4jWE0ywudOTb",
     "name": "0nlineradio Weihnachten",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/christmas"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/christmas"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -37,10 +39,11 @@
   {
     "nanoid": "ITUyhucvbMi1BH",
     "name": "1.FM - Always Christmas",
-    "stream_urls": [
-      "https://strm112.1.fm/christmas_mobile_mp3"
-    ],
-    "country": "ch",
+    "sources": {
+      "streams": [
+        "https://strm112.1.fm/christmas_mobile_mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -66,93 +69,108 @@
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bMM45PPHEkVCz9",
     "name": "24/7 Christmas Music Radio",
-    "stream_urls": [
-      "https://streaming.live365.com/a29903",
-      "https://ais-edge101-live365-dal02.cdnstream.com/a29903"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a29903",
+        "https://ais-edge101-live365-dal02.cdnstream.com/a29903"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "v52TNPnf6bPb5c",
     "name": "80s Christmas",
-    "stream_urls": [
-      "https://streams.radiobob.de/bob-christmas/mp3-128"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.radiobob.de/bob-christmas/mp3-128"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "sTXLwVhQr9WSTf",
     "name": "80s80s Christmas",
-    "stream_urls": [
-      "https://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "DuDbHF4ssuOe3Q",
     "name": "89 Rainbow Christmas",
-    "stream_urls": [
-      "https://n11.radiojar.com/4nwwcyesv8hvv",
-      "https://stream.radiojar.com/4nwwcyesv8hvv"
-    ],
-    "country": "gr",
+    "sources": {
+      "streams": [
+        "https://n11.radiojar.com/4nwwcyesv8hvv",
+        "https://stream.radiojar.com/4nwwcyesv8hvv"
+      ]
+    },
     "languages": [
       "ell"
     ],
+    "country": "gr",
     "isGeoBlocked": false
   },
   {
     "nanoid": "EMUcQ2MkxHLMWF",
     "name": "89.0 RTL Christmas",
-    "stream_urls": [
-      "https://stream.89.0rtl.de/christmas/mp3-256"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.89.0rtl.de/christmas/mp3-256"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4gonmt3uENFcXt",
     "name": "90s90s Christmas",
-    "stream_urls": [
-      "https://streams.90s90s.de/xmas/mp3-192/streams.90s90s.de"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.90s90s.de/xmas/mp3-192/streams.90s90s.de/"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "56ce4vlf86Mute",
     "name": "104 Christmas Hits",
-    "stream_urls": [
-      "https://hestia2.cdnstream.com/1077_128",
-      "https://hestia2.cdnstream.com/1077_64"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://hestia2.cdnstream.com/1077_128",
+        "https://hestia2.cdnstream.com/1077_64"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -167,10 +185,11 @@
   {
     "nanoid": "qSXZ3BY5rbxW6I",
     "name": "181.fm - Christmas Classics",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xtraditional_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xtraditional_128k.mp3"
+      ]
+    },
     "languages": [
       "eng",
       "rus"
@@ -321,207 +340,241 @@
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kkq49YVFSu33TG",
     "name": "181.FM Christmas Classics",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xtraditional_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xtraditional_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "I7bU36wQvnHBaY",
     "name": "181.FM Christmas Fun",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xfun_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xfun_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "aYA5evKomQuUdG",
     "name": "181.FM Christmas Gospel",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xgospel_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xgospel_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "T3UM7apr0V8zP2",
     "name": "181.FM Christmas Highway",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xhighway_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xhighway_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "efbkYLtQ9meW4h",
     "name": "181.FM Christmas Kids",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xkids_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xkids_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "8JluyQss0oUUDl",
     "name": "181.FM Christmas Kountry",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xkkountry_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xkkountry_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bt5vUV84AjumMv",
     "name": "181.FM Christmas Mix",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xmix_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xmix_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "cB40Bs5RnOCHEK",
     "name": "181.FM Christmas Oldies",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xoldies_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xoldies_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "p7AMmlxIji0a6T",
     "name": "181.FM Christmas Power",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xpower_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xpower_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "nLX0MPS8Q3l364",
     "name": "181.FM Christmas R&B",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xtrue_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xtrue_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "U58cBOIOoBxjBD",
     "name": "181.FM Christmas Rock",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xrock_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xrock_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "rrvVNWKkT4lrG8",
     "name": "181.FM Christmas Smooth Jazz",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xsmooth_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xsmooth_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "00C89jP03Tt5Zi",
     "name": "181.FM Christmas Soundtracks",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xsoundtrax_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xsoundtrax_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Z0HqlSjOwDRfOs",
     "name": "181.FM Christmas Spirit",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xspirit_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xspirit_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "D4WedNODDkliZ1",
     "name": "181.FM Christmas Standards",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xstandards_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xstandards_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "5IfLs6XnmNYqNl",
     "name": "181.FM Christmas Swing",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xswing_128k.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://listen.181fm.com/181-xswing_128k.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "TAaAP4jI1sC77f",
     "name": "1000 Christmashits",
-    "stream_urls": [
-      "https://1000christmashits.stream.laut.fm/1000christmashits"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1000christmashits.stream.laut.fm/1000christmashits"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -620,10 +673,11 @@
   {
     "nanoid": "X9yVVkPawzFkyy",
     "name": "Abiding Radio - Seasonal",
-    "stream_urls": [
-      "https://streams.abidingradio.com:7830/1"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streams.abidingradio.com:7830/1"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -631,10 +685,11 @@
   {
     "nanoid": "AeKtrfsTC5cB06",
     "name": "Absolut Christmas Time",
-    "stream_urls": [
-      "https://absolut-christmastime.live-sm.absolutradio.de/absolut-christmastime/stream/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://absolut-christmastime.live-sm.absolutradio.de/absolut-christmastime/stream/mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -642,10 +697,11 @@
   {
     "nanoid": "6JE4H8oYrd5tPh",
     "name": "Akustik Weihnachten",
-    "stream_urls": [
-      "https://streams.weihnachtsmusik.fm/akustik/mp3-192"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.weihnachtsmusik.fm/akustik/mp3-192"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -653,10 +709,11 @@
   {
     "nanoid": "50Xo9j4XVKuvLz",
     "name": "Alex FM Christmas",
-    "stream_urls": [
-      "https://radioalexfmchristmas.stream.laut.fm/radioalexfmchristmas"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://radioalexfmchristmas.stream.laut.fm/radioalexfmchristmas"
+      ]
+    },
     "languages": [
       "nld",
       "deu"
@@ -665,10 +722,11 @@
   {
     "nanoid": "Qnz90OZc1G81LA",
     "name": "All Christmas FM",
-    "stream_urls": [
-      "https://live.amperwave.net/manifest/townsquare-tsmchristmasaac-ibc3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://live.amperwave.net/manifest/townsquare-tsmchristmasaac-ibc3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -676,10 +734,11 @@
   {
     "nanoid": "LOsMaDMkCmaU59",
     "name": "Alpenweihnacht",
-    "stream_urls": [
-      "https://alpenweihnacht.stream.laut.fm/alpenweihnacht"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://alpenweihnacht.stream.laut.fm/alpenweihnacht"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -687,10 +746,11 @@
   {
     "nanoid": "Yan7Nw2LobkfJJ",
     "name": "Antenne Bayern - Bayerische Weihnacht",
-    "stream_urls": [
-      "https://stream.antenne.de/bayerische-weihnacht/stream/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.antenne.de/bayerische-weihnacht/stream/mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -710,10 +770,11 @@
   {
     "nanoid": "PyKE1PtgkSFlAg",
     "name": "Antenne Bayern - Weihnachtslounge",
-    "stream_urls": [
-      "https://stream.antenne.de/lounge/stream/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.antenne.de/lounge/stream/mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -721,10 +782,11 @@
   {
     "nanoid": "niQAXDmZos711X",
     "name": "ANTENNE BAYERN Weihnachtshits",
-    "stream_urls": [
-      "https://stream.antenne.de/weihnachts-hits/stream/aacp"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.antenne.de/weihnachts-hits/stream/aacp"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -745,10 +807,11 @@
   {
     "nanoid": "WUts9Xq9XEkDTC",
     "name": "ANTENNE NRW - Weihnachtshits",
-    "stream_urls": [
-      "https://stream.antenne.de/antenne-nrw-weihnachts-hits/stream/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.antenne.de/antenne-nrw-weihnachts-hits/stream/mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -767,10 +830,11 @@
   {
     "nanoid": "QLSvyOks8uctI3",
     "name": "Antenne Vorarlberg Christkindl Radio",
-    "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-christkindl"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://web.radio.antennevorarlberg.at/av-christkindl"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -778,10 +842,11 @@
   {
     "nanoid": "Pn8XcA1OgT5642",
     "name": "Be One Xmas",
-    "stream_urls": [
-      "https://live.radiostudio.be/beonexmas"
-    ],
-    "country": "be",
+    "sources": {
+      "streams": [
+        "https://live.radiostudio.be/beonexmas"
+      ]
+    },
     "languages": [
       "nld"
     ]
@@ -801,10 +866,11 @@
   {
     "nanoid": "aU9sRJ3vOm5Ww4",
     "name": "Big R Radio - Christmas Classics",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5190_128"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://bigrradio.cdnstream1.com/5190_128"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -812,10 +878,11 @@
   {
     "nanoid": "DOmhATVif9ZClT",
     "name": "Big R Radio - Christmas Country",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5191_128"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://bigrradio.cdnstream1.com/5191_128"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -823,10 +890,11 @@
   {
     "nanoid": "gvdJouDAZPAZfC",
     "name": "Big R Radio - Christmas Top 40",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5193_128"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://bigrradio.cdnstream1.com/5193_128"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -834,10 +902,11 @@
   {
     "nanoid": "FW3QDxb0Ex2GCL",
     "name": "bigFM Xmas",
-    "stream_urls": [
-      "https://stream.bigfm.de/xmas/mp3-128/radiobrowser"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.bigfm.de/xmas/mp3-128/radiobrowser"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -845,10 +914,11 @@
   {
     "nanoid": "p7uD4yx6W1amJC",
     "name": "BOX Santa Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/q88hvnz86p8uv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/q88hvnz86p8uv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -856,10 +926,11 @@
   {
     "nanoid": "Tv4GmR3kEAsht0",
     "name": "Branson Christmas Radio",
-    "stream_urls": [
-      "https://stream.radiojar.com/22habbgmb.m4a"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/22habbgmb.m4a"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -867,10 +938,11 @@
   {
     "nanoid": "oGNwX1rvQl0qRM",
     "name": "CBN Cross Country Christmas",
-    "stream_urls": [
-      "https://streams.cbnradio.com/christmas-128K"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streams.cbnradio.com/christmas-128K"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -889,22 +961,25 @@
   {
     "nanoid": "ZFQixfwkk2FtKW",
     "name": "Christmas 365 - Santa's Radio",
-    "stream_urls": [
-      "https://us3.streamingpulse.com/ssl/7038"
-    ],
-    "country": "as",
+    "sources": {
+      "streams": [
+        "https://us3.streamingpulse.com/ssl/7038"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "as",
     "isGeoBlocked": false
   },
   {
     "nanoid": "P8jXKaCzsOnX5b",
     "name": "Christmas Crooners Radio",
-    "stream_urls": [
-      "https://cheetah.streemlion.com:3040/stream"
-    ],
-    "country": "ca",
+    "sources": {
+      "streams": [
+        "https://cheetah.streemlion.com:3040/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -912,10 +987,11 @@
   {
     "nanoid": "IFNjI9xsxM2MCX",
     "name": "Christmas FM",
-    "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2547_128.mp3"
-    ],
-    "country": "ie",
+    "sources": {
+      "streams": [
+        "https://christmasfm.cdnstream1.com/2547_128.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -923,11 +999,12 @@
   {
     "nanoid": "BcpSzWbWE8Q4Y9",
     "name": "Christmas FM Classical & Carols",
-    "stream_urls": [
-      "https://christmasfm.cdnstream1.com/2549_64.aac",
-      "https://christmasfm.cdnstream1.com/2549_128.mp3"
-    ],
-    "country": "ie",
+    "sources": {
+      "streams": [
+        "https://christmasfm.cdnstream1.com/2549_64.aac",
+        "https://christmasfm.cdnstream1.com/2549_128.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -935,10 +1012,11 @@
   {
     "nanoid": "BJP3C0OVNQrcus",
     "name": "Christmas Hits Radio",
-    "stream_urls": [
-      "https://stream06.dotpoint.nl:8006/stream"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://stream06.dotpoint.nl:8006/stream"
+      ]
+    },
     "languages": [
       "eng",
       "nld"
@@ -959,10 +1037,11 @@
   {
     "nanoid": "OVT0Y0rU50QICL",
     "name": "Christmas Hope",
-    "stream_urls": [
-      "https://stream.hopemedia.com.au/christmashope-mp3"
-    ],
-    "country": "au",
+    "sources": {
+      "streams": [
+        "https://stream.hopemedia.com.au/christmashope-mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -981,10 +1060,11 @@
   {
     "nanoid": "KmS0HzkhyODuXA",
     "name": "Christmas Mix Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/360sf3z88e9uv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/360sf3z88e9uv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -992,10 +1072,11 @@
   {
     "nanoid": "jNXHgRQY06P8BT",
     "name": "Christmas Radio",
-    "stream_urls": [
-      "https://edg1-iad-gold.streamguys1.com/christmasradio"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://edg1-iad-gold.streamguys1.com/christmasradio"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1003,10 +1084,11 @@
   {
     "nanoid": "b1DajiJBJFvtfA",
     "name": "Christmas Radio 247",
-    "stream_urls": [
-      "https://stream.zeno.fm/mppcb4efxvruv"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/mppcb4efxvruv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1014,10 +1096,11 @@
   {
     "nanoid": "2a7xaJIuWYmSmU",
     "name": "Christmas Radio.FM",
-    "stream_urls": [
-      "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
-    ],
-    "country": "ch",
+    "sources": {
+      "streams": [
+        "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3"
+      ]
+    },
     "languages": [
       "eng",
       "deu"
@@ -1026,10 +1109,11 @@
   {
     "nanoid": "G3hLK8Z3vnKFTN",
     "name": "Christmas Songs Radio",
-    "stream_urls": [
-      "https://cheetah.streemlion.com:1050/stream"
-    ],
-    "country": "ca",
+    "sources": {
+      "streams": [
+        "https://cheetah.streemlion.com:1050/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1050,10 +1134,11 @@
   {
     "nanoid": "aPG3oOKsLPcQEE",
     "name": "Classic FM Xmas",
-    "stream_urls": [
-      "https://netradio.vlr.dk/popup2"
-    ],
-    "country": "dk",
+    "sources": {
+      "streams": [
+        "https://netradio.vlr.dk/popup2"
+      ]
+    },
     "languages": [
       "dan"
     ]
@@ -1061,10 +1146,11 @@
   {
     "nanoid": "pa2ejr3WIkBQao",
     "name": "Classical California - Christmas",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CC2_S01AAC_96.aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CC2_S01AAC_96.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1072,10 +1158,11 @@
   {
     "nanoid": "eOFCkrDpwEshD6",
     "name": "Classical KING Christmas",
-    "stream_urls": [
-      "https://classicalking.streamguys1.com/christmas-aac-128k"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://classicalking.streamguys1.com/christmas-aac-128k"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1083,10 +1170,11 @@
   {
     "nanoid": "jEY1uFXrodBVOs",
     "name": "Cleansing Christmas",
-    "stream_urls": [
-      "https://hemnos.cdnstream.com/1488_128"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://hemnos.cdnstream.com/1488_128"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1094,10 +1182,11 @@
   {
     "nanoid": "pyn03nfZiivwUP",
     "name": "Cool FM Karácsonyi Zenék",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc27"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc27"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1105,10 +1194,11 @@
   {
     "nanoid": "3bLJa1Islfa4yR",
     "name": "CRB - Holiday Classical Mix",
-    "stream_urls": [
-      "https://wgbh-live.streamguys1.com/holiday2.aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://wgbh-live.streamguys1.com/holiday2.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1116,10 +1206,11 @@
   {
     "nanoid": "m3O7Ku48q8jcRk",
     "name": "CRB - Holiday Classics",
-    "stream_urls": [
-      "https://wgbh-live.streamguys1.com/holiday3.aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://wgbh-live.streamguys1.com/holiday3.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1127,10 +1218,11 @@
   {
     "nanoid": "Ltl2JVspJDuTUc",
     "name": "CRB - Holiday Party Soundtrack",
-    "stream_urls": [
-      "https://wgbh-live.streamguys1.com/holiday1.aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://wgbh-live.streamguys1.com/holiday1.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1138,10 +1230,11 @@
   {
     "nanoid": "LRDE7PR5ABQAqD",
     "name": "Crooner Radio Christmas",
-    "stream_urls": [
-      "https://croonerradio_christmas.ice.infomaniak.ch/croonerradio-christmas-midfi.mp3"
-    ],
-    "country": "fr",
+    "sources": {
+      "streams": [
+        "https://croonerradio_christmas.ice.infomaniak.ch/croonerradio-christmas-midfi.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -1149,10 +1242,11 @@
   {
     "nanoid": "xgULJTh8q1MoMK",
     "name": "Deise Christmas Radio",
-    "stream_urls": [
-      "https://drn.radioca.st/stream"
-    ],
-    "country": "ie",
+    "sources": {
+      "streams": [
+        "https://drn.radioca.st/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1172,22 +1266,25 @@
   {
     "nanoid": "5Q4DiroZdnQl9I",
     "name": "DFM Christmas",
-    "stream_urls": [
-      "https://ec1.yesstreaming.net:1400/stream"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://ec1.yesstreaming.net:1400/stream"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "jw4XPAme4USI3Z",
     "name": "Energy Xmas",
-    "stream_urls": [
-      "https://nrj.de/xmas"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://nrj.de/xmas"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1195,10 +1292,11 @@
   {
     "nanoid": "1SLjLTtycHDhyK",
     "name": "Epic Classical - Christmas",
-    "stream_urls": [
-      "https://stream.epic-classical.com/classical-christmas"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.epic-classical.com/classical-christmas"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -1207,10 +1305,11 @@
   {
     "nanoid": "8HqcIFKZcMIIbI",
     "name": "Epic Lounge - Christmas Lounge",
-    "stream_urls": [
-      "https://stream.epic-lounge.com/christmas-lounge"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.epic-lounge.com/christmas-lounge"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -1219,10 +1318,11 @@
   {
     "nanoid": "8zn6OpKolRSOIN",
     "name": "Epic Piano - Christmas Piano",
-    "stream_urls": [
-      "https://stream.epic-piano.com/christmas-piano"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.epic-piano.com/christmas-piano"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1230,10 +1330,11 @@
   {
     "nanoid": "Rve7yIGFCL46BW",
     "name": "ERT Radio Christmas",
-    "stream_urls": [
-      "https://radiostreaming.ert.gr/ert-seasonal"
-    ],
-    "country": "gr",
+    "sources": {
+      "streams": [
+        "https://radiostreaming.ert.gr/ert-seasonal"
+      ]
+    },
     "languages": [
       "ell"
     ]
@@ -1241,10 +1342,11 @@
   {
     "nanoid": "9f3hrOMjaCzmaR",
     "name": "Erzgebirgs Weihnacht",
-    "stream_urls": [
-      "https://erzgebirgs-weihnacht.stream.laut.fm/erzgebirgs-weihnacht"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://erzgebirgs-weihnacht.stream.laut.fm/erzgebirgs-weihnacht"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1252,10 +1354,11 @@
   {
     "nanoid": "9FWYRdA4ybiZs1",
     "name": "Evergreen Radio",
-    "stream_urls": [
-      "https://emg.streamguys1.com/evergreen-website"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://emg.streamguys1.com/evergreen-website"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1263,10 +1366,11 @@
   {
     "nanoid": "yQSrXtDkmMlh7V",
     "name": "Festive 365",
-    "stream_urls": [
-      "https://uk2-pn.mixstream.net/8394/listen.mp3"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://uk2-pn.mixstream.net/8394/listen.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1297,10 +1401,11 @@
   {
     "nanoid": "mb2ulCjXuA406Y",
     "name": "ffn Tannenbaum",
-    "stream_urls": [
-      "https://player.ffn.de/ffntannenbaum.m3u"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://player.ffn.de/ffntannenbaum.m3u"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1319,11 +1424,12 @@
   {
     "nanoid": "pPmXr1R5SZby1g",
     "name": "Folk Alley Holiday",
-    "stream_urls": [
-      "https://freshgrass.streamguys1.com/folkalley-holiday-128mp3",
-      "https://freshgrass.streamguys1.com/folkalley-holiday-64aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://freshgrass.streamguys1.com/folkalley-holiday-128mp3",
+        "https://freshgrass.streamguys1.com/folkalley-holiday-64aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1331,10 +1437,11 @@
   {
     "nanoid": "8iY8ne3Vsfwm4g",
     "name": "Free FM X-Mas",
-    "stream_urls": [
-      "https://stream.zeno.fm/h60er015v68uv"
-    ],
-    "country": "es",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/h60er015v68uv"
+      ]
+    },
     "languages": [
       "spa"
     ]
@@ -1342,10 +1449,11 @@
   {
     "nanoid": "Wvs4G75asrT78z",
     "name": "Fresh Christmas",
-    "stream_urls": [
-      "https://stream.zeno.fm/wahc3kxfcd0uv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/wahc3kxfcd0uv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1353,10 +1461,11 @@
   {
     "nanoid": "RgmwOAQ3taNYEc",
     "name": "Globus Guld Jul",
-    "stream_urls": [
-      "https://stream.probroadcast.dk/guldjul"
-    ],
-    "country": "dk",
+    "sources": {
+      "streams": [
+        "https://stream.probroadcast.dk/guldjul"
+      ]
+    },
     "languages": [
       "dan"
     ]
@@ -1364,10 +1473,11 @@
   {
     "nanoid": "osSAjZcVyhRUnr",
     "name": "Greenhouse Christmas",
-    "stream_urls": [
-      "https://stream.zeno.fm/1cz2q2u3uc9uv"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1cz2q2u3uc9uv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1375,10 +1485,11 @@
   {
     "nanoid": "LgxxI1mrBzzQB8",
     "name": "Happy Christmas Radio",
-    "stream_urls": [
-      "https://radio1.streamserver.link/radio/8070/hcr-aac"
-    ],
-    "country": "ca",
+    "sources": {
+      "streams": [
+        "https://radio1.streamserver.link/radio/8070/hcr-aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1386,11 +1497,12 @@
   {
     "nanoid": "o4XGopOIQsRcPj",
     "name": "Heart Xmas",
-    "stream_urls": [
-      "https://media-ice.musicradio.com/HeartXmasMP3",
-      "https://icecast.thisisdax.com/HeartXmasMP3"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://media-ice.musicradio.com/HeartXmasMP3",
+        "https://icecast.thisisdax.com/HeartXmasMP3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1398,10 +1510,11 @@
   {
     "nanoid": "0AFimH7opjp4va",
     "name": "Hit Radio N1 Weihnachtsradio",
-    "stream_urls": [
-      "https://frontend.streamonkey.net/fhn-hitradion1weihnachten/stream/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://frontend.streamonkey.net/fhn-hitradion1weihnachten/stream/mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1409,10 +1522,11 @@
   {
     "nanoid": "MXAMKtmT0jb7n0",
     "name": "Holiday Music Channel",
-    "stream_urls": [
-      "https://lynx.prostreaming.net/proxy/hmc/stream"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://lynx.prostreaming.net/proxy/hmc/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1420,10 +1534,11 @@
   {
     "nanoid": "vXzkw5yCKi2fRf",
     "name": "Holly Jolly Radio",
-    "stream_urls": [
-      "https://mp3-128.jango.com/music/07/59/12/0759124720.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://mp3-128.jango.com/music/07/59/12/0759124720.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1431,10 +1546,11 @@
   {
     "nanoid": "HzOhOG9CWeXWaX",
     "name": "HPR3: Heartland Christmas",
-    "stream_urls": [
-      "https://us2.maindigitalstream.com/ssl/7791"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://us2.maindigitalstream.com/ssl/7791"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1453,11 +1569,12 @@
   {
     "nanoid": "xnMxk9mo3sOMNH",
     "name": "iHeart The Holidays",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac"
-    ],
-    "country": "ca",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1465,10 +1582,11 @@
   {
     "nanoid": "UHN95sjXb09IRP",
     "name": "Jolly Ol' Soul (SomaFM)",
-    "stream_urls": [
-      "https://ice4.somafm.com/jollysoul-128-aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://ice4.somafm.com/jollysoul-128-aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1476,36 +1594,41 @@
   {
     "nanoid": "kI6QnTRa7ALHX6",
     "name": "K-LOVE Christmas",
-    "stream_urls": [
-      "https://maestro.emfcdn.com/stream_for/k-love-christmas/airable/aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://maestro.emfcdn.com/stream_for/k-love-christmas/airable/aac"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Lib4vAzNwtk3Cu",
     "name": "KDFC Classical Christmas",
-    "stream_urls": [
-      "https://16643.live.streamtheworld.com/CC2_S01AAC_96_SC",
-      "https://17843.live.streamtheworld.com/CC2_S01AAC_96_SC",
-      "https://19273.live.streamtheworld.com/CC2_S01AAC_96_SC"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://16643.live.streamtheworld.com/CC2_S01AAC_96_SC",
+        "https://17843.live.streamtheworld.com/CC2_S01AAC_96_SC",
+        "https://19273.live.streamtheworld.com/CC2_S01AAC_96_SC"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "PNPAPeuAkG2AzH",
     "name": "Kerstradio.nl",
-    "stream_urls": [
-      "https://mediacp.audiostreamen.nl:8168/stream"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://mediacp.audiostreamen.nl:8168/stream"
+      ]
+    },
     "languages": [
       "nld"
     ]
@@ -1513,10 +1636,11 @@
   {
     "nanoid": "6RjRPKMCc1tsng",
     "name": "Kinder-Weihnacht",
-    "stream_urls": [
-      "https://kinderweihnachtsradio.stream.laut.fm/kinderweihnachtsradio"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://kinderweihnachtsradio.stream.laut.fm/kinderweihnachtsradio"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1524,10 +1648,11 @@
   {
     "nanoid": "wzER5s42iEiDyO",
     "name": "KISSmas",
-    "stream_urls": [
-      "https://netradio.live24.gr/kiss-web-xmas"
-    ],
-    "country": "gr",
+    "sources": {
+      "streams": [
+        "https://netradio.live24.gr/kiss-web-xmas"
+      ]
+    },
     "languages": [
       "ell"
     ]
@@ -1535,11 +1660,12 @@
   {
     "nanoid": "tIaXiPRlQgz7ii",
     "name": "Klassik Radio - Christmas",
-    "stream_urls": [
-      "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642",
-      "https://stream.klassikradio.de/christmas/mp3-192"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642",
+        "https://stream.klassikradio.de/christmas/mp3-192"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1547,10 +1673,11 @@
   {
     "nanoid": "rostOKzm27tk5w",
     "name": "Klassik Radio - Klassische Weihnachten",
-    "stream_urls": [
-      "https://klassikr.streamabc.net/klr_iy6mpimjwei_n5e7-aac-128-5331326"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://klassikr.streamabc.net/klr_iy6mpimjwei_n5e7-aac-128-5331326"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1558,10 +1685,11 @@
   {
     "nanoid": "p44rsTdOlLx6si",
     "name": "Klassik Radio - Swinging Christmas",
-    "stream_urls": [
-      "https://klassikr.streamabc.net/klr_t8btqytdgqw_drfy-aac-128-3828900"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://klassikr.streamabc.net/klr_t8btqytdgqw_drfy-aac-128-3828900"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1569,10 +1697,11 @@
   {
     "nanoid": "soMSYvQ6wSiW7x",
     "name": "Klassik Xmas",
-    "stream_urls": [
-      "https://klassik-xmas.stream.laut.fm/klassik-xmas"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://klassik-xmas.stream.laut.fm/klassik-xmas"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1604,10 +1733,11 @@
   {
     "nanoid": "PixViPkNGVJBop",
     "name": "Lebkuchen Radio",
-    "stream_urls": [
-      "https://lebkuchen-radio.stream.laut.fm/lebkuchen-radio"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://lebkuchen-radio.stream.laut.fm/lebkuchen-radio"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -1628,10 +1758,11 @@
   {
     "nanoid": "zfLQrlFy1LTF82",
     "name": "London Christmas Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/xkyvftapsqruv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/xkyvftapsqruv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1639,10 +1770,11 @@
   {
     "nanoid": "j36cTKcuC150VB",
     "name": "Mai Radio Xmas",
-    "stream_urls": [
-      "https://stream-172.zeno.fm/w7rjrqogne9vv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream-172.zeno.fm/w7rjrqogne9vv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1661,10 +1793,11 @@
   {
     "nanoid": "OALFbxlSwYmxqT",
     "name": "Merry Christmas Radio",
-    "stream_urls": [
-      "https://radio1.streamserver.link/radio/8090/mcr-aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://radio1.streamserver.link/radio/8090/mcr-aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1672,10 +1805,11 @@
   {
     "nanoid": "m6ncXxpqBdr4nT",
     "name": "Metal Xmas",
-    "stream_urls": [
-      "https://metal-xmas.stream.laut.fm/metal-xmas"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://metal-xmas.stream.laut.fm/metal-xmas"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1683,10 +1817,11 @@
   {
     "nanoid": "ncTVRILvM67umZ",
     "name": "Midlands Radio Christmas",
-    "stream_urls": [
-      "https://stream.zeno.fm/b0ykm1bpb78uv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/b0ykm1bpb78uv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1694,10 +1829,11 @@
   {
     "nanoid": "ZaT4hd1hy5nJP5",
     "name": "Mistletoe Radio",
-    "stream_urls": [
-      "https://streaming.live365.com/a22508"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a22508"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1716,11 +1852,12 @@
   {
     "nanoid": "TZmsxnMDI006zq",
     "name": "my105 X-Mas",
-    "stream_urls": [
-      "https://stream01.my105.ch/my105xmas.mp3",
-      "https://stream01.my105.ch/my105xmas-aac.mp3"
-    ],
-    "country": "ch",
+    "sources": {
+      "streams": [
+        "https://stream01.my105.ch/my105xmas.mp3",
+        "https://stream01.my105.ch/my105xmas-aac.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1728,10 +1865,11 @@
   {
     "nanoid": "Rn5immE7piiswg",
     "name": "Nation Xmas",
-    "stream_urls": [
-      "https://listen-nation.sharp-stream.com/nationxmas.mp3"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://listen-nation.sharp-stream.com/nationxmas.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1739,10 +1877,11 @@
   {
     "nanoid": "31yKNHjiYl3DQc",
     "name": "Navidad Venezuela",
-    "stream_urls": [
-      "https://stream.zeno.fm/vbvpvf6a6uvtv"
-    ],
-    "country": "ve",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/vbvpvf6a6uvtv"
+      ]
+    },
     "languages": [
       "spa"
     ]
@@ -1750,10 +1889,11 @@
   {
     "nanoid": "Es6z3XtF30Vuki",
     "name": "Nordpolradio",
-    "stream_urls": [
-      "https://nordpolradio.stream.laut.fm/nordpolradio"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://nordpolradio.stream.laut.fm/nordpolradio"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1761,10 +1901,11 @@
   {
     "nanoid": "ttgIuWUXEcexAZ",
     "name": "ON Christmas",
-    "stream_urls": [
-      "https://0n-christmas.radionetz.de/0n-christmas.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-christmas.radionetz.de/0n-christmas.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1772,10 +1913,11 @@
   {
     "nanoid": "UCMNbXDEkB7nMh",
     "name": "ON Weihnachten",
-    "stream_urls": [
-      "https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1783,10 +1925,11 @@
   {
     "nanoid": "2DcaiVnC4hnAuF",
     "name": "OPM Christmas",
-    "stream_urls": [
-      "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas"
-    ],
-    "country": "ph",
+    "sources": {
+      "streams": [
+        "https://listen.streamaudio.co/proxy/kaibiganradio/opmxmas"
+      ]
+    },
     "languages": [
       "tgl",
       "eng"
@@ -1806,10 +1949,11 @@
   {
     "nanoid": "4bJWFrGLilUj4j",
     "name": "P24-7 Juleradioen",
-    "stream_urls": [
-      "https://live-bauerno.sharp-stream.com/station17_no_mp3"
-    ],
-    "country": "no",
+    "sources": {
+      "streams": [
+        "https://live-bauerno.sharp-stream.com/station17_no_mp3"
+      ]
+    },
     "languages": [
       "nor"
     ]
@@ -1817,10 +1961,11 @@
   {
     "nanoid": "twJx7hbItjZubU",
     "name": "Peaceful Christmas",
-    "stream_urls": [
-      "https://streaming.live365.com/a51517_2"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a51517_2"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1828,10 +1973,11 @@
   {
     "nanoid": "V3jksyJ7eZWUgN",
     "name": "Positively Christmas Carols",
-    "stream_urls": [
-      "https://2.mystreaming.net/er/christmascarols/icecast.audio"
-    ],
-    "country": "ae",
+    "sources": {
+      "streams": [
+        "https://2.mystreaming.net/er/christmascarols/icecast.audio"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1839,10 +1985,11 @@
   {
     "nanoid": "cfv7RdNV1V2Ubs",
     "name": "Power 88",
-    "stream_urls": [
-      "https://us2.maindigitalstream.com/ssl/POWER88"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://us2.maindigitalstream.com/ssl/POWER88"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1850,11 +1997,12 @@
   {
     "nanoid": "E3h3apoDJ9Zs1e",
     "name": "R.SA - Weihnachtsradio",
-    "stream_urls": [
-      "https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-192-8804524?sABC=6n24616o%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780769131",
-      "https://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-192-8804524?sABC=6n24616o%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780769131",
+        "https://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1862,10 +2010,11 @@
   {
     "nanoid": "kzpjHiHVEb8UdP",
     "name": "Radio Alma Navidad",
-    "stream_urls": [
-      "https://stream.zeno.fm/7h4nadwseg0uv"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7h4nadwseg0uv"
+      ]
+    },
     "languages": [
       "spa"
     ]
@@ -1873,10 +2022,11 @@
   {
     "nanoid": "0DAkj43G7gkBRD",
     "name": "Radio Bellissima Christmas",
-    "stream_urls": [
-      "https://puma.streemlion.com:1340/stream"
-    ],
-    "country": "ca",
+    "sources": {
+      "streams": [
+        "https://puma.streemlion.com:1340/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1884,12 +2034,13 @@
   {
     "nanoid": "6mUikIh5z3KoIx",
     "name": "RADIO BOB! Christmas Rock",
-    "stream_urls": [
-      "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de",
-      "https://streams.radiobob.de/bob-christmas/mp3-128/radiode",
-      "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
+        "https://streams.radiobob.de/bob-christmas/mp3-128/radiode",
+        "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1897,10 +2048,11 @@
   {
     "nanoid": "dC8v4t6KVBCWOQ",
     "name": "Radio Dresden - Weihnachtsradio",
-    "stream_urls": [
-      "https://web.radio.radiodresden.de/radiodresden-weihnachten/stream/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://web.radio.radiodresden.de/radiodresden-weihnachten/stream/mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1920,10 +2072,11 @@
   {
     "nanoid": "T1w9WYUWfYtrs0",
     "name": "Radio Flamingo Christkindl",
-    "stream_urls": [
-      "https://live.radioflamingo.at/rfchristkindl"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.radioflamingo.at/rfchristkindl"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1931,10 +2084,11 @@
   {
     "nanoid": "dcsEE6Nqpivp14",
     "name": "Radio GMusic Colinde",
-    "stream_urls": [
-      "https://s9.webradio-hosting.com/proxy/rgmcolinde/stream"
-    ],
-    "country": "ro",
+    "sources": {
+      "streams": [
+        "https://s9.webradio-hosting.com/proxy/rgmcolinde/stream"
+      ]
+    },
     "languages": [
       "ron"
     ]
@@ -1942,10 +2096,11 @@
   {
     "nanoid": "qNbwmi89xMtluc",
     "name": "Radio Gong 96.3 - Weihnachtshits",
-    "stream_urls": [
-      "https://radiogong--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiogong/channel06/mp3/high"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radiogong--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiogong/channel06/mp3/high"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -1954,10 +2109,11 @@
   {
     "nanoid": "EMgeNV0XU5EKHY",
     "name": "Radio Jazz Christmas",
-    "stream_urls": [
-      "https://online.radiojazz.ua/RadioJazz_Christmas_HD"
-    ],
-    "country": "ua",
+    "sources": {
+      "streams": [
+        "https://online.radiojazz.ua/RadioJazz_Christmas_HD"
+      ]
+    },
     "languages": [
       "ukr",
       "eng"
@@ -1966,10 +2122,11 @@
   {
     "nanoid": "PouJplX6yCd4FN",
     "name": "Radio Köln - Dein Weihnachts Radio",
-    "stream_urls": [
-      "https://rnrw.cast.addradio.de/rnrw-0185/deinevent/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rnrw.cast.addradio.de/rnrw-0185/deinevent/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1989,10 +2146,11 @@
   {
     "nanoid": "0lnoBIpUmdS1WL",
     "name": "Radio Leipzig - Weihnachtsradio",
-    "stream_urls": [
-      "https://hermes.bcs-systems.de/radio-leipzig_XMAS_64k_aac"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://hermes.bcs-systems.de/radio-leipzig_XMAS_64k_aac"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2000,10 +2158,11 @@
   {
     "nanoid": "okrLWrKkml3m57",
     "name": "Radio Lippewelle Hamm - Weihnachtsradio",
-    "stream_urls": [
-      "https://rnrw.cast.addradio.de/rnrw-016F/deinevent/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rnrw.cast.addradio.de/rnrw-016F/deinevent/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2011,11 +2170,12 @@
   {
     "nanoid": "Gam9SFqLknCacC",
     "name": "Radio Natale",
-    "stream_urls": [
-      "https://streaming.radiostreamlive.com/radionatale_devices",
-      "https://streaming.radiostreamlive.com/radionatale_devices-low"
-    ],
-    "country": "fi",
+    "sources": {
+      "streams": [
+        "https://streaming.radiostreamlive.com/radionatale_devices",
+        "https://streaming.radiostreamlive.com/radionatale_devices-low"
+      ]
+    },
     "languages": [
       "fin"
     ]
@@ -2034,10 +2194,11 @@
   {
     "nanoid": "G3BJDJNYvnz0jX",
     "name": "Radio North Pole",
-    "stream_urls": [
-      "https://streaming.radiostreamlive.com/radionorthpole_devices"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streaming.radiostreamlive.com/radionorthpole_devices"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2045,10 +2206,11 @@
   {
     "nanoid": "1Tj8GfbfKbQo9n",
     "name": "Radio Paraíso 92.9 FM",
-    "stream_urls": [
-      "https://stream.eleden.com:8240/wtpm.aac"
-    ],
-    "country": "pr",
+    "sources": {
+      "streams": [
+        "https://stream.eleden.com:8240/wtpm.aac"
+      ]
+    },
     "languages": [
       "spa"
     ]
@@ -2056,34 +2218,39 @@
   {
     "nanoid": "VNs97Fzb0hIV24",
     "name": "Radio Polmax Kolędy",
-    "stream_urls": [
-      "https://stream.zeno.fm/vorzdeodup8uv"
-    ],
-    "country": "pl",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/vorzdeodup8uv"
+      ]
+    },
     "languages": [
       "pol"
     ],
+    "country": "pl",
     "isGeoBlocked": false
   },
   {
     "nanoid": "vZnKHegZh9r7g1",
     "name": "Radio PSR Weihnachts-Superhits",
-    "stream_urls": [
-      "https://regiocast.streamabc.net/regc-psrevent013140163-mp3-192-9512835?sABC=6n2445os%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1780762047"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://regiocast.streamabc.net/regc-psrevent013140163-mp3-192-9512835?sABC=6n2445os%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1780762047"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "YmwbH1xKUlIP2M",
     "name": "Radio Record - Christmas",
-    "stream_urls": [
-      "https://radiorecord.hostingradio.ru/christmas96.aacp"
-    ],
-    "country": "ru",
+    "sources": {
+      "streams": [
+        "https://radiorecord.hostingradio.ru/christmas96.aacp"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -2091,10 +2258,11 @@
   {
     "nanoid": "bCNxkfXZSNC03t",
     "name": "Radio Reeperbahn Weihnachten",
-    "stream_urls": [
-      "https://s35.derstream.net/reeperbahn-ch3.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://s35.derstream.net/reeperbahn-ch3.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2102,10 +2270,11 @@
   {
     "nanoid": "XjMyMYbPZ9zg3F",
     "name": "Radio Regenbogen Christmas Hits",
-    "stream_urls": [
-      "https://stream.regenbogen.de/christmas/mp3-128/radiobrowser"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.regenbogen.de/christmas/mp3-128/radiobrowser"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2113,10 +2282,11 @@
   {
     "nanoid": "3saQbagBM8EatE",
     "name": "Radio Santa",
-    "stream_urls": [
-      "https://streaming.live365.com/a53827"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a53827"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2124,38 +2294,44 @@
   {
     "nanoid": "K32ryxwVFgwius",
     "name": "Radio Santa",
-    "stream_urls": [
-      "https://stream.zeno.fm/dpdd77k99f0uv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dpdd77k99f0uv"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "1b3CtUrozbXbHw",
     "name": "Radio Santa Claus",
-    "stream_urls": [
-      "https://streaming.radiostreamlive.com/radiosantaclaus_devices"
-    ],
-    "country": "fi",
+    "sources": {
+      "streams": [
+        "https://streaming.radiostreamlive.com/radiosantaclaus_devices"
+      ]
+    },
     "languages": [
       "eng",
       "fin"
     ],
+    "country": "fi",
     "isGeoBlocked": false
   },
   {
     "nanoid": "M8dix6keQrsMKV",
     "name": "Radio Santa Claus",
-    "stream_urls": [
-      "https://streaming.radiostreamlive.com/radiosantaclaus_devices-low"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streaming.radiostreamlive.com/radiosantaclaus_devices-low"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2185,10 +2361,11 @@
   {
     "nanoid": "lEEDnv11v15swF",
     "name": "Radio Summernight - 1000 Weihnachten",
-    "stream_urls": [
-      "https://1000weihnachten.stream.laut.fm/1000weihnachten"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1000weihnachten.stream.laut.fm/1000weihnachten"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -2209,10 +2386,11 @@
   {
     "nanoid": "WdRr6Jd0uvAM60",
     "name": "Radio Weihnacht",
-    "stream_urls": [
-      "https://radio-weihnacht.stream.laut.fm/radio-weihnacht"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-weihnacht.stream.laut.fm/radio-weihnacht"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2220,10 +2398,11 @@
   {
     "nanoid": "tcuiKaS36LLslw",
     "name": "Radio ZET na Święta",
-    "stream_urls": [
-      "https://zt.cdn.eurozet.pl/ZETSWI.mp3"
-    ],
-    "country": "pl",
+    "sources": {
+      "streams": [
+        "https://zt.cdn.eurozet.pl/ZETSWI.mp3"
+      ]
+    },
     "languages": [
       "pol"
     ]
@@ -2231,11 +2410,12 @@
   {
     "nanoid": "unjG9Jx1uaCMvc",
     "name": "RauteMusik Christmas",
-    "stream_urls": [
-      "https://rautemusik-de-hz-fal-stream15.radiohost.de/christmas",
-      "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzgwNzg0MjI1JmQ9Y2U1MjA0YTBiZDQ0ZGZmZjFhZTQ"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rautemusik-de-hz-fal-stream15.radiohost.de/christmas",
+        "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzgwNzg0MjI1JmQ9Y2U1MjA0YTBiZDQ0ZGZmZjFhZTQ"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2254,11 +2434,12 @@
   {
     "nanoid": "OB51fWnibKfuQb",
     "name": "RauteMusik Christmas Schlager",
-    "stream_urls": [
-      "https://christmas-schlager-high.rautemusik.fm/",
-      "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-christmas-schlager_mp3-192"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://christmas-schlager-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-christmas-schlager_mp3-192"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2278,10 +2459,11 @@
   {
     "nanoid": "pfJRpmsaOKqF6d",
     "name": "RauteMusik The Christmas Channel",
-    "stream_urls": [
-      "https://rautemusik-de-hz-fal-stream14.radiohost.de/christmas"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rautemusik-de-hz-fal-stream14.radiohost.de/christmas"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2289,10 +2471,11 @@
   {
     "nanoid": "vvFgDRH1yiox9d",
     "name": "Real Xmas",
-    "stream_urls": [
-      "https://realxmas.live24.gr/realxmas"
-    ],
-    "country": "gr",
+    "sources": {
+      "streams": [
+        "https://realxmas.live24.gr/realxmas"
+      ]
+    },
     "languages": [
       "ell"
     ]
@@ -2300,10 +2483,11 @@
   {
     "nanoid": "GBLN3Zd8H91doQ",
     "name": "REYFM - #xmas",
-    "stream_urls": [
-      "https://listen.reyfm.de/xmas_320kbps.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://listen.reyfm.de/xmas_320kbps.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2311,10 +2495,11 @@
   {
     "nanoid": "gYRrJ2MKDojTZu",
     "name": "RMF Kolędy",
-    "stream_urls": [
-      "https://rs201-krk.rmfstream.pl/KOLEDY"
-    ],
-    "country": "pl",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/KOLEDY"
+      ]
+    },
     "languages": [
       "pol"
     ]
@@ -2322,10 +2507,11 @@
   {
     "nanoid": "8CXj5INoJca4i2",
     "name": "RMF Święta",
-    "stream_urls": [
-      "https://rs101-krk-cyfronet.rmfstream.pl/SWIETA"
-    ],
-    "country": "pl",
+    "sources": {
+      "streams": [
+        "https://rs101-krk-cyfronet.rmfstream.pl/SWIETA"
+      ]
+    },
     "languages": [
       "pol"
     ]
@@ -2333,12 +2519,13 @@
   {
     "nanoid": "ju56HS4qN39mMU",
     "name": "ROCK ANTENNE - Xmas Rock",
-    "stream_urls": [
-      "https://s5-webradio.rockantenne.de/xmas-rock/stream/aacp",
-      "https://s7-webradio.rockantenne.de/xmas-rock/stream/aacp",
-      "https://stream.rockantenne.de/xmas-rock/stream/aacp"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://s5-webradio.rockantenne.de/xmas-rock/stream/aacp",
+        "https://s7-webradio.rockantenne.de/xmas-rock/stream/aacp",
+        "https://stream.rockantenne.de/xmas-rock/stream/aacp"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2346,10 +2533,11 @@
   {
     "nanoid": "kUeIRSXKqlryJV",
     "name": "ROCK FM Christmas Rock",
-    "stream_urls": [
-      "https://stream.regenbogen2.de/christmasrock/mp3-128/radiobrowser"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.regenbogen2.de/christmasrock/mp3-128/radiobrowser"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2357,10 +2545,11 @@
   {
     "nanoid": "OZjZqlVP1MZzy3",
     "name": "RPR1. Weihnachtslieder",
-    "stream_urls": [
-      "https://stream.rpr1.de/weihnachten/mp3-128/radiobrowser"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.rpr1.de/weihnachten/mp3-128/radiobrowser"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2401,10 +2590,11 @@
   {
     "nanoid": "oslYYrBkulLP4R",
     "name": "Santa Christmas Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/e0m2rnz86p8uv"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/e0m2rnz86p8uv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2412,10 +2602,11 @@
   {
     "nanoid": "srkmZtlZokCZ4f",
     "name": "Sky Radio Christmas",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3"
+      ]
+    },
     "languages": [
       "nld"
     ]
@@ -2423,10 +2614,11 @@
   {
     "nanoid": "ApWIIo25WUbj0S",
     "name": "Smooth Christmas",
-    "stream_urls": [
-      "https://media-ice.musicradio.com/SmoothXmasMP3"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://media-ice.musicradio.com/SmoothXmasMP3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2434,12 +2626,13 @@
   {
     "nanoid": "G9tCCz1e3x2Lbk",
     "name": "SomaFM: Christmas Lounge",
-    "stream_urls": [
-      "https://ice6.somafm.com/christmas-256-mp3",
-      "https://ice2.somafm.com/christmas-256-mp3",
-      "https://ice4.somafm.com/christmas-256-mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://ice6.somafm.com/christmas-256-mp3",
+        "https://ice2.somafm.com/christmas-256-mp3",
+        "https://ice4.somafm.com/christmas-256-mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2447,54 +2640,61 @@
   {
     "nanoid": "piFWHGPqtBjicq",
     "name": "SomaFM: Christmas Rocks!",
-    "stream_urls": [
-      "https://ice2.somafm.com/xmasrocks-128-mp3",
-      "https://ice3.somafm.com/xmasrocks-128-mp3",
-      "https://ice4.somafm.com/xmasrocks-128-mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://ice2.somafm.com/xmasrocks-128-mp3",
+        "https://ice3.somafm.com/xmasrocks-128-mp3",
+        "https://ice4.somafm.com/xmasrocks-128-mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "rSxo0g7iPlsOxW",
     "name": "SomaFM: Department Store Christmas",
-    "stream_urls": [
-      "https://ice4.somafm.com/deptstore-128-aac",
-      "https://ice3.somafm.com/deptstore-128-aac",
-      "https://ice5.somafm.com/deptstore-128-aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://ice4.somafm.com/deptstore-128-aac",
+        "https://ice3.somafm.com/deptstore-128-aac",
+        "https://ice5.somafm.com/deptstore-128-aac"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "yVYChEUMD0o4Kw",
     "name": "SomaFM: Jolly Old Soul",
-    "stream_urls": [
-      "https://ice6.somafm.com/jollysoul-128-mp3",
-      "https://ice2.somafm.com/jollysoul-128-mp3",
-      "https://ice3.somafm.com/jollysoul-128-mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://ice6.somafm.com/jollysoul-128-mp3",
+        "https://ice2.somafm.com/jollysoul-128-mp3",
+        "https://ice3.somafm.com/jollysoul-128-mp3"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
     "nanoid": "F5mV6PcCHSrjGR",
     "name": "SomaFM: Xmas in Frisco",
-    "stream_urls": [
-      "https://ice6.somafm.com/xmasinfrisko-128-aac",
-      "https://ice4.somafm.com/xmasinfrisko-64-aac",
-      "https://ice5.somafm.com/xmasinfrisko-64-aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://ice6.somafm.com/xmasinfrisko-128-aac",
+        "https://ice4.somafm.com/xmasinfrisko-64-aac",
+        "https://ice5.somafm.com/xmasinfrisko-64-aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2502,10 +2702,11 @@
   {
     "nanoid": "Z3ZhIFzFp1hMgT",
     "name": "Splash Christmas",
-    "stream_urls": [
-      "https://ais-sa2.cdnstream1.com/2553_128.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://ais-sa2.cdnstream1.com/2553_128.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2513,10 +2714,11 @@
   {
     "nanoid": "RnKXKD4prptXuW",
     "name": "Star FM - Christmas Rock",
-    "stream_urls": [
-      "https://stream.starfm.de/xmas/mp3-192/iradio"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.starfm.de/xmas/mp3-192/iradio"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2535,10 +2737,11 @@
   {
     "nanoid": "WMv53XsjMsll9x",
     "name": "Tannenbaum Radio",
-    "stream_urls": [
-      "https://tannenbaumradio.stream.laut.fm/tannenbaumradio"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://tannenbaumradio.stream.laut.fm/tannenbaumradio"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2560,10 +2763,11 @@
   {
     "nanoid": "hwEns5b4CvhgS5",
     "name": "The Always Christmas Channel",
-    "stream_urls": [
-      "https://kea.cdnstream.com/1837_128"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://kea.cdnstream.com/1837_128"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2571,10 +2775,11 @@
   {
     "nanoid": "ZY0G4CyRLBFIoY",
     "name": "The Best Of - Christmas Pop",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/christmaspop/icecast.audio"
-    ],
-    "country": "ae",
+    "sources": {
+      "streams": [
+        "https://streaming.exclusive.radio/er/christmaspop/icecast.audio"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2582,10 +2787,11 @@
   {
     "nanoid": "qwKv9doLNpSnr6",
     "name": "The Christmas Channel",
-    "stream_urls": [
-      "https://christmas-high.rautemusik.fm/"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://christmas-high.rautemusik.fm/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2593,10 +2799,11 @@
   {
     "nanoid": "0Bgm7SDhuXcfRz",
     "name": "The Christmas Lounge (SomaFM)",
-    "stream_urls": [
-      "https://ice1.somafm.com/christmas-128-aac"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://ice1.somafm.com/christmas-128-aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2604,10 +2811,11 @@
   {
     "nanoid": "7LPvDVhNUugKPH",
     "name": "The Christmas Station",
-    "stream_urls": [
-      "https://stream.radio.co/s63541ce9b/listen"
-    ],
-    "country": "uk",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/s63541ce9b/listen"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2615,10 +2823,11 @@
   {
     "nanoid": "YqhW00GpwZp4KW",
     "name": "The Christmas Station",
-    "stream_urls": [
-      "https://streaming.live365.com/a48206"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a48206"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2626,10 +2835,11 @@
   {
     "nanoid": "BvIjUBimylrRr3",
     "name": "The Current: Holiday",
-    "stream_urls": [
-      "https://currentholiday.stream.publicradio.org/currentholiday.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://currentholiday.stream.publicradio.org/currentholiday.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2637,10 +2847,11 @@
   {
     "nanoid": "WtlqVZy9uGloOl",
     "name": "The Cutting Edge of Christmas",
-    "stream_urls": [
-      "https://s5.radio.co/sb3c8084dd/listen"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/sb3c8084dd/listen"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2648,10 +2859,11 @@
   {
     "nanoid": "XLdrvpvFWeB73L",
     "name": "The Miller Lights Radio",
-    "stream_urls": [
-      "https://radio.themillerlights.com/listen/themillerlights/radio.mp3"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://radio.themillerlights.com/listen/themillerlights/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2659,10 +2871,11 @@
   {
     "nanoid": "FnrfcolUz09mwh",
     "name": "TheLight Christmas",
-    "stream_urls": [
-      "https://stream.thelight.com.au:8150/;stream/1"
-    ],
-    "country": "au",
+    "sources": {
+      "streams": [
+        "https://stream.thelight.com.au:8150/;stream/1"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2670,10 +2883,11 @@
   {
     "nanoid": "IrFn8BoNN0C7XB",
     "name": "Tinder Radio - Christmas Carols",
-    "stream_urls": [
-      "https://streaming.exclusive.radio/er/christmascarols/icecast.audio"
-    ],
-    "country": "ae",
+    "sources": {
+      "streams": [
+        "https://streaming.exclusive.radio/er/christmascarols/icecast.audio"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2681,10 +2895,11 @@
   {
     "nanoid": "NLowPdq5uSHOCv",
     "name": "Top Christmas Station",
-    "stream_urls": [
-      "https://substream.top100station.com/topchristmasstation.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://substream.top100station.com/topchristmasstation.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2692,10 +2907,11 @@
   {
     "nanoid": "Pupqn5vRTulDoy",
     "name": "Totally Christmas Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/oegn3anzamyuv"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/oegn3anzamyuv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2703,10 +2919,11 @@
   {
     "nanoid": "o2QYceIVO5JQRC",
     "name": "Traditional Christmas",
-    "stream_urls": [
-      "https://icecast.unitedradio.it/um033.mp3"
-    ],
-    "country": "it",
+    "sources": {
+      "streams": [
+        "https://icecast.unitedradio.it/um033.mp3"
+      ]
+    },
     "languages": [
       "ita"
     ]
@@ -2714,11 +2931,12 @@
   {
     "nanoid": "P2MkJqVif5WGLY",
     "name": "Treasure Emporium Christmas Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/5z3f8h42c48uv",
-      "https://stream.zeno.fm/gker4h42c48uv"
-    ],
-    "country": "au",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/5z3f8h42c48uv",
+        "https://stream.zeno.fm/gker4h42c48uv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2759,10 +2977,11 @@
   {
     "nanoid": "63RNa4hIjFWDR1",
     "name": "Weihnachtsmusik.fm Chor Weihnachten",
-    "stream_urls": [
-      "https://streams.weihnachtsmusik.fm/choere/mp3-192/surfmusik"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.weihnachtsmusik.fm/choere/mp3-192/surfmusik"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2801,10 +3020,11 @@
   {
     "nanoid": "o36iTCg7gNEIUX",
     "name": "WUMB Holiday",
-    "stream_urls": [
-      "https://wumb.streamguys1.com/wumb919hol"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://wumb.streamguys1.com/wumb919hol"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -2812,11 +3032,12 @@
   {
     "nanoid": "sDkhapWFd7Uamb",
     "name": "Xmas Love 97.5",
-    "stream_urls": [
-      "https://n13.radiojar.com/gt0xy4z88f0uv",
-      "https://n0e.radiojar.com/gt0xy4z88f0uv"
-    ],
-    "country": "gr",
+    "sources": {
+      "streams": [
+        "https://n13.radiojar.com/gt0xy4z88f0uv",
+        "https://n0e.radiojar.com/gt0xy4z88f0uv"
+      ]
+    },
     "languages": [
       "ell",
       "eng"
@@ -2825,10 +3046,11 @@
   {
     "nanoid": "SCD62VMiFM4sx1",
     "name": "Xmas Radio",
-    "stream_urls": [
-      "https://stream.tbmp.nl:8000/xmasradiohigh.mp3"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://stream.tbmp.nl:8000/xmasradiohigh.mp3"
+      ]
+    },
     "languages": [
       "eng",
       "nld"

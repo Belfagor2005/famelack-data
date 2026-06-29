@@ -2,10 +2,11 @@
   {
     "nanoid": "PqB7YLWMQR0KNS",
     "name": "ZBVI Radio",
-    "stream_urls": [
-      "https://streams.radio.co/s39d621120/listen"
-    ],
-    "country": "vg",
+    "sources": {
+      "streams": [
+        "https://streams.radio.co/s39d621120/listen"
+      ]
+    },
     "languages": [
       "eng"
     ]

@@ -2,10 +2,11 @@
   {
     "nanoid": "XPJxz3pe1ma8l2",
     "name": "Dunya Naw TV",
-    "stream_urls": [
-      "https://dunyanhls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dunyanhls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "prd"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "kbdcUcRfw9YLk1",
     "name": "Eslah TV",
-    "stream_urls": [
-      "https://eslahtvhls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://eslahtvhls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "pus"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "PMA4oYVtGpr60x",
     "name": "Kayhan TV",
-    "stream_urls": [
-      "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "pus"
     ],
@@ -41,23 +44,11 @@
   {
     "nanoid": "vfExfpKOcJ4kwS",
     "name": "RTA Sport",
-    "stream_urls": [
-      "https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pus"
-    ],
-    "country": "af",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sZwFjK8uOPwgBp",
-    "name": "Shamshad TV",
-    "stream_urls": [
-      "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8"
+      ]
+    },
     "languages": [
       "pus"
     ],
@@ -80,10 +71,11 @@
   {
     "nanoid": "aEHBVjoRvzZifo",
     "name": "Tamadon TV",
-    "stream_urls": [
-      "https://hls.tamadon.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hls.tamadon.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "prd"
     ],
@@ -93,10 +85,12 @@
   {
     "nanoid": "qkByZOw6O9MPFi",
     "name": "Tolo TV",
-    "stream_urls": [
-      "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8",
+        "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "pus"
     ],
@@ -106,10 +100,11 @@
   {
     "nanoid": "TwqyjvLhfF01ZW",
     "name": "TOLOnews",
-    "stream_urls": [
-      "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8"
+      ]
+    },
     "languages": [
       "pus"
     ],

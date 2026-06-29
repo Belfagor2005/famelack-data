@@ -2,10 +2,11 @@
   {
     "nanoid": "AMOgK0jQXRKMSs",
     "name": "Birinchi Radio",
-    "stream_urls": [
-      "https://liveradio.utrk.kg/1radio"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://liveradio.utrk.kg/1radio"
+      ]
+    },
     "languages": [
       "kir"
     ]
@@ -13,11 +14,12 @@
   {
     "nanoid": "7F9zQlfbq818xJ",
     "name": "ColdStar Online Radio",
-    "stream_urls": [
-      "https://ice.coldstar.online/high.ogg",
-      "https://ice.coldstar.online/low.mp3"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://ice.coldstar.online/high.ogg",
+        "https://ice.coldstar.online/low.mp3"
+      ]
+    },
     "languages": [
       "rus",
       "eng"
@@ -26,10 +28,11 @@
   {
     "nanoid": "C3mg3bgCYFkjmE",
     "name": "Europa Plus Kyrgyzstan",
-    "stream_urls": [
-      "https://cdn.radioplayer.kg:8443/europa64"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://cdn.radioplayer.kg:8443/europa64"
+      ]
+    },
     "languages": [
       "rus",
       "kir"
@@ -38,10 +41,11 @@
   {
     "nanoid": "VewCMXRfGZj4j5",
     "name": "Kyrgyzstan Obondoru",
-    "stream_urls": [
-      "https://cdn.radioplayer.kg:8443/obondoru64"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://cdn.radioplayer.kg:8443/obondoru64"
+      ]
+    },
     "languages": [
       "kir"
     ]
@@ -49,10 +53,11 @@
   {
     "nanoid": "k6RlVjTt8hVR86",
     "name": "Min Kyal",
-    "stream_urls": [
-      "https://liveradio.utrk.kg/1000kiyal"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://liveradio.utrk.kg/1000kiyal"
+      ]
+    },
     "languages": [
       "kir"
     ]
@@ -60,10 +65,11 @@
   {
     "nanoid": "TnVR4Z1OlSPjQG",
     "name": "Retro FM Kyrgyzstan",
-    "stream_urls": [
-      "https://cdn.radioplayer.kg:8443/retro64"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://cdn.radioplayer.kg:8443/retro64"
+      ]
+    },
     "languages": [
       "rus",
       "kir"
@@ -72,11 +78,12 @@
   {
     "nanoid": "EIvijlUHW5QoAy",
     "name": "Suiunchu FM",
-    "stream_urls": [
-      "https://cdn.radioplayer.kg:8443/suiunchu64",
-      "https://cdn.radioplayer.kg:8443//suiunchu64"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://cdn.radioplayer.kg:8443/suiunchu64",
+        "https://cdn.radioplayer.kg:8443//suiunchu64"
+      ]
+    },
     "languages": [
       "kir"
     ]
@@ -84,10 +91,11 @@
   {
     "nanoid": "8lUfvr4ZtpLlaf",
     "name": "Tumar FM",
-    "stream_urls": [
-      "https://radio.tumar.fm:8005/stream"
-    ],
-    "country": "kg",
+    "sources": {
+      "streams": [
+        "https://radio.tumar.fm:8005/stream"
+      ]
+    },
     "languages": [
       "kir",
       "rus"

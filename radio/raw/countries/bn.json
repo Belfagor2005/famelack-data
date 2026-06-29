@@ -2,10 +2,11 @@
   {
     "nanoid": "neskPDb96emrM4",
     "name": "Asyik FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC"
-    ],
-    "country": "bn",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC"
+      ]
+    },
     "languages": [
       "msa"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "icDn8ngLNJ3QML",
     "name": "BFBS Brunei",
-    "stream_urls": [
-      "https://edge-audio-06-thn.sharp-stream.com/ssvcbfbs10.aac"
-    ],
-    "country": "bn",
+    "sources": {
+      "streams": [
+        "https://edge-audio-06-thn.sharp-stream.com/ssvcbfbs10.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]

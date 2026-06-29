@@ -41,11 +41,12 @@
   {
     "nanoid": "6jTUHlY33vUmQu",
     "name": "Sky Folk TV",
-    "stream_urls": [
-      "https://eu.live.skyfolk.mk/live.m3u8",
-      "https://skyfolk.mk/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://eu.live.skyfolk.mk/live.m3u8",
+        "https://skyfolk.mk/live.m3u8"
+      ]
+    },
     "languages": [
       "mkd"
     ],

@@ -2,10 +2,11 @@
   {
     "nanoid": "74FhYQYvq8Rptv",
     "name": "Afaq FM راديو آفاق",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/rumps"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/rumps"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "aEIWXQr5xN0UAP",
     "name": "Radio Lana FM",
-    "stream_urls": [
-      "https://node-24.zeno.fm/542gubz258quv"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://node-24.zeno.fm/542gubz258quv"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "D50SfMs8cIBGNq",
     "name": "Sam FM 99.1",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/kijwr"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/kijwr"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -35,10 +38,11 @@
   {
     "nanoid": "I56nkrGrW3LF3P",
     "name": "Sana’a Radio 91.1",
-    "stream_urls": [
-      "https://dc5.serverse.com/proxy/pbmhbvxs/stream"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://dc5.serverse.com/proxy/pbmhbvxs/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -46,10 +50,11 @@
   {
     "nanoid": "nc6RHWx84PtLKQ",
     "name": "Voice of the People 97.1 FM",
-    "stream_urls": [
-      "https://sawtalshaab3.radioca.st/index"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://sawtalshaab3.radioca.st/index"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -57,10 +62,11 @@
   {
     "nanoid": "NLl72KEXGtSol7",
     "name": "إذاعة ابن القيم السلفية",
-    "stream_urls": [
-      "https://c38.radioboss.fm:8323/stream"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://c38.radioboss.fm:8323/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -68,10 +74,11 @@
   {
     "nanoid": "z0I2gNeq26qzEY",
     "name": "إذاعة سيئون",
-    "stream_urls": [
-      "https://s2.radio.co/s26c62011e/listen"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co/s26c62011e/listen"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -79,10 +86,11 @@
   {
     "nanoid": "vZYR26ejKHROmv",
     "name": "إذاعة نور الإيمان",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/boaht"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/boaht"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -90,22 +98,25 @@
   {
     "nanoid": "8msYk4VGWE2NNY",
     "name": "القرآن",
-    "stream_urls": [
-      "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://backup.qurango.net/radio/ahmad_khader_altarabulsi"
+      ]
+    },
     "languages": [
       "ara"
     ],
+    "country": "ye",
     "isGeoBlocked": false
   },
   {
     "nanoid": "edyGwlbH0uPbHM",
     "name": "صوت المقاومة",
-    "stream_urls": [
-      "https://node-23.zeno.fm/b67qheuk54zuv"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://node-23.zeno.fm/b67qheuk54zuv"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -113,10 +124,11 @@
   {
     "nanoid": "RvQAgBtNeUehbd",
     "name": "هنا عدن FM",
-    "stream_urls": [
-      "https://c30.radioboss.fm:18267/stream"
-    ],
-    "country": "ye",
+    "sources": {
+      "streams": [
+        "https://c30.radioboss.fm:18267/stream"
+      ]
+    },
     "languages": [
       "ara"
     ]

@@ -2,10 +2,11 @@
   {
     "nanoid": "IHBBu4VeQUFs2u",
     "name": "Antenna 5",
-    "stream_urls": [
-      "https://fms.off.net.mk:8000/antenna5.stream"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://fms.off.net.mk:8000/antenna5.stream"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "zxZ7Dqs6lkkg4I",
     "name": "Club Radio",
-    "stream_urls": [
-      "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "clwPgwr2yAwYzT",
     "name": "Jazz FM",
-    "stream_urls": [
-      "https://radio.jazzfm.mk/listen/jazzfm/live"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radio.jazzfm.mk/listen/jazzfm/live"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -58,12 +61,13 @@
   {
     "nanoid": "zLYbwvx7xdVnLd",
     "name": "Kanal 77",
-    "stream_urls": [
-      "https://radiocnd.mms.mk/proxy/reactradio/stream",
-      "https://radiocnd.mms.mk/proxy/offnet/stream",
-      "https://radiocnd.mms.mk/proxy/player/stream"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiocnd.mms.mk/proxy/reactradio/stream",
+        "https://radiocnd.mms.mk/proxy/offnet/stream",
+        "https://radiocnd.mms.mk/proxy/player/stream"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -71,10 +75,11 @@
   {
     "nanoid": "4Uv0qYYKtiMffB",
     "name": "Radio Bar",
-    "stream_urls": [
-      "https://visual.shoutca.st:8122/stream"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://visual.shoutca.st:8122/stream"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -82,10 +87,11 @@
   {
     "nanoid": "fJ0rNTFGqgYqtp",
     "name": "Radio Bum",
-    "stream_urls": [
-      "https://iandonov.radioca.st/;stream/1"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://iandonov.radioca.st/;stream/1"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -93,11 +99,12 @@
   {
     "nanoid": "O7VuTxRMroEHwz",
     "name": "Radio Fortuna",
-    "stream_urls": [
-      "https://radiofortuna.ipradio.mk/;*.mp3",
-      "https://radiofortuna.ipradio.mk/;*.mp3%22"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiofortuna.ipradio.mk/;*.mp3",
+        "https://radiofortuna.ipradio.mk/;*.mp3%22"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -105,10 +112,11 @@
   {
     "nanoid": "Hlfg18zOFXOg3K",
     "name": "Radio Meff",
-    "stream_urls": [
-      "https://s32.myradiostream.com:16040/;"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://s32.myradiostream.com:16040/;"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -116,10 +124,11 @@
   {
     "nanoid": "j2LwVWJPfIj4Ti",
     "name": "Samo MK",
-    "stream_urls": [
-      "https://radiostream.neotel.mk/samomk"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostream.neotel.mk/samomk"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -127,10 +136,11 @@
   {
     "nanoid": "ilzYBIW2Y7eBPr",
     "name": "Sky Radio",
-    "stream_urls": [
-      "https://s1.skyradio.com.mk/;*.mp3"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://s1.skyradio.com.mk/;*.mp3"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -138,10 +148,11 @@
   {
     "nanoid": "Fo1Tdo190wlPGm",
     "name": "Sky Radio Hits",
-    "stream_urls": [
-      "https://s1.skyradio.com.mk/hits.mp3"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://s1.skyradio.com.mk/hits.mp3"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -149,10 +160,11 @@
   {
     "nanoid": "VyIGgNZHFWqfDy",
     "name": "Sky Radio Retro",
-    "stream_urls": [
-      "https://s1.skyradio.com.mk/retro.mp3"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://s1.skyradio.com.mk/retro.mp3"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -171,22 +183,25 @@
   {
     "nanoid": "S0gRlTVLISIIEE",
     "name": "Star Radio",
-    "stream_urls": [
-      "https://radiostar.pro/stream/starlive.php"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostar.pro/stream/starlive.php"
+      ]
+    },
     "languages": [
       "mkd"
     ],
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "xvXTaVzc8nuCJp",
     "name": "Star Radio Boemi",
-    "stream_urls": [
-      "https://radiostar.pro/stream/boemi.php"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostar.pro/stream/boemi.php"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -238,70 +253,81 @@
   {
     "nanoid": "YcwwwLAZTJ1Fwb",
     "name": "Star Radio Ex-YU Retro",
-    "stream_urls": [
-      "https://radiostar.pro/stream/exyuretro.php"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostar.pro/stream/exyuretro.php"
+      ]
+    },
     "languages": [
       "mkd"
     ],
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ZEADPg8yVJs6u5",
     "name": "Star Radio MK Narodna",
-    "stream_urls": [
-      "https://radiostar.pro/stream/mknarodna.php"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostar.pro/stream/mknarodna.php"
+      ]
+    },
     "languages": [
       "mkd"
     ],
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "u2z2cLSWhkCciO",
     "name": "Star Radio Plus",
-    "stream_urls": [
-      "https://radiostar.pro/stream/starplus.php"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostar.pro/stream/starplus.php"
+      ]
+    },
     "languages": [
       "mkd"
     ],
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "mKdKRm0V1TXbws",
     "name": "Star Radio Urban Folk",
-    "stream_urls": [
-      "https://radiostar.pro/stream/narodna.php"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostar.pro/stream/narodna.php"
+      ]
+    },
     "languages": [
       "mkd"
     ],
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "nlIxIzbs2XBXSa",
     "name": "Star Radio World Hits",
-    "stream_urls": [
-      "https://radiostar.pro/stream/worldretro.php"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://radiostar.pro/stream/worldretro.php"
+      ]
+    },
     "languages": [
       "mkd"
     ],
+    "country": "mk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ana9OaXdpkYCxR",
     "name": "Time FM",
-    "stream_urls": [
-      "https://s2.free-shoutcast.com/stream/18058"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://s2.free-shoutcast.com/stream/18058"
+      ]
+    },
     "languages": [
       "mkd"
     ]
@@ -309,10 +335,11 @@
   {
     "nanoid": "wTKPnafPAPcZBn",
     "name": "Urban FM",
-    "stream_urls": [
-      "https://securestreams4.autopo.st:1668/stream"
-    ],
-    "country": "mk",
+    "sources": {
+      "streams": [
+        "https://securestreams4.autopo.st:1668/stream"
+      ]
+    },
     "languages": [
       "mkd"
     ]

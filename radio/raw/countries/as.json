@@ -2,10 +2,11 @@
   {
     "nanoid": "u3NX39V5BIpUly",
     "name": "93KHJ 93.1 FM",
-    "stream_urls": [
-      "https://ice25.securenetsystems.net/KKHJ"
-    ],
-    "country": "as",
+    "sources": {
+      "streams": [
+        "https://ice25.securenetsystems.net/KKHJ"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -13,13 +14,15 @@
   {
     "nanoid": "ZFQixfwkk2FtKW",
     "name": "Christmas 365 - Santa's Radio",
-    "stream_urls": [
-      "https://us3.streamingpulse.com/ssl/7038"
-    ],
-    "country": "as",
+    "sources": {
+      "streams": [
+        "https://us3.streamingpulse.com/ssl/7038"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "as",
     "isGeoBlocked": false
   },
   {
@@ -47,10 +50,11 @@
   {
     "nanoid": "aBTneDKTaqwvnt",
     "name": "The Beat 104.7 FM",
-    "stream_urls": [
-      "https://ice25.securenetsystems.net/KKBT"
-    ],
-    "country": "as",
+    "sources": {
+      "streams": [
+        "https://ice25.securenetsystems.net/KKBT"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -58,10 +62,11 @@
   {
     "nanoid": "7Lx4vnZ1ifVuRb",
     "name": "希望之声",
-    "stream_urls": [
-      "https://livecast1.soundofhope.org:2087/soh-live"
-    ],
-    "country": "as",
+    "sources": {
+      "streams": [
+        "https://livecast1.soundofhope.org:2087/soh-live"
+      ]
+    },
     "languages": [
       "zho"
     ]

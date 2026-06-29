@@ -2,10 +2,11 @@
   {
     "nanoid": "oeOP56G2MDaXdZ",
     "name": "Boss 104.3 FM",
-    "stream_urls": [
-      "https://ice10.securenetsystems.net/KIJI"
-    ],
-    "country": "gu",
+    "sources": {
+      "streams": [
+        "https://ice10.securenetsystems.net/KIJI"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "lBvxHM4BeQzdIV",
     "name": "Harvest Family Radio",
-    "stream_urls": [
-      "https://streaming.live365.com/a11295"
-    ],
-    "country": "gu",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a11295"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "2qeNQrqKzRmSc3",
     "name": "KUSG 1350 AM",
-    "stream_urls": [
-      "https://ice10.securenetsystems.net/KUSG"
-    ],
-    "country": "gu",
+    "sources": {
+      "streams": [
+        "https://ice10.securenetsystems.net/KUSG"
+      ]
+    },
     "languages": [
       "eng"
     ]

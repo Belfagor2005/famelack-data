@@ -2,10 +2,11 @@
   {
     "nanoid": "axFoablbn00mt1",
     "name": "¡Viva Latino!",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch138/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch138/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "POgdAT0qPokYdw",
     "name": "1+1 International",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -26,12 +28,27 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "t5EqKCIIOMVoUI",
+    "name": "1+1 Marafon",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ViGouR7ICcVfNp",
     "name": "4ever Cinema",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch42/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch42/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -41,10 +58,11 @@
   {
     "nanoid": "3QRPAcVmVoh8UN",
     "name": "4ever Drama",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch49/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch49/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -54,10 +72,11 @@
   {
     "nanoid": "KRCfBPZnilbuy5",
     "name": "4ever Music",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch132/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch132/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -67,10 +86,11 @@
   {
     "nanoid": "aSs1KmvQeVEG7c",
     "name": "4ever Theater",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -93,10 +113,11 @@
   {
     "nanoid": "D4yTc59L8E3C7q",
     "name": "24 Канал онлайн",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CrC1RnOHVGo"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/CrC1RnOHVGo"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -104,12 +125,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rYwjqhp39J7oO0",
+    "name": "36.6 TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H0fTRstAnfWOk3",
     "name": "Avers",
-    "stream_urls": [
-      "https://avers.pp.ua/hls/efir.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://avers.pp.ua/hls/efir.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -132,10 +168,11 @@
   {
     "nanoid": "9D74wXaGqUWkp2",
     "name": "Equalympic",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch215/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch215/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -145,10 +182,11 @@
   {
     "nanoid": "OTZ19e4QL89Emf",
     "name": "Espreso",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ScdUZNkwcYc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ScdUZNkwcYc"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -158,10 +196,12 @@
   {
     "nanoid": "1noDMwg9YAlG9Y",
     "name": "Espreso TV",
-    "stream_urls": [
-      "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -171,10 +211,11 @@
   {
     "nanoid": "Ma2cDDVzIa07ro",
     "name": "EU Music",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -184,10 +225,11 @@
   {
     "nanoid": "mIGSyXqUZvMvq1",
     "name": "EWTN Ukraine",
-    "stream_urls": [
-      "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -197,10 +239,11 @@
   {
     "nanoid": "hWjqV9dGq58pYr",
     "name": "Fashion TV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -208,12 +251,42 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xbUgKyNJkUd9WG",
+    "name": "FilmUA Live",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0r210a3FA40XwI",
+    "name": "FilmUADrama",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QgJCPkx1daMycI",
     "name": "FREEDOM",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -223,10 +296,11 @@
   {
     "nanoid": "iK2kLMwkLCeU8A",
     "name": "Freedom (FREEДOM) (UATV)",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2D0PyPWo8vc"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/2D0PyPWo8vc"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -234,12 +308,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QoGBfp2S5Hqmo0",
+    "name": "Happy Radio TV",
+    "sources": {
+      "streams": [
+        "https://tv.mediacp.eu:8081/happyradio/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ihOu06OqCfSgp8",
     "name": "ICTV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch2/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch2/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -249,10 +338,11 @@
   {
     "nanoid": "e9rrXwLSK5cgba",
     "name": "Inter+",
-    "stream_urls": [
-      "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -262,10 +352,11 @@
   {
     "nanoid": "2ijBxrnqlhILuI",
     "name": "ITV",
-    "stream_urls": [
-      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -275,10 +366,11 @@
   {
     "nanoid": "WoGHZ2NiobEniJ",
     "name": "Izmail TV",
-    "stream_urls": [
-      "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -286,12 +378,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RCrPTSQMxm28NU",
+    "name": "Kus-Kus",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "z32r6fXKyAf2oW",
+    "name": "Kvartal TV International",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ecJrdAdmunHpWi",
     "name": "Lale",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch77/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch77/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -301,10 +420,11 @@
   {
     "nanoid": "aTKMVMY4VnZK2B",
     "name": "M1",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch122/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch122/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -314,10 +434,11 @@
   {
     "nanoid": "tw81DnoVlplmdm",
     "name": "M2",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch123/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch123/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -327,10 +448,11 @@
   {
     "nanoid": "n4cYNsGP5quUZZ",
     "name": "Muzvar",
-    "stream_urls": [
-      "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -340,10 +462,11 @@
   {
     "nanoid": "llmTLpa7nLu2lO",
     "name": "NASHE Music",
-    "stream_urls": [
-      "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -353,10 +476,11 @@
   {
     "nanoid": "ugTdbReAV02ssT",
     "name": "Niki Junior",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch72/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch72/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -366,10 +490,11 @@
   {
     "nanoid": "BbdnOI6pbCxXBQ",
     "name": "Niki Kids",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch71/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch71/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -379,10 +504,11 @@
   {
     "nanoid": "yuVSQWMuHA1KqE",
     "name": "NTK TV",
-    "stream_urls": [
-      "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -392,10 +518,11 @@
   {
     "nanoid": "oKqpFMnvfZtb0e",
     "name": "NTN",
-    "stream_urls": [
-      "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -405,10 +532,11 @@
   {
     "nanoid": "TSoF97sEDzv28V",
     "name": "PravdaTUT Lviv",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -431,10 +559,11 @@
   {
     "nanoid": "Ow650uw0Y3b6my",
     "name": "Rivne 1",
-    "stream_urls": [
-      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -483,10 +612,11 @@
   {
     "nanoid": "KNtnaXZuhjC6uj",
     "name": "TIS TV",
-    "stream_urls": [
-      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -496,10 +626,11 @@
   {
     "nanoid": "WcoZqsaKguXix1",
     "name": "TUSO",
-    "stream_urls": [
-      "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -523,10 +654,11 @@
   {
     "nanoid": "1PSkwvPNlldAvj",
     "name": "UA Fashion TV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch216/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch216/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -536,10 +668,11 @@
   {
     "nanoid": "iazCRJ8KYA4VWe",
     "name": "UA Music",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch133/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch133/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -549,10 +682,11 @@
   {
     "nanoid": "IbTCbqEiH4tLkG",
     "name": "UNIAN TV",
-    "stream_urls": [
-      "https://iptv.prosto.tv/id22/index.m3u8?21yo=&secret=f8z1l7gk"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/id22/index.m3u8?21yo=&secret=f8z1l7gk"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -560,12 +694,29 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3KIbg37PQUOdm7",
+    "name": "Viasat Kino Comedy",
+    "sources": {
+      "streams": [
+        "https://ukr.ukrainske.tv/493/keytvainua/video.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lat",
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZWMy6L1tUWrepR",
     "name": "Z",
-    "stream_urls": [
-      "https://stream.ztv.zp.ua/hls/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.ztv.zp.ua/hls/live.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -575,10 +726,11 @@
   {
     "nanoid": "33aYR9EbXeoJbc",
     "name": "Ми - Україна",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Mv6PEi0hRmg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Mv6PEi0hRmg"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -588,10 +740,11 @@
   {
     "nanoid": "LFw2IVZK55i3Eh",
     "name": "Суспільне Новини",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uOntga5OQrs"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uOntga5OQrs"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -601,10 +754,11 @@
   {
     "nanoid": "58lrZlgzryEpin",
     "name": "Телеканал 1+1: FREEДОМ",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lnrp2S2L6qk"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lnrp2S2L6qk"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -627,10 +781,11 @@
   {
     "nanoid": "j4guaLVmU1qeBF",
     "name": "Телеканал Прямий",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-9FO57Sk_oY"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-9FO57Sk_oY"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -640,10 +795,11 @@
   {
     "nanoid": "SMG6eHvZY0KKF6",
     "name": "Телеканал Рада",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ecD39ojnQxQ"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ecD39ojnQxQ"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -653,10 +809,11 @@
   {
     "nanoid": "lgFlddJ7s9T4qn",
     "name": "ТСН: Єдині новини: 1+1",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WY8sDvZdWEA"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WY8sDvZdWEA"
+      ]
+    },
     "languages": [
       "ukr"
     ],

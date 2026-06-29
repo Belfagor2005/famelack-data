@@ -2,10 +2,11 @@
   {
     "nanoid": "PjxWcqWEoTLInp",
     "name": "EL Radio",
-    "stream_urls": [
-      "https://radio.elmag.me/el.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/el.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "heyypy6dc6Ef1U",
     "name": "Elmag Caffe",
-    "stream_urls": [
-      "https://radio.elmag.me/cafe.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/cafe.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "23uhX5GhsnkXWu",
     "name": "Elmag Evergreen",
-    "stream_urls": [
-      "https://radio.elmag.me/evergreen.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/evergreen.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -35,10 +38,11 @@
   {
     "nanoid": "E8XA0bGj7FwMBx",
     "name": "Elmag Folk Gold",
-    "stream_urls": [
-      "https://radio.elmag.me/folkgold.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/folkgold.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -46,10 +50,11 @@
   {
     "nanoid": "v8Hpgp7z5qIy7k",
     "name": "Elmag Izvorne i Starogradske",
-    "stream_urls": [
-      "https://radio.elmag.me/izvorne.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/izvorne.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -57,10 +62,11 @@
   {
     "nanoid": "1AgoViEgAj3JV1",
     "name": "Elmag Kids",
-    "stream_urls": [
-      "https://radio.elmag.me/kids.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/kids.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -68,10 +74,11 @@
   {
     "nanoid": "t9XCr9hM5widvn",
     "name": "Elmag Love",
-    "stream_urls": [
-      "https://radio.elmag.me/love.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/love.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -79,10 +86,11 @@
   {
     "nanoid": "sgIyynh8AwuAiR",
     "name": "Elmag Nostalgija",
-    "stream_urls": [
-      "https://radio.elmag.me/nostalgija.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/nostalgija.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -90,10 +98,11 @@
   {
     "nanoid": "AET5PP526YTaKG",
     "name": "Elmag Party",
-    "stream_urls": [
-      "https://radio.elmag.me/party.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/party.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -101,10 +110,11 @@
   {
     "nanoid": "2L9kcmv69HZbs8",
     "name": "Elmag Pop Rock EX YU",
-    "stream_urls": [
-      "https://radio.elmag.me/poprock.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/poprock.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -112,10 +122,11 @@
   {
     "nanoid": "HTSw4QJ3GwI6OC",
     "name": "Elmag Radio",
-    "stream_urls": [
-      "https://radio.elmag.me/elmag.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/elmag.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -123,10 +134,11 @@
   {
     "nanoid": "14SrmUuV5sqht5",
     "name": "Mag Radio",
-    "stream_urls": [
-      "https://radio.elmag.me/mag.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radio.elmag.me/mag.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -134,10 +146,11 @@
   {
     "nanoid": "liAtOcqvignBna",
     "name": "Play Radio",
-    "stream_urls": [
-      "https://stream.playradio.me:8443/play-me.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://stream.playradio.me:8443/play-me.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -145,10 +158,11 @@
   {
     "nanoid": "LUxnDXsaG1Bi9H",
     "name": "Radio Antena M",
-    "stream_urls": [
-      "https://radioservis.me:8010/antenamlive"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radioservis.me:8010/antenamlive"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -156,10 +170,11 @@
   {
     "nanoid": "kPIKFMt2srbwOD",
     "name": "Radio Bruškin",
-    "stream_urls": [
-      "https://player.radiobruskin.me/proxy/radiobruskin/stream"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://player.radiobruskin.me/proxy/radiobruskin/stream"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -167,10 +182,11 @@
   {
     "nanoid": "kpdWW2nY9s373E",
     "name": "Radio Budva",
-    "stream_urls": [
-      "https://c8.radioboss.fm:18199/stream"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://c8.radioboss.fm:18199/stream"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -178,10 +194,11 @@
   {
     "nanoid": "ZkiSMBnFuYrc9u",
     "name": "Radio D Plus",
-    "stream_urls": [
-      "https://radiodplus.radioca.st/xstream"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radiodplus.radioca.st/xstream"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -189,10 +206,11 @@
   {
     "nanoid": "f2PQAFgVXDJTly",
     "name": "Radio Fatih",
-    "stream_urls": [
-      "https://radioservis.me/radio/8070/radiofatih"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radioservis.me/radio/8070/radiofatih"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -200,10 +218,11 @@
   {
     "nanoid": "WatS6pBdBl9YzQ",
     "name": "Radio Porto Montenegro",
-    "stream_urls": [
-      "https://malta1491.startdedicated.de:8443/main"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://malta1491.startdedicated.de:8443/main"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -211,10 +230,11 @@
   {
     "nanoid": "iU3rokvdCYfPPH",
     "name": "Radio S1",
-    "stream_urls": [
-      "https://stream.radios.rs:9008/;"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://stream.radios.rs:9008/;"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -222,10 +242,11 @@
   {
     "nanoid": "aXMalb1HSEz0NS",
     "name": "Radio S2",
-    "stream_urls": [
-      "https://stream.radios.rs:9010/;"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://stream.radios.rs:9010/;"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -233,10 +254,11 @@
   {
     "nanoid": "nO6TKMyQN6X526",
     "name": "Radio Skadar",
-    "stream_urls": [
-      "https://radioservis.me:8050/radioskadar"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://radioservis.me:8050/radioskadar"
+      ]
+    },
     "languages": [
       "srp"
     ]
@@ -244,10 +266,11 @@
   {
     "nanoid": "AwEceqML2eRVRI",
     "name": "TDI Radio",
-    "stream_urls": [
-      "https://streaming.tdiradio.com/crnagora.mp3"
-    ],
-    "country": "me",
+    "sources": {
+      "streams": [
+        "https://streaming.tdiradio.com/crnagora.mp3"
+      ]
+    },
     "languages": [
       "srp"
     ]

@@ -32,10 +32,11 @@
   {
     "nanoid": "iQCJUDWEqz45dr",
     "name": "Bartók Rádió",
-    "stream_urls": [
-      "https://mr-stream.connectmedia.hu/4741/mr3.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mr-stream.connectmedia.hu/4741/mr3.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -43,10 +44,11 @@
   {
     "nanoid": "UmQkVWmMLTviAC",
     "name": "Base FM 96.4",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5401/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/5401/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -70,10 +72,11 @@
   {
     "nanoid": "uCra4J2ybJWDB4",
     "name": "Best FM Budapest",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5101/live.mp3/;"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/5101/live.mp3/;"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -93,10 +96,11 @@
   {
     "nanoid": "Lgwl7p1RtWzftP",
     "name": "Best FM Nyíregyháza",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5115/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/5115/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -104,10 +108,11 @@
   {
     "nanoid": "gXhbsyofRx3EDe",
     "name": "Best FM Pécs",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5128/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/5128/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -115,10 +120,11 @@
   {
     "nanoid": "oWrrQ5y7U4a6vK",
     "name": "Best FM Szolnok",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5112/live.mp3/;"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/5112/live.mp3/;"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -137,10 +143,11 @@
   {
     "nanoid": "vTyC7IU9mPsfHS",
     "name": "Best FM Zalaegerszeg",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5111/live.mp3/;"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/5111/live.mp3/;"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -148,11 +155,12 @@
   {
     "nanoid": "lYW5lG0VcmiQk4",
     "name": "Bias Radio",
-    "stream_urls": [
-      "https://admin.biasradio.com/listen/bias_radio/live",
-      "https://admin.biasradio.com/radio/8000/flac"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://admin.biasradio.com/listen/bias_radio/live",
+        "https://admin.biasradio.com/radio/8000/flac"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -160,10 +168,11 @@
   {
     "nanoid": "VlGnMSsZbjMPru",
     "name": "Bithang Yoo Radio",
-    "stream_urls": [
-      "https://s03.diazol.hu:35162/mobil"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:35162/mobil"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -171,11 +180,12 @@
   {
     "nanoid": "IGIv0mGf5c2KJV",
     "name": "Campus Rádió FM90",
-    "stream_urls": [
-      "https://stream.fm90.hu:8000/;",
-      "https://stream.fm90.hu:8000/stream/1"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.fm90.hu:8000/;",
+        "https://stream.fm90.hu:8000/stream/1/"
+      ]
+    },
     "languages": [
       "hun",
       "eng"
@@ -184,10 +194,11 @@
   {
     "nanoid": "Z15tuYKqZV2Z3v",
     "name": "Chiqui Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/gvz27wezgghtv"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gvz27wezgghtv"
+      ]
+    },
     "languages": [
       "hun",
       "eng"
@@ -196,10 +207,11 @@
   {
     "nanoid": "FWjdOTrd1Mo05U",
     "name": "Club Dance Online",
-    "stream_urls": [
-      "https://stream.clubdance.online:8000/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.clubdance.online:8000/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -207,10 +219,11 @@
   {
     "nanoid": "rzDbush7b85i5Z",
     "name": "Club Dance Online - Retro",
-    "stream_urls": [
-      "https://stream.clubdance.online:8000/retro"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.clubdance.online:8000/retro"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -230,10 +243,11 @@
   {
     "nanoid": "alqesKFVthREM9",
     "name": "Cool FM 2000's",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc03"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc03"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -241,10 +255,11 @@
   {
     "nanoid": "AG21yEsHrSw8sF",
     "name": "Cool FM 2010's",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc02"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc02"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -263,10 +278,11 @@
   {
     "nanoid": "FSQejsmAjDEHjx",
     "name": "Cool FM Acoustic",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc12"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc12"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -274,10 +290,11 @@
   {
     "nanoid": "n0g9KdfNizyUyU",
     "name": "Cool FM Best Hits",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc11"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc11"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -285,10 +302,11 @@
   {
     "nanoid": "NdRShzodHGcixn",
     "name": "Cool FM Bside",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc16"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc16"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -296,10 +314,11 @@
   {
     "nanoid": "U1gZ7OGT2WvSXX",
     "name": "Cool FM Chill",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc24"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc24"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -307,10 +326,11 @@
   {
     "nanoid": "8v9tc7GgYrznyF",
     "name": "Cool FM Dance 2000's",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc04"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc04"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -329,10 +349,11 @@
   {
     "nanoid": "J7VIIXQtVgXVy4",
     "name": "Cool FM Filmzenék",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc01"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc01"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -340,10 +361,11 @@
   {
     "nanoid": "zlgQEXUur2q78I",
     "name": "Cool FM Girl Power",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc15"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc15"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -351,10 +373,11 @@
   {
     "nanoid": "XYzfEn0kIcR9gG",
     "name": "Cool FM Goldies",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/goldhq"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/goldhq"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -362,10 +385,11 @@
   {
     "nanoid": "YsfimfEtONyjUO",
     "name": "Cool FM Hazai Kedvencek",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc19"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc19"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -373,10 +397,11 @@
   {
     "nanoid": "Oo8J4wnjoz2hms",
     "name": "Cool FM Hot Hits",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc22"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc22"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -384,10 +409,11 @@
   {
     "nanoid": "oIopnZ6xrRKkyY",
     "name": "Cool FM Jazz",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc13"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc13"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -395,10 +421,11 @@
   {
     "nanoid": "pyn03nfZiivwUP",
     "name": "Cool FM Karácsonyi Zenék",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc27"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc27"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -406,10 +433,11 @@
   {
     "nanoid": "GXQarIhBS9CIPz",
     "name": "Cool FM KultX",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/krehq"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/krehq"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -417,10 +445,11 @@
   {
     "nanoid": "yVS6NqGOFlPnGa",
     "name": "Cool FM Latino Music",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc07"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc07"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -428,10 +457,11 @@
   {
     "nanoid": "nyIZy4pEjWeJFK",
     "name": "Cool FM Love Songs",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc28"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc28"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -439,10 +469,11 @@
   {
     "nanoid": "7R26dD40iQaDR9",
     "name": "Cool FM Nyári Slágerek",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc09"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc09"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -450,10 +481,11 @@
   {
     "nanoid": "UHISbzYQtDZBDx",
     "name": "Cool FM Party",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc18"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc18"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -461,10 +493,11 @@
   {
     "nanoid": "FB3cuc5rD7nXnj",
     "name": "Cool FM Remix Music",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc23"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc23"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -472,10 +505,11 @@
   {
     "nanoid": "i8vSGcJbTUbytn",
     "name": "Cool FM Rock",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc10"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc10"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -483,10 +517,11 @@
   {
     "nanoid": "cPIOxXWOu3JS2g",
     "name": "Cool FM Soul & Funky",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc25"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc25"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -494,10 +529,11 @@
   {
     "nanoid": "C685sG64JFoHJO",
     "name": "Cool FM Sportoláshoz",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc20"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc20"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -505,10 +541,11 @@
   {
     "nanoid": "niJRFUlAwUq1ur",
     "name": "Cool FM Trance",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc14"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc14"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -516,10 +553,11 @@
   {
     "nanoid": "PzdqyCKolNje44",
     "name": "Cool FM World Music",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/zc26"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/zc26"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -527,10 +565,11 @@
   {
     "nanoid": "FQdPNV0elXjyVd",
     "name": "Cool FM Xbeat",
-    "stream_urls": [
-      "https://mediagw.e-tiger.net/stream/xbeathq"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mediagw.e-tiger.net/stream/xbeathq"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -538,10 +577,11 @@
   {
     "nanoid": "mEqlxfJGEirIGl",
     "name": "Csukás Meserádió",
-    "stream_urls": [
-      "https://mr-stream.connectmedia.hu/4611/mr10.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mr-stream.connectmedia.hu/4611/mr10.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -549,10 +589,11 @@
   {
     "nanoid": "Yp7NxGauxqMrwj",
     "name": "Dance Wave Retro",
-    "stream_urls": [
-      "https://retro.dancewave.online/retrodance.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://retro.dancewave.online/retrodance.mp3"
+      ]
+    },
     "languages": [
       "hun",
       "eng"
@@ -574,10 +615,11 @@
   {
     "nanoid": "ogdRFFSE7MxpgL",
     "name": "Dankó Rádió",
-    "stream_urls": [
-      "https://mr-stream.connectmedia.hu/4748/mr7.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mr-stream.connectmedia.hu/4748/mr7.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -600,10 +642,11 @@
   {
     "nanoid": "KFBiNIdhWikQvT",
     "name": "DFM Rádió",
-    "stream_urls": [
-      "https://s03.diazol.hu:7042/stream"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:7042/stream"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -611,11 +654,12 @@
   {
     "nanoid": "jQ8uQiyHysetkz",
     "name": "Disco Diamond Radio",
-    "stream_urls": [
-      "https://ddr2020.radioca.st/stream",
-      "https://discodiamond.radioca.st/stream"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://ddr2020.radioca.st/stream",
+        "https://discodiamond.radioca.st/stream"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -623,10 +667,11 @@
   {
     "nanoid": "HUnOElkmmCEwS4",
     "name": "Duna World Rádió",
-    "stream_urls": [
-      "https://mr-stream.connectmedia.hu/4761/dwr.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mr-stream.connectmedia.hu/4761/dwr.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -634,10 +679,11 @@
   {
     "nanoid": "ZOdHP35NDAl8Zo",
     "name": "Ez az a nap! Rádió",
-    "stream_urls": [
-      "https://www.radioking.com/play/ez-az-a-nap-radio"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://www.radioking.com/play/ez-az-a-nap-radio"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -645,10 +691,11 @@
   {
     "nanoid": "aAOB2v3FPxNhhf",
     "name": "Folkrádió",
-    "stream_urls": [
-      "https://stream.folkradio.hu/folkradio.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.folkradio.hu/folkradio.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -667,10 +714,11 @@
   {
     "nanoid": "JbJN7l7ghVL4KX",
     "name": "HBC News",
-    "stream_urls": [
-      "https://stream.zeno.fm/m94d336hh5zuv"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/m94d336hh5zuv"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -678,10 +726,11 @@
   {
     "nanoid": "RQRBnlJRBXldH4",
     "name": "Hír FM",
-    "stream_urls": [
-      "https://n43a-eu.rcs.revma.com/wevb267khf9uv"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://n43a-eu.rcs.revma.com/wevb267khf9uv"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -689,10 +738,11 @@
   {
     "nanoid": "6mqUu9wsoPoY0W",
     "name": "I Love Pécs Rádió",
-    "stream_urls": [
-      "https://stream.ilovepecsradio.hu/ilp.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.ilovepecsradio.hu/ilp.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -700,10 +750,11 @@
   {
     "nanoid": "yqLxOoaJ61saNZ",
     "name": "InfoRádió",
-    "stream_urls": [
-      "https://stream.infostart.hu/lejatszo/index.html"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.infostart.hu/lejatszo/index.html"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -711,22 +762,25 @@
   {
     "nanoid": "lex6o9LqcmTKt2",
     "name": "JazzRadio.hu",
-    "stream_urls": [
-      "https://www.jazzradio.hu:8000/jazzradio_192.ogg"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://www.jazzradio.hu:8000/jazzradio_192.ogg"
+      ]
+    },
     "languages": [
       "hun"
     ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
     "nanoid": "vUMtos6TVSRhII",
     "name": "Jazzy Cool",
-    "stream_urls": [
-      "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -734,10 +788,11 @@
   {
     "nanoid": "WxMZyNT16pxr3s",
     "name": "Jazzy Groove",
-    "stream_urls": [
-      "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -745,10 +800,11 @@
   {
     "nanoid": "t5ZFwpBaQ89euF",
     "name": "Jazzy Rádió",
-    "stream_urls": [
-      "https://radio.musorok.org/listen/jazzy/jazzy.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://radio.musorok.org/listen/jazzy/jazzy.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -756,10 +812,11 @@
   {
     "nanoid": "HUjtjfNjfKQRw6",
     "name": "Jazzy Soul",
-    "stream_urls": [
-      "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -767,11 +824,12 @@
   {
     "nanoid": "1l7aYu7nneZoSc",
     "name": "Klasszik Rádió 92.1",
-    "stream_urls": [
-      "https://www.klasszikradio.hu/klasszik.mp3",
-      "https://s04.diazol.hu:9600/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://www.klasszikradio.hu/klasszik.mp3",
+        "https://s04.diazol.hu:9600/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -779,10 +837,11 @@
   {
     "nanoid": "GBUI0vCbZjxjhd",
     "name": "Klubrádió",
-    "stream_urls": [
-      "https://a7.asurahosting.com:8160/radio.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://a7.asurahosting.com:8160/radio.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -790,10 +849,11 @@
   {
     "nanoid": "aincwnziVR1cxH",
     "name": "KORONAfm100",
-    "stream_urls": [
-      "https://www.koronafm100.hu/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://www.koronafm100.hu/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -801,11 +861,12 @@
   {
     "nanoid": "rpfeq0BConOuFA",
     "name": "Kossuth Rádió",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/4736/mr1.mp3",
-      "https://mr-stream.connectmedia.hu/4736/mr1.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/4736/mr1.mp3",
+        "https://mr-stream.connectmedia.hu/4736/mr1.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -813,11 +874,12 @@
   {
     "nanoid": "TLIMLByP68iyt8",
     "name": "Lahmacun Radio",
-    "stream_urls": [
-      "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
-      "https://streaming.lahmacun.hu/radio/8000/radio.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
+        "https://streaming.lahmacun.hu/radio/8000/radio.mp3"
+      ]
+    },
     "languages": [
       "hun",
       "eng"
@@ -826,10 +888,11 @@
   {
     "nanoid": "ePOAuAmvmnc6Js",
     "name": "Lakihegy Rádió",
-    "stream_urls": [
-      "https://lakihegyradio.hu/player/stream.php"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://lakihegyradio.hu/player/stream.php"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -837,10 +900,11 @@
   {
     "nanoid": "OdQWCBFfCFOu1Z",
     "name": "Laza Rádió - Mulatós",
-    "stream_urls": [
-      "https://stream.lazaradio.com/mulatos.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.lazaradio.com/mulatos.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -881,46 +945,53 @@
   {
     "nanoid": "hxggjy96HibDXS",
     "name": "Lépés Rádió",
-    "stream_urls": [
-      "https://stream.nmih.hu:4002/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.nmih.hu:4002/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
     "nanoid": "uhiBpj1Tlf4Uqs",
     "name": "Luxfunk Blackmix",
-    "stream_urls": [
-      "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream"
+      ]
+    },
     "languages": [
       "hun"
     ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
     "nanoid": "uZcyqHND3vmlqu",
     "name": "Luxfunk Dance",
-    "stream_urls": [
-      "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://luxfunkbroadcast.com/proxy/luxfunkdance/stream"
+      ]
+    },
     "languages": [
       "hun"
     ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
     "nanoid": "IkKYjABANGMZoW",
     "name": "Luxfunk Radio",
-    "stream_urls": [
-      "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://luxfunkbroadcast.com/proxy/luxfunkradio/stream"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -928,10 +999,11 @@
   {
     "nanoid": "tWPiUJbBixGWjO",
     "name": "Magic Disco Radio",
-    "stream_urls": [
-      "https://free.rcast.net/66407"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://free.rcast.net/66407"
+      ]
+    },
     "languages": [
       "hun",
       "eng"
@@ -940,10 +1012,11 @@
   {
     "nanoid": "s5EEvUC01Swj9u",
     "name": "Manna FM",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/4780/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/4780/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -951,10 +1024,11 @@
   {
     "nanoid": "pJl01Ph15VT2Jg",
     "name": "Mega Live Radio",
-    "stream_urls": [
-      "https://mega-live.net:2053/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mega-live.net:2053/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -962,10 +1036,11 @@
   {
     "nanoid": "FLNEkoOCG0ku0D",
     "name": "MegaDance Rádió",
-    "stream_urls": [
-      "https://gamershouse.hu:8080/livemega.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://gamershouse.hu:8080/livemega.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -973,10 +1048,11 @@
   {
     "nanoid": "Ny7u8HRc19gZMl",
     "name": "MERÁ Rádió",
-    "stream_urls": [
-      "https://stream.radio.co/s3fd8d173f/listen"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/s3fd8d173f/listen"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -984,10 +1060,11 @@
   {
     "nanoid": "Cwi8KdIKKCrEHS",
     "name": "MixRadio Retro",
-    "stream_urls": [
-      "https://stream.phost.hu:8004/retro"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.phost.hu:8004/retro"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -995,10 +1072,11 @@
   {
     "nanoid": "rmItCOHch59xF2",
     "name": "MoMo Rádió",
-    "stream_urls": [
-      "https://s03.diazol.hu:7092/zene.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:7092/zene.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1006,11 +1084,12 @@
   {
     "nanoid": "wfkBsYbZKpVUH2",
     "name": "Nemzeti Sportrádió",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/4656/mr11.aac",
-      "https://icast.connectmedia.hu/4657/mr11.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/4656/mr11.aac",
+        "https://icast.connectmedia.hu/4657/mr11.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1018,10 +1097,11 @@
   {
     "nanoid": "R4NYpQjXz4mP8j",
     "name": "Nemzetiségi Rádió",
-    "stream_urls": [
-      "https://mr-stream.connectmedia.hu/4744/mr4.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mr-stream.connectmedia.hu/4744/mr4.mp3"
+      ]
+    },
     "languages": [
       "hun",
       "deu",
@@ -1031,10 +1111,11 @@
   {
     "nanoid": "ntrsvVRJJHqb65",
     "name": "Next FM",
-    "stream_urls": [
-      "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1042,10 +1123,11 @@
   {
     "nanoid": "9kzB7NiGb5kd6r",
     "name": "Oxygen Black Music",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/blackmusic_128"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/blackmusic_128"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1053,10 +1135,11 @@
   {
     "nanoid": "FDOEltysz9zmdI",
     "name": "Oxygen Classic Rock",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenclassicrock"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenclassicrock"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1064,10 +1147,11 @@
   {
     "nanoid": "cxAoTK6cyOXoGN",
     "name": "Oxygen Classics",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/Classic_128"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/Classic_128"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1075,10 +1159,11 @@
   {
     "nanoid": "xBPnl6MSP7jNm1",
     "name": "Oxygen Fitness",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenfitness"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenfitness"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1086,10 +1171,11 @@
   {
     "nanoid": "LfFWA6H7CRv1vv",
     "name": "Oxygen Happy",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenhappy_128"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenhappy_128"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1097,10 +1183,11 @@
   {
     "nanoid": "kQTKyIRGdzdsga",
     "name": "Oxygen Indie",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenindie"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenindie"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1108,10 +1195,11 @@
   {
     "nanoid": "CvSuREjl9LEsm8",
     "name": "Oxygen Italo Hits",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenitalohits"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenitalohits"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1119,10 +1207,11 @@
   {
     "nanoid": "3Ht2PlrSNPkLed",
     "name": "Oxygen Kids",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenkids"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenkids"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1130,10 +1219,11 @@
   {
     "nanoid": "WJUYgmpggAKw5q",
     "name": "Oxygen Lounge",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenlounge"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenlounge"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1141,10 +1231,11 @@
   {
     "nanoid": "KkKTg1cyicXvPx",
     "name": "Oxygen Love Songs",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenlovesongs"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenlovesongs"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1152,10 +1243,11 @@
   {
     "nanoid": "0x1CX3VDfGA18o",
     "name": "Oxygen Magyar Zene",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenmagyarzene"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenmagyarzene"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1163,11 +1255,12 @@
   {
     "nanoid": "lFL7WaRHV28xk8",
     "name": "Oxygen Music",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenmusic",
-      "https://oxygenmusic.hu:8443/oxygenmusic_192"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenmusic",
+        "https://oxygenmusic.hu:8443/oxygenmusic_192"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1175,10 +1268,11 @@
   {
     "nanoid": "aJmJSBpiZqGw0u",
     "name": "Oxygen Oldies",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenoldies"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenoldies"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1186,10 +1280,11 @@
   {
     "nanoid": "dOKSapNLmc2uj6",
     "name": "Oxygen Spencer Hill",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenspencerhillzenek"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenspencerhillzenek"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1197,10 +1292,11 @@
   {
     "nanoid": "9j4dmFBc0tMpbv",
     "name": "Oxygen The 80s Hits",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenthe80shits"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenthe80shits"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1208,10 +1304,11 @@
   {
     "nanoid": "RgneOgybkYgrpf",
     "name": "Oxygen The 90s Hits",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/oxygenthe90shits"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/oxygenthe90shits"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1230,11 +1327,12 @@
   {
     "nanoid": "9c4XmzHs5KKZ0y",
     "name": "Ozone FM",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8443/ozonefm_320",
-      "https://oxygenmusic.hu:8000/ozonefm_128"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8443/ozonefm_320",
+        "https://oxygenmusic.hu:8000/ozonefm_128"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1242,10 +1340,11 @@
   {
     "nanoid": "9VOMMsqOqkDJ1B",
     "name": "Park FM",
-    "stream_urls": [
-      "https://s03.diazol.hu:7142/stream.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:7142/stream.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1253,10 +1352,11 @@
   {
     "nanoid": "cSiIXldLuoBpOB",
     "name": "Parlamenti Rádió",
-    "stream_urls": [
-      "https://mr-stream.connectmedia.hu/4746/mr5.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mr-stream.connectmedia.hu/4746/mr5.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1264,11 +1364,12 @@
   {
     "nanoid": "e9Pb3OV7m2K8U9",
     "name": "Petőfi Rádió",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/4738/mr2.mp3",
-      "https://mr-stream.connectmedia.hu/4738/mr2.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/4738/mr2.mp3",
+        "https://mr-stream.connectmedia.hu/4738/mr2.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1276,10 +1377,11 @@
   {
     "nanoid": "3qMJzFevqjoRbL",
     "name": "Power FM",
-    "stream_urls": [
-      "https://s39.myradiostream.com:11590/listen/;.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s39.myradiostream.com:11590/listen/;.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1311,10 +1413,11 @@
   {
     "nanoid": "z03QzkVwzDIcSQ",
     "name": "Radio Groove",
-    "stream_urls": [
-      "https://s03.diazol.hu:35112/mobil.aac"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:35112/mobil.aac"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1322,10 +1425,11 @@
   {
     "nanoid": "obA7vgwPxKksVQ",
     "name": "Radio Inside",
-    "stream_urls": [
-      "https://radioinside.eu/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://radioinside.eu/live.mp3"
+      ]
+    },
     "languages": [
       "hun",
       "eng"
@@ -1334,10 +1438,11 @@
   {
     "nanoid": "efRnth2hy4yvdo",
     "name": "Radio Smile",
-    "stream_urls": [
-      "https://smile.str.42net.hu/stream/;"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://smile.str.42net.hu/stream/;"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1356,22 +1461,25 @@
   {
     "nanoid": "tTQXjurGXe7sQZ",
     "name": "Radio Sunrise",
-    "stream_urls": [
-      "https://s03.diazol.hu:7172/stream"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:7172/stream"
+      ]
+    },
     "languages": [
       "hun"
     ],
+    "country": "hu",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Qt8lLTym6qyY7M",
     "name": "Radiocafé 98.0",
-    "stream_urls": [
-      "https://radio.radiocafe98.hu/radiocafe98_192k.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://radio.radiocafe98.hu/radiocafe98_192k.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1379,11 +1487,12 @@
   {
     "nanoid": "LACkj3xCJlVEFR",
     "name": "radiOzora",
-    "stream_urls": [
-      "https://trance.out.airtime.pro:8000/trance_a",
-      "https://trance.out.airtime.pro/trance_a"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://trance.out.airtime.pro:8000/trance_a",
+        "https://trance.out.airtime.pro/trance_a"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1391,11 +1500,12 @@
   {
     "nanoid": "0j59UgKdhlrJio",
     "name": "radiOzora Chill",
-    "stream_urls": [
-      "https://chill.out.airtime.pro/chill_a",
-      "https://chill.out.airtime.pro:8000/chill_a"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://chill.out.airtime.pro/chill_a",
+        "https://chill.out.airtime.pro:8000/chill_a"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1403,10 +1513,11 @@
   {
     "nanoid": "gxf9vTVz9lgyO2",
     "name": "Reménység Hangja Rádió",
-    "stream_urls": [
-      "https://live.rvs.ro/mg"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://live.rvs.ro/mg"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1414,12 +1525,13 @@
   {
     "nanoid": "kKnMfOlRUDVOZk",
     "name": "Retro Rádió",
-    "stream_urls": [
-      "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a",
-      "https://icast.connectmedia.hu/5001/live.mp3",
-      "https://icast.connectmedia.hu/5002/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a",
+        "https://icast.connectmedia.hu/5001/live.mp3",
+        "https://icast.connectmedia.hu/5002/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1471,10 +1583,11 @@
   {
     "nanoid": "x2WojaWRPQFcHF",
     "name": "Rocker Rádió",
-    "stream_urls": [
-      "https://rockerradio.online/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://rockerradio.online/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1616,10 +1729,11 @@
   {
     "nanoid": "eS4C5Rlood0u3E",
     "name": "Shine FM Radio",
-    "stream_urls": [
-      "https://s01.diazol.hu:10042/stream/;"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s01.diazol.hu:10042/stream/;"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1627,10 +1741,11 @@
   {
     "nanoid": "HK5SErm2aVqNcs",
     "name": "Sola Rádió",
-    "stream_urls": [
-      "https://stream1.virtualisan.net/prx/7000/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream1.virtualisan.net/prx/7000/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1638,10 +1753,11 @@
   {
     "nanoid": "o7POxQaXORBM9l",
     "name": "Sunshine Dance",
-    "stream_urls": [
-      "https://sunshine3.stream.composeit.hu/sunshine"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://sunshine3.stream.composeit.hu/sunshine"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1649,10 +1765,11 @@
   {
     "nanoid": "5mfMnRP2X5Hrmg",
     "name": "Sunshine FM Debrecen",
-    "stream_urls": [
-      "https://sundeb.stream.composeit.hu/SunshineDebrecen"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://sundeb.stream.composeit.hu/SunshineDebrecen"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1660,10 +1777,11 @@
   {
     "nanoid": "6mAoP0D4Cl7VC2",
     "name": "Sunshine FM Nyíregyháza",
-    "stream_urls": [
-      "https://sunshine1.stream.composeit.hu/sunshine"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://sunshine1.stream.composeit.hu/sunshine"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1671,10 +1789,11 @@
   {
     "nanoid": "Q6dnjmitth2Nzj",
     "name": "Sunshine FM Pop",
-    "stream_urls": [
-      "https://sunshine2.stream.composeit.hu/sunshine"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://sunshine2.stream.composeit.hu/sunshine"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1682,11 +1801,12 @@
   {
     "nanoid": "uyAMCevoIXClCK",
     "name": "SuperDj Rádió",
-    "stream_urls": [
-      "https://s03.diazol.hu:35150/live",
-      "https://s03.diazol.hu:35152/stream"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:35150/live",
+        "https://s03.diazol.hu:35152/stream"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1694,10 +1814,11 @@
   {
     "nanoid": "YYm0c7dHVYhPzn",
     "name": "Szakcsi Rádió",
-    "stream_urls": [
-      "https://mr-stream.connectmedia.hu/4691/mr9.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://mr-stream.connectmedia.hu/4691/mr9.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1705,10 +1826,11 @@
   {
     "nanoid": "zGdgsSuJdQOvT2",
     "name": "Szent Korona Rádió",
-    "stream_urls": [
-      "https://szkrcast.ddns.net/radio/8000/radio.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://szkrcast.ddns.net/radio/8000/radio.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1716,10 +1838,11 @@
   {
     "nanoid": "kQSUkGfEg8kDVy",
     "name": "Szent Korona Rádió - Forrás",
-    "stream_urls": [
-      "https://szkrcast.ddns.net/radio/8010/radio.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://szkrcast.ddns.net/radio/8010/radio.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1727,10 +1850,11 @@
   {
     "nanoid": "a3T58M8hsnPKSa",
     "name": "Sztráda Rádió",
-    "stream_urls": [
-      "https://s03.diazol.hu:35082/live.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://s03.diazol.hu:35082/live.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1738,10 +1862,11 @@
   {
     "nanoid": "MCEdk7fyvvhNJQ",
     "name": "Szünet Rádió",
-    "stream_urls": [
-      "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1760,12 +1885,13 @@
   {
     "nanoid": "MgxQbwKjOTnyq6",
     "name": "Tilos Rádió",
-    "stream_urls": [
-      "https://stream.tilos.hu/tilos_32.mp3",
-      "https://stream.tilos.hu/tilos",
-      "https://stream.tilos.hu/tilos_128.mp3"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.tilos.hu/tilos_32.mp3",
+        "https://stream.tilos.hu/tilos",
+        "https://stream.tilos.hu/tilos_128.mp3"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1773,10 +1899,11 @@
   {
     "nanoid": "gzyI60bFJ2o73a",
     "name": "Tilos Rádió - Mesék",
-    "stream_urls": [
-      "https://stream.tilos.hu/mese"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.tilos.hu/mese"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1784,10 +1911,11 @@
   {
     "nanoid": "sy8rv51gPGh6kJ",
     "name": "Tilos Rádió - Okosodj!",
-    "stream_urls": [
-      "https://stream.tilos.hu/szoveg"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.tilos.hu/szoveg"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1795,10 +1923,11 @@
   {
     "nanoid": "fyUk6Zczu6GO9h",
     "name": "Trend FM",
-    "stream_urls": [
-      "https://radio.trendfm.hu/trendfm_192k"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://radio.trendfm.hu/trendfm_192k"
+      ]
+    },
     "languages": [
       "hun"
     ]
@@ -1819,10 +1948,11 @@
   {
     "nanoid": "qlWprHXsYULVXL",
     "name": "Zalan Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/kvqrsxeeafctv"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/kvqrsxeeafctv"
+      ]
+    },
     "languages": [
       "hun",
       "eng"
@@ -1831,10 +1961,11 @@
   {
     "nanoid": "42gGHTbOgL7olD",
     "name": "Zebrádió",
-    "stream_urls": [
-      "https://stream.zebradio.hu:8443/zebradio"
-    ],
-    "country": "hu",
+    "sources": {
+      "streams": [
+        "https://stream.zebradio.hu:8443/zebradio"
+      ]
+    },
     "languages": [
       "hun"
     ]

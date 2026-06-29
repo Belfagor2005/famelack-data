@@ -11,10 +11,11 @@
   {
     "nanoid": "InZ3AzKBD174U8",
     "name": "Big Reggae Mix",
-    "stream_urls": [
-      "https://ais-sa2.cdnstream1.com/2294_128.mp3"
-    ],
-    "country": "ht",
+    "sources": {
+      "streams": [
+        "https://ais-sa2.cdnstream1.com/2294_128.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -51,10 +52,11 @@
   {
     "nanoid": "Dci2FSiTLgIr0j",
     "name": "Men Konpa",
-    "stream_urls": [
-      "https://stream.radio.co/s84b4fb736/listen"
-    ],
-    "country": "ht",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/s84b4fb736/listen"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -118,10 +120,11 @@
   {
     "nanoid": "T8gHaBEVU5R0BQ",
     "name": "Radio Jamesen Show",
-    "stream_urls": [
-      "https://stream.zeno.fm/aparrwtkwyzuv"
-    ],
-    "country": "ht",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/aparrwtkwyzuv"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -147,10 +150,11 @@
   {
     "nanoid": "7XgSHnrDi7Q1St",
     "name": "Radio Lumière",
-    "stream_urls": [
-      "https://stream.zenolive.com/yw0309xbgseuv"
-    ],
-    "country": "ht",
+    "sources": {
+      "streams": [
+        "https://stream.zenolive.com/yw0309xbgseuv"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -176,14 +180,16 @@
   {
     "nanoid": "6dUTlFDjhaaNxc",
     "name": "Radio RET Branché",
-    "stream_urls": [
-      "https://stream.zeno.fm/tpurfoixfdfvv"
-    ],
-    "country": "ht",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/tpurfoixfdfvv"
+      ]
+    },
     "languages": [
       "fra",
       "hat"
     ],
+    "country": "ht",
     "isGeoBlocked": false
   },
   {
@@ -216,10 +222,11 @@
   {
     "nanoid": "biAfX49dSyo2zj",
     "name": "Radio Télé Éclair 100.5 FM",
-    "stream_urls": [
-      "https://stream.radiojar.com/2b0gs3cu4tzuv"
-    ],
-    "country": "ht",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/2b0gs3cu4tzuv"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -236,10 +243,11 @@
   {
     "nanoid": "Q12LYeuzw2YmiM",
     "name": "Radyo Tipiti",
-    "stream_urls": [
-      "https://a8.asurahosting.com:7530/stream"
-    ],
-    "country": "ht",
+    "sources": {
+      "streams": [
+        "https://a8.asurahosting.com:7530/stream"
+      ]
+    },
     "languages": [
       "fra"
     ]

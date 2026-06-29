@@ -2,10 +2,11 @@
   {
     "nanoid": "Qn8KINgfzlaoGm",
     "name": "Buzz FM 96.3",
-    "stream_urls": [
-      "https://streamer.dailypost.vu/live"
-    ],
-    "country": "vu",
+    "sources": {
+      "streams": [
+        "https://streamer.dailypost.vu/live"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "SxRyhuQZqkxgcX",
     "name": "Femme Pawa FM",
-    "stream_urls": [
-      "https://radio.vbtc.vu/femmefm"
-    ],
-    "country": "vu",
+    "sources": {
+      "streams": [
+        "https://radio.vbtc.vu/femmefm"
+      ]
+    },
     "languages": [
       "bis",
       "eng",
@@ -26,10 +28,11 @@
   {
     "nanoid": "IlIxXkGcYFGHNj",
     "name": "Paradise 98FM",
-    "stream_urls": [
-      "https://radio.vbtc.vu/paradisefm"
-    ],
-    "country": "vu",
+    "sources": {
+      "streams": [
+        "https://radio.vbtc.vu/paradisefm"
+      ]
+    },
     "languages": [
       "bis",
       "eng"
@@ -38,10 +41,11 @@
   {
     "nanoid": "loo0vUSaIyz7V2",
     "name": "Radio Vanuatu",
-    "stream_urls": [
-      "https://radio.vbtc.vu/radiovanuatu"
-    ],
-    "country": "vu",
+    "sources": {
+      "streams": [
+        "https://radio.vbtc.vu/radiovanuatu"
+      ]
+    },
     "languages": [
       "bis",
       "eng",
