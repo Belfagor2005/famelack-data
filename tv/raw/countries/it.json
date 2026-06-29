@@ -429,7 +429,7 @@
     {
         "name": "Alma TV",
         "stream_urls": [
-            "https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8"
+            "https://5f11919dca3bd.streamlock.net/AlmaTv/AlmaTv/playlist.m3u8"
         ],
         "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/alma-tv.png",
         "group": null,
@@ -6451,49 +6451,15 @@
     {
         "name": "La7 Cinema",
         "stream_urls": [
-            "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
+            "https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd"
         ],
-        "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/LA7 CINEMA.png",
+        "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/LA7%20CINEMA.png",
         "group": null,
         "tvg_id": "LA7.CINEMA.it",
         "isFavorite": false,
         "country": "it",
         "youtube_urls": [],
         "nanoid": "wCQEeXsC6lwh6u",
-        "languages": [
-            "ita"
-        ],
-        "isGeoBlocked": false
-    },
-    {
-        "name": "La7 Cinema",
-        "stream_urls": [
-            "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd"
-        ],
-        "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/LA7 CINEMA.png",
-        "group": null,
-        "tvg_id": "LA7.CINEMA.it",
-        "isFavorite": false,
-        "country": "it",
-        "youtube_urls": [],
-        "nanoid": "6FgLIla7bCNpR9",
-        "languages": [
-            "ita"
-        ],
-        "isGeoBlocked": false
-    },
-    {
-        "name": "La7 Cinema",
-        "stream_urls": [
-            "https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live_Audio-init.mp4"
-        ],
-        "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/LA7 CINEMA.png",
-        "group": null,
-        "tvg_id": "LA7.CINEMA.it",
-        "isFavorite": false,
-        "country": "it",
-        "youtube_urls": [],
-        "nanoid": "a05lRvW3bCbKNB",
         "languages": [
             "ita"
         ],
@@ -6536,7 +6502,7 @@
     {
         "name": "La7d",
         "stream_urls": [
-            "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8"
+            "https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd"
         ],
         "logo_url": "https://raw.githubusercontent.com/OwnerPlugins/logos/main/logos/SNP/la7d-hd.png",
         "group": null,
