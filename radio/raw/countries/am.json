@@ -2,10 +2,11 @@
   {
     "nanoid": "6GfvqxW7xqRMLB",
     "name": "Armenian Bible Study Radio",
-    "stream_urls": [
-      "https://ssl.nexuscast.com:8082/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://ssl.nexuscast.com:8082/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -24,22 +25,25 @@
   {
     "nanoid": "FR95aOFoMFBP5G",
     "name": "Im Radio 103.8",
-    "stream_urls": [
-      "https://eu1.stream4cast.com/proxy/aamiry02/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu1.stream4cast.com/proxy/aamiry02/stream"
+      ]
+    },
     "languages": [
       "hye"
     ],
+    "country": "am",
     "isGeoBlocked": false
   },
   {
     "nanoid": "rHmkpIuVZniaNK",
     "name": "Kiss FM Armenia",
-    "stream_urls": [
-      "https://am.radioaurora.am/kiss"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://am.radioaurora.am/kiss"
+      ]
+    },
     "languages": [
       "hye",
       "eng"
@@ -48,10 +52,11 @@
   {
     "nanoid": "QRlaHGGkMgAmjW",
     "name": "Lav Radio",
-    "stream_urls": [
-      "https://eu.stream4cast.com/proxy/lavradio/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu.stream4cast.com/proxy/lavradio/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -59,10 +64,11 @@
   {
     "nanoid": "vLunrvgHRV6lHN",
     "name": "Lav Radio Mix",
-    "stream_urls": [
-      "https://eu.stream4cast.com/proxy/lavradiomix/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu.stream4cast.com/proxy/lavradiomix/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -70,10 +76,11 @@
   {
     "nanoid": "O1Y3sHqleh4KTi",
     "name": "MFM Music Radio",
-    "stream_urls": [
-      "https://eu.stream4cast.com/proxy/mfmradio/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu.stream4cast.com/proxy/mfmradio/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -81,10 +88,11 @@
   {
     "nanoid": "T8tNb8jEtrkN8J",
     "name": "Radio Aurora",
-    "stream_urls": [
-      "https://am.radioaurora.am/al.mp3"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://am.radioaurora.am/al.mp3"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -92,10 +100,11 @@
   {
     "nanoid": "cxOxpwoR66a7or",
     "name": "Radio Energy Armenia",
-    "stream_urls": [
-      "https://eu.stream4cast.com/proxy/energyfm/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu.stream4cast.com/proxy/energyfm/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -103,10 +112,11 @@
   {
     "nanoid": "UsH0HxVqAr0K5B",
     "name": "Radio Fama",
-    "stream_urls": [
-      "https://eu.stream4cast.com/proxy/rmirzakh/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu.stream4cast.com/proxy/rmirzakh/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -114,10 +124,11 @@
   {
     "nanoid": "ZapgAdiw9bIGYz",
     "name": "Radio Marshall 103.5 FM",
-    "stream_urls": [
-      "https://eu.stream4cast.com/proxy/marshallfm/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu.stream4cast.com/proxy/marshallfm/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -125,10 +136,11 @@
   {
     "nanoid": "nu9xXQe9gzptgi",
     "name": "Radio Mshakuyt",
-    "stream_urls": [
-      "https://eu1.stream4cast.com/proxy/aamiry01/stream/;"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu1.stream4cast.com/proxy/aamiry01/stream/;"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -136,10 +148,11 @@
   {
     "nanoid": "CaLSvM4v3X3tP0",
     "name": "XFM Radio",
-    "stream_urls": [
-      "https://eu.stream4cast.com/proxy/xfmradio/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu.stream4cast.com/proxy/xfmradio/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]
@@ -147,10 +160,11 @@
   {
     "nanoid": "3BPv5gOh0SdTdy",
     "name": "Yerevan FM 101.9",
-    "stream_urls": [
-      "https://eu1.stream4cast.com/proxy/arradioi/stream"
-    ],
-    "country": "am",
+    "sources": {
+      "streams": [
+        "https://eu1.stream4cast.com/proxy/arradioi/stream"
+      ]
+    },
     "languages": [
       "hye"
     ]

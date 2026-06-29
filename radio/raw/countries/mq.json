@@ -2,10 +2,11 @@
   {
     "nanoid": "OcWqiRU2K1d5hc",
     "name": "Bel'Radio",
-    "stream_urls": [
-      "https://n05a-eu.rcs.revma.com/9b1a2gyspwzuv"
-    ],
-    "country": "mq",
+    "sources": {
+      "streams": [
+        "https://n05a-eu.rcs.revma.com/9b1a2gyspwzuv"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "1F0wqJ8FuUEMIV",
     "name": "Martinique La 1ère",
-    "stream_urls": [
-      "https://martinique.ice.infomaniak.ch/martinique-128.mp3"
-    ],
-    "country": "mq",
+    "sources": {
+      "streams": [
+        "https://martinique.ice.infomaniak.ch/martinique-128.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "B6k5QtR81YOkI2",
     "name": "Radio Mojito",
-    "stream_urls": [
-      "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3"
-    ],
-    "country": "mq",
+    "sources": {
+      "streams": [
+        "https://fmcpmediatest.ice.infomaniak.ch/fmcp-128.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -35,10 +38,11 @@
   {
     "nanoid": "fSHAABin5Wi1fb",
     "name": "RCI Martinique",
-    "stream_urls": [
-      "https://stream.rcs.revma.com/t0abpqyspwzuv"
-    ],
-    "country": "mq",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/t0abpqyspwzuv"
+      ]
+    },
     "languages": [
       "fra"
     ]

@@ -2,10 +2,11 @@
   {
     "nanoid": "BdwSSDTGxvneTK",
     "name": "Beach TV Florida & Alabama",
-    "stream_urls": [
-      "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "u5TLXa7PdNMbh2",
     "name": "Beach TV Key West & Florida Keys",
-    "stream_urls": [
-      "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "RGeO9EbtqaGTGq",
     "name": "Beach TV Myrtle Beach & The Grand Strand",
-    "stream_urls": [
-      "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -41,10 +44,11 @@
   {
     "nanoid": "e2KBiYsFYmCeLC",
     "name": "Beach TV Panama City",
-    "stream_urls": [
-      "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -54,10 +58,11 @@
   {
     "nanoid": "eko7uFhNP2g6vo",
     "name": "Chile Channel",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/chilechannel/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://v2.tustreaming.cl/chilechannel/index.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "spa"
@@ -68,10 +73,11 @@
   {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
-    "stream_urls": [
-      "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "zho"
@@ -82,10 +88,11 @@
   {
     "nanoid": "U0CRP1XJWZMip7",
     "name": "Discover Pakistan",
-    "stream_urls": [
-      "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+      ]
+    },
     "languages": [
       "urd"
     ],
@@ -95,10 +102,11 @@
   {
     "nanoid": "WEB2GZQJXf5Tv5",
     "name": "earthTV Showcase",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HfgIFGbdGJ0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/HfgIFGbdGJ0"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -108,10 +116,11 @@
   {
     "nanoid": "vADDMdGwASejWG",
     "name": "Fun Roads",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -121,10 +130,11 @@
   {
     "nanoid": "qR0alRDphlQYmL",
     "name": "Glazami Turista",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -134,10 +144,11 @@
   {
     "nanoid": "LHaPUbDQkhl20K",
     "name": "Go2Travel",
-    "stream_urls": [
-      "https://go2thls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://go2thls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -147,10 +158,11 @@
   {
     "nanoid": "FqOEEF2vJ9P2jA",
     "name": "GoTraveler",
-    "stream_urls": [
-      "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -174,12 +186,27 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "K06jw1yFEpsZGk",
+    "name": "Jamaica Travel Channel",
+    "sources": {
+      "streams": [
+        "https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "jm",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IpMm8lGTn8YwfA",
     "name": "Journy",
-    "stream_urls": [
-      "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -189,10 +216,11 @@
   {
     "nanoid": "3yNWqHOzbbpO53",
     "name": "KNOV-CD 41.1",
-    "stream_urls": [
-      "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -230,10 +258,11 @@
   {
     "nanoid": "HuAgGKfyx6NIKq",
     "name": "Palm Beaches TV",
-    "stream_urls": [
-      "https://live.feed.thepalmbeaches.tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.feed.thepalmbeaches.tv/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -256,10 +285,11 @@
   {
     "nanoid": "K8THRi8hdcH82I",
     "name": "Schladming-Dachstein TV",
-    "stream_urls": [
-      "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -269,11 +299,12 @@
   {
     "nanoid": "cfBOOiTtczD84z",
     "name": "Space Live powered by sen",
-    "stream_urls": [
-      "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
-      "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
+        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -283,10 +314,11 @@
   {
     "nanoid": "fwm1YJJu2dW30c",
     "name": "Travel TV",
-    "stream_urls": [
-      "https://streamer103.neterra.tv/travel/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer103.neterra.tv/travel/live.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -296,10 +328,11 @@
   {
     "nanoid": "xCDrIWnNgtribb",
     "name": "Turismo RDTV",
-    "stream_urls": [
-      "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -322,10 +355,11 @@
   {
     "nanoid": "AOuzDU3o0FoYy3",
     "name": "TV Parana Turismo",
-    "stream_urls": [
-      "https://200.189.113.201/hls/tve.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://200.189.113.201/hls/tve.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -335,10 +369,11 @@
   {
     "nanoid": "wOZe5xcKqXHvTH",
     "name": "TVS Travel Network",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

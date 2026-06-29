@@ -2,10 +2,11 @@
   {
     "nanoid": "MsBPAtiznwuBpL",
     "name": "3Cat Plats bruts",
-    "stream_urls": [
-      "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
+      ]
+    },
     "languages": [
       "cat"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "3QRPAcVmVoh8UN",
     "name": "4ever Drama",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch49/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch49/index.m3u8"
+      ]
+    },
     "languages": [
       "ukr"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "unFAtIKdGdKV06",
     "name": "13T",
-    "stream_urls": [
-      "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -54,10 +57,11 @@
   {
     "nanoid": "34gREsfRVEOJ6z",
     "name": "All Reality by WE tv",
-    "stream_urls": [
-      "https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -67,11 +71,12 @@
   {
     "nanoid": "mDm8G0VbiW7Zb2",
     "name": "Always Funny Videos",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8",
-      "https://d24l3uppudokci.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8",
+        "https://d24l3uppudokci.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -81,11 +86,12 @@
   {
     "nanoid": "BFNn9BFX5O3vY0",
     "name": "Anger Management Channel",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8",
-      "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/0a019247-55a2-4b3e-8b62-b84c9cbd5b12/playlist.m3u8",
+        "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -109,11 +115,12 @@
   {
     "nanoid": "dWew6qx5gHEn1X",
     "name": "At Home with Family Handyman",
-    "stream_urls": [
-      "https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8",
-      "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8",
+        "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -123,10 +130,11 @@
   {
     "nanoid": "2FlUnahRPoXRU8",
     "name": "AVA Series",
-    "stream_urls": [
-      "https://avaserieshls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://avaserieshls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -136,10 +144,11 @@
   {
     "nanoid": "aPpjoxS7Oyu4bM",
     "name": "AWTV",
-    "stream_urls": [
-      "https://awtv.nuvemplay.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://awtv.nuvemplay.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -177,10 +186,11 @@
   {
     "nanoid": "qjlcw1flQxD6UO",
     "name": "Bold and the Beautiful",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aA0eCFaXH-w"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/aA0eCFaXH-w"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -190,10 +200,11 @@
   {
     "nanoid": "HOuZSLV6tvkngB",
     "name": "Celebrity Name Game",
-    "stream_urls": [
-      "https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -203,10 +214,11 @@
   {
     "nanoid": "94QOTvoD2MmNeP",
     "name": "Choppertown",
-    "stream_urls": [
-      "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -216,10 +228,11 @@
   {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
-    "stream_urls": [
-      "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -229,11 +242,12 @@
   {
     "nanoid": "vxDRmrDFmkmFwb",
     "name": "Cold Case Files",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8",
-      "https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8",
+        "https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -284,10 +298,11 @@
   {
     "nanoid": "LbfmhqUBJd1O9n",
     "name": "Disney Channel: Stuck in the Middle",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dt6dEz1rDzo"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/dt6dEz1rDzo"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -297,10 +312,11 @@
   {
     "nanoid": "nu7l4PSugK8FRQ",
     "name": "Disney Channel: Wizards of Waverly",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/s1Ylmj87gXY"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/s1Ylmj87gXY"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -326,12 +342,13 @@
   {
     "nanoid": "rQiaZ0oiIHQJ8O",
     "name": "Don't Tell The Bride",
-    "stream_urls": [
-      "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
-      "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8",
+        "https://lds-donttellbride-samsunguk.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -357,12 +374,13 @@
   {
     "nanoid": "cesmFf1AKT7Tqh",
     "name": "Ebony TV by Lionsgate",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8",
-      "https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8",
-      "https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8",
+        "https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8",
+        "https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -385,10 +403,11 @@
   {
     "nanoid": "kQcoVGJEguMaJQ",
     "name": "Farscape",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2iDrdlHUj48"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/2iDrdlHUj48"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -412,12 +431,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0r210a3FA40XwI",
+    "name": "FilmUADrama",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7MLHT3jxe1OcD2",
     "name": "Frequence Novelas",
-    "stream_urls": [
-      "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -467,10 +502,11 @@
   {
     "nanoid": "GOMdLvvyu3y5ss",
     "name": "GZT",
-    "stream_urls": [
-      "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "tur"
@@ -527,10 +563,11 @@
   {
     "nanoid": "Vtr3HBEloexH0v",
     "name": "Home.Made.Nation",
-    "stream_urls": [
-      "https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1kgo9l74vimu0.cloudfront.net/v1/aenetworks_ae_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -540,12 +577,13 @@
   {
     "nanoid": "9IlfLSM7VoPFbk",
     "name": "Inside Crime UK",
-    "stream_urls": [
-      "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
-      "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
-      "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
+        "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
+        "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -555,10 +593,11 @@
   {
     "nanoid": "F09oBavECO18ZL",
     "name": "Johnny Carson TV",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -581,10 +620,11 @@
   {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oJziSt-N-jg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/oJziSt-N-jg"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -594,10 +634,11 @@
   {
     "nanoid": "YTibXODPOUAgaa",
     "name": "Married with Children",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1jObgEM6J-w"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1jObgEM6J-w"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -620,10 +661,11 @@
   {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
-    "stream_urls": [
-      "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ron"
     ],
@@ -647,10 +689,11 @@
   {
     "nanoid": "WfBeWY1RnvDWYZ",
     "name": "Muhteşem Yüzyıl",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0dmPGl8HV3A"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/0dmPGl8HV3A"
+      ]
+    },
     "languages": [
       "tur"
     ],
@@ -673,11 +716,12 @@
   {
     "nanoid": "Iy5zo4h0sUhH2S",
     "name": "Nash Bridges",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8",
-      "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8",
+        "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -700,14 +744,43 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Yz6QJMfl4vE5w1",
+    "name": "NTV Series",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NTVSerial.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yM20acbzlpX0UI",
+    "name": "NTV-Hit",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/NTVHit.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KnQ1j8Phu3BSgy",
     "name": "OuterSphere",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8",
-      "https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8",
-      "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8",
+        "https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8",
+        "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -746,10 +819,11 @@
   {
     "nanoid": "kA1hesNyoEPp4H",
     "name": "Persiana Series",
-    "stream_urls": [
-      "https://onehls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://onehls.persiana.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -759,10 +833,11 @@
   {
     "nanoid": "vosJ1MimmKjovt",
     "name": "Roya Drama",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -783,12 +858,41 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AEW5rUSukyBObX",
+    "name": "Smotrim 100% Lyubov",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xskSlYuVIwl8pa",
+    "name": "Smotrim 100% Muzhskoe",
+    "sources": {
+      "streams": [
+        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XsDojCA8SLZ0wU",
     "name": "Smotrim Chestnyy Detektiv",
-    "stream_urls": [
-      "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -824,11 +928,12 @@
   {
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
-    "stream_urls": [
-      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
-      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+        "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -838,11 +943,12 @@
   {
     "nanoid": "PddVv4O37Tx5Us",
     "name": "Sony One Series Comedie",
-    "stream_urls": [
-      "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
-      "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8",
+        "https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -852,11 +958,12 @@
   {
     "nanoid": "WGDiUT1T62mE6W",
     "name": "Sony One Series Thriller",
-    "stream_urls": [
-      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
-      "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+        "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -879,11 +986,12 @@
   {
     "nanoid": "TjaDmuO5pIpjjY",
     "name": "Survivor",
-    "stream_urls": [
-      "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8",
-      "https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8",
+        "https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -906,10 +1014,11 @@
   {
     "nanoid": "dvALQRnBuRaADE",
     "name": "The Bob Ross Channel",
-    "stream_urls": [
-      "https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -919,11 +1028,12 @@
   {
     "nanoid": "yenlo48DOLbqmP",
     "name": "The Chat Show Channel",
-    "stream_urls": [
-      "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8",
+        "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -933,11 +1043,12 @@
   {
     "nanoid": "613B4maEJO1ust",
     "name": "The Conners",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8",
-      "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/e08080ff-3d87-4d9e-a156-91554fd2e39b/playlist.m3u8",
+        "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -947,11 +1058,12 @@
   {
     "nanoid": "UIWLgTqTBtbo6l",
     "name": "Todo Novelas",
-    "stream_urls": [
-      "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8",
-      "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8",
+        "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -974,10 +1086,11 @@
   {
     "nanoid": "UmtxmIOFxU2zb9",
     "name": "True Crime Network",
-    "stream_urls": [
-      "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -987,10 +1100,11 @@
   {
     "nanoid": "mYmsNZmHBieLeB",
     "name": "TV Series",
-    "stream_urls": [
-      "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -1010,6 +1124,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5NRBrsFyvfZbSZ",
+    "name": "TVI Ficcao",
+    "sources": {
+      "streams": [
+        "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
     "isGeoBlocked": false
   },
   {
@@ -1041,10 +1169,11 @@
   {
     "nanoid": "RBsulEFm06gD0b",
     "name": "We TV East",
-    "stream_urls": [
-      "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1054,10 +1183,11 @@
   {
     "nanoid": "IQrnnNNldjOCl4",
     "name": "XPTV US",
-    "stream_urls": [
-      "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1067,10 +1197,11 @@
   {
     "nanoid": "EbXO2Dhy1HZFOu",
     "name": "Z Nation",
-    "stream_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1078,25 +1209,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tN5nUxcAqYPgp",
-    "name": "Zee Alwan",
-    "stream_urls": [
-      "https://41.223.30.230/ZEEALWAN/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OPwNo7g1vlqU7d",
     "name": "Дембельский альбом: Солдаты",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1zpCNefHbC0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/1zpCNefHbC0"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1106,10 +1225,11 @@
   {
     "nanoid": "J3EJNMTTTwoCfX",
     "name": "Кино Добряк: Сваты и Байки Митяя",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1119,10 +1239,11 @@
   {
     "nanoid": "vzPGxRe9XdVwB1",
     "name": "Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NFXv2UW-KLI"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NFXv2UW-KLI"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -1132,10 +1253,11 @@
   {
     "nanoid": "VViT8uYd2d6XZP",
     "name": "디글 클래식 :Diggle Classic",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/H3uur6g_9CA"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/H3uur6g_9CA"
+      ]
+    },
     "languages": [
       "kor"
     ],

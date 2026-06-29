@@ -2,10 +2,11 @@
   {
     "nanoid": "eJ6LajESBOIbZe",
     "name": "TV Bahoriston",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/3/3m.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.teleradiocom.tj/3/3m.m3u8"
+      ]
+    },
     "languages": [
       "tgk"
     ],

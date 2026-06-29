@@ -2,10 +2,11 @@
   {
     "nanoid": "n9ycT6OVLnDJEA",
     "name": "Ars (Radio Slovenija 3)",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/ars"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://mp3.rtvslo.si/ars"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "EwLMIheRLEmfad",
     "name": "Best FM",
-    "stream_urls": [
-      "https://live.radio.si/BestFM"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/BestFM"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "yeZz12x7BvNxB2",
     "name": "Hitradio Antena Štajerska",
-    "stream_urls": [
-      "https://live.radio.si/Antena"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/Antena"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -35,10 +38,11 @@
   {
     "nanoid": "25xvkjomUf130G",
     "name": "Prvi (Radio Slovenija 1)",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/ra1"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://mp3.rtvslo.si/ra1"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -46,11 +50,12 @@
   {
     "nanoid": "QDH4U7P7TEPOsV",
     "name": "Radio 1",
-    "stream_urls": [
-      "https://live.radio1.si/Radio80",
-      "https://live.radio.si/Radio1"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio1.si/Radio80",
+        "https://live.radio.si/Radio1"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -58,10 +63,11 @@
   {
     "nanoid": "NZOL7Eun68rdhn",
     "name": "Radio 1 Maribor",
-    "stream_urls": [
-      "https://live.radio1.si/Radio1"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio1.si/Radio1"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -69,10 +75,11 @@
   {
     "nanoid": "HdLWlAkWEmbBiE",
     "name": "Radio Capodistria",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/capo"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://mp3.rtvslo.si/capo"
+      ]
+    },
     "languages": [
       "ita",
       "slv"
@@ -81,10 +88,11 @@
   {
     "nanoid": "Uz3EknPD2g0yOL",
     "name": "Radio City",
-    "stream_urls": [
-      "https://stream1.radiocity.si/CityMp3128.mp3"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://stream1.radiocity.si/CityMp3128.mp3"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -92,10 +100,11 @@
   {
     "nanoid": "ebRbKmedNsthuw",
     "name": "Radio Dur",
-    "stream_urls": [
-      "https://zvok.ragla.si/gr"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://zvok.ragla.si/gr"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -103,10 +112,11 @@
   {
     "nanoid": "B6d8yVWCYHecAb",
     "name": "Radio Koper",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/rakp"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://mp3.rtvslo.si/rakp"
+      ]
+    },
     "languages": [
       "slv",
       "ita"
@@ -115,10 +125,11 @@
   {
     "nanoid": "jed0yfTnsFprIZ",
     "name": "Radio Krka",
-    "stream_urls": [
-      "https://live.radio.si/Krka"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/Krka"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -126,10 +137,11 @@
   {
     "nanoid": "lC9uayxS1C0bav",
     "name": "Radio Maribor",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/rmb"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://mp3.rtvslo.si/rmb"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -137,10 +149,11 @@
   {
     "nanoid": "7EycVvzi77mUgs",
     "name": "Radio Maxi",
-    "stream_urls": [
-      "https://live.radio.si/Maxi"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/Maxi"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -160,23 +173,26 @@
   {
     "nanoid": "vgk9tFtZIc1OGV",
     "name": "Radio Nula",
-    "stream_urls": [
-      "https://strm.radionula.com/classics"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://strm.radionula.com/classics"
+      ]
+    },
     "languages": [
       "eng",
       "slv"
     ],
+    "country": "si",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kRoA0VIqkKJOKN",
     "name": "Radio Nula Beatz",
-    "stream_urls": [
-      "https://strm.radionula.com/lounge"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://strm.radionula.com/lounge"
+      ]
+    },
     "languages": [
       "slv",
       "eng"
@@ -185,10 +201,11 @@
   {
     "nanoid": "7mWRqPY9JWX3Rg",
     "name": "Radio Nula Organic",
-    "stream_urls": [
-      "https://strm.radionula.com/channel2"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://strm.radionula.com/channel2"
+      ]
+    },
     "languages": [
       "slv",
       "eng"
@@ -197,10 +214,11 @@
   {
     "nanoid": "8DZI2BsLrWHged",
     "name": "Radio Ognjišče",
-    "stream_urls": [
-      "https://live.radio.si/ognjisce.mp3"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/ognjisce.mp3"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -208,10 +226,11 @@
   {
     "nanoid": "IG0d9AS7bx8BMM",
     "name": "Radio Ptuj",
-    "stream_urls": [
-      "https://live.radio.si/Ptuj"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/Ptuj"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -219,10 +238,11 @@
   {
     "nanoid": "1XgHI8yKKOdzzD",
     "name": "Radio Robin",
-    "stream_urls": [
-      "https://live.radio.si/Robin"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/Robin"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -230,10 +250,11 @@
   {
     "nanoid": "MJaA6Nh1D6cx3U",
     "name": "Radio Roška",
-    "stream_urls": [
-      "https://stream.zeno.fm/q7300aptbwzuv"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/q7300aptbwzuv"
+      ]
+    },
     "languages": [
       "slv",
       "hrv",
@@ -244,10 +265,11 @@
   {
     "nanoid": "G7MZBgXhGgoRwg",
     "name": "Radio Salomon",
-    "stream_urls": [
-      "https://live.radio.si/Salomon"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/Salomon"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -255,10 +277,11 @@
   {
     "nanoid": "2MXgqyfXCRH3CC",
     "name": "Radio SI (Radio Slovenija International)",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/rsi"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://mp3.rtvslo.si/rsi"
+      ]
+    },
     "languages": [
       "slv",
       "eng",
@@ -268,10 +291,11 @@
   {
     "nanoid": "faPRX7JL4lrEKb",
     "name": "Radio Terminal",
-    "stream_urls": [
-      "https://air.radioterminal.si/live"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://air.radioterminal.si/live"
+      ]
+    },
     "languages": [
       "slv",
       "eng"
@@ -280,10 +304,11 @@
   {
     "nanoid": "q4yw2jX4wamndz",
     "name": "Radio Timea",
-    "stream_urls": [
-      "https://evcast.mediacp.eu:1480/stream"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://evcast.mediacp.eu:1480/stream"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -291,10 +316,11 @@
   {
     "nanoid": "qhgQCEIf0UbURv",
     "name": "Radio Veseljak: Petkova Pumpa",
-    "stream_urls": [
-      "https://live.radio.si/VeseljakPumpa"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/VeseljakPumpa"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -302,10 +328,11 @@
   {
     "nanoid": "gq9DhaC5LSPAZw",
     "name": "Radio Zeleni val",
-    "stream_urls": [
-      "https://jurepeterka.radioca.st/stream"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://jurepeterka.radioca.st/stream"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -335,10 +362,11 @@
   {
     "nanoid": "Y7AqJZaebYQG8b",
     "name": "Radio Žica",
-    "stream_urls": [
-      "https://live.1chi.si/zica"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.1chi.si/zica"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -346,22 +374,25 @@
   {
     "nanoid": "7WFGgTRR4jyJO6",
     "name": "Rock Maribor",
-    "stream_urls": [
-      "https://live.radio.si/RockMB"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/RockMB"
+      ]
+    },
     "languages": [
       "slv"
     ],
+    "country": "si",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ogPRzWLmxnwcOC",
     "name": "RTVSLO Muravidéki Magyar Rádió (MMR)",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/mmr"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://mp3.rtvslo.si/mmr"
+      ]
+    },
     "languages": [
       "hun",
       "slv"
@@ -370,10 +401,11 @@
   {
     "nanoid": "NTEt2N2rNLXRVA",
     "name": "Toti Radio",
-    "stream_urls": [
-      "https://live.radio.si/Toti"
-    ],
-    "country": "si",
+    "sources": {
+      "streams": [
+        "https://live.radio.si/Toti"
+      ]
+    },
     "languages": [
       "slv"
     ]
@@ -384,6 +416,7 @@
     "stream_urls": [
       "https://mp3.rtvslo.si/val202"
     ],
+    "country": "si",
     "isGeoBlocked": false
   }
 ]

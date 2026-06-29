@@ -2,10 +2,11 @@
   {
     "nanoid": "aANHgmWHyppMiE",
     "name": "1062 Mad Radio Live",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k82aM7uGQOA"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/k82aM7uGQOA"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "F0m8xOZdwpScCP",
     "name": "Acheloos TV",
-    "stream_urls": [
-      "https://acheloostv.streamings.gr/live/stream/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://acheloostv.streamings.gr/live/stream/index.m3u8"
+      ]
+    },
     "languages": [
       "ell",
       "eng"
@@ -29,10 +31,11 @@
   {
     "nanoid": "FcrizhjFuogVcE",
     "name": "Action 24",
-    "stream_urls": [
-      "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -42,10 +45,11 @@
   {
     "nanoid": "cHmM9b8VS7jwKX",
     "name": "Alert TV",
-    "stream_urls": [
-      "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -55,10 +59,11 @@
   {
     "nanoid": "w8DEZO2sRSoZZO",
     "name": "Alpha TV",
-    "stream_urls": [
-      "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -68,10 +73,11 @@
   {
     "nanoid": "2c7snlK3LlpjiQ",
     "name": "Astra TV",
-    "stream_urls": [
-      "https://server.gointernet.gr/live/livestream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://server.gointernet.gr/live/livestream.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -81,10 +87,11 @@
   {
     "nanoid": "alnxPYvmVkicEU",
     "name": "Baraza TV",
-    "stream_urls": [
-      "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -94,10 +101,11 @@
   {
     "nanoid": "SwsWDthUMBPn2q",
     "name": "Baraza TV Deep House",
-    "stream_urls": [
-      "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -120,10 +128,11 @@
   {
     "nanoid": "nur67kMzGvKND6",
     "name": "Best TV",
-    "stream_urls": [
-      "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -133,10 +142,11 @@
   {
     "nanoid": "BQ588mGGkNcDqS",
     "name": "Center TV",
-    "stream_urls": [
-      "https://eu1.streams.gr:8081/centertv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://eu1.streams.gr:8081/centertv/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -146,10 +156,11 @@
   {
     "nanoid": "gTRpcJwVgakhrn",
     "name": "Diavata TV",
-    "stream_urls": [
-      "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -172,10 +183,11 @@
   {
     "nanoid": "kQoJODyIVFBenm",
     "name": "Egnatia TV",
-    "stream_urls": [
-      "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -211,10 +223,11 @@
   {
     "nanoid": "GI28zdliqFumzw",
     "name": "ERT Cosmos",
-    "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -224,10 +237,11 @@
   {
     "nanoid": "lQUaMVorKskNow",
     "name": "ERT News",
-    "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -250,10 +264,11 @@
   {
     "nanoid": "99p8zNQRqAzy6r",
     "name": "ERT3",
-    "stream_urls": [
-      "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -261,12 +276,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rNwXK8U9QtgSSA",
+    "name": "Faros TV2",
+    "sources": {
+      "streams": [
+        "https://s1.cystream.net/live/faros2/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "BBnkN7RuoWZuoo",
     "name": "Gnomi TV",
-    "stream_urls": [
-      "https://live.streams.ovh:8081/gnomitv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.streams.ovh:8081/gnomitv/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -289,10 +319,11 @@
   {
     "nanoid": "zSgRIxf4rZgvt7",
     "name": "Ionian TV",
-    "stream_urls": [
-      "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -302,10 +333,11 @@
   {
     "nanoid": "slRsHngNcym3tq",
     "name": "Kontra Channel",
-    "stream_urls": [
-      "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -328,24 +360,11 @@
   {
     "nanoid": "YpG1ImfWO1Q3HO",
     "name": "Naftemporiki TV",
-    "stream_urls": [
-      "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nOgaKVJqtjFRdy",
-    "name": "Nea TV",
-    "stream_urls": [
-      "https://live.neatv.gr:8888/hls/neatv.m3u8",
-      "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -369,10 +388,11 @@
   {
     "nanoid": "va1T6JmoihYIa4",
     "name": "Notioi TV",
-    "stream_urls": [
-      "https://srv.streamserver.gr:3451/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://srv.streamserver.gr:3451/stream/play.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -382,10 +402,11 @@
   {
     "nanoid": "NRZMBeU73QGtG9",
     "name": "One Channel",
-    "stream_urls": [
-      "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://onechannel.siliconweb.com/one/stream/chunks.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -395,10 +416,11 @@
   {
     "nanoid": "L3j1vKGF6lnpfD",
     "name": "Panik TV",
-    "stream_urls": [
-      "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -408,10 +430,11 @@
   {
     "nanoid": "PbQQ9Uu2aVWAvl",
     "name": "Pella TV",
-    "stream_urls": [
-      "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -421,10 +444,11 @@
   {
     "nanoid": "HUFnf2hzpL68qM",
     "name": "RedMusic",
-    "stream_urls": [
-      "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -434,11 +458,12 @@
   {
     "nanoid": "tIsI0Q7tcEru0t",
     "name": "Skai TV",
-    "stream_urls": [
-      "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
-      "https://skai-live.siliconweb.com/media/cambria4/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+        "https://skai-live.siliconweb.com/media/cambria4/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -448,10 +473,11 @@
   {
     "nanoid": "HzfqSOVb2ipubL",
     "name": "Star Channel",
-    "stream_urls": [
-      "https://livestar.siliconweb.com/starvod/star4/star4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestar.siliconweb.com/starvod/star4/star4.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -474,10 +500,11 @@
   {
     "nanoid": "axcim7j9dTO22W",
     "name": "Start TV",
-    "stream_urls": [
-      "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -500,10 +527,11 @@
   {
     "nanoid": "ExXGZtUJaG1vOi",
     "name": "Telekriti",
-    "stream_urls": [
-      "https://neon.streams.gr:8081/telekriti/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://neon.streams.gr:8081/telekriti/index.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -513,10 +541,11 @@
   {
     "nanoid": "Nhov9FRmWvJ4cy",
     "name": "Thraki Net TV",
-    "stream_urls": [
-      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],
@@ -526,10 +555,11 @@
   {
     "nanoid": "Xstsz3HxvmyGSQ",
     "name": "TV Creta",
-    "stream_urls": [
-      "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],

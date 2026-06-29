@@ -2,10 +2,11 @@
   {
     "nanoid": "ypi2E7rwejj7EP",
     "name": "1AlmereTV",
-    "stream_urls": [
-      "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "3LwrECAb6nB7EL",
     "name": "1Twente TV",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "CReHCdZVKTCuD1",
     "name": "360TuneBox",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch141/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch141/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -41,11 +44,12 @@
   {
     "nanoid": "VW5KCkVwmL5Q1A",
     "name": "A1 TV",
-    "stream_urls": [
-      "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
-      "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.a1mediagroep.nl/hls/a1tv.m3u8",
+        "https://www.a1mediagroep.nl/hls/a1tv.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -55,10 +59,11 @@
   {
     "nanoid": "tkIXZ09wUTDqoW",
     "name": "Altena TV",
-    "stream_urls": [
-      "https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -68,10 +73,11 @@
   {
     "nanoid": "gxLdnwNNr7kDXq",
     "name": "BEATTV",
-    "stream_urls": [
-      "https://tv.beatfm.nl/live.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://tv.beatfm.nl/live.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -81,28 +87,16 @@
   {
     "nanoid": "U2Aiz8KrVs5iFm",
     "name": "BNR Nieuwsradio",
-    "stream_urls": [
-      "https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
     "country": "nl",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "hxElXQEHI6wIHq",
-    "name": "BR6 TV",
-    "stream_urls": [
-      "https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "77E2xhr3RrP82t",
@@ -120,11 +114,12 @@
   {
     "nanoid": "uOcj7SNsYLGnvO",
     "name": "Dit is Helmond",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
-      "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
+        "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -146,11 +141,12 @@
   },
   {
     "nanoid": "FsqGCMRqEpSuHU",
-    "name": "FilmBox Extra Adria",
-    "stream_urls": [
-      "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8"
-    ],
-    "youtube_urls": [],
+    "name": "FilmBox+ Emotion Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -159,11 +155,12 @@
   },
   {
     "nanoid": "mTMVPOuf7uKRkN",
-    "name": "FilmBox Premium Adria",
-    "stream_urls": [
-      "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8"
-    ],
-    "youtube_urls": [],
+    "name": "FilmBox+ Hits Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -172,11 +169,12 @@
   },
   {
     "nanoid": "KcN1k5dKr2fSSJ",
-    "name": "FilmBox Stars Adria",
-    "stream_urls": [
-      "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8"
-    ],
-    "youtube_urls": [],
+    "name": "FilmBox+ Love & Crime Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -186,10 +184,11 @@
   {
     "nanoid": "v32sHMlPXTjtGY",
     "name": "frequenzy: Acoustic/Folk",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8zRR2_6aRNE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8zRR2_6aRNE"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -199,10 +198,11 @@
   {
     "nanoid": "bBCcvAlqZAWZi9",
     "name": "frequenzy: Alternative/Rock",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tWTPGVIw1es"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/tWTPGVIw1es"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -212,10 +212,11 @@
   {
     "nanoid": "wGEV3sNBMStagF",
     "name": "frequenzy: Indie/Pop/Rock",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uRImXboQnzE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uRImXboQnzE"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -225,10 +226,11 @@
   {
     "nanoid": "Ya2KPOY4cpYQkc",
     "name": "frequenzy: Jazz/Funk/Soul",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e7CM2kGoqXg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/e7CM2kGoqXg"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -238,10 +240,11 @@
   {
     "nanoid": "yZyrZHNcmMNYOm",
     "name": "FunBox UHD",
-    "stream_urls": [
-      "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -251,10 +254,11 @@
   {
     "nanoid": "KG7zrdGqErjlji",
     "name": "Gametoon",
-    "stream_urls": [
-      "https://iptv.prosto.tv/ch256/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://iptv.prosto.tv/ch256/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -262,25 +266,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A3vCuoFXBOegkR",
-    "name": "Gigant FM",
-    "stream_urls": [
-      "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UX0UsvdjEFFpay",
     "name": "Haarlem105 TV",
-    "stream_urls": [
-      "https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -290,10 +282,11 @@
   {
     "nanoid": "XeTMX0KNRpyXnL",
     "name": "Hype Visual Radio",
-    "stream_urls": [
-      "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "nld"
@@ -304,10 +297,11 @@
   {
     "nanoid": "vZH696VcUAzk3F",
     "name": "Ideaal TV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -401,10 +395,11 @@
   {
     "nanoid": "NizIVwktpxksyc",
     "name": "Jin TV",
-    "stream_urls": [
-      "https://live.jintv.org/medialive/jintv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.jintv.org/medialive/jintv.m3u8"
+      ]
+    },
     "languages": [
       "kur"
     ],
@@ -414,11 +409,12 @@
   {
     "nanoid": "LaumigPirXIG5i",
     "name": "KempenTV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8",
+        "https://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -428,10 +424,11 @@
   {
     "nanoid": "pKE0ZgARlvt46E",
     "name": "L1 TV",
-    "stream_urls": [
-      "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -441,10 +438,11 @@
   {
     "nanoid": "AWAYRrYwzSP3O6",
     "name": "Langstraat TV",
-    "stream_urls": [
-      "https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -454,10 +452,11 @@
   {
     "nanoid": "43nlqCsPfKQWwb",
     "name": "Lansingerland TV",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -467,23 +466,11 @@
   {
     "nanoid": "brszZyzF2c0VMk",
     "name": "LEO Middelse TV",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YgwesPOmCiZn25",
-    "name": "LOE TV",
-    "stream_urls": [
-      "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -493,10 +480,11 @@
   {
     "nanoid": "8nVftQpC76oxlC",
     "name": "Lokale Omroep Zeewolde",
-    "stream_urls": [
-      "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -506,10 +494,11 @@
   {
     "nanoid": "qUy0NOK2hQdQ38",
     "name": "LON TV",
-    "stream_urls": [
-      "https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -519,10 +508,11 @@
   {
     "nanoid": "nnzZPCLnvZFXmg",
     "name": "Magic PowerRadio",
-    "stream_urls": [
-      "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -532,10 +522,11 @@
   {
     "nanoid": "GNlR02NgwiOglp",
     "name": "MaLive",
-    "stream_urls": [
-      "https://live.salto.nl/hls/malive_high.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.salto.nl/hls/malive_high.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -545,11 +536,27 @@
   {
     "nanoid": "UTqOJF9u8dQBzt",
     "name": "MerweTV",
-    "stream_urls": [
-      "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8"
+      ]
+    },
     "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7DSi96Xgx28uw1",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://193.239.186.231/NICK/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "nld"
     ],
     "country": "nl",
@@ -558,10 +565,11 @@
   {
     "nanoid": "cz0NSemk409jgG",
     "name": "NOOS TV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -571,10 +579,11 @@
   {
     "nanoid": "OgYe6u4a9Y8YAf",
     "name": "Omroep Brabant",
-    "stream_urls": [
-      "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -584,10 +593,11 @@
   {
     "nanoid": "P6DKosG5lbofcV",
     "name": "Omroep Brabant Radio",
-    "stream_urls": [
-      "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -597,10 +607,11 @@
   {
     "nanoid": "OplIrrFGFNiRPM",
     "name": "Omroep Dommelland",
-    "stream_urls": [
-      "https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -610,10 +621,11 @@
   {
     "nanoid": "xTdO7TGIM8R5HS",
     "name": "Omroep Flevoland",
-    "stream_urls": [
-      "https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -623,10 +635,11 @@
   {
     "nanoid": "Ro2ztK12kyMzuv",
     "name": "Omroep Gelderland",
-    "stream_urls": [
-      "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -636,10 +649,11 @@
   {
     "nanoid": "hk7PXKEYotjuny",
     "name": "Omroep Hoeksche Waard",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -649,23 +663,11 @@
   {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
-    "stream_urls": [
-      "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nVpsvaBycf2VlN",
-    "name": "Omroep Lingewaard",
-    "stream_urls": [
-      "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -688,10 +690,11 @@
   {
     "nanoid": "olqIrTCB8dp00d",
     "name": "Omroep Sudwest",
-    "stream_urls": [
-      "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -701,11 +704,12 @@
   {
     "nanoid": "aoSCyrpFifrtBu",
     "name": "Omroep Tilburg",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+        "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -715,10 +719,11 @@
   {
     "nanoid": "bdau2PmcqBuaNs",
     "name": "Omroep Venlo",
-    "stream_urls": [
-      "https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -728,10 +733,11 @@
   {
     "nanoid": "XobH5L3xI9jFsc",
     "name": "Omroep Venray",
-    "stream_urls": [
-      "https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -741,10 +747,11 @@
   {
     "nanoid": "qYfy9gE6saEqpK",
     "name": "Omroep West",
-    "stream_urls": [
-      "https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -754,10 +761,11 @@
   {
     "nanoid": "pzKNc2nvONww0m",
     "name": "Omroep Zeeland",
-    "stream_urls": [
-      "https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -767,10 +775,11 @@
   {
     "nanoid": "Bc0BjzWtIFlarp",
     "name": "Omrop Fryslan",
-    "stream_urls": [
-      "https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8"
+      ]
+    },
     "languages": [
       "fry",
       "nld"
@@ -781,10 +790,11 @@
   {
     "nanoid": "yYHMh744A9jABH",
     "name": "OOG TV",
-    "stream_urls": [
-      "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -794,10 +804,11 @@
   {
     "nanoid": "25pB0MbXoRopRk",
     "name": "OPEN Rotterdam TV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -807,10 +818,11 @@
   {
     "nanoid": "P7GryzYlzv8Fx4",
     "name": "ORTS TV",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -820,10 +832,11 @@
   {
     "nanoid": "nD9Iu29w4yPsME",
     "name": "Radio 10",
-    "stream_urls": [
-      "https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -833,10 +846,11 @@
   {
     "nanoid": "PQllKwQLDzqLro",
     "name": "Radio 350",
-    "stream_urls": [
-      "https://stream.radio350.nl/hls/radio350.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.radio350.nl/hls/radio350.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -846,10 +860,11 @@
   {
     "nanoid": "uhfJLuC9YnQvsY",
     "name": "Radio 538",
-    "stream_urls": [
-      "https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -859,10 +874,11 @@
   {
     "nanoid": "Nzy2YinkZn96O1",
     "name": "Radio Aalsmeer TV",
-    "stream_urls": [
-      "https://radioaalsmeer.nl:4443/live/tv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://radioaalsmeer.nl:4443/live/tv.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -872,10 +888,11 @@
   {
     "nanoid": "Yy1gqgg3H5Fb73",
     "name": "Radio JND",
-    "stream_urls": [
-      "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -885,25 +902,12 @@
   {
     "nanoid": "rqGLoNY5jXVQAV",
     "name": "RadioToppers",
-    "stream_urls": [
-      "https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8"
+      ]
+    },
     "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "W9VS8SRmkQmeJR",
-    "name": "Rararadio",
-    "stream_urls": [
-      "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng",
       "nld"
     ],
     "country": "nl",
@@ -912,10 +916,11 @@
   {
     "nanoid": "dSnoUTHQ6dYQnL",
     "name": "Regio TV De Bilt",
-    "stream_urls": [
-      "https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -925,10 +930,11 @@
   {
     "nanoid": "BpeFMfOm7AkYwU",
     "name": "Regio90 TV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -938,10 +944,11 @@
   {
     "nanoid": "bzhuoIIHDSQpOH",
     "name": "Rotterdam Podium TV",
-    "stream_urls": [
-      "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "nl",
     "isGeoBlocked": false
@@ -949,10 +956,11 @@
   {
     "nanoid": "eSTJvBK9DVqXxp",
     "name": "RPL Woerden",
-    "stream_urls": [
-      "https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -962,10 +970,11 @@
   {
     "nanoid": "r36IA6x0M46ZqU",
     "name": "RTV 1",
-    "stream_urls": [
-      "https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -975,10 +984,11 @@
   {
     "nanoid": "91t13ItHF9LWKx",
     "name": "RTV Drenthe",
-    "stream_urls": [
-      "https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -988,10 +998,11 @@
   {
     "nanoid": "u3qWb4sI9MDIZI",
     "name": "RTV LOVE",
-    "stream_urls": [
-      "https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1001,10 +1012,11 @@
   {
     "nanoid": "zzJ8Dvnqyisr5k",
     "name": "RTV Meppel",
-    "stream_urls": [
-      "https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1014,10 +1026,11 @@
   {
     "nanoid": "hUCgRjmVobCb6w",
     "name": "RTV Noord",
-    "stream_urls": [
-      "https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1027,24 +1040,11 @@
   {
     "nanoid": "goxtzeUVZGIYKs",
     "name": "RTV Noord Extra",
-    "stream_urls": [
-      "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bdBmeA8W9ieof9",
-    "name": "RTV Noordoost Friesland",
-    "stream_urls": [
-      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
-      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1054,10 +1054,11 @@
   {
     "nanoid": "LpQFuIp1jHcUHG",
     "name": "RTV Oost",
-    "stream_urls": [
-      "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1067,10 +1068,11 @@
   {
     "nanoid": "MOZ6D8VfrxOi60",
     "name": "RTV Purmerend",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1080,10 +1082,11 @@
   {
     "nanoid": "MogQ1Ef8ioQtA5",
     "name": "RTV Rijnmond",
-    "stream_urls": [
-      "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1093,10 +1096,11 @@
   {
     "nanoid": "CZnHYlnJ5o4fmb",
     "name": "RTV Rijnmond Extra",
-    "stream_urls": [
-      "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1106,10 +1110,11 @@
   {
     "nanoid": "Ua4a0OdjOruHxv",
     "name": "RTV Rijnstreek TV",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1119,10 +1124,11 @@
   {
     "nanoid": "Y3tRl2FeGVTyQz",
     "name": "RTV SLOS",
-    "stream_urls": [
-      "https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d3b6teev8t7bb2.cloudfront.net/nlpo/clr-nlpo/rtvslos/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1132,10 +1138,11 @@
   {
     "nanoid": "SgwTXtRwTwkQgJ",
     "name": "RTV Utrecht",
-    "stream_urls": [
-      "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1145,10 +1152,11 @@
   {
     "nanoid": "SX4ijZgGZSePxA",
     "name": "RTV Veluwezoom TV",
-    "stream_urls": [
-      "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1158,10 +1166,11 @@
   {
     "nanoid": "UyWYSAuGPQ1FRF",
     "name": "RTV Westerwolde",
-    "stream_urls": [
-      "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1171,10 +1180,11 @@
   {
     "nanoid": "MG8m0vh6HIQQvq",
     "name": "RTV Zulthe",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1184,10 +1194,11 @@
   {
     "nanoid": "FkkIWUuTuiIidf",
     "name": "Salto 1",
-    "stream_urls": [
-      "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1197,10 +1208,11 @@
   {
     "nanoid": "lvPUiyBGTf9h6a",
     "name": "Salto 2",
-    "stream_urls": [
-      "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1210,10 +1222,11 @@
   {
     "nanoid": "uijzEdZpPY4boJ",
     "name": "Samen1 TV",
-    "stream_urls": [
-      "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1223,10 +1236,11 @@
   {
     "nanoid": "4qAiXmvkgXlKqP",
     "name": "Schie TV",
-    "stream_urls": [
-      "https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1236,10 +1250,11 @@
   {
     "nanoid": "N4Ek6KWXUdPOHS",
     "name": "Sleutelstad TV",
-    "stream_urls": [
-      "https://samson.streamerr.co:8081/sleutelstad/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://samson.streamerr.co:8081/sleutelstad/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1288,10 +1303,11 @@
   {
     "nanoid": "vO7ItMw9qBUGew",
     "name": "Studio Rheden",
-    "stream_urls": [
-      "https://stream.studiorhedenlive.nl/hlstv/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.studiorhedenlive.nl/hlstv/stream.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1301,24 +1317,11 @@
   {
     "nanoid": "sFINVSL7tug2sB",
     "name": "Studio040 TV",
-    "stream_urls": [
-      "https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "80Bzo5gghASeEz",
-    "name": "TV Ellef",
-    "stream_urls": [
-      "https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8",
-      "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1341,10 +1344,11 @@
   {
     "nanoid": "yaYUxFsan9hbOE",
     "name": "Tweede Kamer: Actualiteitenkanaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1354,10 +1358,11 @@
   {
     "nanoid": "6OQOS7AT6Gma3n",
     "name": "Tweede Kamer: Aletta Jacobszaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1367,10 +1372,11 @@
   {
     "nanoid": "5hB4P9nJujh5eA",
     "name": "Tweede Kamer: Enquetezaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1380,10 +1386,11 @@
   {
     "nanoid": "PL16C9OHm1Jw0b",
     "name": "Tweede Kamer: Groen van Prinstererzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1393,10 +1400,11 @@
   {
     "nanoid": "Ae17iGLPc7Gwuz",
     "name": "Tweede Kamer: Klompezaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1406,10 +1414,11 @@
   {
     "nanoid": "BJ3SYF7xMwSu2u",
     "name": "Tweede Kamer: Max van der Stoelzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1419,10 +1428,11 @@
   {
     "nanoid": "MOoTHhVYsb8MlG",
     "name": "Tweede Kamer: Plenaire zaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1432,10 +1442,11 @@
   {
     "nanoid": "rB1O4Lh7x5fa2y",
     "name": "Tweede Kamer: Suze Groenewegzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1445,10 +1456,11 @@
   {
     "nanoid": "qHNjpcf1s4YBcD",
     "name": "Tweede Kamer: Thorbeckezaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1458,10 +1470,11 @@
   {
     "nanoid": "9j3l55qDqhq9x4",
     "name": "Tweede Kamer: Troelstrazaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1471,10 +1484,11 @@
   {
     "nanoid": "xk5ybVwggmYe7A",
     "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
-    "stream_urls": [
-      "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1484,11 +1498,12 @@
   {
     "nanoid": "kFgkTaYcE0JGsc",
     "name": "UStad",
-    "stream_urls": [
-      "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
-      "https://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
+        "https://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1498,10 +1513,11 @@
   {
     "nanoid": "i2GpEeoaXxzJ13",
     "name": "Vechtdal TV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1511,10 +1527,11 @@
   {
     "nanoid": "8x4Pl6hI5XunaS",
     "name": "Waterbear",
-    "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "nl",
     "isGeoBlocked": false
@@ -1522,10 +1539,11 @@
   {
     "nanoid": "zl0ukpBnhgDrtz",
     "name": "WeertFM TV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1535,10 +1553,11 @@
   {
     "nanoid": "0cyk1CCNCuzPwL",
     "name": "Wicked Tuna",
-    "stream_urls": [
-      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "nl",
     "isGeoBlocked": false
@@ -1546,12 +1565,13 @@
   {
     "nanoid": "PqPpaJK0geUq0W",
     "name": "WOS",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
+        "https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8",
+        "https://ms7.mx-cd.net/tv/99-660295/WOS.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1631,23 +1651,11 @@
   {
     "nanoid": "T6K1OzxVu2js0L",
     "name": "ZFM Zoetermeer TV",
-    "stream_urls": [
-      "https://zfmzoetermeer.nl/live/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "misQ9uBxRPB1ww",
-    "name": "ZO!34",
-    "stream_urls": [
-      "https://video.uitzending.tv:19360/zo34/zo34.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://zfmzoetermeer.nl/live/master.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],

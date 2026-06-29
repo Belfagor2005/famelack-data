@@ -2,10 +2,11 @@
   {
     "nanoid": "1d3KNVCMtqkoEZ",
     "name": "106 Family News Radio",
-    "stream_urls": [
-      "https://radio11.plathong.net/7138/;stream.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://radio11.plathong.net/7138/;stream.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -24,10 +25,11 @@
   {
     "nanoid": "9F1LVzGlRbZChZ",
     "name": "Banmai Radio 93.5 FM",
-    "stream_urls": [
-      "https://radio10.plathong.net/7590/;stream.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://radio10.plathong.net/7590/;stream.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -35,10 +37,11 @@
   {
     "nanoid": "fgj1j6MEeS3q7E",
     "name": "BKK.FM",
-    "stream_urls": [
-      "https://rsas.bkk.fm/radio"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://rsas.bkk.fm/radio"
+      ]
+    },
     "languages": [
       "tha",
       "eng"
@@ -47,10 +50,11 @@
   {
     "nanoid": "tGgeP115ASbgq7",
     "name": "Chili Radio Thailand",
-    "stream_urls": [
-      "https://stream.chiliradio.app/chiliclassics"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://stream.chiliradio.app/chiliclassics"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -82,10 +86,11 @@
   {
     "nanoid": "x9CDprqgN0m2lZ",
     "name": "Dhammahome Radio (บ้านธัมมะ)",
-    "stream_urls": [
-      "https://radio10.plathong.net/7238/;stream.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://radio10.plathong.net/7238/;stream.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -102,10 +107,11 @@
   {
     "nanoid": "KkX6mmoTIByBX0",
     "name": "Fabulous 103 FM",
-    "stream_urls": [
-      "https://fabulous.thailandstreaming.net/fabulous.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://fabulous.thailandstreaming.net/fabulous.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -113,10 +119,11 @@
   {
     "nanoid": "HJQsjDyRBmPMt4",
     "name": "FM 91 Traffic Pro",
-    "stream_urls": [
-      "https://www.fm91bkk.com:8900/;stream.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://www.fm91bkk.com:8900/;stream.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -124,10 +131,11 @@
   {
     "nanoid": "vipSBiHvpqWSzw",
     "name": "Keangun Radio (เขียนกันเรดิโอ)",
-    "stream_urls": [
-      "https://radio9.plathong.net/7054/;stream.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://radio9.plathong.net/7054/;stream.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -135,10 +143,11 @@
   {
     "nanoid": "FdsGPW8B2hwDXK",
     "name": "Looktung Eingdoi",
-    "stream_urls": [
-      "https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -146,10 +155,11 @@
   {
     "nanoid": "VjLp1NbXJPvWHA",
     "name": "Looktung Network 98.5 FM",
-    "stream_urls": [
-      "https://cdn-th2.livestreaming.in.th/shoutcast/8200"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://cdn-th2.livestreaming.in.th/shoutcast/8200"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -164,39 +174,45 @@
     "languages": [
       "tha"
     ],
+    "country": "th",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bi8kLhJce3qmgL",
     "name": "MCOT Radio Chiangmai 100.75 FM",
-    "stream_urls": [
-      "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8"
+      ]
+    },
     "languages": [
       "tha"
     ],
+    "country": "th",
     "isGeoBlocked": false
   },
   {
     "nanoid": "LcbCZThIgFGWbK",
     "name": "Radio Samui Online",
-    "stream_urls": [
-      "https://stream.mixadance.fm/radiosamui"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://stream.mixadance.fm/radiosamui"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "th",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4seHg2lo4Nfag4",
     "name": "Request Radio Dance",
-    "stream_urls": [
-      "https://cast.requestradio.in.th:850//stream/3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://cast.requestradio.in.th:850//stream/3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -215,10 +231,11 @@
   {
     "nanoid": "8SVDRt5rn4HzCK",
     "name": "Request Radio Inter",
-    "stream_urls": [
-      "https://cast.requestradio.in.th:840//stream/3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://cast.requestradio.in.th:840//stream/3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -226,10 +243,11 @@
   {
     "nanoid": "aA8sBLyJoHTmlj",
     "name": "Talay 90.25 FM",
-    "stream_urls": [
-      "https://stream.talay.asia/talay"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://stream.talay.asia/talay"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -237,10 +255,11 @@
   {
     "nanoid": "iDx7m0Ga4XSZWT",
     "name": "Thai Lanna Radio 106.5 FM",
-    "stream_urls": [
-      "https://inter.lannaradio.com/radio/8000/radio.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://inter.lannaradio.com/radio/8000/radio.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -259,10 +278,11 @@
   {
     "nanoid": "J93CWYjTNiGrcO",
     "name": "Voice of Islam (วิทยุเสียงอิสลาม)",
-    "stream_urls": [
-      "https://radio12.plathong.net/7234/;stream.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://radio12.plathong.net/7234/;stream.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -270,10 +290,11 @@
   {
     "nanoid": "dXzFNSoVJsKKXf",
     "name": "Wat Pa Sai Ngam Radio (วัดป่าไทรงาม)",
-    "stream_urls": [
-      "https://radio10.plathong.net/7110/;stream.mp3"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://radio10.plathong.net/7110/;stream.mp3"
+      ]
+    },
     "languages": [
       "tha"
     ]
@@ -281,10 +302,11 @@
   {
     "nanoid": "TiZWzLjbcGSC2q",
     "name": "Wat Sanghathan Radio (สังฆทานธรรม)",
-    "stream_urls": [
-      "https://cdn-th2.livestreaming.in.th/shoutcast/8615"
-    ],
-    "country": "th",
+    "sources": {
+      "streams": [
+        "https://cdn-th2.livestreaming.in.th/shoutcast/8615"
+      ]
+    },
     "languages": [
       "tha"
     ]

@@ -2,10 +2,11 @@
   {
     "nanoid": "qwPX4jxcZZ7vcH",
     "name": "011 Radio",
-    "stream_urls": [
-      "https://sv2.famcast.co.za/stream/011_radio"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://sv2.famcast.co.za/stream/011_radio"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -13,12 +14,13 @@
   {
     "nanoid": "9EzUBMpOO1s7pT",
     "name": "702",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-      "https://25343.live.streamtheworld.com/FM702_SC",
-      "https://28513.live.streamtheworld.com/FM702_SC"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
+        "https://25343.live.streamtheworld.com/FM702_SC",
+        "https://28513.live.streamtheworld.com/FM702_SC"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -26,11 +28,12 @@
   {
     "nanoid": "q5VXjYoxA1vtlT",
     "name": "919",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/112_low.aac",
-      "https://edge.iono.fm/xice/112_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/112_low.aac",
+        "https://edge.iono.fm/xice/112_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -38,12 +41,13 @@
   {
     "nanoid": "DzVh7Rs4WbbB6T",
     "name": "947",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC",
-      "https://27743.live.streamtheworld.com/FM947_SC",
-      "https://28033.live.streamtheworld.com/FM947AAC_SC"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC",
+        "https://27743.live.streamtheworld.com/FM947_SC",
+        "https://28033.live.streamtheworld.com/FM947AAC_SC"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -51,10 +55,11 @@
   {
     "nanoid": "pU6KFnCrAeg6SH",
     "name": "Afrobeat N1 FM",
-    "stream_urls": [
-      "https://streamer.radio.co/s919e54210/listen"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/s919e54210/listen"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -62,11 +67,12 @@
   {
     "nanoid": "UEL4CizobsJz0W",
     "name": "Al-Ansaar Radio",
-    "stream_urls": [
-      "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3",
-      "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3",
+        "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -83,11 +89,12 @@
   {
     "nanoid": "SvxvICXMyYJSBZ",
     "name": "Amapiano FM",
-    "stream_urls": [
-      "https://stream-37.zeno.fm/xs6zeac1ts8uv",
-      "https://stream.zeno.fm/xs6zeac1ts8uv"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://stream-37.zeno.fm/xs6zeac1ts8uv",
+        "https://stream.zeno.fm/xs6zeac1ts8uv"
+      ]
+    },
     "languages": [
       "eng",
       "xho",
@@ -97,10 +104,11 @@
   {
     "nanoid": "ixrf08PKIqM0ti",
     "name": "Bok Radio",
-    "stream_urls": [
-      "https://bokradio.highquality.radiostream.co.za/"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://bokradio.highquality.radiostream.co.za/"
+      ]
+    },
     "languages": [
       "afr"
     ]
@@ -136,12 +144,13 @@
   {
     "nanoid": "cmssuXkPvx4TcG",
     "name": "Cape Talk",
-    "stream_urls": [
-      "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
-      "https://29083.live.streamtheworld.com/CAPE_TALK_SC",
-      "https://25533.live.streamtheworld.com/CAPE_TALK_SC"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://29083.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://25533.live.streamtheworld.com/CAPE_TALK_SC"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -149,10 +158,11 @@
   {
     "nanoid": "ZRuA2OomlhijQM",
     "name": "Capricorn FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/67_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/67_medium.aac"
+      ]
+    },
     "languages": [
       "eng",
       "tso",
@@ -171,10 +181,11 @@
   {
     "nanoid": "i60YifkEJVTuKm",
     "name": "CCFM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/69_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/69_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -209,10 +220,11 @@
   {
     "nanoid": "9YeBLfu77ATefQ",
     "name": "Classic 102.7",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/49_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/49_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -220,10 +232,11 @@
   {
     "nanoid": "wwxkAaROCxZmWQ",
     "name": "Cliff Central",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/cliffcentral_live_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/cliffcentral_live_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -316,10 +329,11 @@
   {
     "nanoid": "aDcIS77cPImCH8",
     "name": "HartiesFM",
-    "stream_urls": [
-      "https://s5.radio.co/s68c6f4028/listen"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/s68c6f4028/listen"
+      ]
+    },
     "languages": [
       "afr",
       "eng"
@@ -328,10 +342,11 @@
   {
     "nanoid": "b2v3cqTE4grPa1",
     "name": "HelderbergFM",
-    "stream_urls": [
-      "https://helderberg.highquality.radiostream.co.za/"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://helderberg.highquality.radiostream.co.za/"
+      ]
+    },
     "languages": [
       "afr",
       "eng"
@@ -349,10 +364,11 @@
   {
     "nanoid": "8llsQz2HHmdPkJ",
     "name": "Hot 91.9 FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/57_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/57_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -378,12 +394,13 @@
   {
     "nanoid": "loFp8BK9q6Ejo3",
     "name": "Jacaranda FM",
-    "stream_urls": [
-      "https://live.jacarandafm.com/jacarandahigh.mp3",
-      "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
-      "https://live.jacarandafm.com/jacarandalow.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://live.jacarandafm.com/jacarandahigh.mp3",
+        "https://edge.iono.fm/xice/jacarandafm_live_high.aac",
+        "https://live.jacarandafm.com/jacarandalow.aac"
+      ]
+    },
     "languages": [
       "eng",
       "afr"
@@ -401,11 +418,12 @@
   {
     "nanoid": "wqjKodsPnJC3Vk",
     "name": "Jozi FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/51_high.aac",
-      "https://edge.iono.fm/xhls/51_high.m3u8"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/51_high.aac",
+        "https://edge.iono.fm/xhls/51_high.m3u8"
+      ]
+    },
     "languages": [
       "eng",
       "sot",
@@ -456,10 +474,11 @@
   {
     "nanoid": "OD44m68emNgkKY",
     "name": "KFM 94.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -467,10 +486,11 @@
   {
     "nanoid": "OElUpn3HUXveVn",
     "name": "Lekker FM 98.3",
-    "stream_urls": [
-      "https://zas3.ndx.co.za:8002/stream"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://zas3.ndx.co.za:8002/stream"
+      ]
+    },
     "languages": [
       "afr"
     ]
@@ -496,10 +516,11 @@
   {
     "nanoid": "9A50SCfu6Aa2mx",
     "name": "Link FM",
-    "stream_urls": [
-      "https://de2.streamingpulse.com/ssl/LinkFM"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://de2.streamingpulse.com/ssl/LinkFM"
+      ]
+    },
     "languages": [
       "eng",
       "xho"
@@ -526,10 +547,11 @@
   {
     "nanoid": "Nw0xkKsnJBO8oG",
     "name": "Megazone Bollywood",
-    "stream_urls": [
-      "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -537,11 +559,13 @@
   {
     "nanoid": "JZtPhJH01I4sDk",
     "name": "Merafong 360 Online Radio",
-    "stream_urls": [
-      "https://sv2.famcast.co.za/stream/merafong"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://sv2.famcast.co.za/stream/merafong"
+      ]
+    },
     "languages": [],
+    "country": "za",
     "isGeoBlocked": false
   },
   {
@@ -557,10 +581,11 @@
   {
     "nanoid": "zoasbQdUlglsJP",
     "name": "MFM 92.6",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/46_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/46_medium.aac"
+      ]
+    },
     "languages": [
       "afr",
       "eng"
@@ -578,10 +603,11 @@
   {
     "nanoid": "g716BP9HpJiSS0",
     "name": "Mix FM 93.8",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/113_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/113_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -625,10 +651,11 @@
   {
     "nanoid": "bevKfdFMrKgg16",
     "name": "NCDOH Radio - The Healthy Sound",
-    "stream_urls": [
-      "https://stream-154.zeno.fm/grjnbwcxbneuv"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://stream-154.zeno.fm/grjnbwcxbneuv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -636,10 +663,11 @@
   {
     "nanoid": "KDIHStPC7PY4cY",
     "name": "OFM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/ofm_live_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/ofm_live_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -647,10 +675,11 @@
   {
     "nanoid": "5n8I2ATUjZQP7R",
     "name": "OFM Extra",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/105_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/105_medium.aac"
+      ]
+    },
     "languages": [
       "afr"
     ]
@@ -658,10 +687,11 @@
   {
     "nanoid": "8u2ZUVLPDPbb26",
     "name": "OFM Live",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/ofm_live_medium.mp3"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/ofm_live_medium.mp3"
+      ]
+    },
     "languages": [
       "afr"
     ]
@@ -669,10 +699,11 @@
   {
     "nanoid": "KkcoRhVq3aAbTg",
     "name": "OFM Stasie 2",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/47_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/47_medium.aac"
+      ]
+    },
     "languages": [
       "afr"
     ]
@@ -725,10 +756,11 @@
   {
     "nanoid": "5mzCcoA7apOAOD",
     "name": "Power 98.7",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/65_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/65_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -736,10 +768,11 @@
   {
     "nanoid": "TTWukhSzYTN4z6",
     "name": "Pretoria FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/362_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/362_medium.aac"
+      ]
+    },
     "languages": [
       "afr"
     ]
@@ -765,10 +798,11 @@
   {
     "nanoid": "bqcnmwMzyTIRK3",
     "name": "Radio Hallelujah",
-    "stream_urls": [
-      "https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://vm65162.streamerr.co/listen/radio_hallelujah_/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -796,13 +830,15 @@
   {
     "nanoid": "G8iMsXcdgeFqDL",
     "name": "Radio Namakwaland 93.4 FM",
-    "stream_urls": [
-      "https://zas3.ndx.co.za:8034/stream"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://zas3.ndx.co.za:8034/stream"
+      ]
+    },
     "languages": [
       "afr"
     ],
+    "country": "za",
     "isGeoBlocked": false
   },
   {
@@ -826,10 +862,11 @@
   {
     "nanoid": "q2fPPJS7eByvWv",
     "name": "Radio Saranghae",
-    "stream_urls": [
-      "https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://vm65162.streamerr.co/listen/radiosaranghae/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -846,10 +883,11 @@
   {
     "nanoid": "jwJVQSSCbxtfek",
     "name": "Radio Today",
-    "stream_urls": [
-      "https://rt1485.out.airtime.pro/rt1485_b"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://rt1485.out.airtime.pro/rt1485_b"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -911,10 +949,11 @@
   {
     "nanoid": "yEnwET2L2zcmZa",
     "name": "Rainbow FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/237_low.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/237_low.aac"
+      ]
+    },
     "languages": [
       "afr",
       "eng"
@@ -941,10 +980,11 @@
   {
     "nanoid": "gQGV9et3WbhEFG",
     "name": "Rosestad 100.6FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/122_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/122_medium.aac"
+      ]
+    },
     "languages": [
       "afr"
     ]
@@ -961,10 +1001,11 @@
   {
     "nanoid": "UTr2NQuYkDDYMT",
     "name": "Salaamedia",
-    "stream_urls": [
-      "https://iceant.antfarm.co.za/Salaam"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://iceant.antfarm.co.za/Salaam"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -972,10 +1013,11 @@
   {
     "nanoid": "bH6wVVsQdUrjyn",
     "name": "Simply Making Success Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/ylvoyhv6tbntv"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ylvoyhv6tbntv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -983,10 +1025,11 @@
   {
     "nanoid": "lGlnnwzEAeUHAQ",
     "name": "Smile 90.4 FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/212_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/212_medium.aac"
+      ]
+    },
     "languages": [
       "afr",
       "eng"
@@ -1050,10 +1093,11 @@
   {
     "nanoid": "wHOKaVAlPf0b8k",
     "name": "Tuks FM",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/tuksfm_live_medium.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/tuksfm_live_medium.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1061,10 +1105,11 @@
   {
     "nanoid": "YnfLHG5nEaeysO",
     "name": "UbuntuFM",
-    "stream_urls": [
-      "https://streaming.coollective.nl:8443/UbuntuFM"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://streaming.coollective.nl:8443/UbuntuFM"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -1081,10 +1126,11 @@
   {
     "nanoid": "koENG4uGsqQxmY",
     "name": "Ukhozi FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC"
+      ]
+    },
     "languages": [
       "zul"
     ]
@@ -1101,10 +1147,11 @@
   {
     "nanoid": "n7cyTeponAaJPa",
     "name": "Umhlobo Wenene FM",
-    "stream_urls": [
-      "https://28993.live.streamtheworld.com/UMHLOBOWENENEAAC.aac"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://28993.live.streamtheworld.com/UMHLOBOWENENEAAC.aac"
+      ]
+    },
     "languages": [
       "xho"
     ]
@@ -1121,10 +1168,11 @@
   {
     "nanoid": "nstxlH87CnAj5g",
     "name": "Vault Radio 404",
-    "stream_urls": [
-      "https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3"
-    ],
-    "country": "za",
+    "sources": {
+      "streams": [
+        "https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]

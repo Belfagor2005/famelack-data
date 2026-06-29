@@ -2,10 +2,11 @@
   {
     "nanoid": "12u2jEAEmz9dyj",
     "name": "Ariana FM 93.5",
-    "stream_urls": [
-      "https://streams.radio.co/sa3345aaa8/listen"
-    ],
-    "country": "af",
+    "sources": {
+      "streams": [
+        "https://streams.radio.co/sa3345aaa8/listen"
+      ]
+    },
     "languages": [
       "pus",
       "fas"
@@ -23,10 +24,11 @@
   {
     "nanoid": "YPW3DFNxwXFFJ3",
     "name": "Radio Jawanan",
-    "stream_urls": [
-      "https://s3.radio.co/s3a13a855f/listen"
-    ],
-    "country": "af",
+    "sources": {
+      "streams": [
+        "https://s3.radio.co/s3a13a855f/listen"
+      ]
+    },
     "languages": [
       "fas"
     ]
@@ -34,10 +36,11 @@
   {
     "nanoid": "oCPQWKF2JrrktA",
     "name": "Radio Srood",
-    "stream_urls": [
-      "https://stream.radiosrood.com/"
-    ],
-    "country": "af",
+    "sources": {
+      "streams": [
+        "https://stream.radiosrood.com/"
+      ]
+    },
     "languages": [
       "pus",
       "fas"

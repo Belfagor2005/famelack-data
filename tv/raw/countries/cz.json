@@ -1,11 +1,26 @@
 [
   {
+    "nanoid": "4DOfz9kyXADZca",
+    "name": "Barrandov Krimi",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BIDI8yaoxL4vBI",
     "name": "CT24",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -19,7 +34,17 @@
       "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
       "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
     ],
-    "youtube_urls": [],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dlaiKc65INz3dz",
+    "name": "Golf Channel",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -42,10 +67,11 @@
   {
     "nanoid": "Msa0rkk2Ovcz6v",
     "name": "Jihoceska televize",
-    "stream_urls": [
-      "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -55,10 +81,11 @@
   {
     "nanoid": "uoQs1GLoP77edf",
     "name": "Mnau TV",
-    "stream_urls": [
-      "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -72,7 +99,17 @@
       "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
       "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SJbVScMCHBZala",
+    "name": "Ocko Black",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -82,10 +119,11 @@
   {
     "nanoid": "qZ8UlvNha5FQaM",
     "name": "Ocko Expres",
-    "stream_urls": [
-      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -95,10 +133,11 @@
   {
     "nanoid": "Gx4G2UXYb5Pmbf",
     "name": "Ocko Gold",
-    "stream_urls": [
-      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -121,10 +160,11 @@
   {
     "nanoid": "IT22OI7L0wA3hQ",
     "name": "Plzen TV",
-    "stream_urls": [
-      "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -148,10 +188,40 @@
   {
     "nanoid": "B1D7ROeH3iyq1i",
     "name": "Polar2",
-    "stream_urls": [
-      "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8"
+    "sources": {
+      "streams": [
+        "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
     ],
-    "youtube_urls": [],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2MBpmC0kG7TZ8G",
+    "name": "Retro Music TV",
+    "sources": {
+      "streams": [
+        "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Xo18ZDfnL00kD5",
+    "name": "Sporty TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/sporty_tv/index.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -175,10 +245,11 @@
   {
     "nanoid": "vlo5ng6qbMlI3x",
     "name": "Televize FILMpro",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qowVBqGn2jE"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qowVBqGn2jE"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -188,10 +259,11 @@
   {
     "nanoid": "fTApFWHNaUxcOH",
     "name": "TV Brno 1",
-    "stream_urls": [
-      "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -199,12 +271,41 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iIeqZQ118HX5Yv",
+    "name": "TV Noe",
+    "sources": {
+      "streams": [
+        "https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "orPrNtTvaMAEds",
+    "name": "TV Noe+",
+    "sources": {
+      "streams": [
+        "https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "cWzKFLiigGaQzp",
     "name": "UTV",
-    "stream_urls": [
-      "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],
@@ -214,10 +315,11 @@
   {
     "nanoid": "NTuQpCvDO7jZXl",
     "name": "Vychodoceska TV",
-    "stream_urls": [
-      "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ces"
     ],

@@ -2,10 +2,11 @@
   {
     "nanoid": "y1xebru7jddjfR",
     "name": "Alfa Radio 107.9 FM",
-    "stream_urls": [
-      "https://stream.sb.by/alpha"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream.sb.by/alpha"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -13,11 +14,12 @@
   {
     "nanoid": "GNAcsjmajHVMWC",
     "name": "Aplus.FM Relax",
-    "stream_urls": [
-      "https://s.aplus.fm/aplus_relax_64",
-      "https://s.aplus.fm/aplus_relax_128"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://s.aplus.fm/aplus_relax_64",
+        "https://s.aplus.fm/aplus_relax_128"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -25,10 +27,11 @@
   {
     "nanoid": "83rlNyj2FCdYqC",
     "name": "Capital XTRA National",
-    "stream_urls": [
-      "https://ice-the.musicradio.com/CapitalXTRANationalMP3"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://ice-the.musicradio.com/CapitalXTRANationalMP3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -36,10 +39,11 @@
   {
     "nanoid": "rDQGLwVcrwJRoL",
     "name": "Disco SSSR",
-    "stream_urls": [
-      "https://pub0202.101.ru:8443/stream/pro/aac/64/144"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://pub0202.101.ru:8443/stream/pro/aac/64/144"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -47,10 +51,11 @@
   {
     "nanoid": "PBbfhLD8cXhQwY",
     "name": "Hype FM",
-    "stream_urls": [
-      "https://hfm.amgradio.ru/HypeFM"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://hfm.amgradio.ru/HypeFM"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -58,11 +63,12 @@
   {
     "nanoid": "JMLRGA0sxBkNwW",
     "name": "Love Is Radio",
-    "stream_urls": [
-      "https://listen1.myradio24.com/3355",
-      "https://myradio24.org/3355"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://listen1.myradio24.com/3355",
+        "https://myradio24.org/3355"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -81,10 +87,11 @@
   {
     "nanoid": "X0f866TQoOV5FQ",
     "name": "Radio Monte Carlo Lounge",
-    "stream_urls": [
-      "https://strw3.openstream.co/344"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://strw3.openstream.co/344"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -114,10 +121,11 @@
   {
     "nanoid": "S0CLLONLwn4vEA",
     "name": "Zefir FM",
-    "stream_urls": [
-      "https://stream2.datacenter.by/zefirfm"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/zefirfm"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -136,10 +144,11 @@
   {
     "nanoid": "dvtjJcv8sylKyr",
     "name": "БР Радиус FM",
-    "stream_urls": [
-      "https://stream2.datacenter.by/radiusfm_main"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/radiusfm_main"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -147,10 +156,11 @@
   {
     "nanoid": "Z4GszbMX5bAkEI",
     "name": "Душевное Радио",
-    "stream_urls": [
-      "https://stream2.datacenter.by/dushevnoe"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/dushevnoe"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -181,10 +191,11 @@
   {
     "nanoid": "GYwYKo48h2ypuh",
     "name": "Лидер FM 94.3",
-    "stream_urls": [
-      "https://icecast.lider-fm.by/liderfm"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://icecast.lider-fm.by/liderfm"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -192,10 +203,11 @@
   {
     "nanoid": "zfcKiGk7vJcyqE",
     "name": "Минская волна",
-    "stream_urls": [
-      "https://stream2.datacenter.by/mvradio"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/mvradio"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -247,10 +259,11 @@
   {
     "nanoid": "Gr8WJKBqZEmxjh",
     "name": "Открытое Слово",
-    "stream_urls": [
-      "https://rt.radioslovo.net:4395/radio"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://rt.radioslovo.net:4395/radio"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -258,10 +271,11 @@
   {
     "nanoid": "luX1zkyhW9P9Hs",
     "name": "Открытое Слово Авто Радио",
-    "stream_urls": [
-      "https://rt.radioslovo.net:4145/stream"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://rt.radioslovo.net:4145/stream"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -269,10 +283,11 @@
   {
     "nanoid": "2gT63C7DD7Wsa0",
     "name": "Открытое Слово Братские встречи",
-    "stream_urls": [
-      "https://rt.radioslovo.net:4135/stream"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://rt.radioslovo.net:4135/stream"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -280,10 +295,11 @@
   {
     "nanoid": "6HR38k0f3kYBqS",
     "name": "Открытое Слово Инструментальная музыка",
-    "stream_urls": [
-      "https://rt.radioslovo.net:4275/stream"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://rt.radioslovo.net:4275/stream"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -291,10 +307,11 @@
   {
     "nanoid": "yD8N817DOmfwdK",
     "name": "Радио Брест",
-    "stream_urls": [
-      "https://stream2.datacenter.by/trkbrest"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/trkbrest"
+      ]
+    },
     "languages": [
       "bel",
       "rus"
@@ -303,10 +320,11 @@
   {
     "nanoid": "kvehuLKWyGnqpH",
     "name": "Радио Витебск",
-    "stream_urls": [
-      "https://stream2.datacenter.by/vtvby"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/vtvby"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -325,22 +343,25 @@
   {
     "nanoid": "jSISsCfjXEct60",
     "name": "Радио Город FM",
-    "stream_urls": [
-      "https://stream2.datacenter.by/GorodFM"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/GorodFM"
+      ]
+    },
     "languages": [
       "rus"
     ],
+    "country": "by",
     "isGeoBlocked": false
   },
   {
     "nanoid": "bA8pgvJ6JNC9gq",
     "name": "Радио Минск",
-    "stream_urls": [
-      "https://radio.mk.by:8443/radiominsk"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://radio.mk.by:8443/radiominsk"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -348,10 +369,11 @@
   {
     "nanoid": "pEqQw91pYdM6HS",
     "name": "Радио Могилёв",
-    "stream_urls": [
-      "https://stream2.datacenter.by/tvrmogilev"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/tvrmogilev"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -359,10 +381,11 @@
   {
     "nanoid": "6wb7ZpKTzx53SO",
     "name": "Радио Победа",
-    "stream_urls": [
-      "https://stream.sb.by/den_pobedy"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream.sb.by/den_pobedy"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -382,10 +405,11 @@
   {
     "nanoid": "NNQH2xObH5QDz0",
     "name": "Радыё Свабода",
-    "stream_urls": [
-      "https://n07.radiojar.com/zv9u3eapn3quv"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://n07.radiojar.com/zv9u3eapn3quv"
+      ]
+    },
     "languages": [
       "bel"
     ]
@@ -393,10 +417,11 @@
   {
     "nanoid": "IhWFTUIUYM6aLu",
     "name": "Радыё Сталiца",
-    "stream_urls": [
-      "https://media2.datacenter.by/stream/stalica/stream"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://media2.datacenter.by/stream/stalica/stream"
+      ]
+    },
     "languages": [
       "bel"
     ]
@@ -426,10 +451,11 @@
   {
     "nanoid": "QYdgdQGjd3bbRK",
     "name": "Супер ФМ",
-    "stream_urls": [
-      "https://stream2.datacenter.by/sfm"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/sfm"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -440,18 +466,21 @@
     "stream_urls": [
       "https://stream2.datacenter.by/stream"
     ],
+    "country": "by",
     "isGeoBlocked": false
   },
   {
     "nanoid": "e8WllBVxUX2GD3",
     "name": "Центр FM",
-    "stream_urls": [
-      "https://stream2.datacenter.by/stream"
-    ],
-    "country": "by",
+    "sources": {
+      "streams": [
+        "https://stream2.datacenter.by/stream"
+      ]
+    },
     "languages": [
       "rus"
     ],
+    "country": "by",
     "isGeoBlocked": false
   }
 ]

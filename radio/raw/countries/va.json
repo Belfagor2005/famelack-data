@@ -2,10 +2,11 @@
   {
     "nanoid": "WbMXtXEVAStxsS",
     "name": "Radio Vaticana Italia",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-it"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-it"
+      ]
+    },
     "languages": [
       "ita",
       "lat"
@@ -14,10 +15,11 @@
   {
     "nanoid": "uIHtH5M1oUafD7",
     "name": "Radio Vaticana Polska",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-pl"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-pl"
+      ]
+    },
     "languages": [
       "lat",
       "pol"
@@ -26,10 +28,11 @@
   {
     "nanoid": "edboDOcH11Vh0z",
     "name": "Vatican News - Belarusian",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-be"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-be"
+      ]
+    },
     "languages": [
       "bel",
       "lat"
@@ -38,10 +41,11 @@
   {
     "nanoid": "foptyylZB03qdI",
     "name": "Vatican News - Bulgarian",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-bg"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-bg"
+      ]
+    },
     "languages": [
       "bul",
       "lat"
@@ -50,10 +54,11 @@
   {
     "nanoid": "DYMgh8wiko9ZtL",
     "name": "Vatican News - Deutsch",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-de"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-de"
+      ]
+    },
     "languages": [
       "deu",
       "lat"
@@ -62,10 +67,11 @@
   {
     "nanoid": "sFXnmwKS339b8k",
     "name": "Vatican News - English",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-en"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-en"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -73,10 +79,11 @@
   {
     "nanoid": "BFLOncGJCxQUlg",
     "name": "Vatican News - Español",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-es"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-es"
+      ]
+    },
     "languages": [
       "spa"
     ]
@@ -84,10 +91,11 @@
   {
     "nanoid": "19w6wTmnsyffiE",
     "name": "Vatican News - Hrvatski",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-hr"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-hr"
+      ]
+    },
     "languages": [
       "hrv",
       "lat"
@@ -96,10 +104,11 @@
   {
     "nanoid": "vXyyMapbsJAta7",
     "name": "Vatican News - Português",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-pt"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-pt"
+      ]
+    },
     "languages": [
       "por",
       "lat"
@@ -108,10 +117,11 @@
   {
     "nanoid": "jlevgtUPw5Ox3d",
     "name": "Vatican News - Română",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-ro"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-ro"
+      ]
+    },
     "languages": [
       "lat",
       "ron"
@@ -120,10 +130,11 @@
   {
     "nanoid": "wtXzrcItqOjal5",
     "name": "Vatican News - Slovenčina",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-sk"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-sk"
+      ]
+    },
     "languages": [
       "lat",
       "slk"
@@ -132,10 +143,11 @@
   {
     "nanoid": "qW41462LEXeTPJ",
     "name": "Vatican News - Slovenščina",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-sl"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-sl"
+      ]
+    },
     "languages": [
       "lat",
       "slv"
@@ -156,10 +168,11 @@
   {
     "nanoid": "Jex1VDawDmX9cU",
     "name": "Vatican News - Українська",
-    "stream_urls": [
-      "https://radio.vaticannews.va/stream-uk"
-    ],
-    "country": "va",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-uk"
+      ]
+    },
     "languages": [
       "lat",
       "ukr"

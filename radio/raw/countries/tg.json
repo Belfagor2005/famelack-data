@@ -2,10 +2,11 @@
   {
     "nanoid": "2vxKCS16kcnnlw",
     "name": "Light Radio 93.9 FM",
-    "stream_urls": [
-      "https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3"
-    ],
-    "country": "tg",
+    "sources": {
+      "streams": [
+        "https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "0QzYDxWPlgQHaC",
     "name": "Radio Kara",
-    "stream_urls": [
-      "https://stream-153.zeno.fm/2bsx1sxr2vduv"
-    ],
-    "country": "tg",
+    "sources": {
+      "streams": [
+        "https://stream-153.zeno.fm/2bsx1sxr2vduv"
+      ]
+    },
     "languages": [
       "tgk",
       "fra"
@@ -25,10 +27,11 @@
   {
     "nanoid": "V6cNgi20xTWeeW",
     "name": "Radio Victoire 96.3 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/vkhv6gl43g5tv"
-    ],
-    "country": "tg",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/vkhv6gl43g5tv"
+      ]
+    },
     "languages": [
       "fra",
       "tgk"

@@ -2,10 +2,11 @@
   {
     "nanoid": "BZ9ohjnwvpwyuR",
     "name": "Cosmos TV",
-    "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -28,10 +29,11 @@
   {
     "nanoid": "XyJbjiw5j7Ws7W",
     "name": "Ilm va Tabiat",
-    "stream_urls": [
-      "https://live.teleradiocom.tj/15/3m.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.teleradiocom.tj/15/3m.m3u8"
+      ]
+    },
     "languages": [
       "tgk"
     ],
@@ -58,10 +60,11 @@
   {
     "nanoid": "vGCm6ufhO0hHv0",
     "name": "MediBizTV",
-    "stream_urls": [
-      "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -71,10 +74,11 @@
   {
     "nanoid": "uPBnVmprz4lcyz",
     "name": "NASA: ISS",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/uwXgcTc8oY8"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uwXgcTc8oY8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -84,10 +88,11 @@
   {
     "nanoid": "9Lv6gyQaWTeTvh",
     "name": "NASA: ISS HD",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FuuC4dpSQ1M"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FuuC4dpSQ1M"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -95,12 +100,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "enEltbXjves4CL",
+    "name": "Pervyy Kosmicheskiy",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PsC2Ff8IrDt4Uv",
     "name": "Su_Root: Earthquake Monitoring",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/807VbMfWjN4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/o9qwtM1wZDw"
+      ]
+    },
     "languages": [
       "jpn"
     ],
@@ -108,13 +128,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kSVtvJkU0QM7ee",
+    "name": "TEC TV",
+    "sources": {
+      "streams": [
+        "https://edgectc.com/TEC_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JLRlLiosJOhAzH",
     "name": "UMSA TVU Internacional",
-    "stream_urls": [
-      "https://edge.enhdtv.com/8026/index.m3u8",
-      "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge.enhdtv.com/8026/index.m3u8",
+        "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

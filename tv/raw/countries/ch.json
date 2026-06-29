@@ -2,10 +2,11 @@
   {
     "nanoid": "2vVci7MeIBudgn",
     "name": "Canal Alpha Jura",
-    "stream_urls": [
-      "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "EDuoxij0nldVBm",
     "name": "Canal Alpha Neuchatel",
-    "stream_urls": [
-      "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "fjYriRacd46Tsw",
     "name": "Carac 1",
-    "stream_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -69,10 +72,11 @@
   {
     "nanoid": "trjWtKrUtelzEV",
     "name": "Carac 4",
-    "stream_urls": [
-      "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -82,10 +86,11 @@
   {
     "nanoid": "Ii3WUTM9GvbeCB",
     "name": "Die Neue Zeit TV",
-    "stream_urls": [
-      "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -108,10 +113,11 @@
   {
     "nanoid": "y9fcNWUvgSqvX9",
     "name": "Immaculata TV",
-    "stream_urls": [
-      "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -121,10 +127,11 @@
   {
     "nanoid": "u5IA5Y47IoddiC",
     "name": "Max TV",
-    "stream_urls": [
-      "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
+      ]
+    },
     "languages": [
       "fra"
     ],
@@ -134,10 +141,11 @@
   {
     "nanoid": "dL9dqEvKPfjTXy",
     "name": "QS24.tv",
-    "stream_urls": [
-      "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -147,10 +155,11 @@
   {
     "nanoid": "mb7i550xYVEaod",
     "name": "Radio 3i",
-    "stream_urls": [
-      "https://vstream-cdn.ch/hls/radio3i.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vstream-cdn.ch/hls/radio3i.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -160,10 +169,11 @@
   {
     "nanoid": "Xd3CFrHmzj9MdH",
     "name": "RADIO DISCOunt TV",
-    "stream_urls": [
-      "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],
@@ -186,10 +196,11 @@
   {
     "nanoid": "48RqSkShlJpBo8",
     "name": "RTV Pendimi",
-    "stream_urls": [
-      "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8"
+      ]
+    },
     "languages": [
       "sqi"
     ],
@@ -199,10 +210,11 @@
   {
     "nanoid": "aI8CAI6ZaAK6J4",
     "name": "Sivan TV",
-    "stream_urls": [
-      "https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8"
+      ]
+    },
     "languages": [
       "tam"
     ],
@@ -212,10 +224,11 @@
   {
     "nanoid": "OeC5ZVzNRndtBe",
     "name": "TeleTicino",
-    "stream_urls": [
-      "https://vstream-cdn.ch/hls/teleticino.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vstream-cdn.ch/hls/teleticino.m3u8"
+      ]
+    },
     "languages": [
       "ita"
     ],

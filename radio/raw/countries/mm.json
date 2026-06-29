@@ -14,10 +14,11 @@
   {
     "nanoid": "nu7Cc1W4gsgDxx",
     "name": "DWG Radio",
-    "stream_urls": [
-      "https://server32349.streamplus.de/;"
-    ],
-    "country": "mm",
+    "sources": {
+      "streams": [
+        "https://server32349.streamplus.de/;"
+      ]
+    },
     "languages": [
       "mya"
     ]
@@ -25,10 +26,11 @@
   {
     "nanoid": "FQdAs9EBtGBwJ3",
     "name": "Mandalay FM",
-    "stream_urls": [
-      "https://edge.mixlr.com/channel/nmtev"
-    ],
-    "country": "mm",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/nmtev"
+      ]
+    },
     "languages": [
       "mya"
     ]
@@ -36,10 +38,11 @@
   {
     "nanoid": "xEwGMWZEk2Drcn",
     "name": "Padamyar FM",
-    "stream_urls": [
-      "https://stream-153.zeno.fm/og9btsnj00tuv"
-    ],
-    "country": "mm",
+    "sources": {
+      "streams": [
+        "https://stream-153.zeno.fm/og9btsnj00tuv"
+      ]
+    },
     "languages": [
       "mya"
     ]

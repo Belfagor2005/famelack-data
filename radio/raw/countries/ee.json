@@ -13,10 +13,11 @@
   {
     "nanoid": "tYBYocapbIXXZ5",
     "name": "Duo Country",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -24,10 +25,11 @@
   {
     "nanoid": "P3u1QEQEymkvyq",
     "name": "Duo Gold",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -35,10 +37,11 @@
   {
     "nanoid": "QwUSjcft0bR3De",
     "name": "Duo Greatest Hits",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac"
+      ]
+    },
     "languages": [
       "eng",
       "est"
@@ -47,10 +50,11 @@
   {
     "nanoid": "oM7nDZqE2S5hJX",
     "name": "Duo Party",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -58,10 +62,11 @@
   {
     "nanoid": "BiaRa8qNiPVSjB",
     "name": "Duo Rock",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -69,10 +74,11 @@
   {
     "nanoid": "xcGmAvDphRw1BU",
     "name": "Elmari Tantsuõhtu",
-    "stream_urls": [
-      "https://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -80,22 +86,25 @@
   {
     "nanoid": "wKKIFs1nn8gof8",
     "name": "Estonian Party Radio",
-    "stream_urls": [
-      "https://maggie.torontocast.com:8110/stream"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://maggie.torontocast.com:8110/stream"
+      ]
+    },
     "languages": [
       "est"
     ],
+    "country": "ee",
     "isGeoBlocked": false
   },
   {
     "nanoid": "2egTo3FnGYe7DJ",
     "name": "Finest Radio",
-    "stream_urls": [
-      "https://shoutcast.finestfm.fi/stream/1/:80/;stream"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://shoutcast.finestfm.fi/stream/1/:80/;stream"
+      ]
+    },
     "languages": [
       "est",
       "fin"
@@ -104,10 +113,11 @@
   {
     "nanoid": "brgACYIJILQKtc",
     "name": "HitMix Estonia",
-    "stream_urls": [
-      "https://stream.hitmix.ee:8443/HIT_320"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.hitmix.ee:8443/HIT_320"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -115,10 +125,11 @@
   {
     "nanoid": "LSTl6TD6P61teS",
     "name": "Hits Radio Estonia",
-    "stream_urls": [
-      "https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -126,10 +137,11 @@
   {
     "nanoid": "tnNBlTdTKreVue",
     "name": "Hits Show Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/7sreyeyustkuv"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7sreyeyustkuv"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -137,10 +149,11 @@
   {
     "nanoid": "jj1xXIBtlNVKUO",
     "name": "IDA Radio",
-    "stream_urls": [
-      "https://broadcast.idaidaida.net:8000/stream"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://broadcast.idaidaida.net:8000/stream"
+      ]
+    },
     "languages": [
       "eng",
       "est"
@@ -161,10 +174,11 @@
   {
     "nanoid": "sDFtxeQHTWFC2K",
     "name": "Kiss FM Eurovision",
-    "stream_urls": [
-      "https://stream.skymedia.ee/live/KissEurovisioon"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.skymedia.ee/live/KissEurovisioon"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -172,10 +186,11 @@
   {
     "nanoid": "syPId6MiWTTNKh",
     "name": "Kiss FM Pride",
-    "stream_urls": [
-      "https://stream.skymedia.ee/live/KissPride"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.skymedia.ee/live/KissPride"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -183,10 +198,11 @@
   {
     "nanoid": "pVYxdj3ByWtvPP",
     "name": "KlaRa Jazz",
-    "stream_urls": [
-      "https://icecast.err.ee/klarajazz.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/klarajazz.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -194,10 +210,11 @@
   {
     "nanoid": "lSx2Mzb6a5xVDS",
     "name": "KlaRa Klassika",
-    "stream_urls": [
-      "https://icecast.err.ee/klaraklassika.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/klaraklassika.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -205,10 +222,11 @@
   {
     "nanoid": "knxiGtF9tO2WLJ",
     "name": "KlaRa Nostalgia",
-    "stream_urls": [
-      "https://icecast.err.ee/klaranostalgia.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/klaranostalgia.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -216,10 +234,11 @@
   {
     "nanoid": "zKEDkXzy8kR9vc",
     "name": "Klassikaraadio",
-    "stream_urls": [
-      "https://icecast.err.ee/klassikaraadio.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/klassikaraadio.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -227,11 +246,12 @@
   {
     "nanoid": "9yNJzLN1vWLUft",
     "name": "Legendaarne Raadio",
-    "stream_urls": [
-      "https://edge01.cdn.bitflip.ee:8888/Legendaarne",
-      "https://stream.skymedia.ee/live/Legendaarne"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge01.cdn.bitflip.ee:8888/Legendaarne",
+        "https://stream.skymedia.ee/live/Legendaarne"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -239,10 +259,11 @@
   {
     "nanoid": "utg2a6C1xhdEAL",
     "name": "MyHits",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -250,10 +271,11 @@
   {
     "nanoid": "Ol3nYEtsP3nYyf",
     "name": "NRJ",
-    "stream_urls": [
-      "https://edge01.cdn.bitflip.ee:8888/NRJ"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge01.cdn.bitflip.ee:8888/NRJ"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -261,10 +283,11 @@
   {
     "nanoid": "rUrfYvm3fk9LhZ",
     "name": "NRJ Tallinn",
-    "stream_urls": [
-      "https://edge03.cdn.bitflip.ee:8888/NRJ"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge03.cdn.bitflip.ee:8888/NRJ"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -272,22 +295,25 @@
   {
     "nanoid": "dQDSakdQqecGiH",
     "name": "Power Hit Radio",
-    "stream_urls": [
-      "https://ice.leviracloud.eu/phr96-aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://ice.leviracloud.eu/phr96-aac"
+      ]
+    },
     "languages": [
       "est"
     ],
+    "country": "ee",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4ZuWax682KriD7",
     "name": "R2 Altpop",
-    "stream_urls": [
-      "https://icecast.err.ee/r2alternatiiv.opus"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/r2alternatiiv.opus"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -295,10 +321,11 @@
   {
     "nanoid": "Sla5XGWJzViS2v",
     "name": "R2 Chill",
-    "stream_urls": [
-      "https://icecast.err.ee/r2chill.opus"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/r2chill.opus"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -306,10 +333,11 @@
   {
     "nanoid": "lk6Knq9SlIsYAu",
     "name": "R2 Eesti",
-    "stream_urls": [
-      "https://icecast.err.ee/r2eestikorge.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/r2eestikorge.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -317,10 +345,11 @@
   {
     "nanoid": "1NfjUmiRivwv2A",
     "name": "R2 Pop",
-    "stream_urls": [
-      "https://icecast.err.ee/r2pop.opus"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/r2pop.opus"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -328,10 +357,11 @@
   {
     "nanoid": "bNwJHxrarDwv9v",
     "name": "R2 Rock",
-    "stream_urls": [
-      "https://icecast.err.ee/r2rock.opus"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/r2rock.opus"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -339,10 +369,11 @@
   {
     "nanoid": "Yw54ujkoMbA7N8",
     "name": "R2p",
-    "stream_urls": [
-      "https://icecast.err.ee/r2p.opus"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/r2p.opus"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -350,11 +381,12 @@
   {
     "nanoid": "Ddh8NNpVheutXr",
     "name": "Raadio 2",
-    "stream_urls": [
-      "https://icecast.err.ee/raadio2.mp3",
-      "https://icecast.err.ee/raadio2korge.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/raadio2.mp3",
+        "https://icecast.err.ee/raadio2korge.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -362,10 +394,11 @@
   {
     "nanoid": "iLzEjN5wrP9NC2",
     "name": "Raadio 4",
-    "stream_urls": [
-      "https://icecast.err.ee/raadio4.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/raadio4.mp3"
+      ]
+    },
     "languages": [
       "est",
       "rus"
@@ -374,10 +407,11 @@
   {
     "nanoid": "k95hKPa4OOrdK8",
     "name": "Raadio 7",
-    "stream_urls": [
-      "https://edge05.cdn.bitflip.ee:8888/R7"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge05.cdn.bitflip.ee:8888/R7"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -385,10 +419,11 @@
   {
     "nanoid": "Nk1e2jJuocCm5Z",
     "name": "Raadio Duo",
-    "stream_urls": [
-      "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -396,10 +431,11 @@
   {
     "nanoid": "xVJ0iKIPS32M2H",
     "name": "Raadio Elmar",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -407,10 +443,11 @@
   {
     "nanoid": "6Zv1dZeGPcwZke",
     "name": "Raadio Kadi",
-    "stream_urls": [
-      "https://edge06.cdn.bitflip.ee:8888/kadi"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge06.cdn.bitflip.ee:8888/kadi"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -418,10 +455,11 @@
   {
     "nanoid": "s8US1KTq9YcQxv",
     "name": "Raadio Kidzone",
-    "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -441,10 +479,11 @@
   {
     "nanoid": "BMBAo8wca8ycEz",
     "name": "Raadio Tallinn",
-    "stream_urls": [
-      "https://icecast.err.ee/raadiotallinn.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/raadiotallinn.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -452,10 +491,11 @@
   {
     "nanoid": "AobFewmDDqjgjw",
     "name": "Radio Azathoth Revival",
-    "stream_urls": [
-      "https://cast4.asurahosting.com/proxy/aadu/stream"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://cast4.asurahosting.com/proxy/aadu/stream"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -463,10 +503,11 @@
   {
     "nanoid": "K5HupnuPnptWba",
     "name": "Radio HappyU",
-    "stream_urls": [
-      "https://radio.streemlion.com:2525/stream"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://radio.streemlion.com:2525/stream"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -474,10 +515,11 @@
   {
     "nanoid": "PkWQM77NQjvENH",
     "name": "Radio Nostalgia",
-    "stream_urls": [
-      "https://c16.radioboss.fm:8327/stream"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://c16.radioboss.fm:8327/stream"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -485,10 +527,11 @@
   {
     "nanoid": "cwNtljXt0smGCn",
     "name": "Relax Cafe",
-    "stream_urls": [
-      "https://stream.relaxfm.ee/cafe"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.relaxfm.ee/cafe"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -496,10 +539,11 @@
   {
     "nanoid": "lOhmVbe4LZs40S",
     "name": "Relax FM",
-    "stream_urls": [
-      "https://stream.relaxfm.ee/relax"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.relaxfm.ee/relax"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -507,10 +551,11 @@
   {
     "nanoid": "FLvYvNIgO2t0fx",
     "name": "Relax International",
-    "stream_urls": [
-      "https://stream.relaxfm.ee/international"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.relaxfm.ee/international"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -518,11 +563,12 @@
   {
     "nanoid": "8XyrSjyGBQNyYp",
     "name": "Retro FM",
-    "stream_urls": [
-      "https://edge02.cdn.bitflip.ee:8888/RETRO",
-      "https://stream.skymedia.ee/live/RETRO_AAC"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge02.cdn.bitflip.ee:8888/RETRO",
+        "https://stream.skymedia.ee/live/RETRO_AAC"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -530,10 +576,11 @@
   {
     "nanoid": "8MQS2ylYFIDFxU",
     "name": "Retro Love",
-    "stream_urls": [
-      "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud"
+      ]
+    },
     "languages": [
       "eng",
       "est"
@@ -554,10 +601,11 @@
   {
     "nanoid": "a4Wzqyf93hj4U3",
     "name": "Rock FM",
-    "stream_urls": [
-      "https://edge02.cdn.bitflip.ee:8888/rck"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge02.cdn.bitflip.ee:8888/rck"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -565,10 +613,11 @@
   {
     "nanoid": "1Cb8o9qGVpZ5QD",
     "name": "Rock FM Metal",
-    "stream_urls": [
-      "https://edge04.cdn.bitflip.ee:8888/rckmetal"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge04.cdn.bitflip.ee:8888/rckmetal"
+      ]
+    },
     "languages": [
       "eng",
       "est"
@@ -577,10 +626,11 @@
   {
     "nanoid": "KRBmaznSxNDKPd",
     "name": "Ruut FM",
-    "stream_urls": [
-      "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -600,11 +650,12 @@
   {
     "nanoid": "JopG1HRJdbAhuk",
     "name": "Sky Plus D'N'B",
-    "stream_urls": [
-      "https://edge01.cdn.bitflip.ee:8888/NRJdnb",
-      "https://edge03.cdn.bitflip.ee:8888/NRJdnb"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://edge01.cdn.bitflip.ee:8888/NRJdnb",
+        "https://edge03.cdn.bitflip.ee:8888/NRJdnb"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -612,10 +663,11 @@
   {
     "nanoid": "ThxGIo5EOwkZvR",
     "name": "Sky Radio",
-    "stream_urls": [
-      "https://stream.skymedia.ee/live/SKY"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://stream.skymedia.ee/live/SKY"
+      ]
+    },
     "languages": [
       "rus"
     ]
@@ -623,11 +675,12 @@
   {
     "nanoid": "hISwPTB6rsOPCm",
     "name": "Star FM",
-    "stream_urls": [
-      "https://ice.leviracloud.eu/star320-mp3",
-      "https://ice.leviracloud.eu/star96-aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://ice.leviracloud.eu/star320-mp3",
+        "https://ice.leviracloud.eu/star96-aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -635,10 +688,11 @@
   {
     "nanoid": "JNFAvywAaAjS6f",
     "name": "Star FM Eesti",
-    "stream_urls": [
-      "https://ice.leviracloud.eu/starFMEesti96-aac"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://ice.leviracloud.eu/starFMEesti96-aac"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -646,23 +700,26 @@
   {
     "nanoid": "pbUFvPX46XU0LX",
     "name": "Tre Raadio Põhja-Eesti",
-    "stream_urls": [
-      "https://cdn.treraadio.ee/pohja-tre"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://cdn.treraadio.ee/pohja-tre"
+      ]
+    },
     "languages": [
       "est"
     ],
+    "country": "ee",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kIccpDNKEGqRvE",
     "name": "Vikerraadio",
-    "stream_urls": [
-      "https://icecast.err.ee/vikerraadiokorge.mp3",
-      "https://icecast.err.ee/vikerraadio.mp3"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://icecast.err.ee/vikerraadiokorge.mp3",
+        "https://icecast.err.ee/vikerraadio.mp3"
+      ]
+    },
     "languages": [
       "est"
     ]
@@ -673,19 +730,22 @@
     "stream_urls": [
       "https://sc2.treraadio.ee/ttesstttinggg"
     ],
+    "country": "ee",
     "isGeoBlocked": false
   },
   {
     "nanoid": "3akTV8hxHKyU32",
     "name": "Võmba FM",
-    "stream_urls": [
-      "https://c4.radioboss.fm:18123/stream"
-    ],
-    "country": "ee",
+    "sources": {
+      "streams": [
+        "https://c4.radioboss.fm:18123/stream"
+      ]
+    },
     "languages": [
       "est",
       "fin"
     ],
+    "country": "ee",
     "isGeoBlocked": false
   }
 ]

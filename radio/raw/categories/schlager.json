@@ -2,10 +2,11 @@
   {
     "nanoid": "QzmHm4BecivHYP",
     "name": "0nlineradio Deutsch",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/deutsch"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/deutsch"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "LkyxpGUcw15OKG",
     "name": "0nlineradio Karneval",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/karneval"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/karneval"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -25,10 +27,11 @@
   {
     "nanoid": "iSkUdlbOgC9NIQ",
     "name": "0nlineradio Party",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/party"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/party"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -37,10 +40,11 @@
   {
     "nanoid": "pW8PrlIJ4l5Gq0",
     "name": "0nlineradio Schlager",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/schlager"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/schlager"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -49,10 +53,11 @@
   {
     "nanoid": "JqvyYD0TDrGALP",
     "name": "0nlineradio Schlager Evergreens",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/schlager-evergreens"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/schlager-evergreens"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -61,132 +66,153 @@
   {
     "nanoid": "jKB1lKG7Ht1Zlj",
     "name": "0nlineradio Schlager Oldies",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/schlager-oldies"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/schlager-oldies"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "SXtyukcoglip5t",
     "name": "1A Partyschlager",
-    "stream_urls": [
-      "https://stream.1a-webradio.de/saw-partyschlager/mp3-128",
-      "https://stream.1a-webradio.de/saw-partyschlager/aac-48/radiosure-1a/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.1a-webradio.de/saw-partyschlager/mp3-128",
+        "https://stream.1a-webradio.de/saw-partyschlager/aac-48/radiosure-1a/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "xxC8DfJlee2krM",
     "name": "1A Radio - Deutsch Pop",
-    "stream_urls": [
-      "https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "QG9XhCBzshJFZY",
     "name": "1A Radio - Party",
-    "stream_urls": [
-      "https://1a-party.radionetz.de/1a-party.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1a-party.radionetz.de/1a-party.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "uIuxM5wwQVVyLZ",
     "name": "1A Radio - Schlager",
-    "stream_urls": [
-      "https://1a-schlager.radionetz.de/1a-schlager.aac"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1a-schlager.radionetz.de/1a-schlager.aac"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "7ss5fEcygtkD7r",
     "name": "1A Radio - Schlager Gold",
-    "stream_urls": [
-      "https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ivVpu7mgr91xuK",
     "name": "1A Radio - Schlager Kult",
-    "stream_urls": [
-      "https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "YkaVqNJzrbCN6N",
     "name": "1A Radio - Volksmusik",
-    "stream_urls": [
-      "https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kYkwghkO0ayQZG",
     "name": "1A Radio - Weihnachten",
-    "stream_urls": [
-      "https://1a-weihnachten.radionetz.de/1a-weihnachten.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1a-weihnachten.radionetz.de/1a-weihnachten.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "9aGi5tTwtRs6Ng",
     "name": "101FM - Schlager",
-    "stream_urls": [
-      "https://0-24schlagervolksmusik.stream.laut.fm/0-24_schlager_volksmusik"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0-24schlagervolksmusik.stream.laut.fm/0-24_schlager_volksmusik"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "pcTdRuuUoV9pMb",
     "name": "1000 Goldschlager",
-    "stream_urls": [
-      "https://1000goldschlager.stream.laut.fm/1000goldschlager"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://1000goldschlager.stream.laut.fm/1000goldschlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -308,10 +334,11 @@
   {
     "nanoid": "JzNIrRA0usAJHX",
     "name": "Antenne Austro Hits",
-    "stream_urls": [
-      "https://live.antenne.at/auh"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.antenne.at/auh"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -347,12 +374,13 @@
   {
     "nanoid": "HrcQAGJw443zNG",
     "name": "antenne SACHSEN - Leipzig",
-    "stream_urls": [
-      "https://edge84.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
-      "https://edge01.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
-      "https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://edge84.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
+        "https://edge01.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
+        "https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -371,10 +399,11 @@
   {
     "nanoid": "SpALtdtfJ2V4xL",
     "name": "Antenne Vorarlberg Schlagerkult",
-    "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-schlagerkult"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://web.radio.antennevorarlberg.at/av-schlagerkult"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -382,11 +411,12 @@
   {
     "nanoid": "7VPNMlI2PyIJub",
     "name": "Ballermann Radio",
-    "stream_urls": [
-      "https://stream.bmr-radio.de/",
-      "https://stream.bmr-radio.de/ballermann-radio.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.bmr-radio.de/",
+        "https://stream.bmr-radio.de/ballermann-radio.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -394,10 +424,11 @@
   {
     "nanoid": "oh9PzF8owGEIB8",
     "name": "Ballermann Radio Ab 18",
-    "stream_urls": [
-      "https://stream.bmr-radio.de/bmr-ab18.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.bmr-radio.de/bmr-ab18.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -417,10 +448,11 @@
   {
     "nanoid": "m0oNzr7a1wLPXU",
     "name": "BR Heimat",
-    "stream_urls": [
-      "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -428,10 +460,11 @@
   {
     "nanoid": "gREU9baRcnMv9T",
     "name": "BR Schlager",
-    "stream_urls": [
-      "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -439,10 +472,11 @@
   {
     "nanoid": "iH6Q69Wcelb4mo",
     "name": "BRF 2",
-    "stream_urls": [
-      "https://streaming.brf.be/brf2-high.mp3"
-    ],
-    "country": "be",
+    "sources": {
+      "streams": [
+        "https://streaming.brf.be/brf2-high.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -450,10 +484,11 @@
   {
     "nanoid": "ZQ7kd3Xp6nliBs",
     "name": "DKL Dreyeckland",
-    "stream_urls": [
-      "https://n11a-eu.rcs.revma.com/aguwyw7fkzzuv.mp3"
-    ],
-    "country": "fr",
+    "sources": {
+      "streams": [
+        "https://n11a-eu.rcs.revma.com/aguwyw7fkzzuv.mp3"
+      ]
+    },
     "languages": [
       "fra"
     ]
@@ -461,10 +496,11 @@
   {
     "nanoid": "Vn0V1Z6REm2h85",
     "name": "Double Z Radio",
-    "stream_urls": [
-      "https://stream1.dzradio.nl/"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://stream1.dzradio.nl/"
+      ]
+    },
     "languages": [
       "nld"
     ]
@@ -472,10 +508,11 @@
   {
     "nanoid": "9f3hrOMjaCzmaR",
     "name": "Erzgebirgs Weihnacht",
-    "stream_urls": [
-      "https://erzgebirgs-weihnacht.stream.laut.fm/erzgebirgs-weihnacht"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://erzgebirgs-weihnacht.stream.laut.fm/erzgebirgs-weihnacht"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -483,36 +520,41 @@
   {
     "nanoid": "OWinhLULzsBXSo",
     "name": "Ferienwelle",
-    "stream_urls": [
-      "https://ferienwelle.stream.laut.fm/ferienwelle"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://ferienwelle.stream.laut.fm/ferienwelle"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "Fati1ljXh5GWnk",
     "name": "FFH Schlagerkult",
-    "stream_urls": [
-      "https://mp3.ffh.de/ffhchannels/hqschlager.aac",
-      "https://mp3.ffh.de/ffhchannels/hqschlager.mp3?aw_0_req.gdpr=true",
-      "https://mp3.ffh.de/ffhchannels/schlager.aac?aw_0_req.gdpr=true"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://mp3.ffh.de/ffhchannels/hqschlager.aac",
+        "https://mp3.ffh.de/ffhchannels/hqschlager.mp3?aw_0_req.gdpr=true",
+        "https://mp3.ffh.de/ffhchannels/schlager.aac?aw_0_req.gdpr=true"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "fxCU18fyGZmse0",
     "name": "Game FM - Schlager",
-    "stream_urls": [
-      "https://gamefm-schlager.stream.laut.fm/gamefm-schlager"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://gamefm-schlager.stream.laut.fm/gamefm-schlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -520,10 +562,11 @@
   {
     "nanoid": "feFp0qWwWxTwHw",
     "name": "Gartenheim-Radio",
-    "stream_urls": [
-      "https://gartenheimradio.sp.radio.fm/stream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://gartenheimradio.sp.radio.fm/stream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -542,10 +585,11 @@
   {
     "nanoid": "rOKodiCznp7q6U",
     "name": "Hitparadio",
-    "stream_urls": [
-      "https://hitparadio.stream.laut.fm/hitparadio"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://hitparadio.stream.laut.fm/hitparadio"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -553,34 +597,39 @@
   {
     "nanoid": "KxzStDObZxiSIp",
     "name": "Hitradio Mathildenhof",
-    "stream_urls": [
-      "https://hitradio-mathildenhof.stream.laut.fm/hitradio-mathildenhof"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://hitradio-mathildenhof.stream.laut.fm/hitradio-mathildenhof"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "dwKxaxiVjMeKl0",
     "name": "HITRADIO RTL - Schlager",
-    "stream_urls": [
-      "https://edge17.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://edge17.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "tgI7LfW10dNIm3",
     "name": "Hitradio Schlager",
-    "stream_urls": [
-      "https://hitradio-schlager.stream.laut.fm/hitradio-schlager"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://hitradio-schlager.stream.laut.fm/hitradio-schlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -588,10 +637,11 @@
   {
     "nanoid": "YgOG9V9dkPaLCr",
     "name": "HITZZZ!!",
-    "stream_urls": [
-      "https://stream.hitzzz.nl/hitzzz"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://stream.hitzzz.nl/hitzzz"
+      ]
+    },
     "languages": [
       "nld"
     ]
@@ -610,10 +660,11 @@
   {
     "nanoid": "ylGrkxphKsCiSu",
     "name": "hr4 Mittelhessen",
-    "stream_urls": [
-      "https://dispatcher.rndfnk.com/hr/hr4/mittelhessen/high"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://dispatcher.rndfnk.com/hr/hr4/mittelhessen/high"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -621,10 +672,11 @@
   {
     "nanoid": "gfqO0IE7OpCAbN",
     "name": "hr4 Nordhessen",
-    "stream_urls": [
-      "https://dispatcher.rndfnk.com/hr/hr4/nordhessen/high"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://dispatcher.rndfnk.com/hr/hr4/nordhessen/high"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -632,10 +684,11 @@
   {
     "nanoid": "9ft1dfGqR5uXx6",
     "name": "hr4 Osthessen",
-    "stream_urls": [
-      "https://dispatcher.rndfnk.com/hr/hr4/osthessen/high"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://dispatcher.rndfnk.com/hr/hr4/osthessen/high"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -643,10 +696,11 @@
   {
     "nanoid": "uSd2KPSivrp7qq",
     "name": "hr4 Südhessen",
-    "stream_urls": [
-      "https://dispatcher.rndfnk.com/hr/hr4/suedhessen/high"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://dispatcher.rndfnk.com/hr/hr4/suedhessen/high"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -654,10 +708,11 @@
   {
     "nanoid": "SZhi9oOEnMnfoq",
     "name": "ICE Radio 2 - Schlager",
-    "stream_urls": [
-      "https://irw.tunefm.de:8410/stream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://irw.tunefm.de:8410/stream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -665,10 +720,11 @@
   {
     "nanoid": "83ppDIRXlGYLkq",
     "name": "IRD Radio",
-    "stream_urls": [
-      "https://ird.sp.radio.fm/stream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://ird.sp.radio.fm/stream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -676,11 +732,12 @@
   {
     "nanoid": "vOb0Q82m08ALXP",
     "name": "Karneval Radio",
-    "stream_urls": [
-      "https://karneval-radio.stream.laut.fm/karneval-radio",
-      "https://karneval.stream.laut.fm/karneval"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://karneval-radio.stream.laut.fm/karneval-radio",
+        "https://karneval.stream.laut.fm/karneval"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -699,10 +756,11 @@
   {
     "nanoid": "EZHvd5IoLaCYiC",
     "name": "Kronehit Schlager",
-    "stream_urls": [
-      "https://kronehit.streamabc.net/50-fschannel24-aac-128-2899732"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://kronehit.streamabc.net/50-fschannel24-aac-128-2899732"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -710,10 +768,11 @@
   {
     "nanoid": "JIRfq5u8UCaJSd",
     "name": "Lea's Fox Schlager & Discofox",
-    "stream_urls": [
-      "https://radio2.myhitmusic.de/Fresh-Hit.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio2.myhitmusic.de/Fresh-Hit.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -721,10 +780,11 @@
   {
     "nanoid": "6CkZaESD9uXwlU",
     "name": "Life Radio Tirol - Alles Malle",
-    "stream_urls": [
-      "https://stream.liferadio.tirol/malle/mp3-192/link"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://stream.liferadio.tirol/malle/mp3-192/link"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -732,10 +792,11 @@
   {
     "nanoid": "SpAYTehOu5Jncc",
     "name": "Life Radio Tirol - Schlagerpuls",
-    "stream_urls": [
-      "https://stream.liferadio.tirol/schlager/mp3-192/link"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://stream.liferadio.tirol/schlager/mp3-192/link"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -755,10 +816,11 @@
   {
     "nanoid": "nqfwOVkGyTInyf",
     "name": "Lüneburger Radio",
-    "stream_urls": [
-      "https://luneburgerradio.sp.radio.fm/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://luneburgerradio.sp.radio.fm/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -766,10 +828,11 @@
   {
     "nanoid": "Qbtcc92fJmujUx",
     "name": "M1.FM - Kuschelschlager",
-    "stream_urls": [
-      "https://tuner.m1.fm/kuschelschlager.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://tuner.m1.fm/kuschelschlager.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -777,10 +840,11 @@
   {
     "nanoid": "CUdB2mZadtHwhM",
     "name": "M1.FM - Schlagerparty",
-    "stream_urls": [
-      "https://tuner.m1.fm/schlagerparty.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://tuner.m1.fm/schlagerparty.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -788,10 +852,11 @@
   {
     "nanoid": "HYWytSEt3KOOoZ",
     "name": "Malle FM",
-    "stream_urls": [
-      "https://malle-fm.stream.laut.fm/malle-fm"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://malle-fm.stream.laut.fm/malle-fm"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -799,10 +864,11 @@
   {
     "nanoid": "m4QCw6Nx9TbJlW",
     "name": "MALLE.RADIO",
-    "stream_urls": [
-      "https://stream.malle.radio/malle.radio.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.malle.radio/malle.radio.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -810,86 +876,99 @@
   {
     "nanoid": "SZaWMzFm7RuFmJ",
     "name": "Mallorca Andy",
-    "stream_urls": [
-      "https://mallorca-andy.stream.laut.fm/mallorca-andy"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://mallorca-andy.stream.laut.fm/mallorca-andy"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "QC0JFuNzi6gldB",
     "name": "MDR SACHSEN (Leipzig)",
-    "stream_urls": [
-      "https://mdr-284280-3.sslcast.mdr.de/mdr/284280/3/mp3/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://mdr-284280-3.sslcast.mdr.de/mdr/284280/3/mp3/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "kWfg13d2YPp2Ad",
     "name": "MDR SCHLAGERWELT",
-    "stream_urls": [
-      "https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8",
-      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8",
+        "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "RZki05kuT9A9j2",
     "name": "MDR SCHLAGERWELT (Sachsen-Anhalt)",
-    "stream_urls": [
-      "https://radio-hls.mdr.de/hls/live/2112911/mdr-990701-0-hls/index.m3u8",
-      "https://mdr-990701-0.sslcast.mdr.de/mdr/990701/0/mp3/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-hls.mdr.de/hls/live/2112911/mdr-990701-0-hls/index.m3u8",
+        "https://mdr-990701-0.sslcast.mdr.de/mdr/990701/0/mp3/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "hl27zGiRxyIbXb",
     "name": "MDR SCHLAGERWELT (Sachsen)",
-    "stream_urls": [
-      "https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8",
-      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8",
+        "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ban6VEwerZ5euS",
     "name": "MDR SCHLAGERWELT (Thüringen)",
-    "stream_urls": [
-      "https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8",
-      "https://mdr-990601-0.sslcast.mdr.de/mdr/990601/0/mp3/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8",
+        "https://mdr-990601-0.sslcast.mdr.de/mdr/990601/0/mp3/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "jaOcmfckHaeXI9",
     "name": "MineMusic - BayernSound",
-    "stream_urls": [
-      "https://minemusic-bayernsound.stream.laut.fm/minemusic-bayernsound"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://minemusic-bayernsound.stream.laut.fm/minemusic-bayernsound"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -897,10 +976,11 @@
   {
     "nanoid": "yf4r7G9hq2LC3z",
     "name": "Musik-Kurier",
-    "stream_urls": [
-      "https://musik-kurier.stream.laut.fm/musik-kurier"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://musik-kurier.stream.laut.fm/musik-kurier"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -909,10 +989,11 @@
   {
     "nanoid": "6Cf2xqsdTIAjE3",
     "name": "NDR Schlager",
-    "stream_urls": [
-      "https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -920,10 +1001,11 @@
   {
     "nanoid": "E4cdCzluMMvwad",
     "name": "oe24 Radio - Best of Hüttengaudi",
-    "stream_urls": [
-      "https://edge83.streamonkey.net/oe24-huettengaudi"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://edge83.streamonkey.net/oe24-huettengaudi"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -931,10 +1013,11 @@
   {
     "nanoid": "Kqk1ev74u3Blc5",
     "name": "oe24 Radio - Best of Schlager",
-    "stream_urls": [
-      "https://edge82.streamonkey.net/oe24-schlager"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://edge82.streamonkey.net/oe24-schlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -942,10 +1025,11 @@
   {
     "nanoid": "yFaI6K5uGAdSme",
     "name": "Oktoberfest Radio",
-    "stream_urls": [
-      "https://oktoberfest.stream.laut.fm/oktoberfest"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://oktoberfest.stream.laut.fm/oktoberfest"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -953,10 +1037,11 @@
   {
     "nanoid": "1KhNThcIPMmHvV",
     "name": "ON Deutsch Pop",
-    "stream_urls": [
-      "https://0n-deutschpop.radionetz.de/0n-deutschpop.aac"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-deutschpop.radionetz.de/0n-deutschpop.aac"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -964,10 +1049,11 @@
   {
     "nanoid": "oJzQ9grzlJOaB9",
     "name": "ON Kult",
-    "stream_urls": [
-      "https://0n-kult.radionetz.de/0n-kult.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-kult.radionetz.de/0n-kult.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -975,10 +1061,11 @@
   {
     "nanoid": "1aI3fZvUpv4Csx",
     "name": "ON Party",
-    "stream_urls": [
-      "https://0n-party.radionetz.de/0n-party.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-party.radionetz.de/0n-party.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -986,10 +1073,11 @@
   {
     "nanoid": "mP0p5iYieKRUUo",
     "name": "ON Schlager Gold",
-    "stream_urls": [
-      "https://0n-schlagergold.radionetz.de/0n-schlagergold.aac"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-schlagergold.radionetz.de/0n-schlagergold.aac"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -997,10 +1085,11 @@
   {
     "nanoid": "IVYjuh3dneKcx8",
     "name": "ON Schlager Kult",
-    "stream_urls": [
-      "https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1008,10 +1097,11 @@
   {
     "nanoid": "fAcrOeYwY43x00",
     "name": "ON Volksmusik",
-    "stream_urls": [
-      "https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1019,10 +1109,11 @@
   {
     "nanoid": "UCMNbXDEkB7nMh",
     "name": "ON Weihnachten",
-    "stream_urls": [
-      "https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1030,10 +1121,11 @@
   {
     "nanoid": "HVxn6zfcX5k4IJ",
     "name": "Onlineradio Volksmusik",
-    "stream_urls": [
-      "https://stream.0nlineradio.com/volksmusik"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/volksmusik"
+      ]
+    },
     "languages": [
       "deu",
       "eng"
@@ -1054,10 +1146,11 @@
   {
     "nanoid": "AyWQVyCTnDapkL",
     "name": "Party Radio",
-    "stream_urls": [
-      "https://party.stream.laut.fm/party"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://party.stream.laut.fm/party"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1065,11 +1158,12 @@
   {
     "nanoid": "6w0aeRfB7kOZUs",
     "name": "Perfect Radio - Schlageroldies",
-    "stream_urls": [
-      "https://n0b.radiojar.com/rk8e9x2vetzuv",
-      "https://stream.radiojar.com/rk8e9x2vetzuv"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://n0b.radiojar.com/rk8e9x2vetzuv",
+        "https://stream.radiojar.com/rk8e9x2vetzuv"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1077,34 +1171,39 @@
   {
     "nanoid": "JfSzvGEbJ9uzq7",
     "name": "Popwelle Wörthersee",
-    "stream_urls": [
-      "https://popwellezwei.sp.radio.fm/stream"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://popwellezwei.sp.radio.fm/stream"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ifryPUPpilqQqv",
     "name": "R.SA - Schlager",
-    "stream_urls": [
-      "https://rsa.streamabc.net/regc-rsasachsenschlager9140327-mp3-192-4293083?sABC=6n243766%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780758374"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rsa.streamabc.net/regc-rsasachsenschlager9140327-mp3-192-4293083?sABC=6n243766%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780758374"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "de",
     "isGeoBlocked": false
   },
   {
     "nanoid": "MmVGthp3h7jXkF",
     "name": "Radio 30 Plus",
-    "stream_urls": [
-      "https://radio30plus.stream.laut.fm/radio30plus"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio30plus.stream.laut.fm/radio30plus"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1130,40 +1229,46 @@
     "languages": [
       "deu"
     ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {
     "nanoid": "lB6ammxhNSaLaZ",
     "name": "Radio Arabella Schlager",
-    "stream_urls": [
-      "https://edge64.streams.arabella.at/arabella-schlager"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://edge64.streams.arabella.at/arabella-schlager"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {
     "nanoid": "4Z9Vp1vum3QCWf",
     "name": "Radio Arabella Ti Amo",
-    "stream_urls": [
-      "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile",
-      "https://edge06.streams.arabella.at/arabella-tiamo"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile",
+        "https://edge06.streams.arabella.at/arabella-tiamo"
+      ]
+    },
     "languages": [
       "deu"
     ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {
     "nanoid": "1z4KcRD91Gg6Zc",
     "name": "Radio Bautzen",
-    "stream_urls": [
-      "https://radiobautzen.stream.laut.fm/radiobautzen"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radiobautzen.stream.laut.fm/radiobautzen"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1171,10 +1276,11 @@
   {
     "nanoid": "onP9nRf94viL7w",
     "name": "Radio Biggetal",
-    "stream_urls": [
-      "https://biggetal.stream.laut.fm/biggetal"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://biggetal.stream.laut.fm/biggetal"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1182,12 +1288,13 @@
   {
     "nanoid": "G0uF8hoN6Xh7Bp",
     "name": "RADIO BOLLERWAGEN",
-    "stream_urls": [
-      "https://player.ffn.de/radiobollerwagen.mp3",
-      "https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192",
-      "https://stream.ffn.de/radiobollerwagen/mp3-192"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://player.ffn.de/radiobollerwagen.mp3",
+        "https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192",
+        "https://stream.ffn.de/radiobollerwagen/mp3-192"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1206,11 +1313,12 @@
   {
     "nanoid": "68nBNLzuM0DYJk",
     "name": "Radio Burgenland",
-    "stream_urls": [
-      "https://orf-live.ors-shoutcast.at/bgl-q2a",
-      "https://orf-live.ors-shoutcast.at/bgl-q1a"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://orf-live.ors-shoutcast.at/bgl-q2a",
+        "https://orf-live.ors-shoutcast.at/bgl-q1a"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1218,10 +1326,11 @@
   {
     "nanoid": "SrWlQ9BQxXE1ep",
     "name": "Radio Emscher Lippe - Dein Schlager Radio",
-    "stream_urls": [
-      "https://rnrw.cast.addradio.de/rnrw-0166/deinschlager/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rnrw.cast.addradio.de/rnrw-0166/deinschlager/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1229,10 +1338,11 @@
   {
     "nanoid": "yey5PJ14LovYs9",
     "name": "Radio Flamingo",
-    "stream_urls": [
-      "https://live.antenne.at/rf"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.antenne.at/rf"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1240,10 +1350,11 @@
   {
     "nanoid": "QpuDAoxZMdWhJO",
     "name": "Radio Flamingo Partyschlager",
-    "stream_urls": [
-      "https://live.radioflamingo.at/rfpartyschlager"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.radioflamingo.at/rfpartyschlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1251,10 +1362,11 @@
   {
     "nanoid": "4vj3wKcRUp7K00",
     "name": "Radio Flamingo Plus Golden Hits",
-    "stream_urls": [
-      "https://live.radioflamingo.at/rfplusgoldenhits"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.radioflamingo.at/rfplusgoldenhits"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1262,10 +1374,11 @@
   {
     "nanoid": "qDrQhEuBDSYcXh",
     "name": "Radio Flamingo Plus Kultschlager",
-    "stream_urls": [
-      "https://live.radioflamingo.at/rfpluskultschlager"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.radioflamingo.at/rfpluskultschlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1273,10 +1386,11 @@
   {
     "nanoid": "i39pnkpGr9W2y3",
     "name": "Radio Flamingo Plus Volksmusik",
-    "stream_urls": [
-      "https://live.radioflamingo.at/rfplusvolksmusik"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.radioflamingo.at/rfplusvolksmusik"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1284,10 +1398,11 @@
   {
     "nanoid": "owgHHm2arXKIda",
     "name": "Radio Fox and More",
-    "stream_urls": [
-      "https://s10.streamingcloud.online/stream/13210"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://s10.streamingcloud.online/stream/13210"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1295,10 +1410,11 @@
   {
     "nanoid": "ZnWqRhhJUSlBlk",
     "name": "Radio Grün Weiß",
-    "stream_urls": [
-      "https://live.gruen-weiss.at/rgw.aac"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://live.gruen-weiss.at/rgw.aac"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1306,10 +1422,11 @@
   {
     "nanoid": "DPUIGJkR1OnUvO",
     "name": "Radio Himmelberg",
-    "stream_urls": [
-      "https://radio-himmelberg.stream.laut.fm/radio-himmelberg"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://radio-himmelberg.stream.laut.fm/radio-himmelberg"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1317,10 +1434,11 @@
   {
     "nanoid": "JUB8GdmYv3MzLl",
     "name": "Radio ISW - Weißblauer Stammtisch",
-    "stream_urls": [
-      "https://weissblauerstammtisch.stream.laut.fm/weissblauerstammtisch"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://weissblauerstammtisch.stream.laut.fm/weissblauerstammtisch"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1340,10 +1458,11 @@
   {
     "nanoid": "jjvMSUYFzAJBMN",
     "name": "Radio Köln - Dein Schlager Radio",
-    "stream_urls": [
-      "https://rnrw.cast.addradio.de/rnrw-0185/deinschlager/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rnrw.cast.addradio.de/rnrw-0185/deinschlager/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1351,10 +1470,11 @@
   {
     "nanoid": "9qBHUTbGil6UFc",
     "name": "Radio Landau 2",
-    "stream_urls": [
-      "https://radiolandau2.stream.laut.fm/radiolandau2"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radiolandau2.stream.laut.fm/radiolandau2"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1362,10 +1482,11 @@
   {
     "nanoid": "HFVW4fpExKZ7qY",
     "name": "Radio Landeskrone",
-    "stream_urls": [
-      "https://radio-landeskrone.stream.laut.fm/radio-landeskrone"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-landeskrone.stream.laut.fm/radio-landeskrone"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1373,11 +1494,12 @@
   {
     "nanoid": "0l33e7cocJb3FB",
     "name": "Radio Larmo",
-    "stream_urls": [
-      "https://larmo.stream.laut.fm/larmo",
-      "https://stream.laut.fm/larmo/;"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://larmo.stream.laut.fm/larmo",
+        "https://stream.laut.fm/larmo/;"
+      ]
+    },
     "languages": [
       "deu",
       "pol"
@@ -1398,10 +1520,11 @@
   {
     "nanoid": "LGOUW2lqcuK31y",
     "name": "Radio Mixtape - Schlager",
-    "stream_urls": [
-      "https://mixtape.cast.addradio.de/mixtape/schlager/high/stream.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://mixtape.cast.addradio.de/mixtape/schlager/high/stream.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1409,11 +1532,12 @@
   {
     "nanoid": "4OAqJN4dpgTJgH",
     "name": "Radio Niederösterreich",
-    "stream_urls": [
-      "https://orf-live.ors-shoutcast.at/noe-q2a",
-      "https://orf-live.ors-shoutcast.at/noe-q1a"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://orf-live.ors-shoutcast.at/noe-q2a",
+        "https://orf-live.ors-shoutcast.at/noe-q1a"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1421,10 +1545,11 @@
   {
     "nanoid": "LYlvlSHotSejQ1",
     "name": "Radio Nova",
-    "stream_urls": [
-      "https://nova.dzradio.nl/nova"
-    ],
-    "country": "be",
+    "sources": {
+      "streams": [
+        "https://nova.dzradio.nl/nova"
+      ]
+    },
     "languages": [
       "nld"
     ]
@@ -1432,11 +1557,12 @@
   {
     "nanoid": "VRjCJlT2Nm7zbr",
     "name": "Radio Oberösterreich",
-    "stream_urls": [
-      "https://orf-live.ors-shoutcast.at/ooe-q2a",
-      "https://orf-live.ors-shoutcast.at/ooe-q1a"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://orf-live.ors-shoutcast.at/ooe-q2a",
+        "https://orf-live.ors-shoutcast.at/ooe-q1a"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1444,10 +1570,11 @@
   {
     "nanoid": "d9dgk7DZ7TdHcK",
     "name": "Radio ON - Schlager",
-    "stream_urls": [
-      "https://0n-schlager.radionetz.de/0n-schlager.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://0n-schlager.radionetz.de/0n-schlager.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1455,11 +1582,12 @@
   {
     "nanoid": "bkJVBfufuVFNH2",
     "name": "Radio Paloma",
-    "stream_urls": [
-      "https://icepool.silvacast.com/RADIOPALOMA.mp3",
-      "https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://icepool.silvacast.com/RADIOPALOMA.mp3",
+        "https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1467,10 +1595,11 @@
   {
     "nanoid": "uGu9O2IF11t30r",
     "name": "Radio Paloma - Kultschlager",
-    "stream_urls": [
-      "https://pool.radiopaloma.de/RP-Kultschlager.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://pool.radiopaloma.de/RP-Kultschlager.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1478,11 +1607,12 @@
   {
     "nanoid": "ULWrEg2fHYQ3oy",
     "name": "Radio Paloma - Partyschlager",
-    "stream_urls": [
-      "https://streams.schlagerplanetradio.com/kult/mp3-192",
-      "https://pool.radiopaloma.de/RP-Partyschlager.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.schlagerplanetradio.com/kult/mp3-192",
+        "https://pool.radiopaloma.de/RP-Partyschlager.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1490,10 +1620,11 @@
   {
     "nanoid": "nuEzt0F42klkYe",
     "name": "Radio Plassenburg",
-    "stream_urls": [
-      "https://webstream.radio-plassenburg.de/radio-plassenburg.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://webstream.radio-plassenburg.de/radio-plassenburg.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1501,10 +1632,11 @@
   {
     "nanoid": "N4mjMkMf3vE5Dn",
     "name": "Radio Regenbogen Schlager",
-    "stream_urls": [
-      "https://stream.regenbogen.de/schlager/mp3-128/radiobrowser"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.regenbogen.de/schlager/mp3-128/radiobrowser"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1512,10 +1644,11 @@
   {
     "nanoid": "foEu3mBFEEGSKB",
     "name": "Radio Retrowelle 2",
-    "stream_urls": [
-      "https://retrowelle2.stream.laut.fm/retrowelle2"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://retrowelle2.stream.laut.fm/retrowelle2"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1536,10 +1669,11 @@
   {
     "nanoid": "iIJbIpaE98GvjH",
     "name": "Radio Rot Weiss Rot",
-    "stream_urls": [
-      "https://secureonair.krone.at/rwr.aac"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://secureonair.krone.at/rwr.aac"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1547,10 +1681,11 @@
   {
     "nanoid": "skxjMrc3kzCaF3",
     "name": "Radio Rotter See",
-    "stream_urls": [
-      "https://radio-rotter-see.stream.laut.fm/radio-rotter-see"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-rotter-see.stream.laut.fm/radio-rotter-see"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1558,10 +1693,11 @@
   {
     "nanoid": "C2cGPTrEcxYv0D",
     "name": "Radio Saalewelle Schlager",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/426136/stream/479662"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/426136/stream/479662"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1581,11 +1717,12 @@
   {
     "nanoid": "yWKwr7wJ3RXRWM",
     "name": "Radio Schlagerparadies",
-    "stream_urls": [
-      "https://webstream.schlagerparadies.de/schlagerparadies128k.mp3",
-      "https://webstream.schlagerparadies.de/schlagerparadies128.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://webstream.schlagerparadies.de/schlagerparadies128k.mp3",
+        "https://webstream.schlagerparadies.de/schlagerparadies128.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1593,11 +1730,12 @@
   {
     "nanoid": "YI77nlP3eyjg6S",
     "name": "Radio Schwany - Bläss",
-    "stream_urls": [
-      "https://bone.streampanel.cloud/10-blaess",
-      "https://blaess.hoamatwelle.de/"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://bone.streampanel.cloud/10-blaess",
+        "https://blaess.hoamatwelle.de/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1617,11 +1755,12 @@
   {
     "nanoid": "q00aOc6YHN5661",
     "name": "Radio Schwany - Herzklang",
-    "stream_urls": [
-      "https://twix.streampanel.cloud/8-herzklang",
-      "https://herzklang.hoamatwelle.de/"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://twix.streampanel.cloud/8-herzklang",
+        "https://herzklang.hoamatwelle.de/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1629,10 +1768,11 @@
   {
     "nanoid": "ePFPCHDbta6QKd",
     "name": "Radio Schwany - Instrumental",
-    "stream_urls": [
-      "https://schwany.streampanel.cloud/11-instrumental"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schwany.streampanel.cloud/11-instrumental"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1640,10 +1780,11 @@
   {
     "nanoid": "ZqsNLbL2AW0kAP",
     "name": "Radio Schwany - Oldie Radio",
-    "stream_urls": [
-      "https://oldie.spcast.eu/stream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://oldie.spcast.eu/stream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1651,10 +1792,11 @@
   {
     "nanoid": "tgwaqulX3MRWMX",
     "name": "Radio Schwany - Radio Bläss",
-    "stream_urls": [
-      "https://schwany.streampanel.cloud/10-blaess"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schwany.streampanel.cloud/10-blaess"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1662,10 +1804,11 @@
   {
     "nanoid": "YUVp25Z0g5C6H5",
     "name": "Radio Schwany - Radio Herzklang",
-    "stream_urls": [
-      "https://schwany.streampanel.cloud/8-herzklang"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schwany.streampanel.cloud/8-herzklang"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1673,12 +1816,13 @@
   {
     "nanoid": "n8d3XhhxI6BCGZ",
     "name": "Radio Schwany - Souvenir 1",
-    "stream_urls": [
-      "https://bone.streampanel.cloud/9-souvenir1",
-      "https://schwany.streampanel.cloud/9-souvenir1",
-      "https://souvenir1.hoamatwelle.de/"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://bone.streampanel.cloud/9-souvenir1",
+        "https://schwany.streampanel.cloud/9-souvenir1",
+        "https://souvenir1.hoamatwelle.de/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1725,10 +1869,11 @@
   {
     "nanoid": "tjXMzBTNMZ6Cbo",
     "name": "Radio Schwany 1 - Volksmusik",
-    "stream_urls": [
-      "https://schwany.streampanel.cloud/1-schwany"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schwany.streampanel.cloud/1-schwany"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1748,12 +1893,13 @@
   {
     "nanoid": "8PVIwmi3RywpDN",
     "name": "Radio Schwany 3 - Echte Volksmusik",
-    "stream_urls": [
-      "https://volksmusik.sp.radio.fm/stream",
-      "https://schwany3volksmusik.hoamatwelle.de/",
-      "https://charly.streampanel.net/3-dieechte"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://volksmusik.sp.radio.fm/stream",
+        "https://schwany3volksmusik.hoamatwelle.de/",
+        "https://charly.streampanel.net/3-dieechte"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1761,12 +1907,13 @@
   {
     "nanoid": "UUSaBeyxlSXRab",
     "name": "Radio Schwany 4 - Blasmusik",
-    "stream_urls": [
-      "https://twix.streampanel.cloud/4-blasmusik",
-      "https://blasmusik.sp.radio.fm/stream",
-      "https://schwany.streampanel.cloud/4-blasmusik"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://twix.streampanel.cloud/4-blasmusik",
+        "https://blasmusik.sp.radio.fm/stream",
+        "https://schwany.streampanel.cloud/4-blasmusik"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1788,10 +1935,11 @@
   {
     "nanoid": "7Vv8B3wPxV7kKE",
     "name": "Radio Silesia",
-    "stream_urls": [
-      "https://s1.slotex.pl/shoutcast/7350/stream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7350/stream"
+      ]
+    },
     "languages": [
       "pol"
     ]
@@ -1799,12 +1947,13 @@
   {
     "nanoid": "aqzCDaghnP0Foc",
     "name": "Radio SRF Musikwelle",
-    "stream_urls": [
-      "https://stream.srg-ssr.ch/srgssr/srfmw/aac/96",
-      "https://stream.srg-ssr.ch/m/drsmw/aacp_32",
-      "https://stream.srg-ssr.ch/m/drsmw/mp3_128"
-    ],
-    "country": "ch",
+    "sources": {
+      "streams": [
+        "https://stream.srg-ssr.ch/srgssr/srfmw/aac/96",
+        "https://stream.srg-ssr.ch/m/drsmw/aacp_32",
+        "https://stream.srg-ssr.ch/m/drsmw/mp3_128"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1812,11 +1961,12 @@
   {
     "nanoid": "SUwP9nMUkYftTJ",
     "name": "Radio Steiermark",
-    "stream_urls": [
-      "https://orf-live.ors-shoutcast.at/stm-q2a",
-      "https://orf-live.ors-shoutcast.at/stm-q1a"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://orf-live.ors-shoutcast.at/stm-q2a",
+        "https://orf-live.ors-shoutcast.at/stm-q1a"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1824,11 +1974,12 @@
   {
     "nanoid": "A7nCLhVTQw08Yq",
     "name": "Radio Tirol",
-    "stream_urls": [
-      "https://orf-live.ors-shoutcast.at/tir-q2a",
-      "https://orf-live.ors-shoutcast.at/tir-q1a"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://orf-live.ors-shoutcast.at/tir-q2a",
+        "https://orf-live.ors-shoutcast.at/tir-q1a"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1836,12 +1987,13 @@
   {
     "nanoid": "pscBKH5b2VMG5w",
     "name": "Radio U1 Tirol",
-    "stream_urls": [
-      "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-      "https://live.u1-radio.at/u1-tirol-live/mp3-192",
-      "https://live.u1-radio.at/"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192/",
+        "https://live.u1-radio.at/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1849,10 +2001,11 @@
   {
     "nanoid": "x3NfLP0fqs8ncx",
     "name": "Radio VM1 Steiermark",
-    "stream_urls": [
-      "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1860,10 +2013,11 @@
   {
     "nanoid": "rAMHKpq7On97B5",
     "name": "Radio VM1 Wien",
-    "stream_urls": [
-      "https://radiovm1.fluidstream.eu/radiovm1_a2.mp3"
-    ],
-    "country": "at",
+    "sources": {
+      "streams": [
+        "https://radiovm1.fluidstream.eu/radiovm1_a2.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1883,10 +2037,11 @@
   {
     "nanoid": "SPlgUpF0ztYYoq",
     "name": "Radio Völklingen",
-    "stream_urls": [
-      "https://radio-voelklingen.stream.laut.fm/radio-voelklingen"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-voelklingen.stream.laut.fm/radio-voelklingen"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1894,10 +2049,11 @@
   {
     "nanoid": "CrrD6nQIfLAuIo",
     "name": "Radio Weinstrasse",
-    "stream_urls": [
-      "https://stream.rpr1.de/wstr/mp3-128/radiobrowser"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.rpr1.de/wstr/mp3-128/radiobrowser"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1918,10 +2074,11 @@
   {
     "nanoid": "4FQifdY6jc3DrH",
     "name": "Radio WNK",
-    "stream_urls": [
-      "https://radio-wnk.stream.laut.fm/radio-wnk"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://radio-wnk.stream.laut.fm/radio-wnk"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1929,11 +2086,12 @@
   {
     "nanoid": "HVyQgyyqkk6OXr",
     "name": "RadioMonster.FM - Schlager",
-    "stream_urls": [
-      "https://schlager.radiomonster.fm/320.mp3",
-      "https://ic5.radiomonster.fm/schlager-320"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlager.radiomonster.fm/320.mp3",
+        "https://ic5.radiomonster.fm/schlager-320"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1941,10 +2099,11 @@
   {
     "nanoid": "giuKJ1ONNJBhvQ",
     "name": "RadioSelection",
-    "stream_urls": [
-      "https://live.radio-selection.de/onair"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://live.radio-selection.de/onair"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1952,10 +2111,11 @@
   {
     "nanoid": "OlQlDE2QPWZ9H2",
     "name": "RADIOSR24.DE",
-    "stream_urls": [
-      "https://ssl-1.radiohost.pl:13790/mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:13790/mp3"
+      ]
+    },
     "languages": [
       "deu",
       "pol"
@@ -1964,11 +2124,12 @@
   {
     "nanoid": "FLz4ONzxRNahsK",
     "name": "RauteMusik Best of Schlager",
-    "stream_urls": [
-      "https://best-of-schlager-high.rautemusik.fm/",
-      "https://rautemusik-de-hz-fal-stream15.radiohost.de/rm-best-of-schlager_mp3-192"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://best-of-schlager-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream15.radiohost.de/rm-best-of-schlager_mp3-192"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1976,11 +2137,12 @@
   {
     "nanoid": "OB51fWnibKfuQb",
     "name": "RauteMusik Christmas Schlager",
-    "stream_urls": [
-      "https://christmas-schlager-high.rautemusik.fm/",
-      "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-christmas-schlager_mp3-192"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://christmas-schlager-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-christmas-schlager_mp3-192"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1988,10 +2150,11 @@
   {
     "nanoid": "nva9WpCQbmwK9N",
     "name": "RauteMusik Schlager",
-    "stream_urls": [
-      "https://rautemusik-de-hz-fal-stream13.radiohost.de/schlager"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://rautemusik-de-hz-fal-stream13.radiohost.de/schlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -1999,10 +2162,11 @@
   {
     "nanoid": "3O7WpYy9ecgaql",
     "name": "RauteMusik Schlager Oldies",
-    "stream_urls": [
-      "https://schlager-oldies-high.rautemusik.fm/"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlager-oldies-high.rautemusik.fm/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2022,10 +2186,11 @@
   {
     "nanoid": "bhL55xMaArRl5P",
     "name": "RPR1. Schlager",
-    "stream_urls": [
-      "https://stream.rpr1.de/schlagerhits/mp3-128/radiobrowser"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.rpr1.de/schlagerhits/mp3-128/radiobrowser"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2033,10 +2198,11 @@
   {
     "nanoid": "fl6kWDyrFP8jyq",
     "name": "RPR1. Schlagerklassiker",
-    "stream_urls": [
-      "https://streams.rpr1.de/rpr-schlagerklassiker-128-mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.rpr1.de/rpr-schlagerklassiker-128-mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2044,10 +2210,11 @@
   {
     "nanoid": "Ga7unBuYuLaim0",
     "name": "RPR1. Volksmusik",
-    "stream_urls": [
-      "https://streams.rpr1.de/rpr-volksmusik-128-mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.rpr1.de/rpr-volksmusik-128-mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2055,10 +2222,11 @@
   {
     "nanoid": "e4Y63i83QWHVzV",
     "name": "Saxnwelle",
-    "stream_urls": [
-      "https://saxnwelle.stream.laut.fm/saxnwelle"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://saxnwelle.stream.laut.fm/saxnwelle"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2066,10 +2234,11 @@
   {
     "nanoid": "Ckq4U2ZMsnUoYl",
     "name": "Schlager",
-    "stream_urls": [
-      "https://schlager.stream.laut.fm/schlager"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlager.stream.laut.fm/schlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2077,10 +2246,11 @@
   {
     "nanoid": "8w0BinEnE1aM3U",
     "name": "Schlager Disco Party",
-    "stream_urls": [
-      "https://schlager-disco-party.stream.laut.fm/schlager-disco-party"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlager-disco-party.stream.laut.fm/schlager-disco-party"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2088,12 +2258,13 @@
   {
     "nanoid": "SNZAKdHWCvkBL9",
     "name": "Schlager Radio",
-    "stream_urls": [
-      "https://addrad.io/4454rnz",
-      "https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3",
-      "https://rautemusik-de-hz-fal-stream11.radiohost.de/schlager"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://addrad.io/4454rnz",
+        "https://radiob2-national.cast.addradio.de/radiob2/national/mp3/high/stream.mp3",
+        "https://rautemusik-de-hz-fal-stream11.radiohost.de/schlager"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2101,10 +2272,11 @@
   {
     "nanoid": "EFmMhnTC9bRgQV",
     "name": "Schlager-Radio",
-    "stream_urls": [
-      "https://schlagerradio.stream.laut.fm/schlagerradio"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlagerradio.stream.laut.fm/schlagerradio"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2112,10 +2284,11 @@
   {
     "nanoid": "Ovr2YLKlOS00I5",
     "name": "Schlagergarage",
-    "stream_urls": [
-      "https://schlagergarage.stream.laut.fm/schlagergarage"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlagergarage.stream.laut.fm/schlagergarage"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2123,11 +2296,12 @@
   {
     "nanoid": "HpABeWinROnEhd",
     "name": "Schlagerheilo",
-    "stream_urls": [
-      "https://www.tunefm.de:2000/stream/schlagerheilo",
-      "https://schlagerheilo.sp.radio.fm/stream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://www.tunefm.de:2000/stream/schlagerheilo",
+        "https://schlagerheilo.sp.radio.fm/stream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2135,10 +2309,11 @@
   {
     "nanoid": "yhdOJMvH6Eqv6Y",
     "name": "SchlagerMAX",
-    "stream_urls": [
-      "https://stream.hoerfunkbundstream.de:32052/stream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://stream.hoerfunkbundstream.de:32052/stream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2146,10 +2321,11 @@
   {
     "nanoid": "o6AqcgOElBII4A",
     "name": "Schlagerparadies",
-    "stream_urls": [
-      "https://webstream.schlagerparadies.de/schlager30842"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://webstream.schlagerparadies.de/schlager30842"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2157,10 +2333,11 @@
   {
     "nanoid": "12FUm2T5V51thv",
     "name": "Schlagerplanet Radio - 100% Deutsch",
-    "stream_urls": [
-      "https://streams.schlagerplanetradio.com/schlager/mp3-192"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://streams.schlagerplanetradio.com/schlager/mp3-192"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2168,10 +2345,11 @@
   {
     "nanoid": "qBc4DQcLBRr9nJ",
     "name": "SchlagerRadio.FM",
-    "stream_urls": [
-      "https://schlager-high.rautemusik.fm/"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlager-high.rautemusik.fm/"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2179,10 +2357,11 @@
   {
     "nanoid": "QjbdzzA0NI1Mtm",
     "name": "Schlagerschweinchen",
-    "stream_urls": [
-      "https://schlagerschweinchen.stream.laut.fm/schlagerschweinchen"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlagerschweinchen.stream.laut.fm/schlagerschweinchen"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2190,10 +2369,11 @@
   {
     "nanoid": "B5UEpFzLz44oJA",
     "name": "Schlagerwelle",
-    "stream_urls": [
-      "https://schlagerwelle.stream.laut.fm/schlagerwelle"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlagerwelle.stream.laut.fm/schlagerwelle"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2201,10 +2381,11 @@
   {
     "nanoid": "YJHl9tyD8m6WaU",
     "name": "SchlagerWelle 24",
-    "stream_urls": [
-      "https://schlagerwelle24.stream.laut.fm/schlagerwelle24"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://schlagerwelle24.stream.laut.fm/schlagerwelle24"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2212,10 +2393,11 @@
   {
     "nanoid": "g5lTwITjrgbWRD",
     "name": "Senderps40 Radio",
-    "stream_urls": [
-      "https://senderps40.stream.laut.fm/senderps40"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://senderps40.stream.laut.fm/senderps40"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2223,10 +2405,11 @@
   {
     "nanoid": "1MoKlDu8Wkwxv6",
     "name": "Signal 1",
-    "stream_urls": [
-      "https://signal1.stream.laut.fm/signal1"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://signal1.stream.laut.fm/signal1"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2234,11 +2417,12 @@
   {
     "nanoid": "ZGityfB7pwHNJ3",
     "name": "SR 3 Saarlandwelle",
-    "stream_urls": [
-      "https://liveradio.sr.de/sr/sr3/mp3/256/stream.mp3",
-      "https://sr.audiostream.io/sr/1011/mp3/56/sr3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://liveradio.sr.de/sr/sr3/mp3/256/stream.mp3",
+        "https://sr.audiostream.io/sr/1011/mp3/56/sr3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2246,10 +2430,11 @@
   {
     "nanoid": "mxw10MS8F1yKs4",
     "name": "Sunset City Radio",
-    "stream_urls": [
-      "https://sunsetcity.stream.laut.fm/sunsetcity"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://sunsetcity.stream.laut.fm/sunsetcity"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2281,10 +2466,11 @@
   {
     "nanoid": "kBcQyPdeuJRoKh",
     "name": "SWR4 Friedrichshafen",
-    "stream_urls": [
-      "https://liveradio.swr.de/sw890cl/swr4fn/play.aac"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://liveradio.swr.de/sw890cl/swr4fn/play.aac"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2314,10 +2500,11 @@
   {
     "nanoid": "TMezv5vxXekNVT",
     "name": "SWR4 Karlsruhe",
-    "stream_urls": [
-      "https://liveradio.swr.de/sw282p3/swr4ka/play.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://liveradio.swr.de/sw282p3/swr4ka/play.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2337,10 +2524,11 @@
   {
     "nanoid": "3jzF1TUWbN1EgZ",
     "name": "SWR4 Mainz",
-    "stream_urls": [
-      "https://liveradio.swr.de/sw282p3/swr4rp/play.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://liveradio.swr.de/sw282p3/swr4rp/play.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2348,10 +2536,11 @@
   {
     "nanoid": "K8j7pnn0CWZysD",
     "name": "SWR4 Stuttgart",
-    "stream_urls": [
-      "https://liveradio.swr.de/sw282p3/swr4bw/play.mp3"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://liveradio.swr.de/sw282p3/swr4bw/play.mp3"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2381,10 +2570,11 @@
   {
     "nanoid": "TpbmmR8DbpliQ9",
     "name": "Tirolia-Express",
-    "stream_urls": [
-      "https://server-28.stream-server.nl:8846/stream"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://server-28.stream-server.nl:8846/stream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2392,10 +2582,11 @@
   {
     "nanoid": "4JG0jh5uVRtDUv",
     "name": "Vera Radio",
-    "stream_urls": [
-      "https://mscp3.live-streams.nl:8082/live"
-    ],
-    "country": "nl",
+    "sources": {
+      "streams": [
+        "https://mscp3.live-streams.nl:8082/live"
+      ]
+    },
     "languages": [
       "nld"
     ]
@@ -2403,10 +2594,11 @@
   {
     "nanoid": "GO7d2Xx5HKhx0f",
     "name": "Volksmusikwelle",
-    "stream_urls": [
-      "https://volksmusikwelle.stream.laut.fm/volksmusikwelle"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://volksmusikwelle.stream.laut.fm/volksmusikwelle"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2414,10 +2606,11 @@
   {
     "nanoid": "E5R7cK0jw0aOST",
     "name": "volXmusik.de",
-    "stream_urls": [
-      "https://volxmusik.stream.laut.fm/volxmusik"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://volxmusik.stream.laut.fm/volxmusik"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2425,10 +2618,11 @@
   {
     "nanoid": "RawudIEXgeieUe",
     "name": "Wirtshausmusik",
-    "stream_urls": [
-      "https://wirtshausmusik.stream.laut.fm/wirtshausmusik"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://wirtshausmusik.stream.laut.fm/wirtshausmusik"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2436,10 +2630,11 @@
   {
     "nanoid": "D0sncARygjB6qb",
     "name": "Zusamstream",
-    "stream_urls": [
-      "https://zusamstream.stream.laut.fm/zusamstream"
-    ],
-    "country": "de",
+    "sources": {
+      "streams": [
+        "https://zusamstream.stream.laut.fm/zusamstream"
+      ]
+    },
     "languages": [
       "deu"
     ]
@@ -2447,11 +2642,12 @@
   {
     "nanoid": "McFDptcabp3tw1",
     "name": "Радио Шансон",
-    "stream_urls": [
-      "https://chanson.hostingradio.ru:8041/chanson128.mp3",
-      "https://chanson.hostingradio.ru:8041/chanson256.mp3"
-    ],
-    "country": "ru",
+    "sources": {
+      "streams": [
+        "https://chanson.hostingradio.ru:8041/chanson128.mp3",
+        "https://chanson.hostingradio.ru:8041/chanson256.mp3"
+      ]
+    },
     "languages": [
       "rus"
     ]

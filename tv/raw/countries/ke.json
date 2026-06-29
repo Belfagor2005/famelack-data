@@ -2,10 +2,25 @@
   {
     "nanoid": "qrF5SmJtak0Ry4",
     "name": "Akili Kids!",
-    "stream_urls": [
-      "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8"
+    "sources": {
+      "streams": [
+        "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
-    "youtube_urls": [],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4q1ZZQLc1olL3d",
+    "name": "Capuchin TV",
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -28,11 +43,12 @@
   {
     "nanoid": "MdBlLcplSVQXjK",
     "name": "Family TV",
-    "stream_urls": [
-      "https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8",
-      "https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.m3u8",
+        "https://stream-207639.castr.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/index.fmp4.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -40,12 +56,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0obNTrGtjRCK4a",
-    "name": "K24",
-    "stream_urls": [
-      "https://livecdn.premiumfree.tv/afxpstr/K24Backup/tracks-v1a1/mono.ts.m3u8"
-    ],
-    "youtube_urls": [],
+    "nanoid": "bjEIxQbflZEnVl",
+    "name": "Inooro TV",
+    "sources": {
+      "streams": [
+        "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -68,10 +85,11 @@
   {
     "nanoid": "ioRSXvq3q3eKzA",
     "name": "KTN News Kenya",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2I0Rldi2zQM"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/bnFEMNM1LuQ"
+      ]
+    },
     "languages": [
       "swa"
     ],
@@ -81,10 +99,25 @@
   {
     "nanoid": "Y7vYe1yqK0sxRF",
     "name": "MERU TV",
-    "stream_urls": [
-      "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
-    "youtube_urls": [],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nnVl6vXmVVFvf3",
+    "name": "MOF TV",
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -94,10 +127,11 @@
   {
     "nanoid": "WytUaXVrqRb2qu",
     "name": "NTV Kenya",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZRDj5GXNezw"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ZRDj5GXNezw"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -133,10 +167,11 @@
   {
     "nanoid": "xv7XuF3Jqnre1p",
     "name": "YOUNIB Media TV",
-    "stream_urls": [
-      "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

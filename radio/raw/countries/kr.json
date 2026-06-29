@@ -2,10 +2,11 @@
   {
     "nanoid": "OSaGZZah5res5I",
     "name": "AFN Daegu",
-    "stream_urls": [
-      "https://18433.live.streamtheworld.com/AFNP_DGUAAC.aac"
-    ],
-    "country": "kr",
+    "sources": {
+      "streams": [
+        "https://18433.live.streamtheworld.com/AFNP_DGUAAC.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "PubQ6OLwS5D7ik",
     "name": "AFN Humphreys",
-    "stream_urls": [
-      "https://14623.live.streamtheworld.com/AFNP_OSNAAC.aac"
-    ],
-    "country": "kr",
+    "sources": {
+      "streams": [
+        "https://14623.live.streamtheworld.com/AFNP_OSNAAC.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "BcfANEK5HotD9L",
     "name": "AFN Kunsan",
-    "stream_urls": [
-      "https://28563.live.streamtheworld.com/AFNP_KSNAAC.aac"
-    ],
-    "country": "kr",
+    "sources": {
+      "streams": [
+        "https://28563.live.streamtheworld.com/AFNP_KSNAAC.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -46,10 +49,11 @@
   {
     "nanoid": "T7fPsDg3i6ZSxN",
     "name": "Fred Film Radio",
-    "stream_urls": [
-      "https://s10.webradio-hosting.com/proxy/fredradiokr/stream"
-    ],
-    "country": "kr",
+    "sources": {
+      "streams": [
+        "https://s10.webradio-hosting.com/proxy/fredradiokr/stream"
+      ]
+    },
     "languages": [
       "kor"
     ]
@@ -57,10 +61,11 @@
   {
     "nanoid": "zHrJQJWQVZoudE",
     "name": "K-RADIO AM 1660",
-    "stream_urls": [
-      "https://s5.radio.co/s0a9796fe3/listen"
-    ],
-    "country": "kr",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/s0a9796fe3/listen"
+      ]
+    },
     "languages": [
       "kor"
     ]
@@ -68,10 +73,11 @@
   {
     "nanoid": "B6Z4Ae5w2gMnYk",
     "name": "Replay News",
-    "stream_urls": [
-      "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3"
-    ],
-    "country": "kr",
+    "sources": {
+      "streams": [
+        "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3"
+      ]
+    },
     "languages": [
       "kor"
     ]

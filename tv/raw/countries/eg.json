@@ -2,10 +2,11 @@
   {
     "nanoid": "hmJBHkCQQky6u9",
     "name": "Aghapy TV",
-    "stream_urls": [
-      "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -41,10 +42,11 @@
   {
     "nanoid": "cldgrOT0slw0oJ",
     "name": "Coptic TV",
-    "stream_urls": [
-      "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ctv.icopts.app/CTV/index.fmp4.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -54,10 +56,11 @@
   {
     "nanoid": "dSBCv9wMIeHZkP",
     "name": "El Radio 9090 FM",
-    "stream_urls": [
-      "https://9090video.mobtada.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://9090video.mobtada.com/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -67,10 +70,11 @@
   {
     "nanoid": "ocf60Z4awZQ5ZB",
     "name": "eXtra news",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QKN1lo92CzU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/H0NnMxIh5oA"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -80,10 +84,11 @@
   {
     "nanoid": "9PE4R6NdLx4OF9",
     "name": "Huda TV",
-    "stream_urls": [
-      "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -93,10 +98,11 @@
   {
     "nanoid": "7QNwjfAH3tZtOn",
     "name": "Koogi TV",
-    "stream_urls": [
-      "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -106,10 +112,11 @@
   {
     "nanoid": "zNKcIL8vSfNOiJ",
     "name": "Mix Hollywood",
-    "stream_urls": [
-      "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -119,10 +126,11 @@
   {
     "nanoid": "sq4B9IaZBUPu1Y",
     "name": "Watan TV",
-    "stream_urls": [
-      "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],

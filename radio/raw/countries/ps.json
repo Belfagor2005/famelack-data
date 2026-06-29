@@ -13,10 +13,11 @@
   {
     "nanoid": "Fzf2fcKppRKBN8",
     "name": "CAMP Radio",
-    "stream_urls": [
-      "https://listen.camp:9000/campradio.ogg"
-    ],
-    "country": "ps",
+    "sources": {
+      "streams": [
+        "https://listen.camp:9000/campradio.ogg"
+      ]
+    },
     "languages": [
       "eng"
     ]

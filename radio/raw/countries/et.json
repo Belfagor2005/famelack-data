@@ -2,23 +2,26 @@
   {
     "nanoid": "4bAF7GGuDDGl8H",
     "name": "Addis FM 97.1",
-    "stream_urls": [
-      "https://stream.zeno.fm/7tzrhrap7yzuv",
-      "https://stream.zeno.fm/rb6wbrap7yzuv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7tzrhrap7yzuv",
+        "https://stream.zeno.fm/rb6wbrap7yzuv"
+      ]
+    },
     "languages": [
       "amh"
     ],
+    "country": "et",
     "isGeoBlocked": false
   },
   {
     "nanoid": "HbBgrhE1dpj6od",
     "name": "Addis Music",
-    "stream_urls": [
-      "https://stream.zeno.fm/umguj2baxdctv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/umguj2baxdctv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -26,10 +29,11 @@
   {
     "nanoid": "kSpVNkSrlxqk5N",
     "name": "Ahadu Radio",
-    "stream_urls": [
-      "https://stream-155.zeno.fm/txxpndf1wwzuv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream-155.zeno.fm/txxpndf1wwzuv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -37,10 +41,11 @@
   {
     "nanoid": "cSVXxsODMGQb4J",
     "name": "Amharic Live Sport",
-    "stream_urls": [
-      "https://stream.zeno.fm/bqtruhn4q98uv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/bqtruhn4q98uv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -48,10 +53,11 @@
   {
     "nanoid": "LQjAFQsH8ap0x3",
     "name": "Christian Mez",
-    "stream_urls": [
-      "https://stream.zeno.fm/0bws6ct0ey8uv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/0bws6ct0ey8uv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -59,10 +65,11 @@
   {
     "nanoid": "pcPQQxQsbcDXGY",
     "name": "EBC Radio",
-    "stream_urls": [
-      "https://stream-25.zeno.fm/2xguamap7yzuv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream-25.zeno.fm/2xguamap7yzuv"
+      ]
+    },
     "languages": [
       "amh",
       "ara",
@@ -73,11 +80,12 @@
   {
     "nanoid": "IM72u7lau78XO8",
     "name": "Ethio FM 107.8",
-    "stream_urls": [
-      "https://stream.zeno.fm/b8skbyqeqeruv",
-      "https://stream.zeno.fm/72y045deqeruv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/b8skbyqeqeruv",
+        "https://stream.zeno.fm/72y045deqeruv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -85,10 +93,11 @@
   {
     "nanoid": "ufKwNgtuYstJNZ",
     "name": "Ethio Oldies",
-    "stream_urls": [
-      "https://www.ethioldies.com/listen/ethioldies/radio.mp3"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://www.ethioldies.com/listen/ethioldies/radio.mp3"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -96,10 +105,11 @@
   {
     "nanoid": "mICJxbw3uELfCx",
     "name": "Halaal Media",
-    "stream_urls": [
-      "https://stream.zeno.fm/rqx24qj7offvv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rqx24qj7offvv"
+      ]
+    },
     "languages": [
       "amh",
       "eng"
@@ -120,10 +130,11 @@
   {
     "nanoid": "0uru0ga1iWsEyg",
     "name": "Jano FM",
-    "stream_urls": [
-      "https://stream-54.zeno.fm/1cyn1as4v68uv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream-54.zeno.fm/1cyn1as4v68uv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -131,10 +142,11 @@
   {
     "nanoid": "oVQ64WurJQTuZr",
     "name": "Mirt Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/akmuznguawzuv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/akmuznguawzuv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -142,10 +154,11 @@
   {
     "nanoid": "x0140UoSpde2qF",
     "name": "Orthodox Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/pfaho9uockwuv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pfaho9uockwuv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -153,12 +166,13 @@
   {
     "nanoid": "jZH5H3Xk9DD0kB",
     "name": "Sheger FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/s7scdp65puquv",
-      "https://stream.zeno.fm/y91n1vtbaw5tv",
-      "https://stream.zenolive.com/y91n1vtbaw5tv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/s7scdp65puquv",
+        "https://stream.zeno.fm/y91n1vtbaw5tv",
+        "https://stream.zenolive.com/y91n1vtbaw5tv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -166,10 +180,11 @@
   {
     "nanoid": "j3pZj1XsE7BOOo",
     "name": "Taem Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/ffg8htkh1k0uv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ffg8htkh1k0uv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -177,10 +192,11 @@
   {
     "nanoid": "sCXbNEKLz8RMMB",
     "name": "Tirita FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/x751reg18zhvv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/x751reg18zhvv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -188,10 +204,11 @@
   {
     "nanoid": "8EwKCnVhevD9IA",
     "name": "Tizita FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/55nlq5yzqlftv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/55nlq5yzqlftv"
+      ]
+    },
     "languages": [
       "amh"
     ]
@@ -199,10 +216,11 @@
   {
     "nanoid": "2EGT8H5UMEzolo",
     "name": "Voice of Ethiopia",
-    "stream_urls": [
-      "https://node-34.zeno.fm/hubm64kkr2zuv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://node-34.zeno.fm/hubm64kkr2zuv"
+      ]
+    },
     "languages": [
       "amh",
       "eng"
@@ -211,10 +229,11 @@
   {
     "nanoid": "TmxSivLEq4Da7b",
     "name": "YeneVibe Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/5mz3qqftsnhvv"
-    ],
-    "country": "et",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/5mz3qqftsnhvv"
+      ]
+    },
     "languages": [
       "amh"
     ]

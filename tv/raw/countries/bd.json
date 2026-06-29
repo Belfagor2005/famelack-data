@@ -56,10 +56,11 @@
   {
     "nanoid": "mxpvI5Qy87eBeF",
     "name": "DBC News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/W5ANJGgnjxg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/RKLQKwxgQ2g"
+      ]
+    },
     "languages": [
       "ben"
     ],
@@ -129,6 +130,31 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Y4iyCuIAvT8"
     ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "29x0D5l70jxbBR",
+    "name": "Green TV",
+    "sources": {
+      "streams": [
+        "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mp7J62VtY0DqAW",
+    "name": "Independent Television",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MbfRSlxYDH0"
+      ]
+    },
     "languages": [
       "ben"
     ],
@@ -189,10 +215,11 @@
   {
     "nanoid": "VNY3CPiX9tfekV",
     "name": "NTV Live",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tbkWU88p5ks"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_kPurSNCKgY"
+      ]
+    },
     "languages": [
       "ben"
     ],
@@ -202,10 +229,25 @@
   {
     "nanoid": "tzTABG45l31V9t",
     "name": "Peace TV Bangla",
-    "stream_urls": [
-      "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+    "sources": {
+      "streams": [
+        "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
     ],
-    "youtube_urls": [],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lxKB7P4hAHIaws",
+    "name": "Rtv News",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/RzMVAehEg3w"
+      ]
+    },
     "languages": [
       "ben"
     ],
@@ -215,12 +257,11 @@
   {
     "nanoid": "jRNbdDq68JaIxU",
     "name": "Somoy News TV",
-    "stream_urls": [
-      "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ITx_k7uNFP4"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ITx_k7uNFP4"
+      ]
+    },
     "languages": [
       "ben"
     ],

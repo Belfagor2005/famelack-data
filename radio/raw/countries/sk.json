@@ -2,22 +2,25 @@
   {
     "nanoid": "h7HudEHLbSJke2",
     "name": "897 Dance Radio",
-    "stream_urls": [
-      "https://c34.radioboss.fm:8106/stream"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://c34.radioboss.fm:8106/stream"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "QdDZc5nbWo6PmC",
     "name": "BB FM",
-    "stream_urls": [
-      "https://stream.bbfm.sk/bbfm128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.bbfm.sk/bbfm128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -25,11 +28,12 @@
   {
     "nanoid": "g1VmtcKaILXpac",
     "name": "Best FM",
-    "stream_urls": [
-      "https://stream3.bestfm.sk:8000/160.aac",
-      "https://stream3.bestfm.sk:8000/128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream3.bestfm.sk:8000/160.aac",
+        "https://stream3.bestfm.sk:8000/128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -37,10 +41,11 @@
   {
     "nanoid": "R4SnK7899a581z",
     "name": "Detské rádio",
-    "stream_urls": [
-      "https://stream.21.sk/detskeradio-192.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.21.sk/detskeradio-192.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -48,10 +53,11 @@
   {
     "nanoid": "OfoN3haUm59hc2",
     "name": "Dobré rádio",
-    "stream_urls": [
-      "https://stream.dobreradio.sk/dobreradio.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.dobreradio.sk/dobreradio.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -59,10 +65,11 @@
   {
     "nanoid": "2PWNDuzLmDI0vW",
     "name": "Duflo Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/kxwhyvz2fm0uv"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/kxwhyvz2fm0uv"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -70,10 +77,11 @@
   {
     "nanoid": "Nch2xCW6pjQcXV",
     "name": "Europa 2",
-    "stream_urls": [
-      "https://stream.bauermedia.sk/europa2.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.bauermedia.sk/europa2.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -81,10 +89,11 @@
   {
     "nanoid": "nXIrrcPfL0Wer4",
     "name": "Fit Family Radio",
-    "stream_urls": [
-      "https://solid67.streamupsolutions.com/proxy/reqsithw/stream"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://solid67.streamupsolutions.com/proxy/reqsithw/stream"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -92,10 +101,11 @@
   {
     "nanoid": "njKTf6TXDEa7WQ",
     "name": "Fred Film Radio (Slovenčina)",
-    "stream_urls": [
-      "https://s10.webradio-hosting.com/proxy/fredradiosk/stream"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://s10.webradio-hosting.com/proxy/fredradiosk/stream"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -103,10 +113,11 @@
   {
     "nanoid": "9pyIR8Pvt0un95",
     "name": "FRESH rádio",
-    "stream_urls": [
-      "https://icecast2.radionet.sk/freshradio.sk"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://icecast2.radionet.sk/freshradio.sk"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -114,10 +125,11 @@
   {
     "nanoid": "gaSOQlQ9d869DQ",
     "name": "Fun rádio",
-    "stream_urls": [
-      "https://stream.funradio.sk:8000/fun128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.funradio.sk:8000/fun128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -125,10 +137,11 @@
   {
     "nanoid": "Q1K2Us1bEHikPq",
     "name": "Fun rádio: 80-90 roky",
-    "stream_urls": [
-      "https://stream.funradio.sk:8000/80-90-128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.funradio.sk:8000/80-90-128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -136,10 +149,11 @@
   {
     "nanoid": "s5XQ1V8sYytOWa",
     "name": "Fun rádio: Chill",
-    "stream_urls": [
-      "https://stream.funradio.sk:8000/chill128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.funradio.sk:8000/chill128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -147,10 +161,11 @@
   {
     "nanoid": "5cii7XQIGaegn6",
     "name": "Fun rádio: CZ-SK",
-    "stream_urls": [
-      "https://stream.funradio.sk:8000/cs128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.funradio.sk:8000/cs128.mp3"
+      ]
+    },
     "languages": [
       "slk",
       "ces"
@@ -159,10 +174,11 @@
   {
     "nanoid": "PpMfLbORnoBEwb",
     "name": "Fun rádio: Dance",
-    "stream_urls": [
-      "https://stream.funradio.sk:8000/dance128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.funradio.sk:8000/dance128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -170,10 +186,11 @@
   {
     "nanoid": "YL1xM3KDN8w3Z1",
     "name": "Fun rádio: Mileniálky",
-    "stream_urls": [
-      "https://stream.funradio.sk:8000/milenialky128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.funradio.sk:8000/milenialky128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -181,10 +198,11 @@
   {
     "nanoid": "45GgpMgfV69OC5",
     "name": "Hitrádio Slovakia",
-    "stream_urls": [
-      "https://hitradioslovakia.stream.laut.fm/hitradioslovakia"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://hitradioslovakia.stream.laut.fm/hitradioslovakia"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -192,10 +210,11 @@
   {
     "nanoid": "YzVEryxO1T3OKB",
     "name": "House Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/qm8e21gta18uv"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/qm8e21gta18uv"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -203,10 +222,11 @@
   {
     "nanoid": "Uytwrj2Px6Z9PN",
     "name": "METALSCENA netRADIO",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/263218/stream/308365"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/263218/stream/308365"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -214,10 +234,11 @@
   {
     "nanoid": "ZiTkKBbdHT5YaO",
     "name": "Party Mix Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/rw6ckefezs8uv"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rw6ckefezs8uv"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -225,10 +246,11 @@
   {
     "nanoid": "HVIcHPjS9Jc0rG",
     "name": "PARTYRADIO",
-    "stream_urls": [
-      "https://mpc1.mediacp.eu/stream/partyradio"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://mpc1.mediacp.eu/stream/partyradio"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -236,144 +258,167 @@
   {
     "nanoid": "Ytsu54NmO9WZF9",
     "name": "Radio Basavel",
-    "stream_urls": [
-      "https://stream.zeno.fm/6gd9c6yn4nhvv"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6gd9c6yn4nhvv"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "YOq5oiTQUAUcl4",
     "name": "Rádio Devín",
-    "stream_urls": [
-      "https://icecast.stv.livebox.sk/devin_128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://icecast.stv.livebox.sk/devin_128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "YDBoDSnqKfm6AV",
     "name": "Rádio Expres",
-    "stream_urls": [
-      "https://stream.bauermedia.sk/128.mp3",
-      "https://stream.expres.sk/128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.bauermedia.sk/128.mp3",
+        "https://stream.expres.sk/128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "wrOabhqnS8eHnP",
     "name": "Rádio Folk",
-    "stream_urls": [
-      "https://mpc1.mediacp.eu/stream/demo2"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://mpc1.mediacp.eu/stream/demo2"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "2Vwxrzp56iExKp",
     "name": "Rádio Jazz",
-    "stream_urls": [
-      "https://stream.sepia.sk:8000/jazz128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.sepia.sk:8000/jazz128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "UslMisajFBklk0",
     "name": "Rádio KIKS",
-    "stream_urls": [
-      "https://online.radiokiks.sk:8000/kiks_hq.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://online.radiokiks.sk:8000/kiks_hq.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "FBOQ9MuEBBRGtp",
     "name": "Rádio KIKS: Big 80s",
-    "stream_urls": [
-      "https://online.radiokiks.sk:8000/kiks_big80s.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://online.radiokiks.sk:8000/kiks_big80s.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "JQl3s1LtZ1cyuj",
     "name": "Rádio KIKS: Big 90s",
-    "stream_urls": [
-      "https://online.radiokiks.sk:8000/kiks_big90s.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://online.radiokiks.sk:8000/kiks_big90s.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "zuNaycycqRcVFt",
     "name": "Rádio KIKS: Rock Music",
-    "stream_urls": [
-      "https://online.radiokiks.sk:8000/kiks_rock.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://online.radiokiks.sk:8000/kiks_rock.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "TuAGN4gmI5P1YK",
     "name": "Rádio Litera",
-    "stream_urls": [
-      "https://icecast.stv.livebox.sk/litera_128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://icecast.stv.livebox.sk/litera_128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "wCm1VBmKjvbkcO",
     "name": "Rádio Melody",
-    "stream_urls": [
-      "https://stream.bauermedia.sk/melody-hi.mp3",
-      "https://stream.bauermedia.sk/melody-lo.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.bauermedia.sk/melody-hi.mp3",
+        "https://stream.bauermedia.sk/melody-lo.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
     "nanoid": "cjkr3jqmbB9XKj",
     "name": "Radio Metropolitan",
-    "stream_urls": [
-      "https://mpc2.mediacp.eu:8214/stream"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://mpc2.mediacp.eu:8214/stream"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -381,10 +426,11 @@
   {
     "nanoid": "PGA1rmanjFV5Fh",
     "name": "Radio Slovakia International",
-    "stream_urls": [
-      "https://icecast.stv.livebox.sk/rsi_128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://icecast.stv.livebox.sk/rsi_128.mp3"
+      ]
+    },
     "languages": [
       "slk",
       "eng",
@@ -397,10 +443,11 @@
   {
     "nanoid": "nqqSBgrq2QaXuA",
     "name": "Radio TLIS",
-    "stream_urls": [
-      "https://stream.tlis.sk/tlis.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.tlis.sk/tlis.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -408,14 +455,16 @@
   {
     "nanoid": "ug8hHOhT9BNrwW",
     "name": "Radio Viva",
-    "stream_urls": [
-      "https://stream.sepia.sk:8000/viva128.mp3",
-      "https://stream.sepia.sk/viva128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.sepia.sk:8000/viva128.mp3",
+        "https://stream.sepia.sk/viva128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ],
+    "country": "sk",
     "isGeoBlocked": false
   },
   {
@@ -433,10 +482,11 @@
   {
     "nanoid": "4fXnpEJLnADMzB",
     "name": "Rusyn FM",
-    "stream_urls": [
-      "https://stream.rusyn.fm/rusyny.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.rusyn.fm/rusyny.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -788,10 +838,11 @@
   {
     "nanoid": "TmFtWPNlghaCcu",
     "name": "Slobodný vysielač",
-    "stream_urls": [
-      "https://vysielanie.online/radio/8020/SV128.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://vysielanie.online/radio/8020/SV128.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -799,10 +850,11 @@
   {
     "nanoid": "jJEDtSlklX0XOr",
     "name": "Tiché rádio",
-    "stream_urls": [
-      "https://stream.ticheradio.sk/tiche.mp3"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://stream.ticheradio.sk/tiche.mp3"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -810,10 +862,11 @@
   {
     "nanoid": "CDbBHOyoY6V0TU",
     "name": "TOP rádio",
-    "stream_urls": [
-      "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream"
+      ]
+    },
     "languages": [
       "slk"
     ]
@@ -821,10 +874,11 @@
   {
     "nanoid": "FQ2TmS6nJyOfLV",
     "name": "Trnavské rádio",
-    "stream_urls": [
-      "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske"
-    ],
-    "country": "sk",
+    "sources": {
+      "streams": [
+        "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske"
+      ]
+    },
     "languages": [
       "slk"
     ]

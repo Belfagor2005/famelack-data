@@ -13,25 +13,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WDEjDpDWifIyr0",
-    "name": "Imai TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aPS8EfkYXWdlK5",
     "name": "Jaya TV",
-    "stream_urls": [
-      "https://live.jayatv.lk/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.jayatv.lk/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -41,10 +29,11 @@
   {
     "nanoid": "SfoZRyfL73LUNW",
     "name": "Karma",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8xfN8FLGRRU"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8xfN8FLGRRU"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -119,10 +108,11 @@
   {
     "nanoid": "iGtWdanOFXXJW6",
     "name": "Pragna TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/76QGhfJgmE0"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/76QGhfJgmE0"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -158,10 +148,11 @@
   {
     "nanoid": "93ImfKCer0mJxB",
     "name": "Siyatha TV",
-    "stream_urls": [
-      "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
+      ]
+    },
     "languages": [
       "sin"
     ],
@@ -171,10 +162,11 @@
   {
     "nanoid": "BhmoGwl2ZbKr5D",
     "name": "The Buddhist TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_cU58xfB2co"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/_cU58xfB2co"
+      ]
+    },
     "languages": [
       "sin"
     ],

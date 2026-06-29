@@ -2,10 +2,11 @@
   {
     "nanoid": "tBMtLOmnRjMFI7",
     "name": "Energy FM",
-    "stream_urls": [
-      "https://ukwesta.streaming.broadcast.radio/energyfm"
-    ],
-    "country": "im",
+    "sources": {
+      "streams": [
+        "https://ukwesta.streaming.broadcast.radio/energyfm"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "oQaQ96kvSv3bpg",
     "name": "Isle of Man Free Radio",
-    "stream_urls": [
-      "https://play.radioking.io/ian-byrne"
-    ],
-    "country": "im",
+    "sources": {
+      "streams": [
+        "https://play.radioking.io/ian-byrne"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -24,10 +26,11 @@
   {
     "nanoid": "PfEIgEjfVXGAmf",
     "name": "Manx Radio",
-    "stream_urls": [
-      "https://edge-audio-06-thn.sharp-stream.com/manxradiofm.aac"
-    ],
-    "country": "im",
+    "sources": {
+      "streams": [
+        "https://edge-audio-06-thn.sharp-stream.com/manxradiofm.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]

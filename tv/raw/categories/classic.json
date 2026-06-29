@@ -2,10 +2,11 @@
   {
     "nanoid": "MsBPAtiznwuBpL",
     "name": "3Cat Plats bruts",
-    "stream_urls": [
-      "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
+      ]
+    },
     "languages": [
       "cat"
     ],
@@ -15,10 +16,11 @@
   {
     "nanoid": "aPpjoxS7Oyu4bM",
     "name": "AWTV",
-    "stream_urls": [
-      "https://awtv.nuvemplay.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://awtv.nuvemplay.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "por"
     ],
@@ -28,10 +30,11 @@
   {
     "nanoid": "3FibakB882ByKy",
     "name": "Classic TV",
-    "stream_urls": [
-      "https://clshls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://clshls.wns.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -67,10 +70,11 @@
   {
     "nanoid": "52cUdXgN2lEt5P",
     "name": "FilmRise Classic TV",
-    "stream_urls": [
-      "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -119,10 +123,11 @@
   {
     "nanoid": "4QXgwdYwMkY8d0",
     "name": "LAMIL35 TV",
-    "stream_urls": [
-      "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -132,10 +137,11 @@
   {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oJziSt-N-jg"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/oJziSt-N-jg"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -145,10 +151,11 @@
   {
     "nanoid": "odbTAV6ttz1zzI",
     "name": "Persiana Nostalgia",
-    "stream_urls": [
-      "https://noshls.persiana.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://noshls.persiana.live/hls/stream.m3u8"
+      ]
+    },
     "languages": [
       "fas"
     ],
@@ -158,10 +165,11 @@
   {
     "nanoid": "oubeKLPS2AIZdf",
     "name": "Pro100TV",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -171,10 +179,11 @@
   {
     "nanoid": "AG1c9dyu0hTbFo",
     "name": "Retro",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
+      ]
+    },
     "languages": [
       "rus"
     ],
@@ -182,13 +191,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E1Lcoo33DxonUM",
+    "name": "Retro TV East",
+    "sources": {
+      "streams": [
+        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Br53BhiHjkS3op",
     "name": "RetroCrush",
-    "stream_urls": [
-      "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8",
-      "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8",
+        "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -198,10 +222,11 @@
   {
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
-    "stream_urls": [
-      "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -276,10 +301,11 @@
   {
     "nanoid": "qZJLmt0dETdzDZ",
     "name": "The Archive",
-    "stream_urls": [
-      "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -289,10 +315,11 @@
   {
     "nanoid": "qDdtJta6euRe24",
     "name": "The Carol Burnett Show",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -315,10 +342,11 @@
   {
     "nanoid": "MiDzldTeOOzM8X",
     "name": "TVN3",
-    "stream_urls": [
-      "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -328,10 +356,11 @@
   {
     "nanoid": "39NeLODve9GoDp",
     "name": "TVS Cipher Network",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -341,10 +370,11 @@
   {
     "nanoid": "FqDYhRQixd9c33",
     "name": "TVS Classic Movies",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -354,10 +384,11 @@
   {
     "nanoid": "nEw5shV0a9fMVa",
     "name": "TVS Hollywood History",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -367,10 +398,11 @@
   {
     "nanoid": "NZYQQqhbxqAkwb",
     "name": "TVS Mainstreet",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -380,10 +412,11 @@
   {
     "nanoid": "jGl8Iiki6ICNgY",
     "name": "TVS Nostalgia",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -393,10 +426,11 @@
   {
     "nanoid": "6MEE09P2l9tM7t",
     "name": "TVS Nostalgia Movies",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -406,10 +440,11 @@
   {
     "nanoid": "oceKhZro4FoYK0",
     "name": "TVS Pet Parade Network",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -419,10 +454,11 @@
   {
     "nanoid": "gVH4jwVSfSt20g",
     "name": "TVS Quiz Show Network",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -432,10 +468,11 @@
   {
     "nanoid": "XwiDGKdsH20Bju",
     "name": "TVS Retro",
-    "stream_urls": [
-      "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -445,10 +482,11 @@
   {
     "nanoid": "1jG3sFKGqkYtkD",
     "name": "TVS Talk Network",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -458,10 +496,11 @@
   {
     "nanoid": "IOBb2CTWNzxcZN",
     "name": "TVS Tally Ho",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -471,10 +510,11 @@
   {
     "nanoid": "QkfPuwFZRsaKgc",
     "name": "TVS Tavern",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -484,10 +524,11 @@
   {
     "nanoid": "cuX9Sttu45aItE",
     "name": "TVS Western Movie",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -497,10 +538,11 @@
   {
     "nanoid": "KveLLwWt3iDNsT",
     "name": "Wanted: Dead or Alive",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -510,10 +552,11 @@
   {
     "nanoid": "xae9GkiaWEJxkK",
     "name": "Warner Bros. Rewind: Police Academy Series",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/koAHvs1Sf7M"
-    ],
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/koAHvs1Sf7M"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -523,14 +566,43 @@
   {
     "nanoid": "5N50bnTr2ohfWL",
     "name": "Xtrema Cine Clasico",
-    "stream_urls": [
-      "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],
     "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jznTuWIBt2HrkT",
+    "name": "ZB Cinema",
+    "sources": {
+      "streams": [
+        "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3FzbK83VWEyWF",
+    "name": "ZillarBarta News",
+    "sources": {
+      "streams": [
+        "https://server.zillarbarta.com/zillarbarta/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   }
 ]

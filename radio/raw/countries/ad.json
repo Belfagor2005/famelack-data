@@ -2,10 +2,11 @@
   {
     "nanoid": "aVw200WgNaZoBO",
     "name": "Flaix FM Andorra",
-    "stream_urls": [
-      "https://streaming.giraweb.com/8020/stream"
-    ],
-    "country": "ad",
+    "sources": {
+      "streams": [
+        "https://streaming.giraweb.com/8020/stream"
+      ]
+    },
     "languages": [
       "cat"
     ]
@@ -13,10 +14,11 @@
   {
     "nanoid": "QnmhBW1vfgQwGQ",
     "name": "Flaixbac Andorra",
-    "stream_urls": [
-      "https://streaming.giraweb.com/8010/stream"
-    ],
-    "country": "ad",
+    "sources": {
+      "streams": [
+        "https://streaming.giraweb.com/8010/stream"
+      ]
+    },
     "languages": [
       "cat"
     ]
@@ -46,25 +48,29 @@
   {
     "nanoid": "Y8Ti8Vp5a2sxyW",
     "name": "Pròxima FM",
-    "stream_urls": [
-      "https://mars.streamerr.co/8400/stream"
-    ],
-    "country": "ad",
+    "sources": {
+      "streams": [
+        "https://mars.streamerr.co/8400/stream"
+      ]
+    },
     "languages": [
       "cat"
     ],
+    "country": "ad",
     "isGeoBlocked": false
   },
   {
     "nanoid": "P52R8uGTU4TgdT",
     "name": "Ràdio Valira",
-    "stream_urls": [
-      "https://mars.streamerr.co/8378/stream"
-    ],
-    "country": "ad",
+    "sources": {
+      "streams": [
+        "https://mars.streamerr.co/8378/stream"
+      ]
+    },
     "languages": [
       "cat"
     ],
+    "country": "ad",
     "isGeoBlocked": false
   },
   {

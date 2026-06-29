@@ -2,25 +2,28 @@
   {
     "nanoid": "xfhAvsQ1x13lkG",
     "name": "AFN 360 Bahrain",
-    "stream_urls": [
-      "https://25553.live.streamtheworld.com/AFNE_BHN_SC",
-      "https://25603.live.streamtheworld.com/AFNE_BHN_SC",
-      "https://28563.live.streamtheworld.com/AFNE_BHN_SC"
-    ],
-    "country": "bh",
+    "sources": {
+      "streams": [
+        "https://25553.live.streamtheworld.com/AFNE_BHN_SC",
+        "https://25603.live.streamtheworld.com/AFNE_BHN_SC",
+        "https://28563.live.streamtheworld.com/AFNE_BHN_SC"
+      ]
+    },
     "languages": [
       "eng"
     ],
+    "country": "bh",
     "isGeoBlocked": false
   },
   {
     "nanoid": "GTsRwiERIkvfZN",
     "name": "AFN Bahrain",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac"
-    ],
-    "country": "bh",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -28,10 +31,11 @@
   {
     "nanoid": "v60FlRyK6ZYgY3",
     "name": "BFBS Bahrain",
-    "stream_urls": [
-      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3"
-    ],
-    "country": "bh",
+    "sources": {
+      "streams": [
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -39,10 +43,11 @@
   {
     "nanoid": "6CLIl1mzKk9ejO",
     "name": "Live FM 107.2",
-    "stream_urls": [
-      "https://stream.aiir.com/dbv0rxpwp6ytv"
-    ],
-    "country": "bh",
+    "sources": {
+      "streams": [
+        "https://stream.aiir.com/dbv0rxpwp6ytv"
+      ]
+    },
     "languages": [
       "eng",
       "hin",
@@ -56,10 +61,11 @@
   {
     "nanoid": "UeiIcxw8GJyIFz",
     "name": "Plus FM 89.2",
-    "stream_urls": [
-      "https://l3.itworkscdn.net/itwaudio/9026/stream.mp3"
-    ],
-    "country": "bh",
+    "sources": {
+      "streams": [
+        "https://l3.itworkscdn.net/itwaudio/9026/stream.mp3"
+      ]
+    },
     "languages": [
       "ara"
     ]
@@ -67,10 +73,11 @@
   {
     "nanoid": "Xp7TiTV9YvpVKZ",
     "name": "Voice of Ummah",
-    "stream_urls": [
-      "https://mediati.me/radio/8010/radio.mp3"
-    ],
-    "country": "bh",
+    "sources": {
+      "streams": [
+        "https://mediati.me/radio/8010/radio.mp3"
+      ]
+    },
     "languages": [
       "urd"
     ]

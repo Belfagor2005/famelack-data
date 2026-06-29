@@ -14,10 +14,11 @@
   {
     "nanoid": "zv1kgGIQozZ4lf",
     "name": "National Alliance Radio Network",
-    "stream_urls": [
-      "https://radio.biocentric.org/listen/national_alliance_radio_network/listen"
-    ],
-    "country": "us",
+    "sources": {
+      "streams": [
+        "https://radio.biocentric.org/listen/national_alliance_radio_network/listen"
+      ]
+    },
     "languages": [
       "eng"
     ]
@@ -25,22 +26,25 @@
   {
     "nanoid": "Jy6Uc5nijRRHhC",
     "name": "Radio Maisha",
-    "stream_urls": [
-      "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha"
-    ],
-    "country": "ke",
+    "sources": {
+      "streams": [
+        "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha"
+      ]
+    },
     "languages": [
       "swa"
     ],
+    "country": "ke",
     "isGeoBlocked": false
   },
   {
     "nanoid": "2l1pY4L3GdYCU1",
     "name": "Radio Mojahed",
-    "stream_urls": [
-      "https://s2.radio.co/s830691c74/listen"
-    ],
-    "country": "ir",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co/s830691c74/listen"
+      ]
+    },
     "languages": [
       "fas"
     ]
@@ -48,10 +52,11 @@
   {
     "nanoid": "zhoB4FoIe05gL0",
     "name": "Radio Radicale",
-    "stream_urls": [
-      "https://live.radioradicale.it/live.mp3"
-    ],
-    "country": "it",
+    "sources": {
+      "streams": [
+        "https://live.radioradicale.it/live.mp3"
+      ]
+    },
     "languages": [
       "ita"
     ]
@@ -59,10 +64,11 @@
   {
     "nanoid": "XB9ZY25FkmHoMK",
     "name": "Radio ZZA",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/526993/stream/585379"
-    ],
-    "country": "ir",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/526993/stream/585379"
+      ]
+    },
     "languages": [
       "fas"
     ]

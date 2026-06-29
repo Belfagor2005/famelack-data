@@ -15,10 +15,11 @@
   {
     "nanoid": "lzj2rgOVC9PJzk",
     "name": "Althania",
-    "stream_urls": [
-      "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -54,10 +55,11 @@
   {
     "nanoid": "FguzmgQdpg9XFC",
     "name": "Rojava TV",
-    "stream_urls": [
-      "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8"
+      ]
+    },
     "languages": [
       "ara",
       "kur"
@@ -68,10 +70,11 @@
   {
     "nanoid": "XUZvlMOrh5z0lP",
     "name": "Ronahi TV",
-    "stream_urls": [
-      "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8"
+      ]
+    },
     "languages": [
       "ara",
       "kur"
@@ -82,12 +85,13 @@
   {
     "nanoid": "hGJWMD70oUF4Yo",
     "name": "Syria TV",
-    "stream_urls": [
-      "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
-      "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017"
+      ]
+    },
     "languages": [
       "ara"
     ],
@@ -97,10 +101,11 @@
   {
     "nanoid": "juxXjhcoxJLbzK",
     "name": "Welat TV",
-    "stream_urls": [
-      "https://stream.badinan.xyz/welat/tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
+    "sources": {
+      "streams": [
+        "https://stream.badinan.xyz/welat/tv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ara"
     ],

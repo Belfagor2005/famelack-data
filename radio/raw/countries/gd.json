@@ -2,10 +2,11 @@
   {
     "nanoid": "BY78AZxr3CFpMF",
     "name": "City Sound 97.5 FM",
-    "stream_urls": [
-      "https://auds1.intacs.com/citysoundfm"
-    ],
-    "country": "gd",
+    "sources": {
+      "streams": [
+        "https://auds1.intacs.com/citysoundfm"
+      ]
+    },
     "languages": [
       "eng"
     ]
