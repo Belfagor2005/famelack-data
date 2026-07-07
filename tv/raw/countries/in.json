@@ -2205,6 +2205,7 @@
     "name": "Good News Today",
     "sources": {
       "streams": [
+        "https://feeds.intoday.in/gnt/api/master.m3u8",
         "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
         "https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8"
       ]
@@ -2609,8 +2610,8 @@
     "sources": {
       "streams": [
         "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
-        "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
-        "https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8"
+        "https://feeds.intoday.in/hltapps/api/master.m3u8",
+        "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
       ]
     },
     "languages": [
