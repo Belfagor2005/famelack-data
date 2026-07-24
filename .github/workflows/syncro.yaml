@@ -2,8 +2,8 @@ name: Sync fork with upstream (preserve my changes)
 
 on:
   schedule:
-    - cron: '0 3 * * 1'   # ogni lunedì alle 3 UTC
-  workflow_dispatch:        # permette avvio manuale
+    - cron: '0 3 * * 5'   # ogni venerdì alle 3 UTC
+  workflow_dispatch:
 
 jobs:
   sync:

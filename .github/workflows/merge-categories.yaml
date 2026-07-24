@@ -3,7 +3,7 @@ name: Merge Category JSONs
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 * * 0'
+    - cron: '30 3 * * 5'   # ogni venerdì alle 3:30 UTC
 
 jobs:
   merge:
