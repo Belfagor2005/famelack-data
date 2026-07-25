@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "DNvXN4cXK8bo20",
-    "name": "AFBTV Kupang",
-    "sources": {
-      "streams": [
-        "https://afbtv.siar.us/live/afbtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fEk1aZZhOygCxY",
     "name": "Ahsan TV",
     "sources": {
@@ -330,6 +316,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T3RkIVyDffmjkr",
+    "name": "Izzah TV",
+    "sources": {
+      "streams": [
+        "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AwWVoTg8nnvs2w",
     "name": "Jambi TV",
     "sources": {
@@ -483,25 +483,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c9GCwVR0qdOyVK",
-    "name": "MBG TV FHD",
-    "sources": {
-      "streams": [
-        "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "A8yIwT2axQkqtt",
     "name": "Media Sunnah Aceh TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XxTWY8sv1uI"
+        "https://www.youtube-nocookie.com/embed/l3hBKFF0vgc"
       ]
     },
     "languages": [
@@ -514,8 +500,25 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
+      "streams": [
+        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VYzPIJkb2iBgYd",
+    "name": "MGSTV",
+    "sources": {
+      "streams": [
+        "https://mgstv.siar.us/live/mgstv.m3u8"
       ]
     },
     "languages": [
@@ -566,25 +569,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZAMsD9HhaPz9Bn",
-    "name": "Nusantara TV",
+    "nanoid": "D6GBQhdMfQr39B",
+    "name": "Naajiya TV",
     "sources": {
       "streams": [
-        "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+        "https://www.naajiyatv.com/live/livestream.m3u8"
       ]
     },
     "languages": [
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ts73mvVV0P9A9R",
     "name": "Official iNews",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fdimaSYJtew"
+        "https://www.youtube-nocookie.com/embed/WHTPYAvakTg"
       ]
     },
     "languages": [
@@ -598,6 +601,20 @@
     "name": "Radar Tasikmalaya TV",
     "stream_urls": [
       "https://www.streaming.radartv.co.id/hls/test.m3u8"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ggkBalQqNc86oy",
+    "name": "Puja TV Aceh",
+    "sources": {
+      "streams": [
+        "https://pujatv.siar.us/live/pujatv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -623,6 +640,20 @@
       "https://v10.siar.us/rctv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GyYMyUUtPptNeI",
+    "name": "Rinjani TV",
+    "sources": {
+      "streams": [
+        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],
@@ -786,20 +817,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6DA4FLoBUvoZ4f",
-    "name": "Surabaya TV",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/surabayatv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RW7rOnO3B5Miyc",
     "name": "Syafiq Riza Basalamah",
     "stream_urls": [],
@@ -881,11 +898,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AIvndURhkfCKoa",
+    "name": "TVKU",
+    "sources": {
+      "streams": [
+        "https://tvku.tv/hlsstream/hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LoQgh9Xj1nCTfY",
     "name": "tvOneNews",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yNKvkPJl-tg"
+        "https://www.youtube-nocookie.com/embed/rQJoEpzKkNk"
       ]
     },
     "languages": [

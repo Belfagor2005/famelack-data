@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "otid9imSgOgaGV",
-    "name": "CTITV News 中天新聞",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/uQd0sCZP0hM"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "tw",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Cj9jI4Ty58FAjy",
     "name": "CTV News 中視新聞",
     "sources": {
@@ -172,7 +158,7 @@
     "name": "momo購物一台 CH48",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_pZQ1Lk0xMA"
+        "https://www.youtube-nocookie.com/embed/7__QARkZdNs"
       ]
     },
     "languages": [
@@ -229,6 +215,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/E0zhe2gkXBs"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K6PBg1O0tE6Nhg",
+    "name": "Taiwan Indigenous TV",
+    "sources": {
+      "streams": [
+        "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
       ]
     },
     "languages": [

@@ -5,7 +5,8 @@
     "sources": {
       "streams": [
         "https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8",
-        "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8",
+        "https://206.212.244.63/2/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/iipR5yUp36o"
@@ -56,8 +57,12 @@
     "name": "CBS News 24/7",
     "sources": {
       "streams": [
+        "https://40.160.24.56/CBS_NEWS/index.m3u8",
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/jTylMVfE7Ew"
       ]
     },
     "languages": [
@@ -118,6 +123,25 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vyAlDaoF9WU1Q1",
+    "name": "Euronews English",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/EURONEWS_HD/index.m3u8",
+        "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oTQxI54nBGEd6Z",
     "name": "France 24 English",
     "stream_urls": [
@@ -154,9 +178,9 @@
     "name": "NHK World-Japan",
     "sources": {
       "streams": [
+        "https://cdn-7.pishow.tv/live/455/master.m3u8",
         "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-        "https://nhk.lls.pbs.org/index.m3u8",
-        "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
+        "https://nhk.lls.pbs.org/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/f0lYkdA-Gtw"

@@ -13,11 +13,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WDEjDpDWifIyr0",
+    "name": "Imai TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aPS8EfkYXWdlK5",
     "name": "Jaya TV",
     "sources": {
       "streams": [
         "https://live.jayatv.lk/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "sin"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Peq2FVjvdeypXQ",
+    "name": "Jaya Tv Live",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/JJMABOvPc_Y"
       ]
     },
     "languages": [
@@ -155,6 +183,20 @@
     },
     "languages": [
       "sin"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YEo5pMJhqTVYEQ",
+    "name": "Talent TV",
+    "sources": {
+      "streams": [
+        "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "lk",
     "isGeoBlocked": false

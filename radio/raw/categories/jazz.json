@@ -5,8 +5,8 @@
     "sources": {
       "streams": [
         "https://15693.live.streamtheworld.com/977_SMOOJAZZ_SC",
-        "https://18063.live.streamtheworld.com/977_SMOOJAZZ_SC",
-        "https://26353.live.streamtheworld.com/977_SMOOJAZZ_SC"
+        "https://17563.live.streamtheworld.com/977_SMOOJAZZ_SC",
+        "https://14543.live.streamtheworld.com/977_SMOOJAZZ_SC"
       ]
     },
     "languages": [
@@ -650,9 +650,9 @@
     "name": "ABC Jazz",
     "sources": {
       "streams": [
+        "https://live-radio01.mediahubaustralia.com/JAZW/mp3",
         "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8",
-        "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8",
-        "https://live-radio01.mediahubaustralia.com/JAZW/aac/"
+        "https://live-radio01.mediahubaustralia.com/JAZW/aac"
       ]
     },
     "languages": [
@@ -989,8 +989,8 @@
     "sources": {
       "streams": [
         "https://18373.live.streamtheworld.com/KAJXFM_SC",
-        "https://14093.live.streamtheworld.com/KAJXFM_SC",
-        "https://14943.live.streamtheworld.com/KAJXFM_SC"
+        "https://14943.live.streamtheworld.com/KAJXFM_SC",
+        "https://18253.live.streamtheworld.com/KAJXFM_SC"
       ]
     },
     "languages": [
@@ -1509,7 +1509,7 @@
       "streams": [
         "https://26283.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
-        "https://26733.live.streamtheworld.com/CBH_CBC_SC"
+        "https://17813.live.streamtheworld.com/CBH_CBC_SC"
       ]
     },
     "languages": [
@@ -1523,9 +1523,9 @@
     "name": "CBC Music Central",
     "sources": {
       "streams": [
-        "https://22983.live.streamtheworld.com/CBWFM_CBC_SC",
+        "https://27033.live.streamtheworld.com/CBWFM_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/adaptive_192/chunklist_ao.m3u8",
-        "https://26373.live.streamtheworld.com/CBWFM_CBC_SC"
+        "https://22983.live.streamtheworld.com/CBWFM_CBC_SC"
       ]
     },
     "languages": [
@@ -1550,8 +1550,8 @@
     "name": "CBC Music Mountain",
     "sources": {
       "streams": [
-        "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8",
-        "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3"
+        "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3",
+        "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8"
       ]
     },
     "languages": [
@@ -1563,9 +1563,9 @@
     "name": "CBC Music Pacific",
     "sources": {
       "streams": [
-        "https://26733.live.streamtheworld.com/CBUFM_CBC_SC",
+        "https://26283.live.streamtheworld.com/CBUFM_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
-        "https://17813.live.streamtheworld.com/CBUFM_CBC_SC"
+        "https://26733.live.streamtheworld.com/CBUFM_CBC_SC"
       ]
     },
     "languages": [
@@ -1664,8 +1664,8 @@
     "name": "Cladrite Radio",
     "sources": {
       "streams": [
-        "https://ais-edge37-live365-dal02.cdnstream.com/a43564",
-        "https://streaming.live365.com/a43564"
+        "https://streaming.live365.com/a43564",
+        "https://ais-edge37-live365-dal02.cdnstream.com/a43564"
       ]
     },
     "languages": [
@@ -1684,6 +1684,20 @@
     ]
   },
   {
+    "nanoid": "OKIXMr0QO8pnd7",
+    "name": "Classic 21 Blues",
+    "sources": {
+      "streams": [
+        "https://radios.rtbf.be/wr-c21-blues-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yro9PytlLdZvLW",
     "name": "Classic 21 Live",
     "sources": {
@@ -1700,8 +1714,8 @@
     "name": "Classic Vinyl",
     "sources": {
       "streams": [
-        "https://walmradio.com:8443/classic",
         "https://icecast.walmradio.com:8443/classic",
+        "https://walmradio.com:8443/classic",
         "https://icecast.walmradio.com:8443/classic_opus"
       ]
     },
@@ -1804,8 +1818,8 @@
     "name": "Comala Radio",
     "sources": {
       "streams": [
-        "https://listen.radioking.com/radio/38120/stream/74513",
-        "https://www.radioking.com/play/supag"
+        "https://www.radioking.com/play/supag",
+        "https://listen.radioking.com/radio/38120/stream/74513"
       ]
     },
     "languages": [
@@ -2170,9 +2184,9 @@
     "name": "DR P2",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A04L.mp3",
         "https://live-icy.dr.dk/A/A27L.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A04H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
+        "https://live-icy.dr.dk/A/A04L.mp3"
       ]
     },
     "languages": [
@@ -3062,8 +3076,7 @@
     "name": "Europa Radio Jazz",
     "sources": {
       "streams": [
-        "https://audio-edge-kef8b.ams.s.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83",
-        "https://streams.radiomast.io/e947f0b4-cf71-4ed7-934d-2f4661acb0a3"
+        "https://audio-edge-kef8b.ams.s.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83"
       ]
     },
     "languages": [
@@ -3184,8 +3197,8 @@
     "name": "Exclusively Diana Krall",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/dianakrall/icecast.audio",
-        "https://nl4.mystreaming.net/er/dianakrall/icecast.audio"
+        "https://nl4.mystreaming.net/er/dianakrall/icecast.audio",
+        "https://streaming.exclusive.radio/er/dianakrall/icecast.audio"
       ]
     },
     "languages": [
@@ -3197,8 +3210,8 @@
     "name": "Exclusively Duke Ellington",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/er/dukeellington/icecast.audio",
-        "https://streaming.exclusive.radio/er/dukeellington/icecast.audio"
+        "https://streaming.exclusive.radio/er/dukeellington/icecast.audio",
+        "https://2.mystreaming.net/er/dukeellington/icecast.audio"
       ]
     },
     "languages": [
@@ -3431,8 +3444,8 @@
     "name": "Exclusively Level 42",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/level42/icecast.audio",
-        "https://2.mystreaming.net/er/level42/icecast.audio"
+        "https://2.mystreaming.net/er/level42/icecast.audio",
+        "https://streaming.exclusive.radio/er/level42/icecast.audio"
       ]
     },
     "languages": [
@@ -3689,8 +3702,8 @@
     "name": "FIP Jazz",
     "sources": {
       "streams": [
-        "https://direct.fipradio.fr/live/fipjazz-hifi.aac",
         "https://icecast.radiofrance.fr/fipjazz-hifi.aac",
+        "https://direct.fipradio.fr/live/fipjazz-hifi.aac",
         "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8"
       ]
     },
@@ -3705,9 +3718,9 @@
     "name": "FluxFM - XJAZZ",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=6n249q52%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780784466",
-        "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412?sABC=6n249q42%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780784450",
-        "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824?sABC=6n249q49%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780784457"
+        "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663?sABC=6n5983n9%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784251305",
+        "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412?sABC=6n59839p%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784251292",
+        "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824?sABC=6n59838p%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784251276"
       ]
     },
     "languages": [
@@ -3721,8 +3734,8 @@
     "name": "FluxFM Jazzradio Schwarzenstein",
     "sources": {
       "streams": [
+        "https://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342?sABC=6n593351%230%2364n822nq2o1r4qs696n15709971o9sp7%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1784230737",
         "https://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342",
-        "https://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342?sABC=6n2484p2%230%2332p1962023rpq23so3q5020459682s0o%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1780778178",
         "https://fluxfm.streamabc.net/flx-jazzradio-mp3-128-4986317"
       ]
     },
@@ -3997,6 +4010,21 @@
     ]
   },
   {
+    "nanoid": "uYenrtmRlQOzA2",
+    "name": "GPB Radio 2",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8",
+        "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nnDRP5wipK5Sns",
     "name": "Groov Smooth Jazz",
     "sources": {
@@ -4123,8 +4151,8 @@
     "name": "hr2-kultur",
     "sources": {
       "streams": [
-        "https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8",
         "https://dispatcher.rndfnk.com/hr/hr2/live/medium",
+        "https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8",
         "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3"
       ]
     },
@@ -4137,9 +4165,9 @@
     "name": "HRT Radio 3",
     "sources": {
       "streams": [
-        "https://25503.live.streamtheworld.com/PROGRAM3AAC_SC",
-        "https://29083.live.streamtheworld.com/PROGRAM3AAC_SC",
-        "https://23613.live.streamtheworld.com/PROGRAM3AAC_SC"
+        "https://29103.live.streamtheworld.com/PROGRAM3AAC_SC",
+        "https://23543.live.streamtheworld.com/PROGRAM3AAC_SC",
+        "https://25503.live.streamtheworld.com/PROGRAM3AAC_SC"
       ]
     },
     "languages": [
@@ -4416,8 +4444,8 @@
     "name": "Jazz 90.7 (KWMU-2)",
     "sources": {
       "streams": [
-        "https://kwmu1-ice.streamguys1.com/kwmu3.m3u",
-        "https://kwmu.streamguys1.com/jazz-128"
+        "https://kwmu.streamguys1.com/jazz-128",
+        "https://kwmu1-ice.streamguys1.com/kwmu3.m3u"
       ]
     },
     "languages": [
@@ -4429,8 +4457,8 @@
     "name": "Jazz 91.1 (KCSM)",
     "sources": {
       "streams": [
-        "https://ice5.securenetsystems.net/KCSM",
-        "https://ice7.securenetsystems.net/KCSM2"
+        "https://ice7.securenetsystems.net/KCSM2",
+        "https://ice5.securenetsystems.net/KCSM"
       ]
     },
     "languages": [
@@ -4442,9 +4470,9 @@
     "name": "Jazz 91.9 WCLK",
     "sources": {
       "streams": [
-        "https://26443.live.streamtheworld.com/WCLKFM_SC",
         "https://17993.live.streamtheworld.com/WCLKFM_SC",
-        "https://17803.live.streamtheworld.com/WCLKFM_SC"
+        "https://18323.live.streamtheworld.com/WCLKFM_SC",
+        "https://26233.live.streamtheworld.com/WCLKFM_SC"
       ]
     },
     "languages": [
@@ -4492,8 +4520,8 @@
     "name": "Jazz Con Class",
     "sources": {
       "streams": [
-        "https://ais-edge37-live365-dal02.cdnstream.com/a73229",
-        "https://streaming.live365.com/a73229"
+        "https://streaming.live365.com/a73229",
+        "https://ais-edge37-live365-dal02.cdnstream.com/a73229"
       ]
     },
     "languages": [
@@ -5758,7 +5786,7 @@
     "name": "Klassik Radio - Dinner Jazz",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/dinnerjazz/mp3-192/stream.klassikradio.de/",
+        "https://stream.klassikradio.de/dinnerjazz/mp3-192/stream.klassikradio.de",
         "https://stream.klassikradio.de/dinnerjazz/aac-64"
       ]
     },
@@ -5819,7 +5847,7 @@
     "name": "KLCBS",
     "sources": {
       "streams": [
-        "https://streaming.klcbs.id/listen/klcbs/klcbsfm",
+        "https://streaming.klcbs.id/listen/klcbs/klcbs-hd",
         "https://streaming.klcbsofficial.com/listen/klcbs/klcbs",
         "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd"
       ]
@@ -5833,8 +5861,8 @@
     "name": "KLCC 89.7",
     "sources": {
       "streams": [
-        "https://tektite.streamguys1.com:5020/klcc.mp3",
-        "https://tektite.streamguys1.com:5025/klcc.aac"
+        "https://tektite.streamguys1.com:5025/klcc.aac",
+        "https://tektite.streamguys1.com:5020/klcc.mp3"
       ]
     },
     "languages": [
@@ -5905,8 +5933,9 @@
     "name": "KOFA Border Radio",
     "sources": {
       "streams": [
-        "https://23023.live.streamtheworld.com/KAWCAM.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC"
+        "https://18443.live.streamtheworld.com/KAWCAM_SC",
+        "https://23023.live.streamtheworld.com/KAWCAM_SC",
+        "https://29325.live.streamtheworld.com/KAWCAM_SC"
       ]
     },
     "languages": [
@@ -5955,8 +5984,8 @@
     "sources": {
       "streams": [
         "https://14613.live.streamtheworld.com/KPBX_FM_ADP_SC",
-        "https://14993.live.streamtheworld.com/KPBX_FM_ADP_SC",
-        "https://16613.live.streamtheworld.com/KPBX_FM_ADP_SC"
+        "https://14623.live.streamtheworld.com/KPBX_FM_ADP_SC",
+        "https://14993.live.streamtheworld.com/KPBX_FM_ADP_SC"
       ]
     },
     "languages": [
@@ -6179,8 +6208,8 @@
     "name": "LifeGate Radio",
     "sources": {
       "streams": [
-        "https://stream6.xdevel.com/audio0s975809-425/stream/icecast.audio",
-        "https://router.xdevel.com/audio0s975809-345/stream/icecast.audio"
+        "https://router.xdevel.com/audio0s975809-345/stream/icecast.audio",
+        "https://stream6.xdevel.com/audio0s975809-425/stream/icecast.audio"
       ]
     },
     "languages": [
@@ -6192,8 +6221,8 @@
     "name": "LifeGate Radio Blues",
     "sources": {
       "streams": [
-        "https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio",
-        "https://router.xdevel.com/audio3s975809-348/stream/icecast.audio"
+        "https://router.xdevel.com/audio3s975809-348/stream/icecast.audio",
+        "https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio"
       ]
     },
     "languages": [
@@ -6241,7 +6270,9 @@
     "name": "London Music Radio",
     "sources": {
       "streams": [
-        "https://radiobossrelay.radioca.st/stream"
+        "https://stream.londonmusicradio.com:8005/mobile",
+        "https://radiobossrelay.radioca.st/stream",
+        "https://stream.londonmusicradio.com:8005/listen"
       ]
     },
     "languages": [
@@ -6290,8 +6321,8 @@
     "name": "LuxuriaMusic",
     "sources": {
       "streams": [
-        "https://ice10.securenetsystems.net/LUXOMP3",
-        "https://ice10.securenetsystems.net/LUXOTRON"
+        "https://ice10.securenetsystems.net/LUXOTRON",
+        "https://ice10.securenetsystems.net/LUXOMP3"
       ]
     },
     "languages": [
@@ -6384,20 +6415,6 @@
     ]
   },
   {
-    "nanoid": "bimFs84kexLj1V",
-    "name": "Marionet Radio",
-    "sources": {
-      "streams": [
-        "https://stream.clever-host.ro/8006/stream"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OIJxTJjNAja1J7",
     "name": "MBS Light",
     "sources": {
@@ -6428,7 +6445,8 @@
     "name": "MDR KULTUR",
     "sources": {
       "streams": [
-        "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3"
+        "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
+        "https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8"
       ]
     },
     "languages": [
@@ -6700,6 +6718,18 @@
     ],
     "country": "za",
     "languages": []
+  },
+  {
+    "nanoid": "lmgZ1bEfebeHFB",
+    "name": "Mzansi Urban Radio",
+    "sources": {
+      "streams": [
+        "https://live.urbanza.co.za/radio/8000/mzansiurban"
+      ]
+    },
+    "languages": [],
+    "country": "za",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "VfirYcG4JGKo36",
@@ -7211,9 +7241,9 @@
     "name": "Prairie Public Radio FM 3",
     "sources": {
       "streams": [
-        "https://15313.live.streamtheworld.com/KCNDHD3_SC",
         "https://18853.live.streamtheworld.com/KCNDHD3_SC",
-        "https://14833.live.streamtheworld.com/KCNDHD3_SC"
+        "https://14833.live.streamtheworld.com/KCNDHD3_SC",
+        "https://15313.live.streamtheworld.com/KCNDHD3_SC"
       ]
     },
     "languages": [
@@ -7353,8 +7383,8 @@
     "name": "Radio Art - After Midnight",
     "sources": {
       "streams": [
-        "https://air.radioart.com/fAfter_midnight.mp3",
-        "https://air-tunein.radioart.com/fAfter_midnight.mp3"
+        "https://air-tunein.radioart.com/fAfter_midnight.mp3",
+        "https://air.radioart.com/fAfter_midnight.mp3"
       ]
     },
     "languages": [
@@ -8151,6 +8181,20 @@
     ]
   },
   {
+    "nanoid": "CFJaBCoVxD8N7x",
+    "name": "Radio Neptune",
+    "sources": {
+      "streams": [
+        "https://icecast.infini.fr:8000/neptune"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z2ArZ6HYdOgqFQ",
     "name": "Radio Nova",
     "stream_urls": [
@@ -8464,9 +8508,9 @@
     "name": "Radio SRF 2 Kultur",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/drs2/aacp_32",
-        "https://stream.srg-ssr.ch/m/drs2/mp3_128",
-        "https://stream.srg-ssr.ch/srgssr/srf2/mp3/128"
+        "https://stream.srg-ssr.ch/srgssr/srf2/mp3/128",
+        "https://stream.srg-ssr.ch/srgssr/srf2/aac/96",
+        "https://stream.srg-ssr.ch/m/drs2/aacp_32"
       ]
     },
     "languages": [
@@ -8490,9 +8534,9 @@
     "name": "Radio Swiss Jazz",
     "sources": {
       "streams": [
+        "https://stream.srg-ssr.ch/m/rsj/mp3_128",
         "https://stream.srg-ssr.ch/m/rsj/aacp_32",
-        "https://stream.srg-ssr.ch/m/rsj/aacp_96",
-        "https://stream.srg-ssr.ch/m/rsj/mp3_128"
+        "https://stream.srg-ssr.ch/m/rsj/aacp_96"
       ]
     },
     "languages": [
@@ -8602,8 +8646,8 @@
     "name": "Radio X",
     "sources": {
       "streams": [
-        "https://n07.radiojar.com/yv5xu5h7zwwtv",
-        "https://n11.radiojar.com/yv5xu5h7zwwtv"
+        "https://n11.radiojar.com/yv5xu5h7zwwtv",
+        "https://n07.radiojar.com/yv5xu5h7zwwtv"
       ]
     },
     "languages": [
@@ -8653,8 +8697,8 @@
     "name": "Radiobird",
     "sources": {
       "streams": [
-        "https://n07.radiojar.com/6uqfysrasm0uv",
-        "https://n0c.radiojar.com/6uqfysrasm0uv"
+        "https://n0c.radiojar.com/6uqfysrasm0uv",
+        "https://n07.radiojar.com/6uqfysrasm0uv"
       ]
     },
     "languages": [
@@ -8765,7 +8809,7 @@
     "name": "Relax FM",
     "sources": {
       "streams": [
-        "https://pub0302.101.ru:8000/stream/trust/mp3/128/264"
+        "https://pub0302.101.ru:8443/stream/air/aac/64/200"
       ]
     },
     "languages": [
@@ -8898,9 +8942,9 @@
     "name": "ROCK ANTENNE - Blues Rock",
     "sources": {
       "streams": [
-        "https://stream.rockantenne.de/blues-rock/stream/mp3",
         "https://stream.rockantenne.de/hair-metal/stream/mp3",
-        "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3"
+        "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
+        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3"
       ]
     },
     "languages": [
@@ -8991,9 +9035,9 @@
     "name": "RTS Espace 2",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/espace-2/aacp_96",
-        "https://stream.srg-ssr.ch/m/espace-2/aacp_32",
-        "https://stream.srg-ssr.ch/m/espace-2/mp3_128"
+        "https://stream.srg-ssr.ch/m/espace-2/mp3_128",
+        "https://stream.srg-ssr.ch/srgssr/espace-2/aac/96",
+        "https://stream.srg-ssr.ch/srgssr/espace-2/mp3/128"
       ]
     },
     "languages": [
@@ -9263,6 +9307,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ITuIAtZqCkgaUO",
+    "name": "Smooth Jazz 111",
+    "sources": {
+      "streams": [
+        "https://cast.magicstreams.gr/sc/111radio/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AB9CdZFcXgAKg0",
     "name": "Smooth Jazz 247",
     "sources": {
@@ -9521,7 +9579,7 @@
     "name": "Soul Radio",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/SOULRADIOAAC.aac",
+        "https://22323.live.streamtheworld.com/SOULRADIOAAC_SC",
         "https://listen.soulradio.com/SOULRADIOAAC.aac",
         "https://soulradio02.live-streams.nl/live"
       ]
@@ -9646,8 +9704,8 @@
     "name": "Styria Lounge",
     "sources": {
       "streams": [
-        "https://styrialounge.out.airtime.pro/styrialounge_a",
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a"
+        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
       ]
     },
     "languages": [
@@ -9722,6 +9780,7 @@
     "name": "Sveriges Radio P2",
     "sources": {
       "streams": [
+        "https://live1.sr.se/p2-aac-320",
         "https://edge1.sr.se/p2-flac",
         "https://live1.sr.se/p2-flac"
       ]
@@ -10758,12 +10817,26 @@
     ]
   },
   {
+    "nanoid": "vIGrGfidiiJ9ya",
+    "name": "XO FM",
+    "sources": {
+      "streams": [
+        "https://live.xo.fm/xofm128"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZLHojOWFKrHPjq",
     "name": "Your City Radio",
     "sources": {
       "streams": [
-        "https://c28.radioboss.fm:18234/stream",
-        "https://c34.radioboss.fm:8234/stream"
+        "https://c34.radioboss.fm:8234/stream",
+        "https://c28.radioboss.fm:18234/stream"
       ]
     },
     "languages": [
@@ -10775,8 +10848,8 @@
     "name": "ZonaSalsa",
     "sources": {
       "streams": [
-        "https://s40.myradiostream.com:8520/listen.mp3",
-        "https://cast6.asurahosting.com/proxy/salsafou/stream"
+        "https://cast6.asurahosting.com/proxy/salsafou/stream",
+        "https://s40.myradiostream.com:8520/listen.mp3"
       ]
     },
     "languages": [

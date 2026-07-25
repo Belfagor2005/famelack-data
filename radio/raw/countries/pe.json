@@ -504,6 +504,20 @@
     ]
   },
   {
+    "nanoid": "nDZaKvcuvZTgtU",
+    "name": "Radio Congreso",
+    "sources": {
+      "streams": [
+        "https://vivo.miradio.in/8048/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MgpqxwEUn2fQmA",
     "name": "Radio Coral",
     "sources": {
@@ -903,8 +917,8 @@
     "name": "Radio Huancayo",
     "sources": {
       "streams": [
-        "https://cloud9.ldwebstudios.net:7000/;",
-        "https://cloud9.ldwebstudios.net:7000/stream"
+        "https://cloud9.ldwebstudios.net:7000/stream",
+        "https://cloud9.ldwebstudios.net:7000/;"
       ]
     },
     "languages": [
@@ -1136,20 +1150,6 @@
     ]
   },
   {
-    "nanoid": "3JU0Z0ReRjllIl",
-    "name": "Radio Laser",
-    "sources": {
-      "streams": [
-        "https://conectperu.com/8078/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sOaCKC6N1zmT99",
     "name": "Radio Latidos",
     "sources": {
@@ -1222,8 +1222,8 @@
     "sources": {
       "streams": [
         "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951",
-        "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8",
-        "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio"
+        "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
+        "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8"
       ]
     },
     "languages": [
@@ -1564,6 +1564,20 @@
     ]
   },
   {
+    "nanoid": "2Jdv4o6H2sLSAQ",
+    "name": "Radio Satélite (Ventanilla)",
+    "sources": {
+      "streams": [
+        "https://conectperu.com/8166/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SHHuN32HhCBEF0",
     "name": "Radio Shack Music",
     "sources": {
@@ -1866,6 +1880,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "AETt9hrnSVHOni",
+    "name": "RPP Noticias",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "caHWzHfThDm5pS",

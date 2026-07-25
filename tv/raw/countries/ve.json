@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "ciUS0lRhmTtePT",
-    "name": "Anzoategui TV",
-    "sources": {
-      "streams": [
-        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "sources": {
@@ -55,21 +41,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AS45XKoNM4hcAi",
-    "name": "Canal C del Zulia",
-    "sources": {
-      "streams": [
-        "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8",
-        "https://vs20.live.opencaster.com/cristianhilos_314b91b0/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tF5n1NaStHSPlK",
     "name": "Canal Diplomatico",
     "sources": {
@@ -97,6 +68,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
+    "sources": {
+      "streams": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BcpXd12u6A6rk7",
+    "name": "Contactv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s3sqg6vutusQdl",
     "name": "eSports Max TV",
     "sources": {
@@ -111,10 +110,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gKZyGzv7VMGeI2",
     "name": "Grande TV",
     "sources": {
       "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
         "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
       ]
     },
@@ -171,20 +185,6 @@
     "sources": {
       "streams": [
         "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3E5bqWDK2SMWXh",
-    "name": "Latina TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
       ]
     },
     "languages": [
@@ -263,20 +263,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kE8N5CkT9Xc9Iu",
-    "name": "Nortena Tv",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dJh7EB1lQFwOCd",
     "name": "Plous TV",
     "sources": {
@@ -286,6 +272,20 @@
     },
     "languages": [
       "eng",
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y5blHOrOCn0tLM",
+    "name": "Portuguesa Television",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+      ]
+    },
+    "languages": [
       "spa"
     ],
     "country": "ve",
@@ -311,6 +311,20 @@
     "sources": {
       "streams": [
         "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AjxmxQL6ROzUdd",
+    "name": "ShowVen TV",
+    "sources": {
+      "streams": [
+        "https://cdnbarinas.tvzamora.com/showven/index.m3u8"
       ]
     },
     "languages": [
@@ -397,20 +411,6 @@
     "sources": {
       "streams": [
         "https://us.streaminghd.cl/torococotelevision/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
-    "sources": {
-      "streams": [
-        "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
       ]
     },
     "languages": [
@@ -535,6 +535,20 @@
       "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "baPvUzzfHutjpv",
+    "name": "Vepaco TV",
+    "sources": {
+      "streams": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

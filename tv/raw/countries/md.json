@@ -1,5 +1,48 @@
 [
   {
+    "nanoid": "5hvDWEbETQmbqQ",
+    "name": "Busuioc TV",
+    "sources": {
+      "streams": [
+        "https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7PZdCxVKQSBKN7",
+    "name": "Cinemaraton Moldova",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NW2NDOSjnsrvyd",
+    "name": "Hit FM",
+    "sources": {
+      "streams": [
+        "https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zWAnWgBppci4KB",
     "name": "Moldova 1",
     "sources": {
@@ -30,6 +73,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D1wlrbYtqPMtsb",
+    "name": "Prima TV Moldova",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/primatvmd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HSwH6uFzgwd6tN",
     "name": "Privesc.Eu TV",
     "sources": {
@@ -44,11 +102,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cu9S3t2cvLny0T",
-    "name": "PRO TV Chisinau",
+    "nanoid": "wKBVNDcxQstZ27",
+    "name": "Radio Moldova Muzical",
     "sources": {
       "streams": [
-        "https://stream.protv.md/live/sursa-1/index.m3u8"
+        "https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RESPYsOB9MzMDZ",
+    "name": "Radio Moldova Tineret",
+    "sources": {
+      "streams": [
+        "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8"
       ]
     },
     "languages": [
@@ -81,6 +153,20 @@
     },
     "languages": [
       "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uBZeu6AwVshM7Q",
+    "name": "TSV",
+    "sources": {
+      "streams": [
+        "https://tsv.md/stream/hls/tsv-online/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
     ],
     "country": "md",
     "isGeoBlocked": false

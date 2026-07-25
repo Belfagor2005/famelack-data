@@ -18,6 +18,7 @@
     "name": "Amazing Discoveries TV",
     "sources": {
       "streams": [
+        "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
         "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
       ]
     },
@@ -58,11 +59,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YD8ihVxcEILfkx",
+    "name": "Azan TV",
+    "sources": {
+      "streams": [
+        "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vLJxCfSjAO72Wd",
     "name": "Belmedia TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IqCXy1957XQ"
+        "https://www.youtube-nocookie.com/embed/Gs4pkJDNH0s"
       ]
     },
     "languages": [
@@ -127,20 +142,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "uBHOMGgN58fSBN",
-    "name": "CBAT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "zBkZSnkjPvAVvt",
     "name": "CBC Comedy",
     "sources": {
@@ -165,6 +166,18 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "HyAPd9MDJcE3zJ",
+    "name": "CBC Kids Channel",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "dvHZUEHna1F5C7",
     "name": "CBC Murdoch Mysteries",
     "sources": {
@@ -175,6 +188,34 @@
     "languages": [],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "dI7NVuffLmMf8X",
+    "name": "CBC News Alberta: Calgary",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/GXan5ROsd08"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ge9s2W8X14Vot6",
+    "name": "CBC News Alberta: Edmonton",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ncgbz1TdPK0"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "4gwewiALrANPzU",
@@ -218,6 +259,48 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "s9f5hAMvydIzOE",
+    "name": "CBC News NL - Newfoundland and Labrador",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KJb3pSYYkTQ"
+      ]
+    },
+    "languages": [
+      "en-ca"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GChCV2W6wufAbL",
+    "name": "CBC News Nova Scotia",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Utk7BN9X1Dk"
+      ]
+    },
+    "languages": [
+      "en-ca"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "llwfp8SV3Tmr5S",
+    "name": "CBC News Quebec",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WIgNWfoZQ4g"
+      ]
+    },
+    "languages": [
+      "en-ca"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5qcCo1tyCFq9w7",
     "name": "CBC News Toronto",
     "sources": {
@@ -230,32 +313,18 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "peNEYUQb4M45PO",
-    "name": "CBCT-DT",
+    "nanoid": "KEt2V61QzSil5P",
+    "name": "CBC News Toronto",
     "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mM3kOpgjm98"
       ]
     },
     "languages": [
-      "eng"
+      "en-ca"
     ],
     "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "KcvTsuM7wRGshA",
-    "name": "CBET-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "mIGdPVCQ0ktnig",
@@ -267,20 +336,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "LBj1hZ9cWVQmJb",
-    "name": "CBHT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -300,20 +355,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "6clwzOHKjk87Fu",
-    "name": "CBKT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "1yLst6OvN4IiS8",
     "name": "CBLFT-DT",
     "sources": {
@@ -323,48 +364,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "rk9KHpIpwRsPQC",
-    "name": "CBLT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "cbneQnbfoN2mFd",
-    "name": "CBMT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "lgWoc0yLlv7q3R",
-    "name": "CBNT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -384,34 +383,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "9lH9HCemzV0cvI",
-    "name": "CBOT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "tR4eck6zlxwnoQ",
-    "name": "CBRT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "9l6DsmybaReA2E",
     "name": "CBUFT-DT",
     "sources": {
@@ -421,20 +392,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "HgrAueLlDv0C9R",
-    "name": "CBUT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -468,39 +425,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "u5gnRH3JIZw6XB",
-    "name": "CBWT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "vN4KxpB8RBfII1",
     "name": "CBXFT-DT",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "Trl88tsxoM9nFw",
-    "name": "CBXT-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8"
       ]
     },
     "languages": [
@@ -520,6 +449,18 @@
     "languages": [
       "eng"
     ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZbGTjtTnpJzZYY",
+    "name": "CFJC Kamloops BC",
+    "sources": {
+      "streams": [
+        "https://videostream.jpbgdigital.com/CFJCTV.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -550,20 +491,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XHFhYIB5cgd9ie",
-    "name": "CFYK-DT",
-    "sources": {
-      "streams": [
-        "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "MmmREMvWn5mM26",
@@ -678,6 +605,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ASydZvR4LEyQi6",
+    "name": "CKPG Prince George BC",
+    "sources": {
+      "streams": [
+        "https://videostream.jpbgdigital.com/CKPGTV.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "V3BMBGhU6fGP7f",
     "name": "CKSH-DT",
     "sources": {
@@ -720,6 +659,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "5FIig7aRRBANHx",
+    "name": "CTV Speed Channel",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZXvLfybRDCi9xD",
     "name": "DesheBideshe TV",
     "sources": {
@@ -739,6 +692,20 @@
     "sources": {
       "streams": [
         "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NYOzLMHn9DVS1q",
+    "name": "Doyel TV",
+    "sources": {
+      "streams": [
+        "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8"
       ]
     },
     "languages": [
@@ -811,6 +778,20 @@
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hTAa42S6ckdNs5",
+    "name": "Garfield & Friends",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/wd53oMFb4UU"
+      ]
+    },
     "languages": [
       "eng"
     ],
@@ -1065,8 +1046,8 @@
     "name": "Legislative Assembly of Ontario",
     "sources": {
       "streams": [
-        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
-        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
+        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+        "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1180,6 +1161,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3QXzyalX8rk3oU",
+    "name": "Much",
+    "sources": {
+      "streams": [
+        "https://40.160.24.53/MUCH/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
+    "sources": {
+      "streams": [
+        "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pYln4wZZuMCej7",
     "name": "Noovo Cinéma",
     "sources": {
@@ -1287,6 +1296,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iAGIl1kw4w2Izl",
+    "name": "Schitt’s Creek Channel",
+    "sources": {
+      "streams": [
+        "https://amagi-streams.akamaized.net/hls/live/2120484/schittscreek/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "NYodd4ZllT4qNK",
     "name": "Sikh Spiritual Centre Rexdale",
     "sources": {
@@ -1296,6 +1317,20 @@
     },
     "languages": [
       "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jVntXYmn9juMuc",
+    "name": "Slice",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/SLICE/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1478,6 +1513,21 @@
     },
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1pdHY2BpwdxFvj",
+    "name": "Stingray iConcerts",
+    "sources": {
+      "streams": [
+        "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1704,6 +1754,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "daf0IVQd6eS7Tl",
+    "name": "Super Channel Vault",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/6142/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
@@ -1880,6 +1944,76 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BBHJGmom0c53qu",
+    "name": "TSN1",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/TSN_1/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ai9BqwKChqqER5",
+    "name": "TSN2",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/TSN_2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wb9D3FYsHIR9Dd",
+    "name": "TSN3",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/TSN_3/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ikJPlxT4rSlki",
+    "name": "TSN4",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/TSN_4/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WWeaDyjDDgcRDS",
+    "name": "TSN5",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/TSN_5/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "26wbYyZD2WNH5P",
     "name": "TV Punjab",
     "sources": {
@@ -1917,6 +2051,33 @@
     "languages": [
       "eng"
     ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tfahh4mN8EFFmu",
+    "name": "Uvagut TV",
+    "sources": {
+      "streams": [
+        "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "iku"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WiDMfKMgfVPHnh",
+    "name": "W Network",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/W_NETWORK/index.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },

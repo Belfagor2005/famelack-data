@@ -208,14 +208,15 @@
     ]
   },
   {
-    "nanoid": "p0qxohECoW5yTU",
-    "name": "FM 93 Rawalpindi",
+    "nanoid": "3tETNHeuHx6UOr",
+    "name": "FM 101 Khairpur",
     "sources": {
       "streams": [
-        "https://whmsonic.radio.gov.pk:8036/relay"
+        "https://whmsonic.radio.gov.pk:8054/stream"
       ]
     },
     "languages": [
+      "eng",
       "urd"
     ]
   },
@@ -314,6 +315,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7YgpH4rCCZfaL7",
+    "name": "Radio Pakistan FM 93 Skardu",
+    "sources": {
+      "streams": [
+        "https://whmsonic.radio.gov.pk:8104/stream"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uw6GGOKmhZC7aO",
     "name": "Radio Pakistan FM 101 Abbottabad",
     "sources": {
@@ -404,20 +419,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3VhlmOjC8nkhum",
-    "name": "Radio Pakistan FM 101 Mirpur",
-    "sources": {
-      "streams": [
-        "https://whmsonic.radio.gov.pk:8078/stream"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HXRGic6bfAkJWn",
     "name": "Radio Pakistan FM 101 Peshawar",
     "sources": {
@@ -456,6 +457,20 @@
     },
     "languages": [
       "pan",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eWtXSiizx6sRIl",
+    "name": "Radio Pakistan Gilgit MW 1512",
+    "sources": {
+      "streams": [
+        "https://whmsonic.radio.gov.pk:8082/stream"
+      ]
+    },
+    "languages": [
       "urd"
     ],
     "country": "pk",

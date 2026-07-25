@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "FFIV8TuuVkp3o4",
-    "name": "ARB",
+    "nanoid": "tz14elcyNSIFkg",
+    "name": "Alvin Channel TV",
     "sources": {
       "streams": [
-        "https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+        "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8"
       ]
     },
     "languages": [
@@ -14,25 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pkHEX4Fdp34W0V",
-    "name": "ARB 24",
+    "nanoid": "UuxAvZJ7qbOfux",
+    "name": "Ayaz TV",
     "sources": {
       "streams": [
-        "https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
-      ]
-    },
-    "languages": [
-      "aze"
-    ],
-    "country": "az",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oPGSl5HOSc04b2",
-    "name": "ARB Gunes",
-    "sources": {
-      "streams": [
-        "https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+        "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
       ]
     },
     "languages": [
@@ -85,24 +71,39 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MWrzZTVqRsh2yN",
-    "name": "CBC",
+    "nanoid": "bTpfDJ5yQNPKEE",
+    "name": "Kanal 35",
     "sources": {
       "streams": [
-        "https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+        "https://str2.yodacdn.net/kanal35/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "aze"
+    ],
     "country": "az",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TCXWbbGwwhAA4s",
-    "name": "Dunya TV",
+    "nanoid": "itLokaJAiNkQNU",
+    "name": "Kanal S",
     "sources": {
       "streams": [
-        "https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f",
-        "https://stream.ftv.az/live/dunyatv.m3u8"
+        "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"
+      ]
+    },
+    "languages": [
+      "aze"
+    ],
+    "country": "az",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BBI8YUriXrMPZH",
+    "name": "KN Music TV",
+    "sources": {
+      "streams": [
+        "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8"
       ]
     },
     "languages": [
@@ -142,14 +143,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "26SGsBNssiiZc7",
-    "name": "Space TV",
+    "nanoid": "nJUg7d1NQf1aEX",
+    "name": "Vilayet TV",
     "sources": {
       "streams": [
-        "https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=c8ef4693b88421be057e3f977eee146f"
+        "https://nl.livekadeh.com/hls2/vilayet.m3u8"
       ]
     },
     "languages": [
+      "ara",
       "aze"
     ],
     "country": "az",

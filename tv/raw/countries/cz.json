@@ -257,6 +257,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1AulKHnyapVKyS",
+    "name": "Televize Prerov",
+    "sources": {
+      "streams": [
+        "https://173.212.247.21/live/tvprerov.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "fTApFWHNaUxcOH",
     "name": "TV Brno 1",
     "sources": {
@@ -297,6 +311,20 @@
     ],
     "country": "cz",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "c6QnRmiUkRzVK7",
+    "name": "Up Network",
+    "sources": {
+      "streams": [
+        "https://dash.antik.sk/live/test_upnetwork/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "cWzKFLiigGaQzp",

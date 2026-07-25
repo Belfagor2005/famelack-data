@@ -285,6 +285,20 @@
     ]
   },
   {
+    "nanoid": "DoIEQ5WD60yiTh",
+    "name": "Digital FM",
+    "sources": {
+      "streams": [
+        "https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4M5M4e4xwRr5V4",
     "name": "Dinamix FM",
     "sources": {
@@ -386,9 +400,23 @@
     "name": "FMDOS",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOSAAC_SC",
-        "https://24413.live.streamtheworld.com/FMDOSAAC_SC",
-        "https://24493.live.streamtheworld.com/FMDOSAAC_SC"
+        "https://24493.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://26683.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://27403.live.streamtheworld.com/FMDOSAAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zApwnqSRBS6f25",
+    "name": "Frecuencia Rock",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:9206/stream"
       ]
     },
     "languages": [
@@ -569,8 +597,8 @@
     "name": "Radio 24/7 Chile",
     "sources": {
       "streams": [
-        "https://broadcast.radio247.net/radio/8000/;",
-        "https://broadcast.radio247.net/listen/live/radio.mp3"
+        "https://broadcast.radio247.net/listen/live/radio.mp3",
+        "https://broadcast.radio247.net/radio/8000/;"
       ]
     },
     "languages": [
@@ -724,11 +752,11 @@
     ]
   },
   {
-    "nanoid": "GFsu6G9t6ufraw",
-    "name": "Radio Atractiva",
+    "nanoid": "tzuwJErCNjztZh",
+    "name": "Radio Austral",
     "sources": {
       "streams": [
-        "https://sonicstream-puntual.grupozgh.cl/8126/;"
+        "https://archi-us.digitalproserver.com/austral.aac"
       ]
     },
     "languages": [
@@ -1122,8 +1150,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac"
       ]
     },
     "languages": [
@@ -1504,6 +1532,20 @@
     ]
   },
   {
+    "nanoid": "Fljf2CcYDgTMCs",
+    "name": "Radio Interamericana",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/radiointeramericana.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BoG16PlrPyQMHO",
     "name": "Radio Isadora",
     "sources": {
@@ -1746,6 +1788,20 @@
     ]
   },
   {
+    "nanoid": "qxQVw9nYzrhoxi",
+    "name": "Radio Nuestra",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:9016/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r1LBZ2lZqBaxmN",
     "name": "Radio Observador",
     "sources": {
@@ -1846,7 +1902,6 @@
     "name": "Radio Picarona",
     "sources": {
       "streams": [
-        "https://sonic.portalfoxmix.cl:7046/;",
         "https://sonic.portalfoxmix.cl:7045/;"
       ]
     },
@@ -2048,6 +2103,20 @@
     ]
   },
   {
+    "nanoid": "eQqUUvogmtyeZ2",
+    "name": "Radio Sol",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/7389"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "f3Het6wUjXOtIe",
     "name": "Radio Sol Classic",
     "sources": {
@@ -2193,6 +2262,20 @@
     ]
   },
   {
+    "nanoid": "1lc1tBfGxUBtNJ",
+    "name": "Radio Valentín Letelier",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:9030/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I9T62idfQ2HmN0",
     "name": "Radio Venus FM Chile",
     "sources": {
@@ -2221,7 +2304,7 @@
     "name": "RadioActiva",
     "sources": {
       "streams": [
-        "https://24233.live.streamtheworld.com/ACTIVA_SC",
+        "https://23243.live.streamtheworld.com/ACTIVA_SC",
         "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3",
         "https://stream.zeno.fm/pvs6hqz3crtvv"
       ]
@@ -2273,9 +2356,9 @@
     "name": "Rock & Pop",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC",
-        "https://24453.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
-        "https://27573.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
+        "https://24273.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "https://24373.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "https://24423.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
       ]
     },
     "languages": [
@@ -2378,6 +2461,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "H8McFOoWf6jOIJ",
+    "name": "Trending Radio",
+    "sources": {
+      "streams": [
+        "https://cast6.my-control-panel.com/proxy/trending/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ODe1zq4W3ePvp5",

@@ -104,9 +104,7 @@
         "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
       ]
     },
-    "languages": [
-      "pol"
-    ],
+    "languages": [],
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -236,6 +234,63 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5dT3o8Qzp8yON8",
+    "name": "FILMBOX+ Emotion Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KbidRDRhifoVAS",
+    "name": "FILMBOX+ Festival",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9EkWIDYKroUA8f",
+    "name": "FILMBOX+ Hits Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L1MnKhYpJdL0NG",
+    "name": "FILMBOX+ Love & Crime Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WWlg5pGjVUMKba",
     "name": "Grjngo",
     "sources": {
@@ -264,25 +319,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GZJhClb3LwFqnH",
-    "name": "Home TV",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/HomeTV.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DN6TpQ0x9cD41t",
     "name": "HORYZONT TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/fBpxZZgTTTU"
+        "https://www.youtube-nocookie.com/embed/qRgBvrs-j7g"
       ]
     },
     "languages": [
@@ -384,7 +425,7 @@
       "pol"
     ],
     "country": "pl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "PgSQJkjlJAZPaq",
@@ -596,7 +637,7 @@
     "name": "Telewizja Olsztyn",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SYbfyHMZ4Lc"
+        "https://www.youtube-nocookie.com/embed/lr89nkY-fBA"
       ]
     },
     "languages": [
@@ -686,11 +727,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zfdmNYbszO1KPF",
-    "name": "Telewizja Żary",
+    "nanoid": "9s6DDTJkNu9V38",
+    "name": "Telewizja Zabrze",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XeRbBe2CWSc"
+        "https://www.youtube-nocookie.com/embed/EVOt6OyHU9g"
       ]
     },
     "languages": [
@@ -737,7 +778,7 @@
       "eng"
     ],
     "country": "pl",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rg1mqweNVc3OwT",
@@ -852,20 +893,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XOB3inPkwkHuWb",
-    "name": "TVP1",
-    "sources": {
-      "streams": [
-        "https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "8fkva1GfM7tM4w",
     "name": "TVSUDECKA PL",
     "sources": {
@@ -895,11 +922,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "moehtnlcI4ChMQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "nanoid": "hJ7RP05oeqLZ6y",
+    "name": "Ultra TV 4K",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/UKQDuatwxNY"
+      "streams": [
+        "https://45.190.28.50/ULTRA/index.m3u8"
       ]
     },
     "languages": [

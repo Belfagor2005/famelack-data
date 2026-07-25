@@ -4,8 +4,7 @@
     "name": "America TeVe",
     "sources": {
       "streams": [
-        "https://live.gideo.video/americateve2/master.m3u8",
-        "https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8"
+        "https://live.gideo.video/americateve2/master.m3u8"
       ]
     },
     "languages": [
@@ -53,20 +52,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "pr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "laN58G2pOTHWk2",
-    "name": "DNJ TV",
-    "sources": {
-      "streams": [
-        "https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
     ],
     "country": "pr",
     "isGeoBlocked": false
@@ -283,6 +268,20 @@
     "sources": {
       "streams": [
         "https://streamwipr.pr/hls/stream/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6DxixUnn8FbaeV",
+    "name": "WKAQ-TV 2.1",
+    "sources": {
+      "streams": [
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
       ]
     },
     "languages": [

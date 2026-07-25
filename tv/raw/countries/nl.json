@@ -32,7 +32,7 @@
     "name": "360TuneBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch141/index.m3u8"
+        "https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -242,7 +242,7 @@
     "name": "FunBox UHD",
     "sources": {
       "streams": [
-        "https://webtvstream.bhtelecom.ba/hls15/funbox.m3u8"
+        "https://webtvstream.bhtelecom.ba/funbox.m3u8"
       ]
     },
     "languages": [
@@ -256,11 +256,25 @@
     "name": "Gametoon",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch256/index.m3u8"
+        "https://webtvstream.bhtelecom.ba/gametoon.m3u8"
       ]
     },
     "languages": [
       "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A3vCuoFXBOegkR",
+    "name": "Gigant FM",
+    "sources": {
+      "streams": [
+        "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false
@@ -478,6 +492,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YgwesPOmCiZn25",
+    "name": "LOE TV",
+    "sources": {
+      "streams": [
+        "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8nVftQpC76oxlC",
     "name": "Lokale Omroep Zeewolde",
     "sources": {
@@ -542,21 +570,6 @@
       ]
     },
     "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7DSi96Xgx28uw1",
-    "name": "Nickelodeon",
-    "sources": {
-      "streams": [
-        "https://193.239.186.231/NICK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "nld"
     ],
     "country": "nl",
@@ -666,6 +679,20 @@
     "sources": {
       "streams": [
         "https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nVpsvaBycf2VlN",
+    "name": "Omroep Lingewaard",
+    "sources": {
+      "streams": [
+        "https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -914,6 +941,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W9VS8SRmkQmeJR",
+    "name": "Rararadio",
+    "sources": {
+      "streams": [
+        "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dSnoUTHQ6dYQnL",
     "name": "Regio TV De Bilt",
     "sources": {
@@ -933,6 +975,20 @@
     "sources": {
       "streams": [
         "https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HILD48iLzHhprA",
+    "name": "RN7",
+    "sources": {
+      "streams": [
+        "https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8"
       ]
     },
     "languages": [
@@ -1043,6 +1099,21 @@
     "sources": {
       "streams": [
         "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bdBmeA8W9ieof9",
+    "name": "RTV Noordoost Friesland",
+    "sources": {
+      "streams": [
+        "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
+        "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1252,7 +1323,7 @@
     "name": "Sleutelstad TV",
     "sources": {
       "streams": [
-        "https://samson.streamerr.co:8081/sleutelstad/index.m3u8"
+        "https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8"
       ]
     },
     "languages": [
@@ -1294,6 +1365,35 @@
       "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O0kpowmkTJLDCA",
+    "name": "SRC TV",
+    "sources": {
+      "streams": [
+        "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dAXeuFzPs6OaT0",
+    "name": "StreekTV",
+    "sources": {
+      "streams": [
+        "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
+        "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "nld"
     ],
@@ -1654,6 +1754,20 @@
     "sources": {
       "streams": [
         "https://zfmzoetermeer.nl/live/master.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "misQ9uBxRPB1ww",
+    "name": "ZO!34",
+    "sources": {
+      "streams": [
+        "https://video.uitzending.tv:19360/zo34/zo34.m3u8"
       ]
     },
     "languages": [

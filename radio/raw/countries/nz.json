@@ -652,6 +652,22 @@
     ]
   },
   {
+    "nanoid": "T39F2PCWeuPaiM",
+    "name": "Radio Spice 88.0",
+    "sources": {
+      "streams": [
+        "https://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "hin",
+      "pan"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v0DdlJiplylZbk",
     "name": "Radio Te Aroha 88 FM",
     "sources": {
@@ -693,6 +709,7 @@
     "sources": {
       "streams": [
         "https://stream.radiowavenz.com/stream-aac",
+        "https://stream.radiowavenz.com/stream-aac-low",
         "https://stream.radiowavenz.com/stream"
       ]
     },
@@ -900,8 +917,8 @@
     "name": "The Cheese",
     "sources": {
       "streams": [
-        "https://station.thecheese.co.nz/listen/the_cheese/flac",
-        "https://station.thecheese.co.nz/listen/the_cheese/128.mp3"
+        "https://station.thecheese.co.nz/listen/the_cheese/128.mp3",
+        "https://station.thecheese.co.nz/listen/the_cheese/flac"
       ]
     },
     "languages": [

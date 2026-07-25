@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "D8DiLY4WZDbVsD",
+    "name": "ABN",
+    "sources": {
+      "streams": [
+        "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YbFD75G4AxdNyE",
     "name": "All the K-POP",
     "stream_urls": [],
@@ -322,20 +336,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cqIhg7ovb7n2hP",
-    "name": "Gugak TV",
-    "sources": {
-      "streams": [
-        "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hJP0GSnYM15Xax",
     "name": "HLAJ-DTV",
     "sources": {
@@ -408,6 +408,20 @@
     "sources": {
       "streams": [
         "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jOYpv2cv2xRFLe",
+    "name": "HLCT-DTV",
+    "sources": {
+      "streams": [
+        "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -521,6 +535,21 @@
       "https://www.youtube-nocookie.com/embed/qumSBq1kGo0"
     ],
     "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y96VZMuCp67Sxq",
+    "name": "KBS World",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1448/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "kor"
     ],
     "country": "kr",
@@ -651,6 +680,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "n4MkAIlXwdSE8X",
+    "name": "OUN",
+    "sources": {
+      "streams": [
+        "https://live.knou.ac.kr/knou1/live1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LaJUiyDd3qErb2",
     "name": "Pororo 뽀로로",
     "stream_urls": [],
@@ -695,7 +738,7 @@
     "name": "SBS Running Man",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lDcWeklf6DI"
+        "https://www.youtube-nocookie.com/embed/d8OvbUAxaec"
       ]
     },
     "languages": [
@@ -778,7 +821,7 @@
     "name": "TVCHOSUN MUSIC",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VfLw54uFKzo"
+        "https://www.youtube-nocookie.com/embed/ia1ZbVvB81c"
       ]
     },
     "languages": [
@@ -890,7 +933,7 @@
     "name": "서울경제TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/i6zpgb2zuvs"
+        "https://www.youtube-nocookie.com/embed/JVBVZIUAAtI"
       ]
     },
     "languages": [

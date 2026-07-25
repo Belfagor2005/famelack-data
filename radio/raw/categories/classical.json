@@ -167,8 +167,8 @@
     "name": "1.FM - Otto's Baroque",
     "sources": {
       "streams": [
-        "https://strm112.1.fm/baroque_mobile_mp3",
-        "https://strm112.1.fm/baroque_mobile_aac"
+        "https://strm112.1.fm/baroque_mobile_aac",
+        "https://strm112.1.fm/baroque_mobile_mp3"
       ]
     },
     "languages": [
@@ -419,9 +419,9 @@
     "name": "ABC Classic",
     "sources": {
       "streams": [
-        "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8",
+        "https://live-radio01.mediahubaustralia.com/6FMW/aac",
         "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8",
-        "https://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3"
+        "https://live-radio01.mediahubaustralia.com/2FMW/aac"
       ]
     },
     "languages": [
@@ -555,20 +555,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mtMcvNlKG5q7Mf",
-    "name": "Akashvani Pune FM",
-    "sources": {
-      "streams": [
-        "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "mar"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xSYU7oySoWepnm",
     "name": "Akashvani Tamil Nadu",
     "sources": {
@@ -616,6 +602,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "fdEFFjSxRnlImN",
+    "name": "All Classical Radio",
+    "sources": {
+      "streams": [
+        "https://allclassical-ice.streamguys.com/ac96k"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "m48kmvxemVBumn",
@@ -810,6 +810,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "2IZ74ovozJy2h6",
+    "name": "Baroque Sonatas Radio",
+    "sources": {
+      "streams": [
+        "https://baroque_sonatas_radio.stream.laut.fm/baroque_sonatas_radio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "iQCJUDWEqz45dr",
@@ -1105,7 +1119,7 @@
     "name": "Calm Radio - Gregorian",
     "sources": {
       "streams": [
-        "https://streams.calmradio.com:4428/stream/",
+        "https://streams.calmradio.com:4428/stream",
         "https://streams.calmradio.com/api/103/128/stream"
       ]
     },
@@ -1307,7 +1321,7 @@
     "name": "Calm Radio - Telemann",
     "sources": {
       "streams": [
-        "https://streams.calmradio.com:8828/stream/"
+        "https://streams.calmradio.com:8828/stream"
       ]
     },
     "languages": [
@@ -1375,8 +1389,8 @@
     "sources": {
       "streams": [
         "https://18373.live.streamtheworld.com/CLASSICALSTREAM_SC",
-        "https://16613.live.streamtheworld.com/CLASSICALSTREAM_SC",
-        "https://22973.live.streamtheworld.com/CLASSICALSTREAM_SC"
+        "https://14613.live.streamtheworld.com/CLASSICALSTREAM_SC",
+        "https://16613.live.streamtheworld.com/CLASSICALSTREAM_SC"
       ]
     },
     "languages": [
@@ -1432,7 +1446,7 @@
       "streams": [
         "https://26283.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
-        "https://26733.live.streamtheworld.com/CBH_CBC_SC"
+        "https://17813.live.streamtheworld.com/CBH_CBC_SC"
       ]
     },
     "languages": [
@@ -1446,9 +1460,9 @@
     "name": "CBC Music Central",
     "sources": {
       "streams": [
-        "https://22983.live.streamtheworld.com/CBWFM_CBC_SC",
+        "https://27033.live.streamtheworld.com/CBWFM_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/adaptive_192/chunklist_ao.m3u8",
-        "https://26373.live.streamtheworld.com/CBWFM_CBC_SC"
+        "https://22983.live.streamtheworld.com/CBWFM_CBC_SC"
       ]
     },
     "languages": [
@@ -1473,8 +1487,8 @@
     "name": "CBC Music Mountain",
     "sources": {
       "streams": [
-        "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8",
-        "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3"
+        "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3",
+        "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8"
       ]
     },
     "languages": [
@@ -1486,9 +1500,9 @@
     "name": "CBC Music Pacific",
     "sources": {
       "streams": [
-        "https://26733.live.streamtheworld.com/CBUFM_CBC_SC",
+        "https://26283.live.streamtheworld.com/CBUFM_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
-        "https://17813.live.streamtheworld.com/CBUFM_CBC_SC"
+        "https://26733.live.streamtheworld.com/CBUFM_CBC_SC"
       ]
     },
     "languages": [
@@ -1537,8 +1551,8 @@
     "name": "Christmas FM Classical & Carols",
     "sources": {
       "streams": [
-        "https://christmasfm.cdnstream1.com/2549_64.aac",
-        "https://christmasfm.cdnstream1.com/2549_128.mp3"
+        "https://christmasfm.cdnstream1.com/2549_128.mp3",
+        "https://christmasfm.cdnstream1.com/2549_64.aac"
       ]
     },
     "languages": [
@@ -1593,9 +1607,9 @@
     "name": "Classic 21",
     "sources": {
       "streams": [
-        "https://radio.rtbf.be/c21/aac-128/fl",
         "https://radios.rtbf.be/classic21-128.mp3",
-        "https://radios.rtbf.be/classic21-64.aac"
+        "https://radios.rtbf.be/classic21-64.aac",
+        "https://radio.rtbf.be/c21/aac-128/fl"
       ]
     },
     "languages": [
@@ -1951,20 +1965,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xYCQT5UibN3YOe",
-    "name": "Classical 95.9 (WCRI)",
-    "sources": {
-      "streams": [
-        "https://wcri.streamguys1.com/live-mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "234DyBE1Sx6ZEV",
     "name": "Classical 101",
     "sources": {
@@ -2107,9 +2107,9 @@
     "name": "Classical KDFC",
     "sources": {
       "streams": [
-        "https://29313.live.streamtheworld.com/KDFCFMAAC96_SC",
-        "https://18243.live.streamtheworld.com/KDFCFMAAC96_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac",
+        "https://14923.live.streamtheworld.com/KDFCFMAAC96_SC",
+        "https://18243.live.streamtheworld.com/KDFCFMAAC96_SC"
       ]
     },
     "languages": [
@@ -3037,6 +3037,22 @@
     ]
   },
   {
+    "nanoid": "TdErItFzqT5aFe",
+    "name": "Concertgebouworkest Webradio",
+    "sources": {
+      "streams": [
+        "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192",
+        "https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192",
+        "https://ice.cr2.streamzilla.xlcdn.com:8000/sz%3DRCOLiveWebradio%3Daac128"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "J7VIIXQtVgXVy4",
     "name": "Cool FM Filmzenék",
     "sources": {
@@ -3214,9 +3230,9 @@
     "name": "DR P2",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A04L.mp3",
         "https://live-icy.dr.dk/A/A27L.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A04H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
+        "https://live-icy.dr.dk/A/A04L.mp3"
       ]
     },
     "languages": [
@@ -3849,9 +3865,9 @@
     "name": "FluxFM neoFM",
     "sources": {
       "streams": [
-        "https://fluxfm.streamabc.net/flx-neofm-mp3-320-1670254?sABC=6n24n28n%230%2332p1962023rpq23so3q5020459682s0o%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1780785802",
+        "https://fluxfm.streamabc.net/flx-neofm-mp3-320-1670254",
         "https://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467",
-        "https://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467?sABC=6n24n27r%230%2332p1962023rpq23so3q5020459682s0o%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1780785790"
+        "https://fluxfm.streamabc.net/flx-neofm-aacplus-64-5150487"
       ]
     },
     "languages": [
@@ -4010,8 +4026,8 @@
     "name": "FREIRAD - Freies Radio Innsbruck",
     "sources": {
       "streams": [
-        "https://stream.freirad.at/live.ogg",
-        "https://stream.freirad.at/live.mp3"
+        "https://stream.freirad.at/live.mp3",
+        "https://stream.freirad.at/live.ogg"
       ]
     },
     "languages": [
@@ -4048,8 +4064,7 @@
     "sources": {
       "streams": [
         "https://centova.svdns.com.br:19373/stream",
-        "https://centova.svdns.com.br:19373/stream1",
-        "https://centova.svdns.com.br:19373/stream/2/"
+        "https://centova.svdns.com.br:19373/stream1"
       ]
     },
     "languages": [
@@ -4145,8 +4160,8 @@
     "name": "hr2-kultur",
     "sources": {
       "streams": [
-        "https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8",
         "https://dispatcher.rndfnk.com/hr/hr2/live/medium",
+        "https://hlshr2.akamaized.net/hls/live/2016534/hr2/master.m3u8",
         "https://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3"
       ]
     },
@@ -4379,8 +4394,8 @@
     "name": "Jazz 90.7 (KWMU-2)",
     "sources": {
       "streams": [
-        "https://kwmu1-ice.streamguys1.com/kwmu3.m3u",
-        "https://kwmu.streamguys1.com/jazz-128"
+        "https://kwmu.streamguys1.com/jazz-128",
+        "https://kwmu1-ice.streamguys1.com/kwmu3.m3u"
       ]
     },
     "languages": [
@@ -4437,6 +4452,20 @@
     ]
   },
   {
+    "nanoid": "ozdnv02s51MNeE",
+    "name": "Jiangsu Classical Music Radio",
+    "sources": {
+      "streams": [
+        "https://lzlive.vojs.cn/2wtSfrS/92/live.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4x6Ys9Dud4Oei4",
     "name": "Joy Gospel Radio",
     "stream_urls": [
@@ -4487,8 +4516,8 @@
     "sources": {
       "streams": [
         "https://18443.live.streamtheworld.com/KAWCFM_SC",
-        "https://23023.live.streamtheworld.com/KAWCFM_SC",
-        "https://29325.live.streamtheworld.com/KAWCFM_SC"
+        "https://29325.live.streamtheworld.com/KAWCFM_SC",
+        "https://23023.live.streamtheworld.com/KAWCFM_SC"
       ]
     },
     "languages": [
@@ -4553,8 +4582,8 @@
     "name": "KDFC Arcade",
     "sources": {
       "streams": [
+        "https://16643.live.streamtheworld.com/CC8_S01AAC_96_SC",
         "https://17843.live.streamtheworld.com/CC8_S01AAC_96_SC",
-        "https://19273.live.streamtheworld.com/CC8_S01AAC_96_SC",
         "https://29309.live.streamtheworld.com/CC8_S01AAC_96_SC"
       ]
     },
@@ -4569,9 +4598,9 @@
     "name": "KDFC Classical Americana",
     "sources": {
       "streams": [
+        "https://16643.live.streamtheworld.com/CC5_S01AAC_96_SC",
         "https://17843.live.streamtheworld.com/CC5_S01AAC_96_SC",
-        "https://19273.live.streamtheworld.com/CC5_S01AAC_96_SC",
-        "https://29309.live.streamtheworld.com/CC5_S01AAC_96_SC"
+        "https://19273.live.streamtheworld.com/CC5_S01AAC_96_SC"
       ]
     },
     "languages": [
@@ -4602,7 +4631,7 @@
     "sources": {
       "streams": [
         "https://17843.live.streamtheworld.com/CC9_S01AAC_96_SC",
-        "https://16643.live.streamtheworld.com/CC9_S01AAC_96_SC",
+        "https://19273.live.streamtheworld.com/CC9_S01AAC_96_SC",
         "https://29309.live.streamtheworld.com/CC9_S01AAC_96_SC"
       ]
     },
@@ -4673,8 +4702,8 @@
     "name": "Klara Continuo",
     "sources": {
       "streams": [
-        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3",
-        "https://icecast.vrtcdn.be/klaracontinuo.aac"
+        "https://icecast.vrtcdn.be/klaracontinuo.aac",
+        "https://icecast.vrtcdn.be/klaracontinuo-high.mp3"
       ]
     },
     "languages": [
@@ -4727,6 +4756,20 @@
     "languages": [
       "deu"
     ]
+  },
+  {
+    "nanoid": "DdIHfmJgavGP7C",
+    "name": "Klassik Co",
+    "sources": {
+      "streams": [
+        "https://klassik_co.stream.laut.fm/klassik_co"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PUNN5mZPwxrWyA",
@@ -4792,8 +4835,8 @@
     "name": "Klassik Radio - Christmas",
     "sources": {
       "streams": [
-        "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642",
-        "https://stream.klassikradio.de/christmas/mp3-192"
+        "https://stream.klassikradio.de/christmas/mp3-192",
+        "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642"
       ]
     },
     "languages": [
@@ -4907,9 +4950,9 @@
     "name": "Klassik Radio - Movie",
     "sources": {
       "streams": [
+        "https://stream.klassikradio.de/filmklassiker/mp3-192/stream.klassikradio.de",
         "https://klassikr.streamabc.net/klr-movienational-aac-128-2085172",
-        "https://live.streams.klassikradio.de/klassikradio-movie",
-        "https://stream.klassikradio.de/filmklassiker/mp3-192/stream.klassikradio.de"
+        "https://live.streams.klassikradio.de/klassikradio-movie"
       ]
     },
     "languages": [
@@ -4943,7 +4986,7 @@
     "name": "Klassik Radio - Nature",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/nature/mp3-128/www.klassikradio.de/",
+        "https://stream.klassikradio.de/nature/mp3-128/www.klassikradio.de",
         "https://stream.klassikradio.de/nature/mp3-128"
       ]
     },
@@ -4980,8 +5023,8 @@
     "name": "Klassik Radio - Piano New Classics",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode/",
-        "https://stream.klassikradio.de/piano/mp3-192/stream.klassikradio.de/"
+        "https://stream.klassikradio.de/pianonewclassics/mp3-192/radiode",
+        "https://stream.klassikradio.de/piano/mp3-192/stream.klassikradio.de"
       ]
     },
     "languages": [
@@ -4993,9 +5036,9 @@
     "name": "Klassik Radio - Pure Bach",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/",
-        "https://stream.klassikradio.de/purebach/aac-64/radiode/",
-        "https://stream.klassikradio.de/purebach/aac-64/stream.klassikradio.de"
+        "https://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de",
+        "https://stream.klassikradio.de/purebach/aac-64/stream.klassikradio.de",
+        "https://stream.klassikradio.de/purebach/aac-64/radiode"
       ]
     },
     "languages": [
@@ -5041,9 +5084,9 @@
     "name": "Klassik Radio - Rock meets Klassik",
     "sources": {
       "streams": [
-        "https://stream.klassikradio.de/klassikrock/mp3-192/stream.klassikradio.de/",
-        "https://stream.klassikradio.de/rockclassic/mp3-192/stream.klassikradio.de/",
-        "https://stream.klassikradio.de/rockclassic/mp3-128/www.klassikradio.de/"
+        "https://stream.klassikradio.de/rockclassic/mp3-128/www.klassikradio.de",
+        "https://stream.klassikradio.de/klassikrock/mp3-192/stream.klassikradio.de",
+        "https://stream.klassikradio.de/rockclassic/mp3-192/stream.klassikradio.de"
       ]
     },
     "languages": [
@@ -5126,8 +5169,8 @@
     "name": "Klasszik Rádió 92.1",
     "sources": {
       "streams": [
-        "https://www.klasszikradio.hu/klasszik.mp3",
-        "https://s04.diazol.hu:9600/live.mp3"
+        "https://s04.diazol.hu:9600/live.mp3",
+        "https://www.klasszikradio.hu/klasszik.mp3"
       ]
     },
     "languages": [
@@ -5139,9 +5182,9 @@
     "name": "KLRE Classical 90.5",
     "sources": {
       "streams": [
+        "https://17793.live.streamtheworld.com/KLREFM_SC",
         "https://18123.live.streamtheworld.com/KLREFM_SC",
-        "https://26273.live.streamtheworld.com/KLREFM_SC",
-        "https://17793.live.streamtheworld.com/KLREFM_SC"
+        "https://18323.live.streamtheworld.com/KLREFM_SC"
       ]
     },
     "languages": [
@@ -5165,7 +5208,6 @@
     "name": "KNAU 88.7 Arizona Public Radio",
     "sources": {
       "streams": [
-        "https://29325.live.streamtheworld.com/KNAUFM_128_SC",
         "https://18443.live.streamtheworld.com/KNAUFM_128_SC",
         "https://23023.live.streamtheworld.com/KNAUFM_128_SC"
       ]
@@ -5216,8 +5258,8 @@
     "sources": {
       "streams": [
         "https://14613.live.streamtheworld.com/KPBX_FM_ADP_SC",
-        "https://14993.live.streamtheworld.com/KPBX_FM_ADP_SC",
-        "https://16613.live.streamtheworld.com/KPBX_FM_ADP_SC"
+        "https://14623.live.streamtheworld.com/KPBX_FM_ADP_SC",
+        "https://14993.live.streamtheworld.com/KPBX_FM_ADP_SC"
       ]
     },
     "languages": [
@@ -5338,8 +5380,8 @@
     "name": "KUSC Classical",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCAAC96_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP128_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP128_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCAAC96_SC"
       ]
     },
     "languages": [
@@ -5437,7 +5479,7 @@
       "streams": [
         "https://26223.live.streamtheworld.com/WMEA_CLASSICAL_ADP_SC",
         "https://26423.live.streamtheworld.com/WMEA_CLASSICAL_ADP_SC",
-        "https://27143.live.streamtheworld.com/WMEA_CLASSICAL_ADP_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEA_CLASSICAL_ADP_SC"
       ]
     },
     "languages": [
@@ -5461,9 +5503,9 @@
     "name": "MDR Klassik",
     "sources": {
       "streams": [
+        "https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
         "https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/max/stream.mp3",
-        "https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8",
-        "https://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3"
+        "https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8"
       ]
     },
     "languages": [
@@ -5477,7 +5519,8 @@
     "name": "MDR KULTUR",
     "sources": {
       "streams": [
-        "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3"
+        "https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3",
+        "https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8"
       ]
     },
     "languages": [
@@ -5733,8 +5776,8 @@
     "sources": {
       "streams": [
         "https://lyd.nrk.no/nrk_radio_klassisk_aac_h",
-        "https://lyd.nrk.no/nrk_radio_klassisk_mp3_l",
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h"
+        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h",
+        "https://lyd.nrk.no/nrk_radio_klassisk_mp3_l"
       ]
     },
     "languages": [
@@ -6814,8 +6857,8 @@
     "name": "Radio Art - Sleep",
     "sources": {
       "streams": [
-        "https://air-tunein.radioart.com/fSleep.mp3",
-        "https://air.radioart.com/fSleep.mp3"
+        "https://air.radioart.com/fSleep.mp3",
+        "https://air-tunein.radioart.com/fSleep.mp3"
       ]
     },
     "languages": [
@@ -7398,6 +7441,20 @@
     ]
   },
   {
+    "nanoid": "CFJaBCoVxD8N7x",
+    "name": "Radio Neptune",
+    "sources": {
+      "streams": [
+        "https://icecast.infini.fr:8000/neptune"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lfvuC27EjCJpCI",
     "name": "Radio Nova - La Nuit",
     "sources": {
@@ -7499,9 +7556,9 @@
     "name": "Radio SRF 2 Kultur",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/drs2/aacp_32",
-        "https://stream.srg-ssr.ch/m/drs2/mp3_128",
-        "https://stream.srg-ssr.ch/srgssr/srf2/mp3/128"
+        "https://stream.srg-ssr.ch/srgssr/srf2/mp3/128",
+        "https://stream.srg-ssr.ch/srgssr/srf2/aac/96",
+        "https://stream.srg-ssr.ch/m/drs2/aacp_32"
       ]
     },
     "languages": [
@@ -7695,8 +7752,8 @@
     "name": "RauteMusik Klassik",
     "sources": {
       "streams": [
-        "https://rautemusik-de-hz-fal-stream15.radiohost.de/klassik",
-        "https://klassik-high.rautemusik.fm/"
+        "https://klassik-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream15.radiohost.de/klassik"
       ]
     },
     "languages": [
@@ -7708,8 +7765,8 @@
     "name": "RauteMusik Solo Piano",
     "sources": {
       "streams": [
-        "https://rautemusik-de-hz-fal-stream12.radiohost.de/solopiano",
-        "https://solopiano-high.rautemusik.fm/"
+        "https://solopiano-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream12.radiohost.de/solopiano"
       ]
     },
     "languages": [
@@ -7879,8 +7936,8 @@
     "name": "RTBF Musiq3",
     "sources": {
       "streams": [
-        "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
-        "https://radios.rtbf.be/musiq3-128.aac"
+        "https://radios.rtbf.be/musiq3-128.aac",
+        "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
       ]
     },
     "languages": [
@@ -7905,9 +7962,9 @@
     "name": "RTS Espace 2",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/espace-2/aacp_96",
-        "https://stream.srg-ssr.ch/m/espace-2/aacp_32",
-        "https://stream.srg-ssr.ch/m/espace-2/mp3_128"
+        "https://stream.srg-ssr.ch/m/espace-2/mp3_128",
+        "https://stream.srg-ssr.ch/srgssr/espace-2/aac/96",
+        "https://stream.srg-ssr.ch/srgssr/espace-2/mp3/128"
       ]
     },
     "languages": [
@@ -8109,7 +8166,7 @@
     "name": "Spiritual Christian Radio",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/oquahf0ik0rvv/"
+        "https://stream.zeno.fm/oquahf0ik0rvv"
       ]
     },
     "languages": [
@@ -8172,6 +8229,7 @@
     "name": "Sveriges Radio P2",
     "sources": {
       "streams": [
+        "https://live1.sr.se/p2-aac-320",
         "https://edge1.sr.se/p2-flac",
         "https://live1.sr.se/p2-flac"
       ]
@@ -8246,8 +8304,8 @@
     "name": "Symphony 924",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac"
       ]
     },
     "languages": [
@@ -8333,8 +8391,8 @@
     "name": "The World Famous LIR",
     "sources": {
       "streams": [
-        "https://das-edge09-live365-dal03.cdnstream.com/a95442",
-        "https://streaming.live365.com/a95442"
+        "https://streaming.live365.com/a95442",
+        "https://das-edge09-live365-dal03.cdnstream.com/a95442"
       ]
     },
     "languages": [
@@ -8695,8 +8753,8 @@
     "sources": {
       "streams": [
         "https://wfmt.streamguys1.com/main-source",
-        "https://wfmt.streamguys1.com/main64.aac",
-        "https://wfmt.streamguys1.com/main128.aac"
+        "https://wfmt.streamguys1.com/main128.aac",
+        "https://wfmt.streamguys1.com/main64.aac"
       ]
     },
     "languages": [
@@ -8721,8 +8779,8 @@
     "sources": {
       "streams": [
         "https://18123.live.streamtheworld.com/WGTEFM_SC",
-        "https://17793.live.streamtheworld.com/WGTEFM_SC",
-        "https://18323.live.streamtheworld.com/WGTEFM_SC"
+        "https://26273.live.streamtheworld.com/WGTEFM_SC",
+        "https://26443.live.streamtheworld.com/WGTEFM_SC"
       ]
     },
     "languages": [
@@ -8771,9 +8829,9 @@
     "name": "WKSU Classical",
     "sources": {
       "streams": [
-        "https://stream.wksu.org/wksu3.mp3.128",
         "https://stream.wksu.org/wksu3.128.mp3",
-        "https://live.ideastream.org/wksu3-64.aac"
+        "https://live.ideastream.org/wksu3-64.aac",
+        "https://stream.wksu.org/wksu3.mp3.128"
       ]
     },
     "languages": [
@@ -8833,8 +8891,8 @@
     "name": "WNED Classical",
     "sources": {
       "streams": [
-        "https://26423.live.streamtheworld.com/WNEDFM_SC",
         "https://26223.live.streamtheworld.com/WNEDFM_SC",
+        "https://26423.live.streamtheworld.com/WNEDFM_SC",
         "https://27143.live.streamtheworld.com/WNEDFM_SC"
       ]
     },
@@ -9033,8 +9091,8 @@
     "sources": {
       "streams": [
         "https://14843.live.streamtheworld.com/WVIAHD2_SC",
-        "https://26153.live.streamtheworld.com/WVIAHD2_SC",
-        "https://19473.live.streamtheworld.com/WVIAHD2_SC"
+        "https://19473.live.streamtheworld.com/WVIAHD2_SC",
+        "https://26153.live.streamtheworld.com/WVIAHD2_SC"
       ]
     },
     "languages": [
@@ -9084,8 +9142,8 @@
     "name": "WXXI Classical 91.5 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFMAAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3"
       ]
     },
     "languages": [
@@ -9111,6 +9169,20 @@
     "languages": [
       "zho"
     ]
+  },
+  {
+    "nanoid": "3Nijbg2wX7RIoW",
+    "name": "Yancheng Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp.qingting.fm/live/15318300/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "VGj2fpuySieN4P",

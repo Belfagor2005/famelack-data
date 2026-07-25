@@ -395,7 +395,7 @@
       "streams": [
         "https://26283.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
-        "https://26733.live.streamtheworld.com/CBH_CBC_SC"
+        "https://17813.live.streamtheworld.com/CBH_CBC_SC"
       ]
     },
     "languages": [
@@ -407,8 +407,8 @@
     "name": "CBC Music Mountain",
     "sources": {
       "streams": [
-        "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8",
-        "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3"
+        "https://27033.live.streamtheworld.com/CBXFM_CBC.mp3",
+        "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8"
       ]
     },
     "languages": [
@@ -439,6 +439,20 @@
     "languages": [
       "fra"
     ]
+  },
+  {
+    "nanoid": "OKIXMr0QO8pnd7",
+    "name": "Classic 21 Blues",
+    "sources": {
+      "streams": [
+        "https://radios.rtbf.be/wr-c21-blues-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "yro9PytlLdZvLW",
@@ -486,6 +500,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "KkuIcAUxkCH73J",
+    "name": "Dux Radio",
+    "sources": {
+      "streams": [
+        "https://radio.duxradio.ro:8002/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "RjJuCislf2Lj9J",
@@ -636,6 +664,20 @@
     ]
   },
   {
+    "nanoid": "HuTfJAwQ561RDd",
+    "name": "Friends of 'CSB",
+    "sources": {
+      "streams": [
+        "https://s20.myradiostream.com:18792/listen.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Oe8KU29WUzP62V",
     "name": "GotRadio - Bit O' Blues",
     "sources": {
@@ -653,8 +695,8 @@
     "sources": {
       "streams": [
         "https://listen.radioking.com/radio/10713/stream/224413",
-        "https://www.radioking.com/play/gritty-rock",
-        "https://listen.radioking.com/radio/10713/stream/21674"
+        "https://listen.radioking.com/radio/10713/stream/21674",
+        "https://www.radioking.com/play/gritty-rock"
       ]
     },
     "languages": [
@@ -954,8 +996,9 @@
     "name": "KOFA Border Radio",
     "sources": {
       "streams": [
-        "https://23023.live.streamtheworld.com/KAWCAM.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC"
+        "https://18443.live.streamtheworld.com/KAWCAM_SC",
+        "https://23023.live.streamtheworld.com/KAWCAM_SC",
+        "https://29325.live.streamtheworld.com/KAWCAM_SC"
       ]
     },
     "languages": [
@@ -1029,8 +1072,8 @@
     "name": "LifeGate Radio Blues",
     "sources": {
       "streams": [
-        "https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio",
-        "https://router.xdevel.com/audio3s975809-348/stream/icecast.audio"
+        "https://router.xdevel.com/audio3s975809-348/stream/icecast.audio",
+        "https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio"
       ]
     },
     "languages": [
@@ -1137,8 +1180,8 @@
     "name": "Music City Roadhouse",
     "sources": {
       "streams": [
-        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
         "https://streaming.live365.com/a73754",
+        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
         "https://ais-edge09-live365-dal02.cdnstream.com/a73754"
       ]
     },
@@ -1382,8 +1425,8 @@
     "sources": {
       "streams": [
         "https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902",
-        "https://streams.radiobob.de/blues/mp3-192/homepage/",
-        "https://streams.radiobob.de/blues/mp3-192/mediaplayer/"
+        "https://streams.radiobob.de/blues/mp3-192/homepage",
+        "https://streams.radiobob.de/blues/mp3-192/mediaplayer"
       ]
     },
     "languages": [
@@ -1396,7 +1439,7 @@
     "sources": {
       "streams": [
         "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
-        "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage/",
+        "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage",
         "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
       ]
     },
@@ -1699,9 +1742,9 @@
     "name": "ROCK ANTENNE - Blues Rock",
     "sources": {
       "streams": [
-        "https://stream.rockantenne.de/blues-rock/stream/mp3",
         "https://stream.rockantenne.de/hair-metal/stream/mp3",
-        "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3"
+        "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
+        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3"
       ]
     },
     "languages": [
@@ -1802,6 +1845,20 @@
     ]
   },
   {
+    "nanoid": "qAyVohlgjoa0MC",
+    "name": "Southern Rock Radio",
+    "sources": {
+      "streams": [
+        "https://southern-rock_radio.stream.laut.fm/southern-rock_radio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9qhA2oxOUW5TRo",
     "name": "StarBox Blues",
     "sources": {
@@ -1818,8 +1875,8 @@
     "name": "Styria Lounge",
     "sources": {
       "streams": [
-        "https://styrialounge.out.airtime.pro/styrialounge_a",
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a"
+        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
       ]
     },
     "languages": [

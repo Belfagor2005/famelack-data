@@ -83,20 +83,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X4xe5RrfPw7ILD",
-    "name": "Cartoonito Magyarország",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/lwiWqNgWgbE"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KtUOjtUN5J2cOR",
     "name": "Csurgo TV",
     "sources": {
@@ -129,7 +115,8 @@
     "name": "Euronews Hungarian",
     "sources": {
       "streams": [
-        "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8"
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8",
+        "https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -153,11 +140,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gm7CBdYnRcgxQo",
-    "name": "Gyongyosi TV",
+    "nanoid": "cjLvzdREj6JZ9r",
+    "name": "Galaxy4",
     "sources": {
       "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8"
+        "https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8"
       ]
     },
     "languages": [
@@ -167,11 +154,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5qfbot9xMhMmm",
-    "name": "Hegyvidek TV",
+    "nanoid": "gm7CBdYnRcgxQo",
+    "name": "Gyongyosi TV",
     "sources": {
       "streams": [
-        "https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -383,11 +370,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uOI7Fr7hGWDmjp",
-    "name": "TelePaks",
+    "nanoid": "UxOgU5kfFfuxCm",
+    "name": "Tatai TV",
     "sources": {
       "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8"
+        "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8"
       ]
     },
     "languages": [
@@ -429,20 +416,6 @@
     "sources": {
       "streams": [
         "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2SBZd0F52NzMui",
-    "name": "XV TV",
-    "sources": {
-      "streams": [
-        "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8"
       ]
     },
     "languages": [

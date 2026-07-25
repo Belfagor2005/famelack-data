@@ -199,7 +199,7 @@
     "name": "Ecuador TV",
     "sources": {
       "streams": [
-        "https://samson.streamerr.co:8081/shogun/index.m3u8"
+        "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8"
       ]
     },
     "languages": [
@@ -251,53 +251,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XUbd7x9yt2DTFl",
-    "name": "FM Mundo",
-    "sources": {
-      "streams": [
-        "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rUmy5ItsraiQ6E",
-    "name": "Gaviota TV",
-    "sources": {
-      "streams": [
-        "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c0ayJmoC3gtMTu",
     "name": "Hechos Ecuador",
     "sources": {
       "streams": [
         "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IpJn6TkjLhDwxt",
-    "name": "IeanJesus Ecuador",
-    "sources": {
-      "streams": [
-        "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -512,11 +470,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xWGjAVSP39eb8X",
-    "name": "Plus TV",
+    "nanoid": "ThXcsCjDAJyX7d",
+    "name": "Oromar TV+",
     "sources": {
       "streams": [
-        "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+        "https://stream.oromar.tv/hls/camriva/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kPWsFvTNnFdIuT",
+    "name": "Planeta Channel",
+    "sources": {
+      "streams": [
+        "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8"
       ]
     },
     "languages": [
@@ -609,11 +581,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0Vw6NdTRGURL25",
-    "name": "RTU",
+    "nanoid": "igAkF0EEmg8EZT",
+    "name": "RTS",
     "sources": {
       "streams": [
-        "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
+        "https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8"
       ]
     },
     "languages": [
@@ -623,11 +595,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ACRkzgbJZz2pww",
-    "name": "Senal Positiva TV",
+    "nanoid": "0Vw6NdTRGURL25",
+    "name": "RTU",
     "sources": {
       "streams": [
-        "https://eu1.servers10.com:8081/8108/index.m3u8"
+        "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
       ]
     },
     "languages": [
@@ -679,20 +651,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CY38SV2i5DFUTV",
-    "name": "TV Cisne",
-    "sources": {
-      "streams": [
-        "https://video2.lhdserver.es/tvcisne/live.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7rCpyg4PCpPsco",
     "name": "TV Color Canal 36",
     "sources": {
@@ -721,11 +679,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MNXObrhpcNUXdr",
+    "name": "TVC",
+    "sources": {
+      "streams": [
+        "https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uhXaKy0zwMPJAb",
     "name": "UNIANDES TV",
     "sources": {
       "streams": [
         "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MSQI2c7efDDBKU",
+    "name": "Wuan+",
+    "sources": {
+      "streams": [
+        "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8"
       ]
     },
     "languages": [

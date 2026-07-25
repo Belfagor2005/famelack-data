@@ -24,6 +24,20 @@
     ]
   },
   {
+    "nanoid": "0s39n3fk2KGHRA",
+    "name": "Área Deportiva FM",
+    "sources": {
+      "streams": [
+        "https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jYo1nKz3ZzCaTC",
     "name": "Armónica FM",
     "sources": {
@@ -230,6 +244,20 @@
     ]
   },
   {
+    "nanoid": "piUfiQy1ST9UnR",
+    "name": "Expresión FM",
+    "sources": {
+      "streams": [
+        "https://usa3.lhdserver.es:8031/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xQgIXanZJVr8xV",
     "name": "FB Radio",
     "sources": {
@@ -387,6 +415,20 @@
     ]
   },
   {
+    "nanoid": "ZEOC0IV4GT2Ixa",
+    "name": "La Dura",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/qtta8cpyd0quv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i3yYumZevT3ybc",
     "name": "La Main Street",
     "sources": {
@@ -415,9 +457,7 @@
     "name": "La Radio Redonda",
     "sources": {
       "streams": [
-        "https://laredondafm.makrodigital.com/stream/radiolaredondaquito",
-        "https://laredondafm.makrodigital.com:9550/stream",
-        "https://laredondafm.makrodigital.com:9560/stream"
+        "https://laredondafm.makrodigital.com:9550/stream"
       ]
     },
     "languages": [
@@ -465,8 +505,8 @@
     "name": "La Voz del Tomebamba",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8074/lavozdeltomebamba",
-        "https://streamingecuador.com:8074/lavozdeltomebamba"
+        "https://streamingecuador.com:8074/lavozdeltomebamba",
+        "https://streamingecuador.net:8074/lavozdeltomebamba"
       ]
     },
     "languages": [
@@ -638,8 +678,8 @@
     "name": "Radio 11Q",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8012/stream",
-        "https://streamingecuador.net:8012/radio11q"
+        "https://streamingecuador.net:8012/radio11q",
+        "https://streamingecuador.net:8012/stream"
       ]
     },
     "languages": [
@@ -680,6 +720,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "TWrzk6AhWmG8PN",
+    "name": "Radio Amazonas",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8346/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "EqGPqZsjJyuZSF",
@@ -760,7 +814,7 @@
       "streams": [
         "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
         "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
-        "https://canelaradio.makrodigital.com:9280/stream"
+        "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
       ]
     },
     "languages": [
@@ -963,8 +1017,8 @@
     "name": "Radio Naval",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8029/Radio_Naval",
-        "https://streamingecuador.net:8029/radionaval"
+        "https://streamingecuador.net:8029/radionaval",
+        "https://streamingecuador.net:8029/Radio_Naval"
       ]
     },
     "languages": [

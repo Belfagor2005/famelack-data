@@ -136,6 +136,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W3wX0To0U8aqpL",
+    "name": "Gem Shopping",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-nb2CGmHjjw"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bcwcJsqO9k052m",
     "name": "Gem Shopping Network",
     "sources": {
@@ -234,20 +248,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9MKN8crqFFTf4",
-    "name": "Home Shopping Russia",
-    "sources": {
-      "streams": [
-        "https://moymir.ru/hls/onair.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "00SFFti9BYGccf",
     "name": "HSE",
     "sources": {
@@ -294,6 +294,7 @@
     "name": "HSN East",
     "sources": {
       "streams": [
+        "https://40.160.24.53/HSN/index.m3u8",
         "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
         "https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8"
       ]
@@ -452,7 +453,7 @@
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/vbKz0nMFKGY"
+        "https://www.youtube-nocookie.com/embed/DMpVvusgGgY"
       ]
     },
     "languages": [
@@ -502,6 +503,20 @@
       "vie"
     ],
     "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IPkLjLkp2JBRTC",
+    "name": "Leomax 24",
+    "sources": {
+      "streams": [
+        "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -579,7 +594,7 @@
     "name": "momo購物一台 CH48",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_pZQ1Lk0xMA"
+        "https://www.youtube-nocookie.com/embed/7__QARkZdNs"
       ]
     },
     "languages": [
@@ -600,6 +615,20 @@
       "zho"
     ],
     "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OHO6qCMuT5qMFT",
+    "name": "Moy mir",
+    "sources": {
+      "streams": [
+        "https://moymir.ru/hls/onair.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -706,8 +735,9 @@
     "name": "QVC",
     "sources": {
       "streams": [
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
-        "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8"
+        "https://206.212.244.63/141/index.m3u8",
+        "https://40.160.24.55/QVC/index.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
       ]
     },
     "languages": [
@@ -856,6 +886,7 @@
     "name": "QVC2",
     "sources": {
       "streams": [
+        "https://206.212.244.63/142/index.m3u8",
         "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
       ]
     },
@@ -870,7 +901,8 @@
     "name": "QVC3",
     "sources": {
       "streams": [
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
+        "https://206.212.244.63/143/index.m3u8"
       ]
     },
     "languages": [
@@ -1208,7 +1240,7 @@
     "name": "Ювелирочка",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5OdUptEWDCw"
+        "https://www.youtube-nocookie.com/embed/--DszUWnbmM"
       ]
     },
     "languages": [

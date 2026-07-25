@@ -28,6 +28,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "bZQGzeEyald0Ck",
+    "name": "Bollywood Classic",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3FibakB882ByKy",
     "name": "Classic TV",
     "sources": {
@@ -139,7 +153,7 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oJziSt-N-jg"
+        "https://www.youtube-nocookie.com/embed/BbRlsNyON-Q"
       ]
     },
     "languages": [
@@ -163,24 +177,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oubeKLPS2AIZdf",
-    "name": "Pro100TV",
-    "sources": {
-      "streams": [
-        "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AG1c9dyu0hTbFo",
     "name": "Retro",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/191/index.m3u8",
         "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -195,6 +196,7 @@
     "name": "Retro TV East",
     "sources": {
       "streams": [
+        "https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8",
         "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8"
       ]
     },
@@ -335,6 +337,21 @@
     ],
     "languages": [
       "jpn"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e9eaDmzNxy5CZM",
+    "name": "TV Land East",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/164/index.m3u8",
+        "https://40.160.24.55/TV_LAND/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -551,10 +568,10 @@
   },
   {
     "nanoid": "xae9GkiaWEJxkK",
-    "name": "Warner Bros. Rewind: Police Academy Series",
+    "name": "Warner Bros. Rewind: Mad Max",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/koAHvs1Sf7M"
+        "https://www.youtube-nocookie.com/embed/igcstjLsLsA"
       ]
     },
     "languages": [

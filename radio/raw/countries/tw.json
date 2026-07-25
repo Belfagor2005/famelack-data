@@ -78,8 +78,8 @@
     "name": "BCC News Network 中廣新聞網",
     "sources": {
       "streams": [
-        "https://n08.rcs.revma.com/78fm9wyy2tzuv",
-        "https://n03.rcs.revma.com/78fm9wyy2tzuv"
+        "https://n03.rcs.revma.com/78fm9wyy2tzuv",
+        "https://n08.rcs.revma.com/78fm9wyy2tzuv"
       ]
     },
     "languages": [
@@ -272,6 +272,20 @@
     ]
   },
   {
+    "nanoid": "TSSZ7Ymcel8Xyi",
+    "name": "好事聯播網 人人電台",
+    "sources": {
+      "streams": [
+        "https://n01.rcs.revma.com/fkdywbc59duvv"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mrrjwwI6ysYjYq",
     "name": "好事聯播網 山海屯電台",
     "sources": {
@@ -305,6 +319,20 @@
     "languages": [
       "zho"
     ]
+  },
+  {
+    "nanoid": "c1XyFUFnQ9D0Y1",
+    "name": "好事聯播網 蓮花電台 FM 98.3",
+    "sources": {
+      "streams": [
+        "https://n05.rcs.revma.com/vh0xgcc59duvv"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "tw",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "TWvyTNuoU5j00I",

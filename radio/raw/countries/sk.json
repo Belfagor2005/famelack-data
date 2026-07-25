@@ -288,7 +288,6 @@
     "name": "Rádio Expres",
     "sources": {
       "streams": [
-        "https://stream.bauermedia.sk/128.mp3",
         "https://stream.expres.sk/128.mp3"
       ]
     },
@@ -457,8 +456,8 @@
     "name": "Radio Viva",
     "sources": {
       "streams": [
-        "https://stream.sepia.sk:8000/viva128.mp3",
-        "https://stream.sepia.sk/viva128.mp3"
+        "https://stream.sepia.sk/viva128.mp3",
+        "https://stream.sepia.sk:8000/viva128.mp3"
       ]
     },
     "languages": [

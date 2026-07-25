@@ -13,6 +13,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hqS1qCVILZbC3f",
+    "name": "AP TV",
+    "sources": {
+      "streams": [
+        "https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "gh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XbqCbMWvgTX2F0",
     "name": "G-eye TV",
     "sources": {
@@ -51,11 +65,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qrd5qBWYEVUZjj",
-    "name": "OTV",
+    "nanoid": "5uGhvob0v0qr3L",
+    "name": "JoyNews",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/zAOKS6EDuWA"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "gh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JCDVB55q3JOV8S",
+    "name": "MOGPA TV",
     "sources": {
       "streams": [
-        "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
+        "https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8"
       ]
     },
     "languages": [

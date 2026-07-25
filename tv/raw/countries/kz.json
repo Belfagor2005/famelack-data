@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "k0N3e27ge4nS6v",
+    "name": "31 Kanal",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/388/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "sources": {
@@ -28,16 +42,58 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7rBhnvF1cWN6Zb",
+    "name": "Astana TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/28/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NsRP1rTNLBH991",
     "name": "Balapan",
     "sources": {
       "streams": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JCokef05ozWI8Y",
+    "name": "Balapan International",
+    "sources": {
+      "streams": [
         "https://live-3.otcnet.ru/Balapan/index.m3u8"
       ]
     },
     "languages": [
       "kaz"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SbrDSLg33mlDZZ",
+    "name": "Channel 7 Kazakhstan",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/27/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
     ],
     "country": "kz",
     "isGeoBlocked": false
@@ -51,7 +107,6 @@
       ]
     },
     "languages": [
-      "eng",
       "kaz",
       "rus"
     ],
@@ -78,10 +133,40 @@
     "name": "MTRK",
     "sources": {
       "streams": [
+        "https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8",
         "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8"
       ]
     },
     "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SD0NAzWeVoCwdJ",
+    "name": "Nickelodeon CIS",
+    "sources": {
+      "streams": [
+        "https://stream8.cinerama.uz/1500/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qDGnaOsmdQnYTU",
+    "name": "NTK",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/389/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
       "rus"
     ],
     "country": "kz",
@@ -131,11 +216,26 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "UQ2tnaYuDB5seW",
+    "name": "Rika TV",
+    "sources": {
+      "streams": [
+        "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TomqBXbWstBWEq",
     "name": "Silk Way",
     "sources": {
       "streams": [
-        "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
+        "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
         "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8"
       ]
     },
@@ -146,6 +246,21 @@
     ],
     "country": "kz",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MYbhEZtWxMLBpp",
+    "name": "Silk Way Cinema",
+    "sources": {
+      "streams": [
+        "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz",
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "if2kwrLRFc4oRC",

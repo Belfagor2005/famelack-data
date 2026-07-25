@@ -106,7 +106,7 @@
     "name": "80s80s Christmas",
     "sources": {
       "streams": [
-        "https://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/"
+        "https://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de"
       ]
     },
     "languages": [
@@ -149,7 +149,7 @@
     "name": "90s90s Christmas",
     "sources": {
       "streams": [
-        "https://streams.90s90s.de/xmas/mp3-192/streams.90s90s.de/"
+        "https://streams.90s90s.de/xmas/mp3-192/streams.90s90s.de"
       ]
     },
     "languages": [
@@ -1001,8 +1001,22 @@
     "name": "Christmas FM Classical & Carols",
     "sources": {
       "streams": [
-        "https://christmasfm.cdnstream1.com/2549_64.aac",
-        "https://christmasfm.cdnstream1.com/2549_128.mp3"
+        "https://christmasfm.cdnstream1.com/2549_128.mp3",
+        "https://christmasfm.cdnstream1.com/2549_64.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xDXcMi9n5RKCuA",
+    "name": "Christmas FM Classics & Crooners",
+    "sources": {
+      "streams": [
+        "https://christmasfm.cdnstream1.com/2550_128.mp3"
       ]
     },
     "languages": [
@@ -1571,8 +1585,8 @@
     "name": "iHeart The Holidays",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1.mp3"
       ]
     },
     "languages": [
@@ -1662,8 +1676,8 @@
     "name": "Klassik Radio - Christmas",
     "sources": {
       "streams": [
-        "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642",
-        "https://stream.klassikradio.de/christmas/mp3-192"
+        "https://stream.klassikradio.de/christmas/mp3-192",
+        "https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642"
       ]
     },
     "languages": [
@@ -1789,6 +1803,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "tPKjWDp5xO5BM0",
+    "name": "Melyh Christmas",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rks5ag8p2w9uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "OALFbxlSwYmxqT",
@@ -1947,6 +1975,20 @@
     ]
   },
   {
+    "nanoid": "Z1pvIPtPO6AQHn",
+    "name": "Oxygen Xmas",
+    "sources": {
+      "streams": [
+        "https://oxygenmusic.hu:8000/xmas_320"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4bJWFrGLilUj4j",
     "name": "P24-7 Juleradioen",
     "sources": {
@@ -1999,8 +2041,8 @@
     "name": "R.SA - Weihnachtsradio",
     "sources": {
       "streams": [
-        "https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-192-8804524?sABC=6n24616o%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1780769131",
-        "https://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/"
+        "https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-192-8804524?sABC=6n598nq9%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1784253145",
+        "https://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de"
       ]
     },
     "languages": [
@@ -2036,9 +2078,9 @@
     "name": "RADIO BOB! Christmas Rock",
     "sources": {
       "streams": [
-        "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
-        "https://streams.radiobob.de/bob-christmas/mp3-128/radiode",
-        "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/"
+        "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer",
+        "https://streams.radiobob.de/bob-christmas/mp3-128/radiode"
       ]
     },
     "languages": [
@@ -2234,7 +2276,7 @@
     "name": "Radio PSR Weihnachts-Superhits",
     "sources": {
       "streams": [
-        "https://regiocast.streamabc.net/regc-psrevent013140163-mp3-192-9512835?sABC=6n2445os%230%2332p1962023rpq23so3q5020459682s0o%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1780762047"
+        "https://regiocast.streamabc.net/regc-psrevent013140163-mp3-192-9512835?sABC=6n592p6s%230%2364n822nq2o1r4qs696n15709971o9sp7%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1784228975"
       ]
     },
     "languages": [
@@ -2413,7 +2455,7 @@
     "sources": {
       "streams": [
         "https://rautemusik-de-hz-fal-stream15.radiohost.de/christmas",
-        "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzgwNzg0MjI1JmQ9Y2U1MjA0YTBiZDQ0ZGZmZjFhZTQ"
+        "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzg0MjU4MjU0JmQ9MmFkMjdhMzNkODJhM2Q4Y2U1M2E"
       ]
     },
     "languages": [
@@ -2933,8 +2975,8 @@
     "name": "Treasure Emporium Christmas Radio",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/5z3f8h42c48uv",
-        "https://stream.zeno.fm/gker4h42c48uv"
+        "https://stream.zeno.fm/gker4h42c48uv",
+        "https://stream.zeno.fm/5z3f8h42c48uv"
       ]
     },
     "languages": [

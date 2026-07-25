@@ -1,47 +1,5 @@
 [
   {
-    "nanoid": "XloC7cDlCkrDyP",
-    "name": "4seven",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QawkhL6v0uShUD",
-    "name": "5SELECT",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VNIdiZr5TGqgic",
-    "name": "5STAR",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aliCtCUOpSPVVP",
     "name": "8 Out Of 10 Cats",
     "sources": {
@@ -314,6 +272,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "BUsm8kgtVtmneU",
+    "name": "BBC News North America",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8",
+        "https://206.212.244.63/14/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JhHpiYec647IOL",
     "name": "BBC News Pashto",
     "sources": {
@@ -344,20 +317,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CVNTJOH5kkv0QM",
-    "name": "BBC One London HD",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCOne.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "RQlB3Nwkn2RwIf",
     "name": "BBC Persian",
     "sources": {
@@ -375,49 +334,6 @@
     ],
     "country": "uk",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bxrLpOnIw2cIku",
-    "name": "BBC Three/CBBC",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8",
-        "https://41.205.77.102/BBC-THREE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EohUZfaHu9Fw27",
-    "name": "BBC Two",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "lM7b4zFwGuvMGj",
-    "name": "Blaze",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Blaze.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "0LllhlpEzMQvfO",
@@ -476,20 +392,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cjPVIZBmspUxQT",
-    "name": "Boomerang: Tom & Jerry",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/j4rEV2OCRS4"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lbVppOys0N4toA",
     "name": "Born to Kill",
     "sources": {
@@ -533,20 +435,6 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XfZetbS9084"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OeJiCXESX00gax",
-    "name": "Channel 4 UK HD",
-    "sources": {
-      "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/Channel4.m3u8"
       ]
     },
     "languages": [
@@ -1345,7 +1233,7 @@
     "name": "JimJam Europe",
     "sources": {
       "streams": [
-        "https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8"
+        "https://stream.mcquack.net/150/index.m3u8"
       ]
     },
     "languages": [
@@ -1643,6 +1531,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uUyFGrfi3LrrfU",
+    "name": "MTA1 World",
+    "sources": {
+      "streams": [
+        "https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "ben",
+      "deu",
+      "eng",
+      "fra",
+      "urd"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "840FgWNafPoU83",
     "name": "MTA2 Europe",
     "sources": {
@@ -1721,6 +1628,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eg3goyColncJv1",
+    "name": "MTV Global",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/MTVEurope/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MDjiS0YoXPCIql",
     "name": "Mystery TV UK",
     "stream_urls": [
@@ -1781,6 +1702,20 @@
     "sources": {
       "streams": [
         "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uU0w6PP1NhQ9xR",
+    "name": "Nickelodeon",
+    "sources": {
+      "streams": [
+        "https://tvsen7.aynascope.net/nicklodean/index.m3u8"
       ]
     },
     "languages": [
@@ -2108,18 +2043,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RekrBPbX5KKpZp",
-    "name": "Real Crime",
-    "sources": {
-      "streams": [
-        "https://lds-realcrime-samsunguk.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "jNN9ef0ljzGJ7E",
     "name": "Real Crime Beta",
     "sources": {
@@ -2202,11 +2125,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kfvf3u3DJLtcM5",
-    "name": "Shaun the Sheep Official",
+    "nanoid": "2UurVFYPvprdL8",
+    "name": "Sky News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/j6Mo4ZbQ5Yo"
+        "https://www.youtube-nocookie.com/embed/YDvsBbKfLPA"
       ]
     },
     "languages": [
@@ -2216,11 +2139,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2UurVFYPvprdL8",
-    "name": "Sky News",
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/YDvsBbKfLPA"
+      "streams": [
+        "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2272,8 +2195,7 @@
     "name": "Space Live powered by sen",
     "sources": {
       "streams": [
-        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8",
-        "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
+        "https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2328,6 +2250,7 @@
     "name": "Tennis+",
     "sources": {
       "streams": [
+        "https://amg01935-amg01935c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0002/playlist.m3u8",
         "https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8"
       ]
     },
@@ -2743,6 +2666,18 @@
       "https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PdlsmNwPyLUBKV",
+    "name": "Wheels & Steel",
+    "sources": {
+      "streams": [
+        "https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8"
+      ]
+    },
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false

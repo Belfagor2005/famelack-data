@@ -14,26 +14,54 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TkXTB0zs0J2fA7",
-    "name": "Cartoonito България",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/AKdqQi5H8xE"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "bg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S1ZYN7hADGka8A",
     "name": "City TV",
     "stream_urls": [
       "https://tv.city.bg/play/tshls/citytv/index.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fom4DDGu8VmzCJ",
+    "name": "Code Fashion TV",
+    "sources": {
+      "streams": [
+        "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k1LyAwShA4pUGs",
+    "name": "Code Health TV",
+    "sources": {
+      "streams": [
+        "https://cdn2.invivo.bg/codehealth_test/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xb56fwuwQyeFpw",
+    "name": "Hope Channel Bulgaria",
+    "sources": {
+      "streams": [
+        "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8"
+      ]
+    },
     "languages": [
       "bul"
     ],
@@ -60,6 +88,20 @@
     "sources": {
       "streams": [
         "https://bss1.neterra.tv/magictv/magictv.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4JeYX90lm5Sxdq",
+    "name": "Movie Star",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/MovieStar/index.m3u8"
       ]
     },
     "languages": [
@@ -130,6 +172,48 @@
     "sources": {
       "streams": [
         "https://streamer103.neterra.tv/travel/live.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ELDNWWv9rjJl60",
+    "name": "Viasat Explore",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9qxiwyypjNrlXI",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "grL6LmvbHNpgqD",
+    "name": "Viasat Nature",
+    "sources": {
+      "streams": [
+        "https://shift03.isp.bg/ViasatNature_HD/index.m3u8"
       ]
     },
     "languages": [

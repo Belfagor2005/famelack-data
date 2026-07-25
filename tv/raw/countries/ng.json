@@ -17,8 +17,8 @@
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/XcklQmp2pQg"
       ]
     },
     "languages": [
@@ -128,6 +128,20 @@
     "sources": {
       "streams": [
         "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MEPZfCoAwFzTRL",
+    "name": "Fortis TV",
+    "sources": {
+      "streams": [
+        "https://stream.fortistv.com/hls/fortis-news/index.m3u8"
       ]
     },
     "languages": [
@@ -267,21 +281,7 @@
     "name": "News Central TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JnA8OWhLjtM"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D7CJtpvcn5aeRw",
-    "name": "Nigbati",
-    "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
+        "https://www.youtube-nocookie.com/embed/YDYgq1I6MSc"
       ]
     },
     "languages": [
@@ -295,7 +295,7 @@
     "name": "NTA Live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lKYOxWUIYFE"
+        "https://www.youtube-nocookie.com/embed/j9mwgR8SeDA"
       ]
     },
     "languages": [
@@ -310,6 +310,20 @@
     "sources": {
       "streams": [
         "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iDilpFRfriZnAl",
+    "name": "Rapid TV",
+    "sources": {
+      "streams": [
+        "https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8"
       ]
     },
     "languages": [
@@ -347,6 +361,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2th9bgm2fgVzrm",
+    "name": "Silverbird News 24",
+    "sources": {
+      "streams": [
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eTR6HfJcfuibOg",
     "name": "Sunna TV",
     "sources": {
@@ -366,6 +394,20 @@
     "sources": {
       "streams": [
         "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yRDzHhTj4zd7dc",
+    "name": "Tele Regency TV",
+    "sources": {
+      "streams": [
+        "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
       ]
     },
     "languages": [
@@ -427,11 +469,67 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "roS6e38nLtSy8d",
-    "name": "Whole Word TV",
+    "nanoid": "VM7O6sHWaNyeKk",
+    "name": "UTV Africa",
     "sources": {
       "streams": [
-        "https://wholewordtv-live.lg.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
+        "https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UgWTds4qowCm7J",
+    "name": "Waffi TV",
+    "sources": {
+      "streams": [
+        "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y3iniHuYhBuCQD",
+    "name": "Wap TV",
+    "sources": {
+      "streams": [
+        "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XBCn7LG1vDEDMn",
+    "name": "Wazobia Max TV Nigeria",
+    "sources": {
+      "streams": [
+        "https://wazobia.live:8333/channel/wmax.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t9Pe2C5CmBhLfZ",
+    "name": "Yobe TV",
+    "sources": {
+      "streams": [
+        "https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a863e5851f4559fb86e7f6.sdp/playlist.m3u8"
       ]
     },
     "languages": [

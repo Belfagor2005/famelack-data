@@ -222,21 +222,8 @@
     "name": "ČRo D-dur",
     "sources": {
       "streams": [
+        "https://rozhlas.stream/ddur_high.aac",
         "https://amp1.cesnet.cz:8443/cro-d-dur.flac"
-      ]
-    },
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9hSPMJ0VJU5uNM",
-    "name": "ČRo Dvojka",
-    "sources": {
-      "streams": [
-        "https://rozhlas.stream/dvojka_high.aac"
       ]
     },
     "languages": [
@@ -335,6 +322,34 @@
     "sources": {
       "streams": [
         "https://rozhlas.stream/pardubice_high.aac"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TGCDQZOWi5a0m2",
+    "name": "ČRo Plus",
+    "sources": {
+      "streams": [
+        "https://rozhlas.stream/plus_high.aac"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vCQWkEgC3z4zAU",
+    "name": "ČRo Plzeň",
+    "sources": {
+      "streams": [
+        "https://rozhlas.stream/plzen_high.aac"
       ]
     },
     "languages": [
@@ -752,6 +767,20 @@
     ]
   },
   {
+    "nanoid": "hOPsxlCyH8Zdrl",
+    "name": "Hitrádio City Brno",
+    "sources": {
+      "streams": [
+        "https://ice.abradio.cz/magicbrno128.mp3"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xKw33LFrilMgKB",
     "name": "Hitrádio Contact",
     "sources": {
@@ -1080,6 +1109,20 @@
     ]
   },
   {
+    "nanoid": "Y6Uae4W0EjUdp4",
+    "name": "Radia.cz - Relax Fire",
+    "sources": {
+      "streams": [
+        "https://ice2.radia.cz/relax-fire64.aac"
+      ]
+    },
+    "languages": [
+      "ces"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OjgPfMRa5LneOM",
     "name": "Radia.cz - Relax Sea",
     "sources": {
@@ -1140,13 +1183,27 @@
     ]
   },
   {
+    "nanoid": "7XWkvjJxZAzCuL",
+    "name": "Radio Azatutyun (RFE/RL)",
+    "sources": {
+      "streams": [
+        "https://n0d.radiojar.com/k8z93x3nn3quv"
+      ]
+    },
+    "languages": [
+      "hye"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5fvvYKgcfNQz7K",
     "name": "Rádio Beat",
     "sources": {
       "streams": [
         "https://icecast2.play.cz/beat128aac",
-        "https://icecast2.play.cz/radiobeat128.mp3",
-        "https://icecast1.play.cz/beat64.mp3"
+        "https://icecast1.play.cz/beat64.mp3",
+        "https://icecast2.play.cz/radiobeat128.mp3"
       ]
     },
     "languages": [
@@ -1161,7 +1218,7 @@
     "sources": {
       "streams": [
         "https://ice.abradio.cz/blanikcz128.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
         "https://ice.abradio.cz/blanikfm128.mp3"
       ]
     },
@@ -1277,9 +1334,9 @@
     "name": "Radio Farda",
     "sources": {
       "streams": [
+        "https://stream.radiojar.com/cp13r2cpn3quv",
         "https://n01.radiojar.com/cp13r2cpn3quv",
-        "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
-        "https://stream.radiojar.com/cp13r2cpn3quv"
+        "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
       ]
     },
     "languages": [
@@ -2284,8 +2341,8 @@
     "name": "Радио Свобода",
     "sources": {
       "streams": [
-        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
         "https://n01.radiojar.com/hcrb063nn3quv",
+        "https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8",
         "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04"
       ]
     },

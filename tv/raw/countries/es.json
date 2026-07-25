@@ -323,6 +323,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SjHQwsq7IlkAid",
+    "name": "Canal 3 TV Biar",
+    "sources": {
+      "streams": [
+        "https://avantstreaming.es/hls/canal3.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TXUgKR5bcyBflc",
     "name": "Canal 7 TeleValencia",
     "sources": {
@@ -524,11 +538,10 @@
     "name": "Canal Sur Andalucia",
     "sources": {
       "streams": [
-        "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
-        "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
+        "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IDATjO45An8"
+        "https://www.youtube-nocookie.com/embed/yJ6MBmiFQp0"
       ]
     },
     "languages": [
@@ -594,15 +607,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IJ0S19qs2zsgF7",
-    "name": "Canal Terres de l'Ebre",
+    "nanoid": "k3p0dVcqLJhpnV",
+    "name": "Cetelmon TV",
     "sources": {
       "streams": [
-        "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8"
+        "https://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8"
       ]
     },
     "languages": [
-      "cat"
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -668,6 +681,34 @@
     "sources": {
       "streams": [
         "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6163FYOTsmSDoK",
+    "name": "Cordoba TV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dUunw6na7BVxaU",
+    "name": "Costa Noroeste TV",
+    "sources": {
+      "streams": [
+        "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
       ]
     },
     "languages": [
@@ -928,6 +969,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ep6n7moIe4Ru3N",
+    "name": "Fibwi",
+    "sources": {
+      "streams": [
+        "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EGsBwKlWFjIivG",
     "name": "France 24 Español",
     "stream_urls": [
@@ -978,20 +1033,6 @@
     "sources": {
       "streams": [
         "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GZWR4WKfwfXc9w",
-    "name": "Gol Classics",
-    "sources": {
-      "streams": [
-        "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8"
       ]
     },
     "languages": [
@@ -1230,11 +1271,67 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rW8dm4MTBacJXv",
+    "name": "Negocios TV",
+    "sources": {
+      "streams": [
+        "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "to6WdXHX9Bv9Ju",
+    "name": "Nova",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/Nova/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q7nooMvVTTe0YZ",
+    "name": "Onda 15 TV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9dhga7gK9KijdY",
     "name": "Onda Algeciras",
     "sources": {
       "streams": [
         "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zLbwRa4421PyhS",
+    "name": "Onda Cadiz",
+    "sources": {
+      "streams": [
+        "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1417,6 +1514,18 @@
     "stream_urls": [
       "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SqdL0M66Q2lMl2",
+    "name": "Rakuten TV Cine Español",
+    "sources": {
+      "streams": [
+        "https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1645,6 +1754,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RYfMxL6JZWi97a",
+    "name": "Teledeporte",
+    "sources": {
+      "streams": [
+        "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "QXO7Ca6Qev84ww",
     "name": "Teleganes",
     "sources": {
@@ -1677,7 +1800,7 @@
     "name": "TELEVISIÓN Canaria",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ucRYG4XFp6w"
+        "https://www.youtube-nocookie.com/embed/DByMAYdYEmc"
       ]
     },
     "languages": [
@@ -1868,20 +1991,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2uGXU96QMW7Acl",
-    "name": "Univers TV",
-    "sources": {
-      "streams": [
-        "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6lhNwfN4k1Lr3T",
     "name": "Urola Telebista",
     "sources": {
@@ -1896,20 +2005,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IKMYFInzhM8nN6",
-    "name": "Ventdelnord TV",
-    "sources": {
-      "streams": [
-        "https://ventdelnord.tv:8080/hls/directe.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Hw4gcMWFqlE6Dv",
     "name": "Vevo Pop Spain",
     "sources": {
@@ -1918,20 +2013,6 @@
       ]
     },
     "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RcONvYz7opBaln",
-    "name": "Vision 6 TV",
-    "sources": {
-      "streams": [
-        "https://streaming.proceso.info:8888/vision6-web/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "es",
     "isGeoBlocked": false
   },

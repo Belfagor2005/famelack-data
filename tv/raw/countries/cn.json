@@ -13,6 +13,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FLJTgXx5Ik6ljh",
+    "name": "Angel TV Chinese",
+    "sources": {
+      "streams": [
+        "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gcM2WWZ06H1U7r",
     "name": "Baicheng TV",
     "sources": {
@@ -310,6 +324,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "StXzRCGAK006to",
+    "name": "Hebei TV",
+    "sources": {
+      "streams": [
+        "https://event.pull.hebtv.com/live/live101.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sW1htecY1J2QHG",
     "name": "HomePlus",
     "sources": {
@@ -332,6 +360,64 @@
       ]
     },
     "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sxmEu2IrHYwAmm",
+    "name": "Lanzhou Comprehensive News Channel",
+    "sources": {
+      "streams": [
+        "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2TBLEe7xTZlOnb",
+    "name": "Lanzhou Culture & Tourism Channel",
+    "sources": {
+      "streams": [
+        "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ubE2VDVPE45pBe",
+    "name": "Nei Monggol TV",
+    "sources": {
+      "streams": [
+        "https://play1-qk.nmtv.cn/live/1769652018126032.m3u8"
+      ]
+    },
+    "languages": [
+      "mon",
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5kYv876l5SB1BL",
+    "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+    "sources": {
+      "streams": [
+        "https://play1-qk.nmtv.cn/live/1769652109096027.m3u8"
+      ]
+    },
+    "languages": [
+      "mon",
       "zho"
     ],
     "country": "cn",
@@ -394,15 +480,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VzepbqP86gbVbt",
-    "name": "Xinjiang TV 3",
+    "nanoid": "5HbPG4cJHPlrKA",
+    "name": "Xinjiang TV 1",
     "sources": {
       "streams": [
-        "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8"
+        "https://p8.vzan.com/218800995/242196610130883766/live.m3u8?zbid=218800995&tpid=208366456"
       ]
     },
     "languages": [
-      "kaz"
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GaA5Gn9GUFGhgh",
+    "name": "Xinjiang TV 2",
+    "sources": {
+      "streams": [
+        "https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0"
+      ]
+    },
+    "languages": [
+      "uig"
     ],
     "country": "cn",
     "isGeoBlocked": false
@@ -418,6 +518,18 @@
     "languages": [
       "zho"
     ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PQS6mmZySzL6Rf",
+    "name": "上虞1新闻综合",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -462,6 +574,18 @@
     "sources": {
       "streams": [
         "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4gpT2C61YO4gJy",
+    "name": "余姚姚江文化",
+    "sources": {
+      "streams": [
+        "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
       ]
     },
     "languages": [],

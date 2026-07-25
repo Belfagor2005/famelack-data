@@ -1,20 +1,5 @@
 [
   {
-    "nanoid": "eWOyMl7y80lFyc",
-    "name": "28Radio",
-    "sources": {
-      "streams": [
-        "https://streaming.28radio.cc:8000/rock.mp3"
-      ]
-    },
-    "languages": [
-      "deu",
-      "eng"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wc52BpOQXrmH67",
     "name": "88.6 Classic Rock",
     "sources": {
@@ -750,8 +735,8 @@
     "name": "FREIRAD - Freies Radio Innsbruck",
     "sources": {
       "streams": [
-        "https://stream.freirad.at/live.ogg",
-        "https://stream.freirad.at/live.mp3"
+        "https://stream.freirad.at/live.mp3",
+        "https://stream.freirad.at/live.ogg"
       ]
     },
     "languages": [
@@ -1029,8 +1014,8 @@
     "name": "Life Radio Tirol",
     "sources": {
       "streams": [
-        "https://stream.liferadio.tirol/live/aac-256/SHQ",
-        "https://stream.liferadio.tirol/live/mp3-192/link"
+        "https://stream.liferadio.tirol/live/mp3-192/link",
+        "https://stream.liferadio.tirol/live/aac-256/SHQ"
       ]
     },
     "languages": [
@@ -1609,6 +1594,7 @@
     "name": "Radio Arabella Schlager",
     "sources": {
       "streams": [
+        "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile",
         "https://edge64.streams.arabella.at/arabella-schlager"
       ]
     },
@@ -2073,9 +2059,9 @@
     "name": "Radio U1 Tirol",
     "sources": {
       "streams": [
+        "https://live.u1-radio.at/",
         "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-        "https://live.u1-radio.at/u1-tirol-live/mp3-192/",
-        "https://live.u1-radio.at/"
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
       ]
     },
     "languages": [
@@ -2320,8 +2306,8 @@
     "name": "Styria Lounge",
     "sources": {
       "streams": [
-        "https://styrialounge.out.airtime.pro/styrialounge_a",
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a"
+        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
+        "https://styrialounge.out.airtime.pro/styrialounge_a"
       ]
     },
     "languages": [

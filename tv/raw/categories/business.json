@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "iLcflI1KSBOjbJ",
-    "name": "Agenda Minera TV",
-    "sources": {
-      "streams": [
-        "https://stv2.boliviaplay.com.bo/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TkyVV55zzBzz3",
     "name": "Al Arabiya Business",
     "stream_urls": [
@@ -51,20 +37,6 @@
       "ron"
     ],
     "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "sources": {
-      "streams": [
-        "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -267,6 +239,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9pIQ8aGJ6RFrBk",
+    "name": "Champion TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BrKtlgOZb5CWr8",
+    "name": "Cheddar Business",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vrlS9LYggqZr3W",
     "name": "Class CNBC",
     "sources": {
@@ -284,6 +284,10 @@
     "nanoid": "7XcP1junyS1aZN",
     "name": "CNBC",
     "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/CNBC/index.m3u8",
+        "https://206.212.244.63/41/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
       ]
@@ -394,6 +398,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "HZSopribXygq7f",
+    "name": "CNBC World",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8",
+        "https://206.212.244.63/42/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -451,6 +470,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eNOYZvW4v10TNt",
+    "name": "Fox Business Network",
+    "sources": {
+      "streams": [
+        "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8",
+        "https://206.212.244.63/66/index.m3u8",
+        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Oknqtc1CKDoMam",
     "name": "GCNTV Korea",
     "sources": {
@@ -504,6 +539,35 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "h6xlBNAG4NibAI",
+    "name": "Pro Business",
+    "sources": {
+      "streams": [
+        "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1ivzt9CdjGwK6L",
+    "name": "QBC",
+    "sources": {
+      "streams": [
+        "https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8",
+        "https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "qa",
     "isGeoBlocked": false
   },
   {
@@ -599,7 +663,7 @@
     "name": "서울경제TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/i6zpgb2zuvs"
+        "https://www.youtube-nocookie.com/embed/JVBVZIUAAtI"
       ]
     },
     "languages": [

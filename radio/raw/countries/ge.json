@@ -51,10 +51,39 @@
     ]
   },
   {
+    "nanoid": "zd1u0JJ21zUKIL",
+    "name": "Radio Commersant",
+    "sources": {
+      "streams": [
+        "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aM4zPHwEfgWo0W",
+    "name": "Radio Fortuna",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "86tQRYt2943voC",
     "name": "Radio Imedi",
     "sources": {
       "streams": [
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8",
         "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
       ]
     },

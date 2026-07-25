@@ -617,8 +617,8 @@
     "name": "OK Radio",
     "sources": {
       "streams": [
-        "https://sslstream.okradio.net/;",
-        "https://live7.okradio.net/;*.mp3"
+        "https://live7.okradio.net/;*.mp3",
+        "https://sslstream.okradio.net/;"
       ]
     },
     "languages": [
@@ -894,8 +894,8 @@
     "name": "Radio Beograd 1",
     "sources": {
       "streams": [
-        "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8",
-        "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8"
+        "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
+        "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8"
       ]
     },
     "languages": [
@@ -937,7 +937,7 @@
     "name": "Radio D59B",
     "sources": {
       "streams": [
-        "https://n13.radiojar.com/gn6dqzhf9mzuv"
+        "https://n0e.radiojar.com/gn6dqzhf9mzuv"
       ]
     },
     "languages": [
@@ -1239,8 +1239,8 @@
     "name": "Radio S1",
     "sources": {
       "streams": [
-        "https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8",
-        "https://stream.radios.rs:9000/;"
+        "https://stream.radios.rs:9000/;",
+        "https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8"
       ]
     },
     "languages": [
@@ -1288,8 +1288,8 @@
     "name": "Radio S3 Narodni",
     "sources": {
       "streams": [
-        "https://stream.radios.rs:9016/;*.mp3",
-        "https://stream.radios.rs:9016/;"
+        "https://stream.radios.rs:9016/;",
+        "https://stream.radios.rs:9016/;*.mp3"
       ]
     },
     "languages": [

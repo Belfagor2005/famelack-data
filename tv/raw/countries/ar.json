@@ -125,11 +125,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o15OiPkM4jxoZp",
-    "name": "Bayres TV",
+    "nanoid": "SHCgFbO79Hh4Z8",
+    "name": "Beats Radio",
     "sources": {
       "streams": [
-        "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
+        "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
       ]
     },
     "languages": [
@@ -139,11 +139,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SHCgFbO79Hh4Z8",
-    "name": "Beats Radio",
+    "nanoid": "vjx9cYbBe3zOX1",
+    "name": "Bragado TV",
     "sources": {
       "streams": [
-        "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8"
+        "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8"
       ]
     },
     "languages": [
@@ -237,11 +237,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dP9dVYSF14RSuM",
-    "name": "Canal 2 Misiones",
+    "nanoid": "VpgtgckDtqTAhJ",
+    "name": "Canal 2 NexTV Rafaela",
     "sources": {
       "streams": [
-        "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8"
+        "https://edge.enhdtv.com/nexthd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UUoSz4ieYffPkM",
+    "name": "Canal 3 Formosa",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8"
       ]
     },
     "languages": [
@@ -304,11 +318,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5btDuTFed3BZvV",
-    "name": "Canal 5 Del Pueblo",
+    "nanoid": "5VJcSR2emAtR9y",
+    "name": "Canal 4 Teleaire",
     "sources": {
       "streams": [
-        "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8"
+        "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8"
       ]
     },
     "languages": [
@@ -318,11 +332,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qltnj6pxW46J3l",
-    "name": "Canal 5 Santa Fe",
+    "nanoid": "UDMd7kyyZOsiGV",
+    "name": "Canal 4 Villa Dolores",
     "sources": {
       "streams": [
-        "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
+        "https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5btDuTFed3BZvV",
+    "name": "Canal 5 Del Pueblo",
+    "sources": {
+      "streams": [
+        "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -350,7 +378,21 @@
     "name": "Canal 6 ERTV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hbJ_tfbpZHU"
+        "https://www.youtube-nocookie.com/embed/OqkzNabIRvI"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc90aqSkVbLUNa",
+    "name": "Canal 6 Viento Recio",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8"
       ]
     },
     "languages": [
@@ -532,20 +574,6 @@
     "sources": {
       "streams": [
         "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "a0DjassRF4smwf",
-    "name": "Canal 50 Morteros",
-    "sources": {
-      "streams": [
-        "https://online.coopmorteros.coop/canal50/vivo.m3u8"
       ]
     },
     "languages": [
@@ -750,20 +778,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "06NFEC0HdVjNeC",
-    "name": "DeporTV",
-    "sources": {
-      "streams": [
-        "https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XCDnk2h8lWn1vm",
     "name": "Diputados TV",
     "stream_urls": [],
@@ -818,11 +832,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uvdbgKYfuDPGUL",
-    "name": "El Observador 107.9",
+    "nanoid": "GdDjRTp2cOF0FH",
+    "name": "El Ocho",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PtCxwGgT_Ts"
+        "https://www.youtube-nocookie.com/embed/RCXfY3lEAoI"
       ]
     },
     "languages": [
@@ -859,21 +873,7 @@
     "name": "El Once TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ua37aX_bZFY"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dR9mEPC6aOkLSX",
-    "name": "El Siete",
-    "sources": {
-      "streams": [
-        "https://edgectc.com/CANAL7_MZA/index.m3u8"
+        "https://www.youtube-nocookie.com/embed/O4LDm9LQlNk"
       ]
     },
     "languages": [
@@ -902,6 +902,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/zcvuZx1RKhI"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MzJbIfUKCeqrsU",
+    "name": "Folcloreando TV",
+    "sources": {
+      "streams": [
+        "https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1100,6 +1114,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xVaEKcGj3VuSQR",
+    "name": "Neox TV",
+    "sources": {
+      "streams": [
+        "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nCjEym27rIb7Sc",
     "name": "NET TV",
     "sources": {
@@ -1214,6 +1242,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XaQtV4TYxzYvcW",
+    "name": "Radio Maria TV",
+    "sources": {
+      "streams": [
+        "https://radiomaria.inovanex.stream/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "o5d38JZC1UjVec",
     "name": "Radio Mitre",
     "stream_urls": [],
@@ -1283,20 +1325,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tYDv8J7NY0ZCLo",
-    "name": "Sion TV",
-    "sources": {
-      "streams": [
-        "https://tv.streamcasthd.com:3536/live/siontvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xizVh4f6gDU2kH",
     "name": "Solive TV",
     "sources": {
@@ -1325,11 +1353,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kSVtvJkU0QM7ee",
-    "name": "TEC TV",
+    "nanoid": "lwUs8vce39cW6q",
+    "name": "Tele Posadas",
     "sources": {
       "streams": [
-        "https://edgectc.com/TEC_HD/index.m3u8"
+        "https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1380,20 +1409,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bOVlD3ghwUgNWZ",
-    "name": "Telefe Noticias",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XhAYcYpPzTc"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zlAT0xrCDzvW8v",
     "name": "Telefe Rosario",
     "sources": {
@@ -1422,11 +1437,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nc0pgDvnPNWdj8",
-    "name": "Telenord",
+    "nanoid": "ntbIx1XElc1B7z",
+    "name": "Telemundo Internacional South",
     "sources": {
       "streams": [
-        "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
+        "https://45.181.87.106/TELEMUNDOHD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/7aSOx-G9CL4"
       ]
     },
     "languages": [
@@ -1506,7 +1535,8 @@
     "name": "TyC Sports",
     "sources": {
       "streams": [
-        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+        "https://45.181.87.106/TYCSPORTSHD/index.m3u8"
       ]
     },
     "languages": [

@@ -902,8 +902,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -911,6 +910,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VBigvYn8JkeFMl",
+    "name": "BBC Earth Romania",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/bbcearth/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "eQ0MWZIQb0YBdg",
@@ -1005,6 +1018,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pOal2u88RSp40P",
+    "name": "Chemodan TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/399/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "sources": {
@@ -1017,6 +1045,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1067,9 +1109,9 @@
     "name": "Court TV",
     "sources": {
       "streams": [
+        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8",
         "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
-        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
-        "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+        "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1156,7 +1198,7 @@
     "name": "DocuBox",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch93/index.m3u8"
+        "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1280,31 +1322,72 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Cyx2iKrKwsbWCZ",
-    "name": "H2 HD",
+    "nanoid": "Dsvkj5Ex7UWMgQ",
+    "name": "Heroes & Icons",
     "sources": {
       "streams": [
-        "https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8"
+        "https://206.212.244.63/88/index.m3u8"
       ]
     },
-    "languages": [
-      "slv"
-    ],
-    "country": "si",
+    "languages": [],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wkVoGyfxnfDSBc",
+    "nanoid": "nlvnoQMvIoedNz",
     "name": "History",
     "sources": {
       "streams": [
-        "https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8"
+        "https://aes.m3u8simplu.workers.dev/history/index.m3u8"
       ]
     },
     "languages": [
-      "slv"
+      "ron"
     ],
-    "country": "si",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pwNSvcC8tmy7wH",
+    "name": "History",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/HISTORY_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LibEmLeog5q1Cm",
+    "name": "History 2 Latin America Brazil",
+    "sources": {
+      "streams": [
+        "https://45.190.28.50/H2_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D0kxX68lMX7LDk",
+    "name": "History East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.53/HISTORY_CHANNEL/index.m3u8",
+        "https://206.212.244.63/91/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1381,6 +1464,34 @@
     ],
     "country": "in",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ydI9RzI56VdmqS",
+    "name": "Karbala Documentary",
+    "sources": {
+      "streams": [
+        "https://ktvlive.online/stream/hls/ch3.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ovqg1va2O0hkqi",
+    "name": "KPVM-LD 25.6",
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "KkqMuLxaMTBFSE",
@@ -1490,6 +1601,7 @@
     "name": "Nano",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/419/index.m3u8",
         "https://s1.tv-nano.com/Nano_rec/index.m3u8"
       ]
     },
@@ -1514,17 +1626,103 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v63UFM91nMh49U",
-    "name": "National Geographic Wild",
+    "nanoid": "h02ivdi6VUowym",
+    "name": "National Geographic",
     "sources": {
       "streams": [
-        "https://41.205.77.102/NATGEO-WILD/index.m3u8"
+        "https://aes.m3u8simplu.workers.dev/natgeo/index.m3u8"
       ]
     },
     "languages": [
-      "fra"
+      "eng",
+      "ron"
     ],
-    "country": "fr",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jDb8tgaBS3dpwH",
+    "name": "National Geographic",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/116/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hLMd0T3SoxEtoM",
+    "name": "National Geographic East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.53/NAT_GEO/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g2bTTopTiGfPsS",
+    "name": "National Geographic Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://45.162.193.35/NATGEO/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P3rtGhMl7lNWwt",
+    "name": "National Geographic West",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/122/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L8DhkS4ZVRWBVB",
+    "name": "National Geographic Wild",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/natgeowild/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pfvOjTL0SzRiOd",
+    "name": "National Geographic Wild East",
+    "sources": {
+      "streams": [
+        "https://206.212.244.63/123/index.m3u8",
+        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1713,6 +1911,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bEnt0TUe16DLhv",
+    "name": "Tochka RF",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/161/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ExqfRu5vFNM6yj",
     "name": "Total Crime CA",
     "sources": {
@@ -1742,45 +1954,45 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "S4Ps9soPruThWe",
+    "nanoid": "ELDNWWv9rjJl60",
     "name": "Viasat Explore",
     "sources": {
       "streams": [
-        "https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8"
+        "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8"
       ]
     },
     "languages": [
-      "slv"
+      "bul"
     ],
-    "country": "si",
+    "country": "bg",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v9zeQCLLvv805T",
+    "nanoid": "9qxiwyypjNrlXI",
     "name": "Viasat History",
     "sources": {
       "streams": [
-        "https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8"
+        "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8"
       ]
     },
     "languages": [
-      "slv"
+      "bul"
     ],
-    "country": "si",
+    "country": "bg",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fHRMNYezuLS4iE",
+    "nanoid": "grL6LmvbHNpgqD",
     "name": "Viasat Nature",
     "sources": {
       "streams": [
-        "https://lb.dstvmultimedia.com/ViasatNature/index.m3u8"
+        "https://shift03.isp.bg/ViasatNature_HD/index.m3u8"
       ]
     },
     "languages": [
-      "slv"
+      "bul"
     ],
-    "country": "si",
+    "country": "bg",
     "isGeoBlocked": false
   },
   {

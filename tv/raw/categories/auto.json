@@ -14,17 +14,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F9LfVyG31TYOvT",
-    "name": "Avtoradio Ukraine",
+    "nanoid": "VZhk7cz2JcEXl3",
+    "name": "Avto24",
     "sources": {
       "streams": [
-        "https://iptv.prosto.tv/ch392/index.m3u8"
+        "https://stream.mcquack.net/78/index.m3u8"
       ]
     },
     "languages": [
-      "ukr"
+      "rus"
     ],
-    "country": "ua",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -41,20 +41,6 @@
       "nor"
     ],
     "country": "no",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lRn4zECLeGzUvI",
-    "name": "Cars & Stars TV",
-    "sources": {
-      "streams": [
-        "https://iptv.prosto.tv/ch111/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -86,6 +72,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5FIig7aRRBANHx",
+    "name": "CTV Speed Channel",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rNABsZIcrUwxjh",
+    "name": "Discovery Turbo",
+    "sources": {
+      "streams": [
+        "https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tVKEKu2ttkc0Bj",
     "name": "Drive",
     "sources": {
@@ -104,7 +118,8 @@
     "name": "Fun Roads",
     "sources": {
       "streams": [
-        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8",
+        "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978"
       ]
     },
     "languages": [
@@ -171,6 +186,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "HqxGIe9L28ibkT",
+    "name": "Pershyi avtomobilnyi",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/404/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tUYx8kteikm3hV",
     "name": "PowerNation TV",
     "sources": {
@@ -178,6 +207,21 @@
         "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
         "https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8",
         "https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BfRApM9W5b36oN",
+    "name": "REV'N Action",
+    "sources": {
+      "streams": [
+        "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
+        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8"
       ]
     },
     "languages": [

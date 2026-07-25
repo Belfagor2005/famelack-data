@@ -112,8 +112,22 @@
     "name": "Christmas FM Classical & Carols",
     "sources": {
       "streams": [
-        "https://christmasfm.cdnstream1.com/2549_64.aac",
-        "https://christmasfm.cdnstream1.com/2549_128.mp3"
+        "https://christmasfm.cdnstream1.com/2549_128.mp3",
+        "https://christmasfm.cdnstream1.com/2549_64.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xDXcMi9n5RKCuA",
+    "name": "Christmas FM Classics & Crooners",
+    "sources": {
+      "streams": [
+        "https://christmasfm.cdnstream1.com/2550_128.mp3"
       ]
     },
     "languages": [
@@ -239,6 +253,20 @@
     ]
   },
   {
+    "nanoid": "Pa2GTrOnXf5c9j",
+    "name": "Dublin's 98FM Dance",
+    "sources": {
+      "streams": [
+        "https://edge.audioxi.com/98DANCE"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sE9X0S8SNrA6fy",
     "name": "Dublin's FM104",
     "sources": {
@@ -330,7 +358,6 @@
     "name": "Gem Radio New Wave",
     "sources": {
       "streams": [
-        "https://gemradio.radioca.st/stream/1/",
         "https://gemradionw.radioca.st/;stream.nsv"
       ]
     },
@@ -835,7 +862,6 @@
     "name": "Radio Nova",
     "sources": {
       "streams": [
-        "https://edge2.audioxi.com/NOVA",
         "https://stream.audioxi.com/NOVA"
       ]
     },
@@ -1023,7 +1049,6 @@
     "name": "SPIN 1038",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/SP",
         "https://live-bauerie.sharp-stream.com/SP"
       ]
     },
@@ -1037,8 +1062,8 @@
     "sources": {
       "streams": [
         "https://edge.audioxi.com/SW",
-        "https://live-bauerie.sharp-stream.com/SW",
-        "https://stream.audioxi.com/SW"
+        "https://stream.audioxi.com/SW",
+        "https://live-bauerie.sharp-stream.com/SW"
       ]
     },
     "languages": [
@@ -1110,7 +1135,7 @@
     "name": "Today FM",
     "sources": {
       "streams": [
-        "https://edge.audioxi.com/TDAAC",
+        "https://stream.audioxi.com/TD",
         "https://pri.gocaster.net/td",
         "https://live-bauerie.sharp-stream.com/TDAAC"
       ]

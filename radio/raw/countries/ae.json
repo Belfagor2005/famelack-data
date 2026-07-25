@@ -1957,7 +1957,6 @@
     "name": "Exclusively Beastie Boys",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/beastieboys/icecast.audio",
         "https://streaming.exclusive.radio/er-app/beastieboys/icecast.audio"
       ]
     },
@@ -3036,8 +3035,8 @@
     "name": "Exclusively Diana Krall",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/dianakrall/icecast.audio",
-        "https://nl4.mystreaming.net/er/dianakrall/icecast.audio"
+        "https://nl4.mystreaming.net/er/dianakrall/icecast.audio",
+        "https://streaming.exclusive.radio/er/dianakrall/icecast.audio"
       ]
     },
     "languages": [
@@ -3084,8 +3083,8 @@
     "name": "Exclusively Dire Straits",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/er/direstraits/icecast.audio",
-        "https://streaming.exclusive.radio/er/direstraits/icecast.audio"
+        "https://streaming.exclusive.radio/er/direstraits/icecast.audio",
+        "https://2.mystreaming.net/er/direstraits/icecast.audio"
       ]
     },
     "languages": [
@@ -3218,8 +3217,8 @@
     "name": "Exclusively Duke Ellington",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/er/dukeellington/icecast.audio",
-        "https://streaming.exclusive.radio/er/dukeellington/icecast.audio"
+        "https://streaming.exclusive.radio/er/dukeellington/icecast.audio",
+        "https://2.mystreaming.net/er/dukeellington/icecast.audio"
       ]
     },
     "languages": [
@@ -3255,8 +3254,8 @@
     "name": "Exclusively Earth, Wind & Fire",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/earthwindandfire/icecast.audio",
-        "https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio"
+        "https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio",
+        "https://streaming.exclusive.radio/er/earthwindandfire/icecast.audio"
       ]
     },
     "languages": [
@@ -3444,6 +3443,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "xaW0jgMnvFxSzE",
+    "name": "Exclusively Erasure",
+    "sources": {
+      "streams": [
+        "https://streaming.exclusive.radio/er/erasure/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "kh16HDZiyjqg2G",
@@ -3643,6 +3656,7 @@
     "name": "Exclusively Genesis",
     "sources": {
       "streams": [
+        "https://2.mystreaming.net/er/genesis/icecast.audio",
         "https://streaming.exclusive.radio/er/genesis/icecast.audio"
       ]
     },
@@ -3777,8 +3791,8 @@
     "name": "Exclusively Gloria Estefan",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/gloriaestefan/icecast.audio",
-        "https://2.mystreaming.net/er/gloriaestefan/icecast.audio"
+        "https://2.mystreaming.net/er/gloriaestefan/icecast.audio",
+        "https://streaming.exclusive.radio/er/gloriaestefan/icecast.audio"
       ]
     },
     "languages": [
@@ -3887,8 +3901,8 @@
     "name": "Exclusively Heart",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/heart/icecast.audio",
-        "https://nl4.mystreaming.net/er/heart/icecast.audio"
+        "https://nl4.mystreaming.net/er/heart/icecast.audio",
+        "https://streaming.exclusive.radio/er/heart/icecast.audio"
       ]
     },
     "languages": [
@@ -4261,8 +4275,8 @@
     "name": "Exclusively Joan Jett",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/joanjett/icecast.audio",
-        "https://2.mystreaming.net/er/joanjett/icecast.audio"
+        "https://2.mystreaming.net/er/joanjett/icecast.audio",
+        "https://streaming.exclusive.radio/er/joanjett/icecast.audio"
       ]
     },
     "languages": [
@@ -4809,8 +4823,8 @@
     "name": "Exclusively Led Zeppelin Hits",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio",
-        "https://streaming.exclusive.radio/er/ledzeppelinhits/icecast.audio"
+        "https://streaming.exclusive.radio/er/ledzeppelinhits/icecast.audio",
+        "https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio"
       ]
     },
     "languages": [
@@ -4835,8 +4849,8 @@
     "name": "Exclusively Level 42",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/level42/icecast.audio",
-        "https://2.mystreaming.net/er/level42/icecast.audio"
+        "https://2.mystreaming.net/er/level42/icecast.audio",
+        "https://streaming.exclusive.radio/er/level42/icecast.audio"
       ]
     },
     "languages": [
@@ -5522,8 +5536,8 @@
     "name": "Exclusively Olivia Newton-John",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/er/onj/icecast.audio",
-        "https://streaming.exclusive.radio/er/onj/icecast.audio"
+        "https://streaming.exclusive.radio/er/onj/icecast.audio",
+        "https://2.mystreaming.net/er/onj/icecast.audio"
       ]
     },
     "languages": [
@@ -6832,8 +6846,8 @@
     "name": "Exclusively Tears for Fears",
     "sources": {
       "streams": [
-        "https://nl4.mystreaming.net/er/tearsforfears/icecast.audio",
-        "https://streaming.exclusive.radio/er/tearsforfears/icecast.audio"
+        "https://streaming.exclusive.radio/er/tearsforfears/icecast.audio",
+        "https://nl4.mystreaming.net/er/tearsforfears/icecast.audio"
       ]
     },
     "languages": [
@@ -7440,8 +7454,8 @@
     "name": "Exclusively Tina Turner",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/tinaturner/icecast.audio",
-        "https://2.mystreaming.net/er/tinaturner/icecast.audio"
+        "https://2.mystreaming.net/er/tinaturner/icecast.audio",
+        "https://streaming.exclusive.radio/er/tinaturner/icecast.audio"
       ]
     },
     "languages": [
@@ -9166,8 +9180,8 @@
     "name": "Sportify - Bollywood Workout",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/uber/sportifybollywood/icecast.audio",
-        "https://drive.uber.radio/uber/sportifybollywood/icecast.audio"
+        "https://drive.uber.radio/uber/sportifybollywood/icecast.audio",
+        "https://2.mystreaming.net/uber/sportifybollywood/icecast.audio"
       ]
     },
     "languages": [
@@ -10244,20 +10258,6 @@
     "languages": [
       "eng",
       "kor"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zzovsICxZ2puzy",
-    "name": "Zayed Radio 97.6 FM",
-    "sources": {
-      "streams": [
-        "https://zayedquran.gov.ae/stream.php"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "ae",
     "isGeoBlocked": false

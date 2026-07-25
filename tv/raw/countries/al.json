@@ -17,11 +17,8 @@
     "nanoid": "XvDQJs5tCok3Tz",
     "name": "Euronews Albania",
     "sources": {
-      "streams": [
-        "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
-      ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/s8J1dTvLxY0"
+        "https://www.youtube-nocookie.com/embed/EadOAIO6LmQ"
       ]
     },
     "languages": [
@@ -36,6 +33,20 @@
     "sources": {
       "streams": [
         "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ],
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QxsFccdcMZ2KXc",
+    "name": "ntv",
+    "sources": {
+      "streams": [
+        "https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8"
       ]
     },
     "languages": [
@@ -63,8 +74,7 @@
     "name": "Panorama TV",
     "sources": {
       "streams": [
-        "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8",
-        "https://159.69.221.56/panorama/livestream/playlist.m3u8"
+        "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8"
       ]
     },
     "languages": [
@@ -79,6 +89,48 @@
     "sources": {
       "streams": [
         "https://stream.syritv.al/live/syritv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ],
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DGLlzJK9F6dzbM",
+    "name": "Tropoja Televizion",
+    "sources": {
+      "streams": [
+        "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ],
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j5CXLxVnKscAiK",
+    "name": "TV 7 Albania",
+    "sources": {
+      "streams": [
+        "https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ],
+    "country": "al",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QjtZoPFnS11dwq",
+    "name": "TV Johaniter",
+    "sources": {
+      "streams": [
+        "https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8"
       ]
     },
     "languages": [

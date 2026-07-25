@@ -262,8 +262,8 @@
     "name": "Jovembsk",
     "sources": {
       "streams": [
-        "https://stream-54.zeno.fm/ppgb4k7vhqztv",
-        "https://stream-42.zeno.fm/ppgb4k7vhqztv"
+        "https://stream-42.zeno.fm/ppgb4k7vhqztv",
+        "https://stream-54.zeno.fm/ppgb4k7vhqztv"
       ]
     },
     "languages": [
@@ -395,6 +395,20 @@
     ]
   },
   {
+    "nanoid": "GWelh2hVE7JgZR",
+    "name": "M80 Pop",
+    "sources": {
+      "streams": [
+        "https://stream-icy.bauermedia.pt/m80pop.aac"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mZPWLpklBxxFGE",
     "name": "M80 Portugal",
     "sources": {
@@ -463,6 +477,20 @@
     "languages": [
       "por"
     ]
+  },
+  {
+    "nanoid": "STUVJupnDRMDFw",
+    "name": "Mega Hits",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "wFYVTd3qFAjNUC",
@@ -658,6 +686,20 @@
     "sources": {
       "streams": [
         "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "urxuhEfRlsN8o5",
+    "name": "Rádio Comercial Dance",
+    "sources": {
+      "streams": [
+        "https://stream-icy.bauermedia.pt/rcdance.aac"
       ]
     },
     "languages": [
@@ -878,6 +920,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "80IqJ78pCklUgA",
+    "name": "Rádio Meio Do Mato",
+    "sources": {
+      "streams": [
+        "https://radio.meiodomato.com/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xGr7c7cifd63nC",
     "name": "Radio Metal On: 80s HNH",
     "sources": {
@@ -1088,9 +1145,9 @@
     "name": "Rádio Renascença",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
         "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3"
       ]
     },
     "languages": [
@@ -1289,7 +1346,6 @@
     "name": "RFM 00's",
     "sources": {
       "streams": [
-        "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac",
         "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac"
       ]
     },

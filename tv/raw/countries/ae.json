@@ -1,5 +1,20 @@
 [
   {
+    "nanoid": "o7f2wdALXEzHZs",
+    "name": "Ajman TV",
+    "sources": {
+      "streams": [
+        "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2TkyVV55zzBzz3",
     "name": "Al Arabiya Business",
     "stream_urls": [
@@ -184,20 +199,6 @@
     "sources": {
       "streams": [
         "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NCWWidJrVWnWto",
-    "name": "Fujairah TV",
-    "sources": {
-      "streams": [
-        "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -413,7 +414,7 @@
     "name": "Spacetoon Arabic",
     "sources": {
       "streams": [
-        "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8"
+        "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8"
       ]
     },
     "languages": [
@@ -428,20 +429,6 @@
     "sources": {
       "streams": [
         "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "ae",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BC8lHGBUYR1VVA",
-    "name": "Zee Aflam",
-    "sources": {
-      "streams": [
-        "https://41.223.30.230/ZEEAFLAM/index.m3u8"
       ]
     },
     "languages": [

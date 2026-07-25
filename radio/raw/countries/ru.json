@@ -343,8 +343,7 @@
     "name": "101.ru - ДДТ",
     "sources": {
       "streams": [
-        "https://pub0101.101.ru/stream/pro/aac/64/112",
-        "https://pub0302.101.ru:8000/stream/pro/aac/64/112"
+        "https://pub0101.101.ru/stream/pro/aac/64/112"
       ]
     },
     "languages": [
@@ -405,8 +404,7 @@
     "sources": {
       "streams": [
         "https://pub0101.101.ru/stream/pro/aac/64/158",
-        "https://pub0202.101.ru:8443/stream/pro/aac/64/158",
-        "https://pub0302.101.ru:8000/stream/pro/aac/64/158"
+        "https://pub0202.101.ru:8443/stream/pro/aac/64/158"
       ]
     },
     "languages": [
@@ -880,8 +878,8 @@
     "name": "BigTunes Radio - House",
     "sources": {
       "streams": [
-        "https://bigtunesradio.com/stream/house.mp3",
-        "https://bigtunesradio.com:8003/house.mp3"
+        "https://bigtunesradio.com:8003/house.mp3",
+        "https://bigtunesradio.com/stream/house.mp3"
       ]
     },
     "languages": [
@@ -1040,8 +1038,8 @@
     "name": "Cassiopeia Station (Наука)",
     "sources": {
       "streams": [
-        "https://stream.cassiopeia-station.ru:5125/stream",
         "https://stream.cassiopeia-station.ru:1240/stream",
+        "https://stream.cassiopeia-station.ru:5125/stream",
         "https://stream.cassiopeia-station.ru:1095/stream"
       ]
     },
@@ -2014,11 +2012,11 @@
     ]
   },
   {
-    "nanoid": "UNMp2iEj6kWKd9",
-    "name": "Fomenko Fake Radio",
+    "nanoid": "SJfigHB98zAldD",
+    "name": "Fusion Radio",
     "sources": {
       "streams": [
-        "https://stream.pcradio.ru/fomenko_fake-med"
+        "https://stream.fusionradioapp.com:1045/stream"
       ]
     },
     "languages": [
@@ -2070,6 +2068,20 @@
     "languages": [
       "ukr"
     ]
+  },
+  {
+    "nanoid": "ffHhPDFXGLDT2g",
+    "name": "Gachi Station #1 Ukrainian",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/bmb6ihzfbpdtv"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "WF1wcPv9Mksy4F",
@@ -2149,8 +2161,8 @@
     "name": "Grand FM",
     "sources": {
       "streams": [
-        "https://grandfm.ru:8000/radio",
-        "https://grandfm.ru:8005/radio"
+        "https://grandfm.ru:8005/radio",
+        "https://grandfm.ru:8000/radio"
       ]
     },
     "languages": [
@@ -2181,6 +2193,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "QmkDVfV7aU2kMX",
+    "name": "GTF Instrumental",
+    "sources": {
+      "streams": [
+        "https://stream.gtfinstrumental.com/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sDqWti2VyDMqKG",
@@ -2367,6 +2393,20 @@
     "languages": [
       "rus"
     ]
+  },
+  {
+    "nanoid": "R56aNrrf3Tsjab",
+    "name": "L-Radio",
+    "sources": {
+      "streams": [
+        "https://air.unmixed.ru/lradio256"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "c8hEjF1nkwHwVy",
@@ -2692,11 +2732,11 @@
     ]
   },
   {
-    "nanoid": "IcrryoCgATyRaK",
-    "name": "New Hip Hop",
+    "nanoid": "ZCZPbRX7u6rUhX",
+    "name": "New Wave Radio",
     "sources": {
       "streams": [
-        "https://stream.pcradio.ru/rad_newhphprd-med"
+        "https://stream.radionv.ru:4175/stream"
       ]
     },
     "languages": [
@@ -2950,8 +2990,8 @@
     "name": "PromoDJ - Nu",
     "sources": {
       "streams": [
-        "https://radio.promodj.com/nu-192",
-        "https://radio.promodj.com/toonu-192"
+        "https://radio.promodj.com/toonu-192",
+        "https://radio.promodj.com/nu-192"
       ]
     },
     "languages": [
@@ -3188,8 +3228,8 @@
     "sources": {
       "streams": [
         "https://listen13.vdfm.ru:8000/dacha",
-        "https://stream.n340.com/14_dacha_64",
-        "https://stream2.n340.com/12_dacha_28_reg_316"
+        "https://stream2.n340.com/12_dacha_64_reg_1093",
+        "https://stream.n340.com/14_dacha_64"
       ]
     },
     "languages": [
@@ -3254,6 +3294,20 @@
     "languages": [
       "rus"
     ]
+  },
+  {
+    "nanoid": "DMGW0r6pgdBjn1",
+    "name": "Radio Energy Russia",
+    "sources": {
+      "streams": [
+        "https://srv02.gpmradio.ru:8443/stream/air/aac/64/99"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ImqaaHbpho8ySw",
@@ -4062,8 +4116,8 @@
     "sources": {
       "streams": [
         "https://air.unmixed.ru/record320",
-        "https://radiorecord.hostingradio.ru/rr_main96.aacp",
-        "https://radio-srv1.11one.ru/rec64k"
+        "https://radio-srv1.11one.ru/record192k.mp3",
+        "https://radiorecord.hostingradio.ru/rr_main96.aacp"
       ]
     },
     "languages": [
@@ -5264,7 +5318,7 @@
     "name": "Relax FM",
     "sources": {
       "streams": [
-        "https://pub0302.101.ru:8000/stream/trust/mp3/128/264"
+        "https://pub0302.101.ru:8443/stream/air/aac/64/200"
       ]
     },
     "languages": [
@@ -5327,12 +5381,26 @@
     "languages": []
   },
   {
+    "nanoid": "kV7Y1icpZFUe2I",
+    "name": "Relax FM Gold",
+    "sources": {
+      "streams": [
+        "https://srv01.gpmradio.ru/stream/air/aac/64/200"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EGqCD95U6JPw1V",
     "name": "Relax FM Instrumental",
     "sources": {
       "streams": [
-        "https://pub0101.101.ru/stream/pro/aac/64/28",
-        "https://pub0201.101.ru/stream/pro/aac/64/28"
+        "https://pub0201.101.ru/stream/pro/aac/64/28",
+        "https://pub0101.101.ru/stream/pro/aac/64/28"
       ]
     },
     "languages": [
@@ -5525,9 +5593,9 @@
     "name": "Rock FM 95.2",
     "sources": {
       "streams": [
-        "https://nashe1.hostingradio.ru/rock-128.mp3",
         "https://nashe.streamr.ru/rock-128.mp3",
-        "https://nashe2.hostingradio.ru/rock-128.mp3"
+        "https://nashe1.hostingradio.ru/rock-128.mp3",
+        "https://nashe1.hostingradio.ru:80/rock-128.mp3"
       ]
     },
     "languages": [
@@ -5563,8 +5631,8 @@
     "name": "Rock n Roll FM",
     "sources": {
       "streams": [
-        "https://a6.radioheart.ru:9046/RH1972",
-        "https://listen.myrh.ru/rnr_fm"
+        "https://listen.myrh.ru/rnr_fm",
+        "https://a6.radioheart.ru:9046/RH1972"
       ]
     },
     "languages": [
@@ -5947,6 +6015,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RxoE1himJifgbC",
+    "name": "SynthWay Radio",
+    "sources": {
+      "streams": [
+        "https://ac.synthway.com/listen/radio/radio_192.mp3"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "p2vEObiczAcCIN",
     "name": "Tanz FM",
     "sources": {
@@ -5996,11 +6078,11 @@
     ]
   },
   {
-    "nanoid": "9RAnbjTYKvfy1z",
-    "name": "Ural Sound FM: Deep House",
+    "nanoid": "IL4NkIehzwyXdN",
+    "name": "VTC Radio: Lactose",
     "sources": {
       "streams": [
-        "https://5.restream.one/1392_1"
+        "https://vtcradio.com:8005/stream"
       ]
     },
     "languages": [
@@ -6044,9 +6126,9 @@
     "name": "Wave Anime Radio",
     "sources": {
       "streams": [
-        "https://channel_1.waveani.fun/stream",
+        "https://channel_3.waveani.fun/stream",
         "https://channel_2.waveani.fun/stream",
-        "https://channel_3.waveani.fun/stream"
+        "https://channel_1.waveani.fun/stream"
       ]
     },
     "languages": [
@@ -6320,11 +6402,10 @@
     "name": "Алания FM",
     "sources": {
       "streams": [
-        "https://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3"
+        "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
       ]
     },
     "languages": [
-      "oss",
       "rus"
     ]
   },
@@ -6689,9 +6770,9 @@
     "name": "Говорит Москва",
     "sources": {
       "streams": [
+        "https://media.govoritmoskva.ru:8880/ru32.mp3",
         "https://media.govoritmoskva.ru:8880/ru64.mp3",
-        "https://media.govoritmoskva.ru:8880/rufm_m.mp3",
-        "https://media.govoritmoskva.ru:8880/ru32.mp3"
+        "https://media.govoritmoskva.ru:8880/rufm_m.mp3"
       ]
     },
     "languages": [
@@ -7599,8 +7680,8 @@
     "name": "Кекс FM",
     "sources": {
       "streams": [
-        "https://emg02.hostingradio.ru/keksfm64.aac",
-        "https://dorognoe.hostingradio.ru/keksfm64.aac"
+        "https://dorognoe.hostingradio.ru/keksfm64.aac",
+        "https://emg02.hostingradio.ru/keksfm64.aac"
       ]
     },
     "languages": [
@@ -7870,6 +7951,21 @@
       "bak",
       "rus"
     ]
+  },
+  {
+    "nanoid": "rUrMdqqWfjUI89",
+    "name": "Матур Радио",
+    "sources": {
+      "streams": [
+        "https://radio.matur-tv.ru/radio/radio-mp3-128k"
+      ]
+    },
+    "languages": [
+      "bak",
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "LH2C5qY0aJoUql",
@@ -8161,8 +8257,8 @@
     "name": "Новое Радио",
     "sources": {
       "streams": [
-        "https://online-1.gkvr.ru:8000/novoe_kra_64onair.aac",
-        "https://stream.newradio.ru/moscow.novoe.aacp"
+        "https://stream.newradio.ru/moscow.novoe.aacp",
+        "https://online-1.gkvr.ru:8000/novoe_kra_64onair.aac"
       ]
     },
     "languages": [
@@ -8506,7 +8602,7 @@
       "streams": [
         "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp",
         "https://dfm-basshouse.hostingradio.ru/basshouse96.aacp",
-        "https://dfm.hostingradio.ru/dfm96.aacp"
+        "https://dfm.hostingradio.ru/dfm128.mp3"
       ]
     },
     "languages": [
@@ -8647,6 +8743,20 @@
       "rus",
       "eng"
     ]
+  },
+  {
+    "nanoid": "rpkGHr3RWjPzND",
+    "name": "Радио Romantika",
+    "sources": {
+      "streams": [
+        "https://srv12.gpmradio.ru:8443/stream/air/aac/64/101"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "S2WgRbOrJZjbng",
@@ -8877,11 +8987,11 @@
     ]
   },
   {
-    "nanoid": "BwUddBCehEayvK",
-    "name": "Радио Бирь",
+    "nanoid": "3QTev23mvlJQlR",
+    "name": "Радио Бархат",
     "sources": {
       "streams": [
-        "https://radio102.ru:8443/birskfm"
+        "https://radio.albrin.online:9000/nonstop"
       ]
     },
     "languages": [
@@ -9201,20 +9311,6 @@
     ]
   },
   {
-    "nanoid": "qlV6cSc6yBE7mp",
-    "name": "Радио Гордость 98.7 FM",
-    "sources": {
-      "streams": [
-        "https://s0.radioheart.ru:8000/rgfm"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vBsv6zorBb72P6",
     "name": "Радио Гусь",
     "stream_urls": [
@@ -9473,8 +9569,8 @@
     "name": "Радио Двухтысячных",
     "sources": {
       "streams": [
-        "https://air.radio2000x.com:8000/stream",
-        "https://air.radio2000x.com:8005/stream"
+        "https://air.radio2000x.com:8005/stream",
+        "https://air.radio2000x.com:8000/stream"
       ]
     },
     "languages": [
@@ -9991,8 +10087,8 @@
     "name": "Радио Мир",
     "sources": {
       "streams": [
-        "https://icecast-mirtv.cdnvideo.ru/radio_mir4_256",
-        "https://icecast-mirtv.cdnvideo.ru/radio_mir_256"
+        "https://icecast-mirtv.cdnvideo.ru/radio_mir_256",
+        "https://icecast-mirtv.cdnvideo.ru/radio_mir4_256"
       ]
     },
     "languages": [
@@ -10141,6 +10237,20 @@
     "languages": [
       "rus"
     ]
+  },
+  {
+    "nanoid": "gNscSvocPj8hkO",
+    "name": "Радио Новая Волна: Для души",
+    "sources": {
+      "streams": [
+        "https://stream.radionv.ru:4265/stream"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xxzhCaDB7qnfmd",
@@ -10706,11 +10816,11 @@
     ]
   },
   {
-    "nanoid": "n60FHDJ5Rk18e3",
-    "name": "Радио Р52 94.3 FM",
+    "nanoid": "JTsm2MMCY76eeD",
+    "name": "Радио Пурга",
     "sources": {
       "streams": [
-        "https://5.restream.one/427_1"
+        "https://radiostream.chukotnet.ru/RadioPurga_48"
       ]
     },
     "languages": [
@@ -11498,8 +11608,8 @@
     "name": "Радио Шансон",
     "sources": {
       "streams": [
-        "https://chanson.hostingradio.ru:8041/chanson128.mp3",
-        "https://chanson.hostingradio.ru:8041/chanson256.mp3"
+        "https://chanson.hostingradio.ru:8041/chanson256.mp3",
+        "https://chanson.hostingradio.ru:8041/chanson128.mp3"
       ]
     },
     "languages": [
@@ -11555,11 +11665,12 @@
     ]
   },
   {
-    "nanoid": "eUmvcWJsVo0NRj",
-    "name": "Радио Шоколад 96.4 FM",
+    "nanoid": "Y7hRK23SVVToaE",
+    "name": "Радио ШОК",
     "sources": {
       "streams": [
-        "https://online2.gkvr.ru:8000/chocolate_nno_64.aac"
+        "https://spb.radioshock.ru/radioshock",
+        "https://spb.radioshock.ru/radioshock64"
       ]
     },
     "languages": [
@@ -11567,11 +11678,11 @@
     ]
   },
   {
-    "nanoid": "X0YUVdYGtEhhg8",
-    "name": "Радио Штаны",
+    "nanoid": "eUmvcWJsVo0NRj",
+    "name": "Радио Шоколад 96.4 FM",
     "sources": {
       "streams": [
-        "https://stream.elarin.ru/rsh_federal"
+        "https://online2.gkvr.ru:8000/chocolate_nno_64.aac"
       ]
     },
     "languages": [
@@ -11699,8 +11810,8 @@
     "sources": {
       "streams": [
         "https://retro70.hostingradio.ru:8025/retro70-128.mp3",
-        "https://hls-01-retro70.emgsound.ru/1/64/playlist.m3u8",
-        "https://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8"
+        "https://hls-01-retro70.emgsound.ru/1/128/playlist.m3u8",
+        "https://hls-01-retro70.emgsound.ru/1/32/playlist.m3u8"
       ]
     },
     "languages": [
@@ -11715,8 +11826,8 @@
     "sources": {
       "streams": [
         "https://retro80.hostingradio.ru:8025/retro80-128.mp3",
-        "https://hls-01-retro80.emgsound.ru/2/32/playlist.m3u8",
-        "https://hls-01-retro80.emgsound.ru/2/128/playlist.m3u8"
+        "https://hls-01-retro80.emgsound.ru/2/128/playlist.m3u8",
+        "https://hls-01-retro80.emgsound.ru/2/32/playlist.m3u8"
       ]
     },
     "languages": [
@@ -11745,7 +11856,7 @@
     "sources": {
       "streams": [
         "https://retro90.hostingradio.ru:8025/retro90-128.mp3",
-        "https://hls-01-retro90.emgsound.ru/3/32/playlist.m3u8",
+        "https://hls-01-retro90.emgsound.ru/3/128/playlist.m3u8",
         "https://hls-01-retro90.emgsound.ru/3/64/playlist.m3u8"
       ]
     },
@@ -11993,9 +12104,9 @@
     "name": "Ретро FM: Вечеринка",
     "sources": {
       "streams": [
-        "https://hls-01-retro-vecherinka.emgsound.ru/20/128/playlist.m3u8",
         "https://hls-01-retro-vecherinka.emgsound.ru/20/32/playlist.m3u8",
-        "https://hls-01-retro-vecherinka.emgsound.ru/20/64/playlist.m3u8"
+        "https://hls-01-retro-vecherinka.emgsound.ru/20/64/playlist.m3u8",
+        "https://hls-01-retro-vecherinka.emgsound.ru/20/128/playlist.m3u8"
       ]
     },
     "languages": [
@@ -12058,8 +12169,8 @@
     "name": "Рок-Атака",
     "sources": {
       "streams": [
-        "https://myradio24.org/rockataka",
-        "https://listen7.myradio24.com/rockataka"
+        "https://listen7.myradio24.com/rockataka",
+        "https://myradio24.org/rockataka"
       ]
     },
     "languages": [
@@ -12193,8 +12304,8 @@
     "sources": {
       "streams": [
         "https://radio.promedia.ru/rr-simf",
-        "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "https://stream.skymedia.ee/live/RR_AAC"
+        "https://stream.skymedia.ee/live/RR_AAC",
+        "https://rusradio.hostingradio.ru/rusradio128.mp3"
       ]
     },
     "languages": [
@@ -12887,8 +12998,8 @@
     "name": "Умное Радио 107.0 FM",
     "sources": {
       "streams": [
-        "https://radio.sarov.info/radio/8010/clever-radio",
-        "https://radio.sarov.info:8010/clever-radio"
+        "https://radio.sarov.info:8010/clever-radio",
+        "https://radio.sarov.info/radio/8010/clever-radio"
       ]
     },
     "languages": [

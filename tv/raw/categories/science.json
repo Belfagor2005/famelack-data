@@ -90,7 +90,7 @@
     "name": "NASA: ISS HD",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/FuuC4dpSQ1M"
+        "https://www.youtube-nocookie.com/embed/awQzjn72bI0"
       ]
     },
     "languages": [
@@ -100,17 +100,33 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "enEltbXjves4CL",
-    "name": "Pervyy Kosmicheskiy",
+    "nanoid": "Zby3EFKjfMDiTX",
+    "name": "Nauka",
     "sources": {
       "streams": [
-        "https://adpnetworkhd-cmd.github.io/iptv/PervyyKosmicheskiy.m3u8"
+        "https://stream.mcquack.net/403/index.m3u8"
       ]
     },
     "languages": [
-      "rus"
+      "rus",
+      "ukr"
     ],
-    "country": "ru",
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ykRwwB2Nt6Xf6T",
+    "name": "Smithsonian Channel East",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/SMITHSONIAN/index.m3u8",
+        "https://206.212.244.63/148/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -125,20 +141,6 @@
       "jpn"
     ],
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kSVtvJkU0QM7ee",
-    "name": "TEC TV",
-    "sources": {
-      "streams": [
-        "https://edgectc.com/TEC_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
     "isGeoBlocked": false
   },
   {

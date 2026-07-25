@@ -1,10 +1,10 @@
 [
   {
-    "nanoid": "mlaGBJI31Zvzd2",
-    "name": "02 Dance Radio",
+    "nanoid": "59PyxzwG9iEJwS",
+    "name": "1o Programm Gargalianon",
     "sources": {
       "streams": [
-        "https://centova.gr-net.gr/proxy/dimitrio/stream"
+        "https://i2.streams.ovh:7109/stream"
       ]
     },
     "languages": [
@@ -14,11 +14,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "r6cZBQv4ryfiO2",
-    "name": "2Day 104.5",
+    "nanoid": "mlaGBJI31Zvzd2",
+    "name": "02 Dance Radio",
     "sources": {
       "streams": [
-        "https://premium.streams.gr/sc/2day1045/stream"
+        "https://centova.gr-net.gr/proxy/dimitrio/stream"
       ]
     },
     "languages": [
@@ -310,8 +310,8 @@
     "name": "2000 sta FM",
     "sources": {
       "streams": [
-        "https://s3.unlimitedradiohosting.com:8000/stream",
-        "https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm"
+        "https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm",
+        "https://s3.unlimitedradiohosting.com:8000/stream"
       ]
     },
     "languages": [
@@ -529,7 +529,7 @@
       "streams": [
         "https://21633.live.streamtheworld.com/AFNE_SDB_SC",
         "https://23613.live.streamtheworld.com/AFNE_SDB_SC",
-        "https://25643.live.streamtheworld.com/AFNE_SDB_SC"
+        "https://23623.live.streamtheworld.com/AFNE_SDB_SC"
       ]
     },
     "languages": [
@@ -822,9 +822,9 @@
     "name": "Alpha 98.9",
     "sources": {
       "streams": [
+        "https://n07.radiojar.com/xcdg6yggzfeuv",
         "https://n0c.radiojar.com/xcdg6yggzfeuv",
-        "https://stream.radiojar.com/xcdg6yggzfeuv",
-        "https://n07.radiojar.com/xcdg6yggzfeuv"
+        "https://n0e.radiojar.com/xcdg6yggzfeuv"
       ]
     },
     "languages": [
@@ -878,20 +878,6 @@
     "languages": [
       "ell"
     ]
-  },
-  {
-    "nanoid": "B0Ku6QGkisJ0wn",
-    "name": "Andromeda Net Radio",
-    "sources": {
-      "streams": [
-        "https://stream1.468.gr/8006/stream"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "HZeu7n2Nkb8SWC",
@@ -959,8 +945,8 @@
     "name": "Antenna Radio Patras",
     "sources": {
       "streams": [
-        "https://netradio.live24.gr/ant1patra1053",
-        "https://ant1patra.live24.gr/ant1patra1053"
+        "https://ant1patra.live24.gr/ant1patra1053",
+        "https://netradio.live24.gr/ant1patra1053"
       ]
     },
     "languages": [
@@ -1306,8 +1292,8 @@
     "name": "Best Radio 92.6",
     "sources": {
       "streams": [
-        "https://best.live24.gr/best1222",
-        "https://netradio.live24.gr/best1222"
+        "https://netradio.live24.gr/best1222",
+        "https://best.live24.gr/best1222"
       ]
     },
     "languages": [
@@ -1468,8 +1454,8 @@
     "name": "Camara Radio",
     "sources": {
       "streams": [
-        "https://n06.radiojar.com/252ry9dgytzuv",
-        "https://n02.radiojar.com/252ry9dgytzuv"
+        "https://n02.radiojar.com/252ry9dgytzuv",
+        "https://n06.radiojar.com/252ry9dgytzuv"
       ]
     },
     "languages": [
@@ -1549,6 +1535,20 @@
     ]
   },
   {
+    "nanoid": "1nGy8xRJLlmIeh",
+    "name": "Central FM 103.3",
+    "sources": {
+      "streams": [
+        "https://i6.streams.ovh/sc/central/stream"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Rq5rnOwM8Mztep",
     "name": "Chill FM",
     "sources": {
@@ -1565,9 +1565,9 @@
     "name": "Chillout TreePines Radio",
     "sources": {
       "streams": [
+        "https://n07.radiojar.com/n4dzb3znn3quv.mp3",
         "https://n12.radiojar.com/n4dzb3znn3quv.mp3",
-        "https://n0f.radiojar.com/n4dzb3znn3quv.mp3",
-        "https://n07.radiojar.com/n4dzb3znn3quv.mp3"
+        "https://n0f.radiojar.com/n4dzb3znn3quv.mp3"
       ]
     },
     "languages": [
@@ -1910,6 +1910,7 @@
     "name": "Derti 107.7",
     "sources": {
       "streams": [
+        "https://i5.streams.ovh:14008/stream",
         "https://i5.streams.ovh:2200/sc/web101/stream"
       ]
     },
@@ -2183,6 +2184,22 @@
     ]
   },
   {
+    "nanoid": "dulGDJrMohKX1J",
+    "name": "Dream City",
+    "sources": {
+      "streams": [
+        "https://cast.streams.ovh:9362/;stream.mp3",
+        "https://cast.streams.ovh:9362/stream"
+      ]
+    },
+    "languages": [
+      "ell",
+      "eng"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iYZRkMHDRIdmYZ",
     "name": "Dream FM 90.7",
     "sources": {
@@ -2398,6 +2415,20 @@
     ]
   },
   {
+    "nanoid": "Q2wP34hGMiADXh",
+    "name": "Ellinadiko FM 102.0",
+    "sources": {
+      "streams": [
+        "https://ellinadikofm.gr:8020/stream"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CFbPwUJ1WBbMR3",
     "name": "Elliniko Fenomeno Web Radio",
     "sources": {
@@ -2424,26 +2455,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yiidPAwjlvoFQz",
-    "name": "Ellinikos 90.3 FM",
-    "sources": {
-      "streams": [
-        "https://live.sugarweb.gr/903.aac"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FDGaksbB95mkfc",
     "name": "Ellinikos 93.2 FM",
     "sources": {
       "streams": [
-        "https://orange.live24.gr/orange9320",
-        "https://netradio.live24.gr/orange9320"
+        "https://netradio.live24.gr/orange9320",
+        "https://orange.live24.gr/orange9320"
       ]
     },
     "languages": [
@@ -2467,7 +2484,8 @@
     "name": "Empneusi 107 FM",
     "sources": {
       "streams": [
-        "https://n02.radiojar.com/2rsrhmepefq"
+        "https://n02.radiojar.com/2rsrhmepefq",
+        "https://stream.radiojar.com/2rsrhmepefq"
       ]
     },
     "languages": [
@@ -2717,6 +2735,20 @@
     "languages": [
       "ell"
     ]
+  },
+  {
+    "nanoid": "B7eGZWEuo9Ow7e",
+    "name": "Ermis 91.8 FM",
+    "sources": {
+      "streams": [
+        "https://streams.upg.gr/ermis"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "v6j6ppIIhP07RE",
@@ -3254,8 +3286,8 @@
     "name": "Fly 104",
     "sources": {
       "streams": [
-        "https://imagine2.radioca.st/;stream.nsv",
-        "https://imagine2.radioca.st/;"
+        "https://imagine2.radioca.st/;",
+        "https://imagine2.radioca.st/;stream.nsv"
       ]
     },
     "languages": [
@@ -3279,8 +3311,8 @@
     "name": "FM Life 105.3",
     "sources": {
       "streams": [
-        "https://s6.onweb.gr:8044/;",
-        "https://s6.onweb.gr:8044/stream"
+        "https://s6.onweb.gr:8044/stream",
+        "https://s6.onweb.gr:8044/;"
       ]
     },
     "languages": [
@@ -3381,6 +3413,20 @@
     "languages": [
       "ell"
     ]
+  },
+  {
+    "nanoid": "A5JB2d0bREZax8",
+    "name": "Freedom Radio",
+    "sources": {
+      "streams": [
+        "https://n0e.radiojar.com/r9nqbs6ezmzuv"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "PevbBqOjCe3DUk",
@@ -4254,6 +4300,20 @@
     ]
   },
   {
+    "nanoid": "yguThiJ0a7kk1C",
+    "name": "Klik Web",
+    "sources": {
+      "streams": [
+        "https://stream-42.zeno.fm/2aqtgms0afhvv"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yHTATraevgWNAz",
     "name": "Korinthos Radio",
     "sources": {
@@ -4519,8 +4579,8 @@
     "name": "Legend 88.6",
     "sources": {
       "streams": [
-        "https://stream.radiojar.com/gphtvb4env5tv",
-        "https://n07.radiojar.com/gphtvb4env5tv"
+        "https://n07.radiojar.com/gphtvb4env5tv",
+        "https://stream.radiojar.com/gphtvb4env5tv"
       ]
     },
     "languages": [
@@ -4855,27 +4915,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BmzcXBpeCeqB2a",
-    "name": "Melodia 88 FM",
-    "sources": {
-      "streams": [
-        "https://sp1.19cloudsnetwork.gr/8002/stream"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WAWDt40AT62WMu",
     "name": "Melodia 99.2",
     "sources": {
       "streams": [
         "https://stream.rcs.revma.com/8tdwa6ez1duvv",
         "https://n01.radiojar.com/8du64725e3quv",
-        "https://n0f.radiojar.com/8du64725e3quv"
+        "https://n10.radiojar.com/8du64725e3quv"
       ]
     },
     "languages": [
@@ -5141,6 +5187,20 @@
     ]
   },
   {
+    "nanoid": "jsj2JmbVHw1TSK",
+    "name": "Metalourgio",
+    "sources": {
+      "streams": [
+        "https://cast5.asurahosting.com/proxy/metalour/stream?mp=/stream"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eCyTdB5udmhQ4y",
     "name": "Metalzone.gr",
     "sources": {
@@ -5218,8 +5278,8 @@
     "name": "Metropolis 95.5",
     "sources": {
       "streams": [
-        "https://metromedia.live24.gr/metropolis955thess",
-        "https://metropolis.live24.gr/metropolis955thess"
+        "https://metropolis.live24.gr/metropolis955thess",
+        "https://metromedia.live24.gr/metropolis955thess"
       ]
     },
     "languages": [
@@ -5363,8 +5423,8 @@
     "name": "Mousikos 98.6",
     "sources": {
       "streams": [
-        "https://netradio.live24.gr/derty1000",
-        "https://netradio.live24.gr/mousikos986"
+        "https://netradio.live24.gr/mousikos986",
+        "https://netradio.live24.gr/derty1000"
       ]
     },
     "languages": [
@@ -5521,11 +5581,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xsFvcQLIz3QHyB",
-    "name": "My FM 89.5",
+    "nanoid": "KgPIfK6Kpu0uan",
+    "name": "Musix Channel",
     "sources": {
       "streams": [
-        "https://cast.radiohost.ovh:9037/stream"
+        "https://i4.streams.ovh:8059/stream"
       ]
     },
     "languages": [
@@ -6233,6 +6293,20 @@
     ]
   },
   {
+    "nanoid": "Q3NI051zbO9tbV",
+    "name": "Peiraiki Ekklisia 91.2 FM",
+    "sources": {
+      "streams": [
+        "https://impradio.bytemasters.gr/8002/stream"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sZ3ufuq8Y8BnOZ",
     "name": "Peiratikos FM 99.5",
     "sources": {
@@ -6273,9 +6347,9 @@
     "name": "Pemptousia FM",
     "sources": {
       "streams": [
-        "https://n0d.radiojar.com/48cz219puzzuv",
         "https://n11.radiojar.com/48cz219puzzuv",
-        "https://stream.radiojar.com/48cz219puzzuv"
+        "https://stream.radiojar.com/48cz219puzzuv",
+        "https://n0d.radiojar.com/48cz219puzzuv"
       ]
     },
     "languages": [
@@ -6323,8 +6397,8 @@
     "name": "Picasso FM 102.7",
     "sources": {
       "streams": [
-        "https://n12.radiojar.com/s87smqqfewzuv",
         "https://n10.radiojar.com/s87smqqfewzuv",
+        "https://n12.radiojar.com/s87smqqfewzuv",
         "https://n0b.radiojar.com/s87smqqfewzuv"
       ]
     },
@@ -6384,8 +6458,8 @@
     "name": "Play Gold",
     "sources": {
       "streams": [
-        "https://n0d.radiojar.com/431m8b6qcm5tv",
-        "https://n02.radiojar.com/431m8b6qcm5tv"
+        "https://n02.radiojar.com/431m8b6qcm5tv",
+        "https://n0d.radiojar.com/431m8b6qcm5tv"
       ]
     },
     "languages": [
@@ -6972,8 +7046,8 @@
     "name": "Radio Art - After Midnight",
     "sources": {
       "streams": [
-        "https://air.radioart.com/fAfter_midnight.mp3",
-        "https://air-tunein.radioart.com/fAfter_midnight.mp3"
+        "https://air-tunein.radioart.com/fAfter_midnight.mp3",
+        "https://air.radioart.com/fAfter_midnight.mp3"
       ]
     },
     "languages": [
@@ -7431,8 +7505,8 @@
     "name": "Radio Art - Folk & Soft Rock",
     "sources": {
       "streams": [
-        "https://air-tunein.radioart.com/fFolk_and_soft_rock.mp3",
-        "https://air.radioart.com/fFolk_and_soft_rock.mp3"
+        "https://air.radioart.com/fFolk_and_soft_rock.mp3",
+        "https://air-tunein.radioart.com/fFolk_and_soft_rock.mp3"
       ]
     },
     "languages": [
@@ -8520,8 +8594,8 @@
     "name": "Radio Art - Sleep",
     "sources": {
       "streams": [
-        "https://air-tunein.radioart.com/fSleep.mp3",
-        "https://air.radioart.com/fSleep.mp3"
+        "https://air.radioart.com/fSleep.mp3",
+        "https://air-tunein.radioart.com/fSleep.mp3"
       ]
     },
     "languages": [
@@ -8691,8 +8765,8 @@
     "name": "Radio Art - Stress Relief",
     "sources": {
       "streams": [
-        "https://live.radioart.com/fStress_relief.mp3",
-        "https://air-tunein.radioart.com/fStress_relief.mp3"
+        "https://air-tunein.radioart.com/fStress_relief.mp3",
+        "https://live.radioart.com/fStress_relief.mp3"
       ]
     },
     "languages": [
@@ -8946,8 +9020,8 @@
     "name": "Radio Art - Yoga",
     "sources": {
       "streams": [
-        "https://air-tunein.radioart.com/fYoga.mp3",
-        "https://air.radioart.com/fYoga.mp3"
+        "https://air.radioart.com/fYoga.mp3",
+        "https://air-tunein.radioart.com/fYoga.mp3"
       ]
     },
     "languages": [
@@ -10426,8 +10500,8 @@
     "name": "Radio X",
     "sources": {
       "streams": [
-        "https://n07.radiojar.com/yv5xu5h7zwwtv",
-        "https://n11.radiojar.com/yv5xu5h7zwwtv"
+        "https://n11.radiojar.com/yv5xu5h7zwwtv",
+        "https://n07.radiojar.com/yv5xu5h7zwwtv"
       ]
     },
     "languages": [
@@ -10489,8 +10563,8 @@
     "name": "Radiobird",
     "sources": {
       "streams": [
-        "https://n07.radiojar.com/6uqfysrasm0uv",
-        "https://n0c.radiojar.com/6uqfysrasm0uv"
+        "https://n0c.radiojar.com/6uqfysrasm0uv",
+        "https://n07.radiojar.com/6uqfysrasm0uv"
       ]
     },
     "languages": [
@@ -10551,9 +10625,9 @@
     "name": "Real FM 97.8",
     "sources": {
       "streams": [
-        "https://netradio.live24.gr/realfm",
+        "https://realfm2.live24.gr/realfm",
         "https://realfm.live24.gr/realfm",
-        "https://realfm2.live24.gr/realfm"
+        "https://netradio.live24.gr/realfm"
       ]
     },
     "languages": [
@@ -10638,8 +10712,8 @@
     "name": "Red Classics",
     "sources": {
       "streams": [
-        "https://n08.radiojar.com/redclassics",
-        "https://n04.radiojar.com/redclassics"
+        "https://n04.radiojar.com/redclassics",
+        "https://n08.radiojar.com/redclassics"
       ]
     },
     "languages": [
@@ -10937,9 +11011,9 @@
     "name": "Rythmos 94.9",
     "sources": {
       "streams": [
-        "https://n0c.radiojar.com/aw1w2xfx1vduv.mp3",
+        "https://n10.radiojar.com/aw1w2xfx1vduv",
         "https://n01.radiojar.com/g4tyehk5yvduv.mp3",
-        "https://n10.radiojar.com/aw1w2xfx1vduv"
+        "https://n0c.radiojar.com/aw1w2xfx1vduv.mp3"
       ]
     },
     "languages": [
@@ -11148,8 +11222,8 @@
     "name": "S-Fresh 91.2",
     "sources": {
       "streams": [
-        "https://ams-pioneer02.dedicateware.com:1060/;listen.pls",
-        "https://ams-pioneer02.dedicateware.com:1060/;"
+        "https://ams-pioneer02.dedicateware.com:1060/;",
+        "https://ams-pioneer02.dedicateware.com:1060/;listen.pls"
       ]
     },
     "languages": [
@@ -11352,8 +11426,8 @@
     "name": "Skai 100.3",
     "sources": {
       "streams": [
-        "https://skai.live24.gr/skai1003",
-        "https://netradio.live24.gr/skai1003"
+        "https://netradio.live24.gr/skai1003",
+        "https://skai.live24.gr/skai1003"
       ]
     },
     "languages": [
@@ -11471,11 +11545,11 @@
     ]
   },
   {
-    "nanoid": "6u4c42yC4Pzjkf",
-    "name": "Smart 104.5",
+    "nanoid": "ITuIAtZqCkgaUO",
+    "name": "Smooth Jazz 111",
     "sources": {
       "streams": [
-        "https://smartradio1045.live24.gr/smartradio1045"
+        "https://cast.magicstreams.gr/sc/111radio/stream"
       ]
     },
     "languages": [
@@ -11732,9 +11806,9 @@
     "name": "Sto Kokkino 105.5",
     "sources": {
       "streams": [
-        "https://n0b.radiojar.com/kokkino-ath.mp3",
         "https://n03.radiojar.com/kokkino-ath.mp3",
-        "https://n06.radiojar.com/kokkino-ath.mp3"
+        "https://n06.radiojar.com/kokkino-ath.mp3",
+        "https://n0a.radiojar.com/kokkino-ath.mp3"
       ]
     },
     "languages": [
@@ -12456,6 +12530,20 @@
     ]
   },
   {
+    "nanoid": "z0lgYjyIkfdNuF",
+    "name": "Venus Mykonos",
+    "sources": {
+      "streams": [
+        "https://politismedia-sec.live24.gr/streameemykonos"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jgTERyjM4xsqC5",
     "name": "Venus Radio 99.3",
     "sources": {
@@ -12546,8 +12634,8 @@
     "name": "Weird Fishes Radio",
     "sources": {
       "streams": [
-        "https://n10.radiojar.com/w47v0ekgzp5tv.m4a",
-        "https://n12.radiojar.com/w47v0ekgzp5tv.m4a"
+        "https://n12.radiojar.com/w47v0ekgzp5tv.m4a",
+        "https://n10.radiojar.com/w47v0ekgzp5tv.m4a"
       ]
     },
     "languages": [

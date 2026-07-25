@@ -47,6 +47,20 @@
     ]
   },
   {
+    "nanoid": "geEIhDTEy98KGX",
+    "name": "1.FM - Absolute 90s Party Zone",
+    "sources": {
+      "streams": [
+        "https://strm112.1.fm/partyzone90s_mobile_mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "svp0gSJW39BOGF",
     "name": "1.FM - Absolute Country Hits",
     "sources": {
@@ -617,8 +631,8 @@
     "name": "1.FM - Otto's Baroque",
     "sources": {
       "streams": [
-        "https://strm112.1.fm/baroque_mobile_mp3",
-        "https://strm112.1.fm/baroque_mobile_aac"
+        "https://strm112.1.fm/baroque_mobile_aac",
+        "https://strm112.1.fm/baroque_mobile_mp3"
       ]
     },
     "languages": [
@@ -863,6 +877,20 @@
     "languages": [
       "ara"
     ]
+  },
+  {
+    "nanoid": "kv82WrmRcxRvGq",
+    "name": "Al Quran Radio",
+    "sources": {
+      "streams": [
+        "https://n0a.radiojar.com/0tpy1h0kxtzuv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "xXKRmsmfZ9uHzL",
@@ -1249,8 +1277,8 @@
     "name": "Kontrafunk",
     "sources": {
       "streams": [
-        "https://s5.radio.co/sca4082ebb/listen",
         "https://icecast.multhielemedia.de/listen/kontrafunk/mobil",
+        "https://s5.radio.co/sca4082ebb/listen",
         "https://s5.radio.co/sca4082ebb/low"
       ]
     },
@@ -1313,8 +1341,8 @@
     "sources": {
       "streams": [
         "https://de1.streamhosting.ch/",
-        "https://player.streamhosting.ch/lounge64.aac",
-        "https://player.streamhosting.ch/lounge128.ogg"
+        "https://fr1.streamhosting.ch/lounge128.mp3",
+        "https://player.streamhosting.ch/lounge64.aac"
       ]
     },
     "languages": [
@@ -1867,8 +1895,8 @@
     "sources": {
       "streams": [
         "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762",
-        "https://stream.streambase.ch/rcentral/mp3-192/direct/",
-        "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/"
+        "https://stream.streambase.ch/rcentral/mp3-192/direct",
+        "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web"
       ]
     },
     "languages": [
@@ -1901,6 +1929,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5qOKKCfLUaCFu2",
+    "name": "Radio Chablais Rock'n'Blues",
+    "sources": {
+      "streams": [
+        "https://stream.radiochablais.ch/chablais-rocknblues.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6MI2H2yEfPgC6D",
     "name": "Radio Drachenblut",
     "sources": {
@@ -1919,9 +1961,9 @@
     "name": "Radio Électrons Libres",
     "sources": {
       "streams": [
+        "https://play.radioking.io/electrons-libres/481505",
         "https://play.radioking.io/electrons-libres",
-        "https://play.radioking.io/electrons-libres/481502",
-        "https://play.radioking.io/electrons-libres/481505"
+        "https://play.radioking.io/electrons-libres/481502"
       ]
     },
     "languages": [
@@ -1994,7 +2036,8 @@
     "name": "Radio Grenzenlos",
     "sources": {
       "streams": [
-        "https://grenzenlos.sp.radio.fm/stream"
+        "https://grenzenlos.sp.radio.fm/stream",
+        "https://live.grenzenlos.ch:5006/stream"
       ]
     },
     "languages": [
@@ -2228,8 +2271,8 @@
     "name": "Radio RTR",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/srgssr/rr/aac/96",
-        "https://stream.srg-ssr.ch/m/rr/mp3_128"
+        "https://stream.srg-ssr.ch/m/rr/mp3_128",
+        "https://stream.srg-ssr.ch/srgssr/rr/aac/96"
       ]
     },
     "languages": [
@@ -2253,9 +2296,9 @@
     "name": "Radio SRF 1",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/drs1/aacp_32",
+        "https://stream.srg-ssr.ch/srgssr/srf1/aac/96",
         "https://stream.srg-ssr.ch/m/drs1/aacp_96",
-        "https://stream.srg-ssr.ch/m/drs1/mp3_128"
+        "https://stream.srg-ssr.ch/m/drs1/aacp_32"
       ]
     },
     "languages": [
@@ -2267,9 +2310,9 @@
     "name": "Radio SRF 1 Aargau Solothurn",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/regi_ag_so/aacp_96",
         "https://stream.srg-ssr.ch/srgssr/regi_ag_so/aac/96",
-        "https://stream.srg-ssr.ch/m/regi_ag_so/aacp_32"
+        "https://stream.srg-ssr.ch/m/regi_ag_so/aacp_32",
+        "https://stream.srg-ssr.ch/m/regi_ag_so/mp3_128"
       ]
     },
     "languages": [
@@ -2283,7 +2326,7 @@
       "streams": [
         "https://stream.srg-ssr.ch/m/regi_bs_bl/aacp_32",
         "https://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128",
-        "https://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96"
+        "https://stream.srg-ssr.ch/srgssr/regi_bs_bl/aac/96"
       ]
     },
     "languages": [
@@ -2319,8 +2362,8 @@
     "name": "Radio SRF 1 Ostschweiz",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/regi_ost/aacp_32",
         "https://stream.srg-ssr.ch/m/regi_ost/mp3_128",
+        "https://stream.srg-ssr.ch/m/regi_ost/aacp_32",
         "https://stream.srg-ssr.ch/srgssr/regi_ost/aac/96"
       ]
     },
@@ -2345,9 +2388,9 @@
     "name": "Radio SRF 1 Zürich Schaffhausen",
     "sources": {
       "streams": [
+        "https://stream.srg-ssr.ch/srgssr/regi_zh_sh/aac/96",
         "https://stream.srg-ssr.ch/m/regi_zh_sh/aacp_32",
-        "https://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128",
-        "https://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96"
+        "https://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128"
       ]
     },
     "languages": [
@@ -2359,9 +2402,9 @@
     "name": "Radio SRF 2 Kultur",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/drs2/aacp_32",
-        "https://stream.srg-ssr.ch/m/drs2/mp3_128",
-        "https://stream.srg-ssr.ch/srgssr/srf2/mp3/128"
+        "https://stream.srg-ssr.ch/srgssr/srf2/mp3/128",
+        "https://stream.srg-ssr.ch/srgssr/srf2/aac/96",
+        "https://stream.srg-ssr.ch/m/drs2/aacp_32"
       ]
     },
     "languages": [
@@ -2385,9 +2428,9 @@
     "name": "Radio SRF 4 News",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/drs4news/aacp_32",
-        "https://stream.srg-ssr.ch/m/drs3/aacp_96",
-        "https://stream.srg-ssr.ch/m/drs4news/mp3_128"
+        "https://stream.srg-ssr.ch/m/drs4news/aacp_96",
+        "https://stream.srg-ssr.ch/m/drs4news/mp3_128",
+        "https://stream.srg-ssr.ch/srgssr/srf4news/aac/96"
       ]
     },
     "languages": [
@@ -2399,8 +2442,8 @@
     "name": "Radio SRF Musikwelle",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/srgssr/srfmw/aac/96",
         "https://stream.srg-ssr.ch/m/drsmw/aacp_32",
+        "https://stream.srg-ssr.ch/m/drsmw/aacp_96",
         "https://stream.srg-ssr.ch/m/drsmw/mp3_128"
       ]
     },
@@ -2413,9 +2456,9 @@
     "name": "Radio SRF Virus",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/drsvirus/aacp_32",
-        "https://stream.srg-ssr.ch/m/drsvirus/aacp_96",
-        "https://stream.srg-ssr.ch/m/drsvirus/mp3_128"
+        "https://stream.srg-ssr.ch/m/drsvirus/mp3_128",
+        "https://stream.srg-ssr.ch/srgssr/srfvirus/aac/96",
+        "https://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128"
       ]
     },
     "languages": [
@@ -2473,9 +2516,9 @@
     "name": "Radio Swiss Jazz",
     "sources": {
       "streams": [
+        "https://stream.srg-ssr.ch/m/rsj/mp3_128",
         "https://stream.srg-ssr.ch/m/rsj/aacp_32",
-        "https://stream.srg-ssr.ch/m/rsj/aacp_96",
-        "https://stream.srg-ssr.ch/m/rsj/mp3_128"
+        "https://stream.srg-ssr.ch/m/rsj/aacp_96"
       ]
     },
     "languages": [
@@ -2489,9 +2532,9 @@
     "name": "Radio Swiss Pop",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/rsp/aacp_32",
-        "https://stream.srg-ssr.ch/m/rsp/aacp_96",
-        "https://stream.srg-ssr.ch/m/rsp/mp3_128"
+        "https://stream.srg-ssr.ch/srgssr/rsp/aac/96",
+        "https://stream.srg-ssr.ch/srgssr/rsp/mp3/128",
+        "https://stream.srg-ssr.ch/m/rsp/aacp_32"
       ]
     },
     "languages": [
@@ -2528,8 +2571,8 @@
     "name": "Radio Vostok",
     "sources": {
       "streams": [
-        "https://radiovostok.ice.infomaniak.ch/lavostoke.aac",
-        "https://radiovostok.ice.infomaniak.ch/radiovostok.aac"
+        "https://radiovostok.ice.infomaniak.ch/radiovostok.aac",
+        "https://radiovostok.ice.infomaniak.ch/lavostoke.aac"
       ]
     },
     "languages": [
@@ -2740,8 +2783,8 @@
     "sources": {
       "streams": [
         "https://stream.srg-ssr.ch/m/retetre/aacp_32",
-        "https://stream.srg-ssr.ch/srgssr/retetre/aac/96",
-        "https://stream.srg-ssr.ch/m/retetre/mp3_128"
+        "https://stream.srg-ssr.ch/m/retetre/mp3_128",
+        "https://stream.srg-ssr.ch/srgssr/retetre/aac/96"
       ]
     },
     "languages": [
@@ -2790,9 +2833,9 @@
     "name": "RTS Espace 2",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/espace-2/aacp_96",
-        "https://stream.srg-ssr.ch/m/espace-2/aacp_32",
-        "https://stream.srg-ssr.ch/m/espace-2/mp3_128"
+        "https://stream.srg-ssr.ch/m/espace-2/mp3_128",
+        "https://stream.srg-ssr.ch/srgssr/espace-2/aac/96",
+        "https://stream.srg-ssr.ch/srgssr/espace-2/mp3/128"
       ]
     },
     "languages": [
@@ -2818,9 +2861,9 @@
     "name": "RTS Option Musique",
     "sources": {
       "streams": [
-        "https://stream.srg-ssr.ch/m/option-musique/aacp_32",
+        "https://stream.srg-ssr.ch/m/option-musique/mp3_128",
         "https://stream.srg-ssr.ch/srgssr/option-musique/mp3/128",
-        "https://stream.srg-ssr.ch/m/option-musique/mp3_128"
+        "https://stream.srg-ssr.ch/srgssr/option-musique/aac/96"
       ]
     },
     "languages": [

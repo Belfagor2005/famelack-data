@@ -115,8 +115,8 @@
     "name": "M-1",
     "sources": {
       "streams": [
-        "https://stream.m-1.fm/M-1aacp",
-        "https://radio.m-1.fm/m1/mp3"
+        "https://radio.m-1.fm/m1/mp3",
+        "https://stream.m-1.fm/M-1aacp"
       ]
     },
     "languages": [
@@ -165,14 +165,28 @@
     "name": "Pasaulio muzikos radijas (PMR)",
     "sources": {
       "streams": [
-        "https://pmr.lt/streams/pmr-3",
         "https://pmr.lt/streams/pmr-1",
+        "https://pmr.lt/streams/pmr-3",
         "https://pmr.lt/streams/pmr-2"
       ]
     },
     "languages": [
       "lit"
     ]
+  },
+  {
+    "nanoid": "bzLH14yRYfaTLI",
+    "name": "Patejago Radijas",
+    "sources": {
+      "streams": [
+        "https://stream-46.zeno.fm/f6m1zbud5p8uv"
+      ]
+    },
+    "languages": [
+      "lit"
+    ],
+    "country": "lt",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "jzqN5qOvFSO4no",
@@ -192,8 +206,8 @@
     "sources": {
       "streams": [
         "https://ice.leviracloud.eu/phr192-mp3",
-        "https://ice2.powerhitradio.lt/PHR_AAC",
-        "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
+        "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv",
+        "https://ice2.powerhitradio.lt/PHR_AAC"
       ]
     },
     "languages": [
@@ -222,20 +236,6 @@
     "languages": [
       "lit"
     ]
-  },
-  {
-    "nanoid": "uQPWTmycvESPoc",
-    "name": "RA-8",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/aae76827qtzuv"
-      ]
-    },
-    "languages": [
-      "lit"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "0GmK9gvkV3hTNm",
@@ -399,8 +399,8 @@
     "name": "ZIP FM",
     "sources": {
       "streams": [
-        "https://stream1.zipfm.lt/zipfm128.mp3",
-        "https://stream2.zipfm.lt/zipfm128.mp3"
+        "https://stream2.zipfm.lt/zipfm128.mp3",
+        "https://stream1.zipfm.lt/zipfm128.mp3"
       ]
     },
     "languages": [

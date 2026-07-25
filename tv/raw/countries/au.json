@@ -92,20 +92,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GQz6svOBo4mRax",
-    "name": "C31 Melbourne",
-    "sources": {
-      "streams": [
-        "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1U3UtAxYHSHl5p",
     "name": "Channel 44",
     "sources": {
@@ -325,6 +311,34 @@
       ]
     },
     "languages": [],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fvNkowRq1Ju3bY",
+    "name": "Rai Italia Australia",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fupP8X3YpWBo3I",
+    "name": "Rai World Premium",
+    "sources": {
+      "streams": [
+        "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
     "country": "au",
     "isGeoBlocked": false
   },

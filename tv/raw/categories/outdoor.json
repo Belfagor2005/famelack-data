@@ -28,15 +28,33 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rWtKJSewbglBpX",
+    "nanoid": "zLbErKeLWlYtjV",
     "name": "Agro TV",
     "sources": {
       "streams": [
-        "https://stream-hls.castr.net/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/index.m3u8"
+        "https://play.agenciastreaming.com:8081/agrotv/index.m3u8"
       ]
     },
-    "languages": [],
-    "country": "tr",
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CtdqbL5wtTjnvo",
+    "name": "AgroCanal",
+    "sources": {
+      "streams": [
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
+        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
+        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -96,6 +114,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "sources": {
+      "streams": [
+        "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sYvKtrPKv77vYD",
     "name": "Chacra TV",
     "sources": {
@@ -136,6 +168,34 @@
       "hin"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YRaSWDx93xXiEO",
+    "name": "Digi Animal World",
+    "sources": {
+      "streams": [
+        "https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DIlZLkrC2C3Vr6",
+    "name": "Dikaya okhota",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/274/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -201,6 +261,9 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/FMWosQMfdy0"
       ]
     },
     "languages": [
@@ -249,6 +312,7 @@
     "name": "Ohotnik i rybolov",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/194/index.m3u8",
         "https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -263,6 +327,7 @@
     "name": "Okhota i rybalka",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/155/index.m3u8",
         "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -307,8 +372,9 @@
     "name": "Outside TV",
     "sources": {
       "streams": [
-        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
-        "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
+        "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
+        "https://206.212.244.63/2508/index.m3u8",
+        "https://40.160.24.55/OUTSIDE_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -351,7 +417,7 @@
       "streams": [
         "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
         "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
-        "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8"
+        "https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8"
       ]
     },
     "languages": [
@@ -400,6 +466,21 @@
       "eng"
     ],
     "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpwExVTLVpI32y",
+    "name": "Trofei",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/357/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -463,5 +544,19 @@
     ],
     "country": "za",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "zho9vpe3CfnRYg",
+    "name": "World Fishing Network",
+    "sources": {
+      "streams": [
+        "https://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   }
 ]
