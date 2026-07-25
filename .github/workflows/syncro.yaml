@@ -29,9 +29,13 @@ jobs:
       - name: Merge con priorità alle nostre modifiche
         run: |
           git checkout main
-          git merge upstream/main -X ours --no-edit || {
-            echo "⚠️ Conflitti non risolvibili automaticamente. Forzo la risoluzione con 'ours'..."
-            git checkout --ours .
+          set +e
+          git merge upstream/main -X ours --no-edit
+          MERGE_EXIT_CODE=$?
+          set -e
+          if [ $MERGE_EXIT_CODE -ne 0 ]; then
+            echo "⚠️ Conflitti rilevati. Risolvo a favore delle nostre modifiche..."
+            git status --porcelain | grep '^UU' | cut -c4- | xargs -r git checkout --ours --
             git add .
             git commit -m "Merge upstream/main con risoluzione forzata (ours)"
-          }
+          fi
