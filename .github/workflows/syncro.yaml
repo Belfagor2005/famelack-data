@@ -2,37 +2,31 @@ name: Sync fork with upstream (preserve my changes)
 
 on:
   schedule:
-    - cron: '0 3 * * 5'   # ogni venerdì alle 3 UTC
+    - cron: '0 3 * * 5'
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout del tuo fork (con PAT)
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.PAT_TOKEN }}   # usa il PAT per avere permessi di push
 
-      - name: Configura Git
+      - name: Sincronizza con upstream (mantiene le tue modifiche)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Aggiungi upstream (repo originale)
-        run: git remote add upstream https://github.com/famelack/famelack-data.git
-
-      - name: Fetch degli ultimi aggiornamenti dall'upstream
-        run: git fetch upstream
-
-      - name: Merge con priorità alle nostre modifiche e push
-        run: |
+          git remote add upstream https://github.com/famelack/famelack-data.git
+          git fetch upstream
           git checkout main
           git merge upstream/main -X ours --no-edit || {
-            echo "⚠️ Conflitti rilevati. Risolvo a favore delle nostre modifiche..."
             git checkout --ours .
             git add .
-            git commit -m "Merge upstream/main con risoluzione forzata (ours)" || echo "Nessun cambiamento da committare"
+            git commit -m "Merge forzato (ours)" || true
           }
-          git push origin main --force-with-lease   # garantisce l'allineamento
+          git push origin main
