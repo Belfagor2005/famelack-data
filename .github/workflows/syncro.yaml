@@ -9,11 +9,11 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout del tuo fork
+      - name: Checkout del tuo fork (con PAT)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}   # usa il PAT per avere permessi di push
 
       - name: Configura Git
         run: |
@@ -26,10 +26,13 @@ jobs:
       - name: Fetch degli ultimi aggiornamenti dall'upstream
         run: git fetch upstream
 
-      - name: Checkout del tuo fork
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      
-      - name: Push sul tuo fork
-        run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/OwnerPlugins/famelack-data.git main
+      - name: Merge con priorità alle nostre modifiche e push
+        run: |
+          git checkout main
+          git merge upstream/main -X ours --no-edit || {
+            echo "⚠️ Conflitti rilevati. Risolvo a favore delle nostre modifiche..."
+            git checkout --ours .
+            git add .
+            git commit -m "Merge upstream/main con risoluzione forzata (ours)" || echo "Nessun cambiamento da committare"
+          }
+          git push origin main --force-with-lease   # garantisce l'allineamento
