@@ -30,7 +30,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.PAT_TOKEN }}
       
       - name: Push sul tuo fork
         run: git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/OwnerPlugins/famelack-data.git main
