@@ -1,38 +1,10 @@
 [
   {
-    "nanoid": "HHeNdiN3BiVkqE",
-    "name": "5 Plus",
-    "sources": {
-      "streams": [
-        "https://mmtvs.exliatycl.online/5plus/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lJxbJzVFzPxoKe",
     "name": "Channel 9",
     "sources": {
       "streams": [
         "https://mmtvs.exliatycl.online/channel9/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kszAzFKJkm7QTb",
-    "name": "Channel K",
-    "sources": {
-      "streams": [
-        "https://mmtvs.exliatycl.online/channelk/stream.m3u8"
       ]
     },
     "languages": [
@@ -56,11 +28,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "GfJ7VIax7NdRHG",
-    "name": "Fortune TV",
+    "nanoid": "p69vsxFs98WVu8",
+    "name": "Hluttaw S & D",
     "sources": {
       "streams": [
-        "https://mmtvs.exliatycl.online/fortunetv/stream.m3u8"
+        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
       ]
     },
     "languages": [
@@ -70,15 +42,70 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "7ZgqWGifHbBDxx",
-    "name": "M Entertainment Channel",
+    "nanoid": "X4O9nYA5W4iOGM",
+    "name": "MRTV",
     "sources": {
       "streams": [
-        "https://mmtvs.exliatycl.online/mchannel/stream.m3u8"
+        "https://mrtvott.com/cache/MRTV-HD/master.m3u8"
       ]
     },
     "languages": [
-      "eng",
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J9qh26TnFdl6KD",
+    "name": "MRTV Entertainment",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AQcwe6Z9P7sz9G",
+    "name": "MRTV Farmer",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dbol6rCbtjq6DY",
+    "name": "MRTV News",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1wMsK4nhJMBFCb",
+    "name": "MRTV NRC",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
+      ]
+    },
+    "languages": [
       "mya"
     ],
     "country": "mm",

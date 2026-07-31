@@ -18,7 +18,7 @@
     "name": "AMusic Channel",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/XcklQmp2pQg"
+        "https://www.youtube-nocookie.com/embed/-APgr0eFunk"
       ]
     },
     "languages": [
@@ -151,20 +151,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FJT1T5Bg3eMVVa",
-    "name": "Itage TV",
-    "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "yor"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jsFrBbDFba8Hpn",
     "name": "Kingsview TV",
     "sources": {
@@ -174,20 +160,6 @@
     },
     "languages": [
       "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YSG1ZKKDkWTBCC",
-    "name": "LoveWorld Arabic",
-    "sources": {
-      "streams": [
-        "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
     ],
     "country": "ng",
     "isGeoBlocked": false
@@ -249,20 +221,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "upoMW9Qmuknc8B",
-    "name": "New Vision TV",
-    "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HUxeirBEJ9XVlF",
     "name": "News Central",
     "sources": {
@@ -295,7 +253,7 @@
     "name": "NTA Live",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/j9mwgR8SeDA"
+        "https://www.youtube-nocookie.com/embed/rDYkkgj5DWs"
       ]
     },
     "languages": [
@@ -487,21 +445,8 @@
     "name": "Waffi TV",
     "sources": {
       "streams": [
+        "https://oqgdro3xd4rm-hls-live.5centscdn.com/WaffiTVlive/bee606369574f5d5b051ed5399091798.sdp/playlist.m3u8",
         "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y3iniHuYhBuCQD",
-    "name": "Wap TV",
-    "sources": {
-      "streams": [
-        "https://newproxy3.vidivu.tv/waptv/index.m3u8"
       ]
     },
     "languages": [
@@ -516,6 +461,20 @@
     "sources": {
       "streams": [
         "https://wazobia.live:8333/channel/wmax.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "roS6e38nLtSy8d",
+    "name": "Whole Word TV",
+    "sources": {
+      "streams": [
+        "https://wholewordtv-live.lg.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
       ]
     },
     "languages": [

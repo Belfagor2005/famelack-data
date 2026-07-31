@@ -403,8 +403,8 @@
     "sources": {
       "streams": [
         "https://45.190.28.50/EURONEWS_HD/index.m3u8",
-        "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-        "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
+        "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8",
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
@@ -426,20 +426,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JyVf4M7JRgVcg7",
-    "name": "Euronews German",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs"
-      ]
-    },
-    "languages": [
-      "deu"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -524,6 +510,20 @@
     },
     "languages": [
       "ron"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xsUZSvBNUz3yiT",
+    "name": "Euronews Spanish",
+    "sources": {
+      "streams": [
+        "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "fr",
     "isGeoBlocked": false
@@ -939,8 +939,21 @@
     "name": "Mezzo",
     "sources": {
       "streams": [
-        "https://live-3.otcnet.ru/Mezzo/index.m3u8",
-        "https://aes.m3u8simplu.workers.dev/mezzo/index.m3u8"
+        "https://live-3.otcnet.ru/Mezzo/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LMz39hxqiqUJdI",
+    "name": "Mezzo Live",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/276/index.m3u8"
       ]
     },
     "languages": [
@@ -983,32 +996,6 @@
     "sources": {
       "streams": [
         "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aRYM4hJmBP444c",
-    "name": "My Gospel TV",
-    "sources": {
-      "streams": [
-        "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "frxoUV6KIlJwd1",
-    "name": "MyTime Movie Network France",
-    "sources": {
-      "streams": [
-        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -1919,20 +1906,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SbiWPbW9abVIyM",
-    "name": "Vosges TV",
-    "sources": {
-      "streams": [
-        "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8MY8QweXbIf30Y",
     "name": "Wasabi la chaîne anime",
     "sources": {
@@ -1961,6 +1934,7 @@
     "name": "zenith",
     "sources": {
       "streams": [
+        "https://live.azenagroup.com/zenith/index.ll.m3u8",
         "https://live.azenagroup.com/zenith/index.m3u8"
       ]
     },

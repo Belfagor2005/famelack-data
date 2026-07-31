@@ -46,8 +46,8 @@
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
         "https://45.190.28.50/AGRO_CANAL/index.m3u8",
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
         "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
       ]
     },
@@ -171,25 +171,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YRaSWDx93xXiEO",
-    "name": "Digi Animal World",
-    "sources": {
-      "streams": [
-        "https://aes.m3u8simplu.workers.dev/digianimalworld/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DIlZLkrC2C3Vr6",
     "name": "Dikaya okhota",
     "sources": {
       "streams": [
         "https://stream.mcquack.net/274/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9YLJY2DWypB09G",
+    "name": "Dikaya rybalka",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/275/index.m3u8"
       ]
     },
     "languages": [
@@ -261,9 +261,6 @@
     "sources": {
       "streams": [
         "https://fms.premio.link/fishingtv/playlist.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/FMWosQMfdy0"
       ]
     },
     "languages": [
@@ -306,6 +303,21 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "8oGSgOh8Xrsu3u",
+    "name": "Moya Planeta",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/124/index.m3u8",
+        "https://91.226.120.120/chid210/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "skmeLVfBwTzGbY",
@@ -372,9 +384,9 @@
     "name": "Outside TV",
     "sources": {
       "streams": [
+        "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
         "https://desdobebr2wri.cloudfront.net/Outside.m3u8",
-        "https://206.212.244.63/2508/index.m3u8",
-        "https://40.160.24.55/OUTSIDE_TV/index.m3u8"
+        "https://206.212.244.63/2508/index.m3u8"
       ]
     },
     "languages": [

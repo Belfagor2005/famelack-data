@@ -251,6 +251,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KTv1lAQngiwpQF",
+    "name": "dTVi",
+    "sources": {
+      "streams": [
+        "https://e.siar.us/live/dtvi.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QsUhnT0pi51wcj",
     "name": "Duta TV",
     "sources": {
@@ -311,20 +325,6 @@
     "name": "Indonesiana.TV",
     "stream_urls": [
       "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T3RkIVyDffmjkr",
-    "name": "Izzah TV",
-    "sources": {
-      "streams": [
-        "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -500,9 +500,6 @@
     "nanoid": "NTyXj8xoKlplvb",
     "name": "Metro TV",
     "sources": {
-      "streams": [
-        "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
-      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
       ]
@@ -569,18 +566,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D6GBQhdMfQr39B",
-    "name": "Naajiya TV",
+    "nanoid": "ZAMsD9HhaPz9Bn",
+    "name": "Nusantara TV",
     "sources": {
       "streams": [
-        "https://www.naajiyatv.com/live/livestream.m3u8"
+        "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
       ]
     },
     "languages": [
       "ind"
     ],
     "country": "id",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "ts73mvVV0P9A9R",
@@ -620,6 +617,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ha2zWLoq5d13uY",
+    "name": "Radar Lampung TV",
+    "sources": {
+      "streams": [
+        "https://www.streaming.radartv.co.id/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3v2UZx2WqrnRDM",
     "name": "Radar Tasikmalaya TV",
     "sources": {
@@ -640,20 +651,6 @@
       "https://v10.siar.us/rctv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-      ]
-    },
     "languages": [
       "ind"
     ],
@@ -763,6 +760,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LcS4BwRmf-U"
     ],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2XkFMpRoLYu9Ma",
+    "name": "Selaparang TV",
+    "sources": {
+      "streams": [
+        "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],
@@ -1408,20 +1419,6 @@
     "sources": {
       "streams": [
         "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g5xZd9yme6tjFT",
-    "name": "U Channel",
-    "sources": {
-      "streams": [
-        "https://srs.u-channel.tv/live/uchannel-tv.m3u8"
       ]
     },
     "languages": [

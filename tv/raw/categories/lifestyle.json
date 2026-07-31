@@ -141,20 +141,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAN5sBGpkuc0D2",
-    "name": "CEACOM TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/ceacom/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7uNjpsoS436Esc",
     "name": "CinePride",
     "sources": {
@@ -169,27 +155,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rPl77qAXLXht7K",
-    "name": "City Eden MedZdrav",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/47519/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Xc6IpLccTTfU6S",
     "name": "Cleo TV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/38/index.m3u8",
         "https://206.212.244.63/4234/index.m3u8",
-        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8"
+        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
+        "https://206.212.244.63/38/index.m3u8"
       ]
     },
     "languages": [
@@ -287,6 +259,7 @@
     "name": "Domashniy",
     "sources": {
       "streams": [
+        "https://stream.mcquack.net/227/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8"
       ]
     },
@@ -295,6 +268,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "IgIhtSlDnhWcsL",
+    "name": "El Futuro En tu Mano",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ZzlY3d_YSF0"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "sNGgqsLaPmiNb6",
@@ -479,6 +466,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3VXLFsdtTTonDX",
+    "name": "Guide Love TV",
+    "sources": {
+      "streams": [
+        "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OgCZtD8wAAsw56",
     "name": "HANDICAP TV",
     "sources": {
@@ -551,20 +552,6 @@
     ],
     "country": "nl",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "TgLpqjb9zic5hc",
-    "name": "Kaloopy TV",
-    "sources": {
-      "streams": [
-        "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "dKTtrFcAzjZPS1",
@@ -648,6 +635,20 @@
       "eng"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AQcwe6Z9P7sz9G",
+    "name": "MRTV Farmer",
+    "sources": {
+      "streams": [
+        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
+      ]
+    },
+    "languages": [
+      "mya"
+    ],
+    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -865,6 +866,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "C5BeaJj41VYD7f",
+    "name": "TV3 Life",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/373/index.m3u8"
+      ]
+    },
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2gvbHx7OrU70G2",

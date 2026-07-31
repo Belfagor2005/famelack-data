@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "85Cdlukq0tG6Z4",
-    "name": "15TV",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3380/live/v3n6thy7glive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6AYObDCpHjAFK9",
     "name": "ADN 40",
     "sources": {
@@ -405,6 +391,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dQroYObAPsPIjO",
+    "name": "Imagen TV+",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EbZu7XOFd_0"
+      ]
+    },
+    "languages": [],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZiZzS4tyBeE4oz",
     "name": "ITV Deportes",
     "sources": {
@@ -730,20 +728,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "arUwONnDyiIo6o",
-    "name": "Tele Yucatan",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "248WyVmGTSntgh",
     "name": "Telediario Guadalajara",
     "stream_urls": [],
@@ -903,6 +887,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OqUk1Slt9fsdYN",
+    "name": "Televisa Monterrey",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NGQbU2kJje4"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Jiv0dDh9RrbAvZ",
     "name": "Televisa Piedras Negras",
     "stream_urls": [],
@@ -1022,6 +1020,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kBLqWOYbCQz0Mi",
+    "name": "Televisa Univision Saltillo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/KiWGQbzP9tE"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wxWI34kwK6mekY",
     "name": "Televisa Veracruz",
     "stream_urls": [],
@@ -1049,7 +1061,7 @@
     "name": "Televisa Victoria",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Jnes5j59MeE"
+        "https://www.youtube-nocookie.com/embed/txsJyE8--rM"
       ]
     },
     "languages": [
@@ -1250,6 +1262,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z8y7pyWQF00bRD",
+    "name": "TV Mar Los Cabos",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UB1O3LUxfTUgSf",
     "name": "TV Mar Puerto Vallarta",
     "sources": {
@@ -1422,20 +1448,6 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qY3In36TCPaQmA",
-    "name": "XEIPN-TDT",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/stream/stream/index.m3u8"
       ]
     },
     "languages": [

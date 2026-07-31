@@ -549,6 +549,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J0CqDMWbn8VHaM",
+    "name": "CityNews Toronto",
+    "sources": {
+      "streams": [
+        "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4SBy98qBTVlxwW",
     "name": "CityNews Vancouver",
     "sources": {
@@ -778,20 +792,6 @@
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/wd53oMFb4UU"
-      ]
-    },
     "languages": [
       "eng"
     ],
@@ -1094,20 +1094,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "sources": {
-      "streams": [
-        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lQWrqWxPSBgWUI",
     "name": "Love Nature",
     "stream_urls": [
@@ -1156,6 +1142,20 @@
       "ell",
       "eng",
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AJaty3ce5TGGgh",
+    "name": "Movie Music by Stingray",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1350,6 +1350,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7Cp1Y1X0LUUt6R",
+    "name": "Stingray Christian Hits",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-144ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qpF7m9G3h7D2Qo",
+    "name": "Stingray Cityscapes",
+    "sources": {
+      "streams": [
+        "https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sMtLcZJ0VSsWq6",
     "name": "Stingray Classic Rock",
     "sources": {
@@ -1381,11 +1407,23 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "xfRnghclKAVK1r",
-    "name": "Stingray CMusic",
+    "nanoid": "LuDNPxab0f0pCa",
+    "name": "Stingray Country Greats",
     "sources": {
       "streams": [
-        "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+        "https://lotus.stingray.com/manifest/ose-109ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UGxPWRWN0Sji0R",
+    "name": "Stingray Cozy Cafe",
+    "sources": {
+      "streams": [
+        "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8"
       ]
     },
     "languages": [
@@ -1423,6 +1461,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "44qSwmjsmwXRek",
+    "name": "Stingray Epoca Dorada Del Cine Mexicano",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8qLFxbuQRNnGX0",
     "name": "Stingray Euro Hits",
     "sources": {
@@ -1447,6 +1497,30 @@
     "languages": [
       "eng"
     ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mf8pXy8d01VBSw",
+    "name": "Stingray Exitos Regional Mexicanos",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-226ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zD4Y5y6wXaKfn5",
+    "name": "Stingray Fado Classics",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-346ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1533,6 +1607,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ptxvnMl5xYixJn",
+    "name": "Stingray Italo Disco",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-311ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JEGxm42oQErOhy",
     "name": "Stingray Jukebox Oldies",
     "sources": {
@@ -1576,6 +1662,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ajrkql15svESoZ",
+    "name": "Stingray Nostalgie",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-014ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kRY39mIs1mv9Fd",
     "name": "Stingray Nothin' But 90s",
     "sources": {
@@ -1586,6 +1684,18 @@
     "languages": [
       "eng"
     ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7epLhNu81uLgOv",
+    "name": "Stingray Peaceful Piano",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-807ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1660,6 +1770,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rQ08vMxIvkWKUO",
+    "name": "Stingray Soccer Anthems",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-347ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6EKJRD9db0wXXf",
     "name": "Stingray Soft Hits",
     "sources": {
@@ -1686,6 +1808,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aMVjppfHKNUj1I",
+    "name": "Stingray Souvenirs",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-012ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZJDf9og64KJYdT",
+    "name": "Stingray Thai Pop",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-314ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eOtQMHFA0jA6gs",
     "name": "Stingray The Spa",
     "sources": {
@@ -1696,6 +1842,18 @@
     "languages": [
       "eng"
     ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lPItQDuSJM19GR",
+    "name": "Stingray TikTok Radio",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-185ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1738,6 +1896,18 @@
     "languages": [
       "eng"
     ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OH0JK3pX8UiELo",
+    "name": "Stingray Y2K",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/ose-232ads-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -2128,6 +2298,20 @@
     "sources": {
       "streams": [
         "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w6OOA6cuEsstT4",
+    "name": "ZenLIFE by Stingray",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
       ]
     },
     "languages": [

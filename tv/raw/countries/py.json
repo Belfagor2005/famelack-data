@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "zhUhSGilKc6sOP",
+    "name": "AGR FM TV",
+    "sources": {
+      "streams": [
+        "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c4VJcNzklIX0CI",
     "name": "Alcance FM PLAY TV",
     "sources": {
@@ -42,11 +56,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0w7Ai7GtLMZNLS",
-    "name": "Canal Pro",
+    "nanoid": "6EkiXPfK5IL7VS",
+    "name": "Canal 8 Vision TV",
     "sources": {
       "streams": [
-        "https://www.desde-paraguay.com/pro.m3u8"
+        "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -112,6 +126,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "u5b2On0IzN64A2",
+    "name": "E40",
+    "sources": {
+      "streams": [
+        "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4YZWcLqKaJihok",
     "name": "Estacion Radio TV",
     "sources": {
@@ -154,11 +182,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
+    "nanoid": "8vX1XPEH9jNBSM",
+    "name": "HEi Now",
     "sources": {
       "streams": [
-        "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
+        "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
       ]
     },
     "languages": [
@@ -168,11 +196,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8vX1XPEH9jNBSM",
-    "name": "HEi Now",
+    "nanoid": "OETM24DdxaHZfM",
+    "name": "Invasiva TV",
     "sources": {
       "streams": [
-        "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+        "https://tv-omega-nine.vercel.app/hls/live.m3u8"
       ]
     },
     "languages": [
@@ -444,20 +472,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qwvxoPlN7mEsiI",
-    "name": "Radio Nacional del Paraguay",
-    "sources": {
-      "streams": [
-        "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Oy0RzzLMHXV3WJ",
     "name": "Radio San Cristobal 88.7 FM",
     "sources": {
@@ -575,20 +589,6 @@
     "sources": {
       "streams": [
         "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZeeVONu1t8gGrx",
-    "name": "Telequince",
-    "sources": {
-      "streams": [
-        "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8"
       ]
     },
     "languages": [

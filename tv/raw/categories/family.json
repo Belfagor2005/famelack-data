@@ -133,8 +133,8 @@
     "name": "FETV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/60/index.m3u8",
-        "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
+        "https://gpuserver3.tier1streams.com/FETV/index.m3u8",
+        "https://206.212.244.63/60/index.m3u8"
       ]
     },
     "languages": [
@@ -149,6 +149,7 @@
     "sources": {
       "streams": [
         "https://206.212.244.63/69/index.m3u8",
+        "https://40.160.24.52/FREEFORM/index.m3u8",
         "https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8"
       ]
     },
@@ -177,9 +178,9 @@
     "name": "Great American Family",
     "sources": {
       "streams": [
+        "https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8",
         "https://206.212.244.63/81/index.m3u8",
-        "https://40.160.24.58/GAC_FAMILY/index.m3u8",
-        "https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8"
+        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
       ]
     },
     "languages": [
@@ -331,6 +332,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oLnLTQ4nnHeCAZ",
+    "name": "Soweto TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "sources": {
@@ -400,6 +415,20 @@
       "eng"
     ],
     "country": "za",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HZWd4go9om2ldn",
+    "name": "TV Paraense",
+    "sources": {
+      "streams": [
+        "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {

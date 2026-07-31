@@ -198,20 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zINaxtQgLWgloN",
-    "name": "Bolt",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/73/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HOuZSLV6tvkngB",
     "name": "Celebrity Name Game",
     "sources": {
@@ -237,34 +223,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CZ0c6ZasjBnZ4w",
-    "name": "City Eden TeleNovella",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/46209/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -660,7 +618,6 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -703,7 +660,7 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/BbRlsNyON-Q"
+        "https://www.youtube-nocookie.com/embed/-T7i1VbDMxQ"
       ]
     },
     "languages": [
@@ -836,6 +793,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Yz6QJMfl4vE5w1",
+    "name": "NTV Series",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/301/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1070,8 +1041,8 @@
     "name": "Start TV",
     "sources": {
       "streams": [
-        "https://40.160.24.55/START_TV/index.m3u8",
-        "https://206.212.244.63/150/index.m3u8"
+        "https://206.212.244.63/150/index.m3u8",
+        "https://40.160.24.55/START_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -1113,9 +1084,9 @@
     "name": "SYFY East",
     "sources": {
       "streams": [
-        "https://206.212.244.63/152/index.m3u8",
         "https://40.160.24.55/SYFY/index.m3u8",
-        "https://gpuserver5.tier1streams.com/SYFY/index.m3u8"
+        "https://gpuserver5.tier1streams.com/SYFY/index.m3u8",
+        "https://206.212.244.63/152/index.m3u8"
       ]
     },
     "languages": [
@@ -1351,13 +1322,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rbTDCc0BqwXsLy",
+    "name": "viju+ Serial",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/311/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RBsulEFm06gD0b",
     "name": "We TV East",
     "sources": {
       "streams": [
         "https://206.212.244.63/172/index.m3u8",
-        "https://streamer1.nexgen.bz/WE_TV/index.m3u8",
-        "https://40.160.24.55/WE_TV/index.m3u8"
+        "https://40.160.24.55/WE_TV/index.m3u8",
+        "https://streamer1.nexgen.bz/WE_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -1378,6 +1363,20 @@
       "eng"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "o0RIg5UE06J2tY",
+    "name": "Yam Tichoni",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/46/index.m3u8"
+      ]
+    },
+    "languages": [
+      "her"
+    ],
+    "country": "il",
     "isGeoBlocked": false
   },
   {

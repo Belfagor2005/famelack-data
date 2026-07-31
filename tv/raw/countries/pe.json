@@ -28,20 +28,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9lVgs60Eg6mCkW",
-    "name": "Amazonia TV",
-    "sources": {
-      "streams": [
-        "https://servilive.com:3199/live/amazoniatvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iVA33CIrwkHFXi",
     "name": "Andes Television",
     "sources": {
@@ -258,7 +244,7 @@
     "name": "Congreso del Perú en Vivo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Tzh7494L_hs"
+        "https://www.youtube-nocookie.com/embed/gCCprKcaG24"
       ]
     },
     "languages": [
@@ -337,11 +323,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZkqHBLcBGBWJah",
-    "name": "Frecuencia Amazonica",
+    "nanoid": "Rwuv8AlFTYihSG",
+    "name": "Foro TV",
     "sources": {
       "streams": [
-        "https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8"
+        "https://mc.servidor.stream:19360/8274/8274.m3u8"
       ]
     },
     "languages": [
@@ -412,6 +398,20 @@
     "sources": {
       "streams": [
         "https://servilive.com:3028/live/jntv19live.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kDus67YWLDmlSH",
+    "name": "JNE TV",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -903,6 +903,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NDlCo3GFyqRAnN",
+    "name": "TV Kaliente",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U0xG42x0mE1GTr",
     "name": "TV Peruanisima",
     "sources": {
@@ -922,6 +936,20 @@
     "sources": {
       "streams": [
         "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fIS8sGKNQMXO8C",
+    "name": "TVenLinea",
+    "sources": {
+      "streams": [
+        "https://srt.tvdatta.com/tvenlinea/index.m3u8"
       ]
     },
     "languages": [

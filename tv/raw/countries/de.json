@@ -44,8 +44,7 @@
     "name": "ARD-alpha",
     "sources": {
       "streams": [
-        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
-        "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"
       ]
     },
     "languages": [
@@ -92,6 +91,20 @@
     "youtube_urls": [],
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DkYyR4OdRG7yGO",
+    "name": "Auto Addiction",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/r0HiHmvjj00"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -274,20 +287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E3Fuo7LqwAfWE9",
-    "name": "Deluxe Dance",
-    "sources": {
-      "streams": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "sources": {
@@ -297,21 +296,6 @@
     },
     "languages": [
       "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kxfwLfpFpzHMm2",
-    "name": "Deluxe Rap",
-    "sources": {
-      "streams": [
-        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
-      ]
-    },
-    "languages": [
-      "deu",
-      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -432,6 +416,18 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0deWs8tTLyJPRE",
+    "name": "FilmGold Germany",
+    "sources": {
+      "streams": [
+        "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1216,20 +1212,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mMN16NkXBOiZlV",
-    "name": "Rakuten TV Comedy Movies Germany",
-    "sources": {
-      "streams": [
-        "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ILjNpPssxRQReN",
     "name": "RAN1",
     "sources": {
@@ -1662,6 +1644,18 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dh2uUg08yXJN7u",
+    "name": "Tennis Channel Germany",
+    "sources": {
+      "streams": [
+        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },

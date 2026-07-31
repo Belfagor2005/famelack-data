@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "1PJE0RldSK4FL3",
-    "name": "America Estereo Guayaquil",
-    "sources": {
-      "streams": [
-        "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S4rLEDzjcTuaYb",
     "name": "America Estereo Ibarra",
     "sources": {
@@ -139,20 +125,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "m1fqGkSb3kQ4GK",
-    "name": "Ciracu TV",
-    "sources": {
-      "streams": [
-        "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uvYhuImFYPqlJm",
     "name": "Curiquingue TV",
     "sources": {
@@ -251,11 +223,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c0ayJmoC3gtMTu",
-    "name": "Hechos Ecuador",
+    "nanoid": "XUbd7x9yt2DTFl",
+    "name": "FM Mundo",
     "sources": {
       "streams": [
-        "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
+        "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -325,20 +297,6 @@
     "sources": {
       "streams": [
         "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y0sG32hXHAVy2Q",
-    "name": "Majestad Television",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
       ]
     },
     "languages": [
@@ -484,20 +442,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kPWsFvTNnFdIuT",
-    "name": "Planeta Channel",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yQP21gjr5nH5Wg",
     "name": "Puruwa TV",
     "sources": {
@@ -623,6 +567,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yP9l3cG2MwF35e",
+    "name": "Telecosta",
+    "sources": {
+      "streams": [
+        "https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3TCmSy7n4qBhND",
     "name": "Telemar",
     "sources": {
@@ -642,6 +600,20 @@
     "sources": {
       "streams": [
         "https://play.once.net.ec/telerama/live.tv/538.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CY38SV2i5DFUTV",
+    "name": "TV Cisne",
+    "sources": {
+      "streams": [
+        "https://video2.lhdserver.es/tvcisne/live.m3u8"
       ]
     },
     "languages": [

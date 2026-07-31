@@ -450,20 +450,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wr9NlZQAm85FIF",
-    "name": "Canal Luz Television",
-    "sources": {
-      "streams": [
-        "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CTZYBRtAYF88Ky",
     "name": "Canal Malaga RTV",
     "sources": {
@@ -704,20 +690,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dUunw6na7BVxaU",
-    "name": "Costa Noroeste TV",
-    "sources": {
-      "streams": [
-        "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cXG1ys411JhMWW",
     "name": "Crímenes Reales",
     "sources": {
@@ -842,6 +814,21 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "CuPJ7DXi3sDSGh",
+    "name": "Esport3 Originals",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vBQYI4XuRuNh2P",
     "name": "Estepona Television",
     "sources": {
@@ -852,6 +839,18 @@
     "languages": [
       "spa"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "awUBqlQNui5V6X",
+    "name": "Estilo y Vida",
+    "sources": {
+      "streams": [
+        "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -969,20 +968,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ep6n7moIe4Ru3N",
-    "name": "Fibwi",
-    "sources": {
-      "streams": [
-        "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EGsBwKlWFjIivG",
     "name": "France 24 Español",
     "stream_urls": [
@@ -1060,7 +1045,8 @@
     "name": "Historia",
     "sources": {
       "streams": [
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8",
+        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8"
       ]
     },
     "languages": [
@@ -1299,20 +1285,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q7nooMvVTTe0YZ",
-    "name": "Onda 15 TV",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9dhga7gK9KijdY",
     "name": "Onda Algeciras",
     "sources": {
@@ -1475,20 +1447,6 @@
     "youtube_urls": [],
     "languages": [
       "cat",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "79RGODupZW3p8n",
-    "name": "Radio Carnaval TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/8116/index.m3u8"
-      ]
-    },
-    "languages": [
       "spa"
     ],
     "country": "es",
@@ -1662,21 +1620,6 @@
     },
     "languages": [
       "eng",
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SKSq9EL0wsiHSO",
-    "name": "STZ Telebista",
-    "sources": {
-      "streams": [
-        "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eus",
       "spa"
     ],
     "country": "es",
@@ -1991,6 +1934,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2uGXU96QMW7Acl",
+    "name": "Univers TV",
+    "sources": {
+      "streams": [
+        "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6lhNwfN4k1Lr3T",
     "name": "Urola Telebista",
     "sources": {
@@ -2005,6 +1962,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IKMYFInzhM8nN6",
+    "name": "Ventdelnord TV",
+    "sources": {
+      "streams": [
+        "https://ventdelnord.tv:8080/hls/directe.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hw4gcMWFqlE6Dv",
     "name": "Vevo Pop Spain",
     "sources": {
@@ -2013,6 +1984,20 @@
       ]
     },
     "languages": [],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RcONvYz7opBaln",
+    "name": "Vision 6 TV",
+    "sources": {
+      "streams": [
+        "https://streaming.proceso.info:8888/vision6-web/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
     "country": "es",
     "isGeoBlocked": false
   },

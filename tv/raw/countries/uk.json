@@ -71,7 +71,7 @@
     "name": "Amazing World of Gumball",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6dQnKVRq5s0"
+        "https://www.youtube-nocookie.com/embed/nIyaCRNwxhU"
       ]
     },
     "languages": [
@@ -276,8 +276,8 @@
     "name": "BBC News North America",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8",
-        "https://206.212.244.63/14/index.m3u8"
+        "https://206.212.244.63/14/index.m3u8",
+        "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
       ]
     },
     "languages": [
@@ -965,18 +965,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Y7Lz5IPWnOewKN",
-    "name": "H2O & Friends",
-    "sources": {
-      "streams": [
-        "https://dprx6ugrwz23t.cloudfront.net/H2O_Friends_GB.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8VTGeN5gQOkuFc",
     "name": "Hala London",
     "sources": {
@@ -1157,18 +1145,6 @@
       "https://amg00276-amg00276c17-samsung-gb-3791.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eaLExqWZXvp5pC",
-    "name": "INTER 24/7",
-    "sources": {
-      "streams": [
-        "https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0002/playlist.m3u8"
-      ]
-    },
     "languages": [],
     "country": "uk",
     "isGeoBlocked": false
@@ -1440,20 +1416,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LbTx61exNziTLe",
-    "name": "Miracle TV",
-    "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "sources": {
@@ -1623,20 +1585,6 @@
       "mal",
       "tam",
       "urd"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eg3goyColncJv1",
-    "name": "MTV Global",
-    "sources": {
-      "streams": [
-        "https://shift03.isp.bg/MTVEurope/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -2107,6 +2055,20 @@
     "languages": [
       "ara",
       "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UuT4hF41jXyjM4",
+    "name": "Sanskar UK",
+    "sources": {
+      "streams": [
+        "https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
     ],
     "country": "uk",
     "isGeoBlocked": false

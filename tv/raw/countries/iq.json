@@ -14,6 +14,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FTvSSHqDu7zXUY",
+    "name": "Afaq TV",
+    "sources": {
+      "streams": [
+        "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "sources": {
@@ -41,6 +56,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UEXwoyYx1GFZis",
+    "name": "Al Janoub TV",
+    "sources": {
+      "streams": [
+        "https://live.alissahost.net/hls/test.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CM6FuW5WtTCo5H",
     "name": "Al Rasheed TV",
     "sources": {
@@ -59,7 +88,8 @@
     "name": "Al Sharqiya",
     "sources": {
       "streams": [
-        "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
+        "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+        "https://185.9.2.18/chid_144/index.m3u8"
       ]
     },
     "languages": [
@@ -237,20 +267,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HjSyVfRfsJOuSb",
-    "name": "Iraq Future",
-    "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ara"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X9gLOfHKZiwazd",
     "name": "Ishtar TV",
     "sources": {
@@ -363,6 +379,20 @@
     "languages": [
       "ara",
       "kur"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XqC5PVMCK6bt9P",
+    "name": "Manu Chat",
+    "sources": {
+      "streams": [
+        "https://vmi747311.contaboserver.net/hls/livetv.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
     ],
     "country": "iq",
     "isGeoBlocked": false

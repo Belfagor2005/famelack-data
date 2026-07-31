@@ -153,20 +153,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5BmPVKnvVw5EhX",
-    "name": "Comedy Central",
-    "sources": {
-      "streams": [
-        "https://aes.m3u8simplu.workers.dev/comedycentral/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lwOO3yKfQFwVFA",
     "name": "Comedy Central East",
     "sources": {
@@ -294,11 +280,39 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JUh78ibwjZjSWp",
+    "name": "Kinokomedija",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/265/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H3UPSBAVuhUxL7",
     "name": "Komedia",
     "sources": {
       "streams": [
         "https://stream.mcquack.net/68/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xK0Yp3bEUvrU5e",
+    "name": "Komediynoe",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/74/index.m3u8"
       ]
     },
     "languages": [
@@ -614,6 +628,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xQAk5wZODkxgWi",
+    "name": "viju+ Comedy",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/201/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]
