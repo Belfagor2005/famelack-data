@@ -45,7 +45,7 @@
     "name": "Hubble",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/zK3CwmImkrw"
+        "https://www.youtube-nocookie.com/embed/Xbi4hmXjyI4"
       ]
     },
     "languages": [
@@ -70,6 +70,34 @@
     ],
     "country": "nl",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vGCm6ufhO0hHv0",
+    "name": "MediBizTV",
+    "sources": {
+      "streams": [
+        "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uPBnVmprz4lcyz",
+    "name": "NASA: ISS",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/M3HKLzjvKPc"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "9Lv6gyQaWTeTvh",
@@ -105,8 +133,7 @@
     "name": "Smithsonian Channel East",
     "sources": {
       "streams": [
-        "https://40.160.24.55/SMITHSONIAN/index.m3u8",
-        "https://206.212.244.63/148/index.m3u8"
+        "https://40.160.24.55/SMITHSONIAN/index.m3u8"
       ]
     },
     "languages": [

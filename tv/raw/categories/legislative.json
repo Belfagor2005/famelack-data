@@ -198,21 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "udSOaNy3d31JFB",
-    "name": "Chamber TV",
-    "sources": {
-      "streams": [
-        "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra",
-      "ltz"
-    ],
-    "country": "lu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zzIInP1RoY4ur6",
     "name": "Channel 10",
     "sources": {
@@ -279,20 +264,6 @@
     "languages": [
       "eng",
       "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wsxEmspfNhwYCf",
-    "name": "CityTV 20 Santa Monica",
-    "sources": {
-      "streams": [
-        "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -415,20 +386,6 @@
     "sources": {
       "streams": [
         "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "54APtzgfl8rhY2",
-    "name": "CT-N Live Stream 2",
-    "sources": {
-      "streams": [
-        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -658,20 +615,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "p69vsxFs98WVu8",
-    "name": "Hluttaw S & D",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
     "isGeoBlocked": false
   },
   {
@@ -1348,6 +1291,20 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "veywE9r1ITeufF",
+    "name": "TV Legislativa",
+    "sources": {
+      "streams": [
+        "https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
     "isGeoBlocked": false
   },
   {

@@ -673,6 +673,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "ZjrdyB3hSZu0bK",
+    "name": "CP24",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/cp24/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5FIig7aRRBANHx",
     "name": "CTV Speed Channel",
     "sources": {
@@ -1390,23 +1404,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5t53vL5oPCm3CM",
-    "name": "Stingray Classica",
-    "sources": {
-      "streams": [
-        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu",
-      "eng",
-      "fra",
-      "spa"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "LuDNPxab0f0pCa",
     "name": "Stingray Country Greats",
     "sources": {
@@ -1920,20 +1917,6 @@
       ]
     },
     "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "daf0IVQd6eS7Tl",
-    "name": "Super Channel Vault",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/6142/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "ca",
     "isGeoBlocked": false
   },

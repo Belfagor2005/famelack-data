@@ -323,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MiA0Rve3BJOTsq",
-    "name": "Jehova TV",
-    "sources": {
-      "streams": [
-        "https://mp.panelchs.com:1936/8038/8038/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YShLtvidjqB1kx",
     "name": "Kerusso TV",
     "sources": {
@@ -662,6 +648,34 @@
     "sources": {
       "streams": [
         "https://s.emisoras.tv:8081/tve/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "68v5jZBiXMRfcB",
+    "name": "UNE TV",
+    "sources": {
+      "streams": [
+        "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5Dr7rNIxY7en3G",
+    "name": "Waldivision Internacional",
+    "sources": {
+      "streams": [
+        "https://media.streambrothers.com:19360/8308/8308.m3u8"
       ]
     },
     "languages": [

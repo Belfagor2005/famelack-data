@@ -916,8 +916,7 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
       ]
     },
     "languages": [
@@ -1016,6 +1015,21 @@
       "eng"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pOal2u88RSp40P",
+    "name": "Chemodan TV",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/399/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {
@@ -1237,20 +1251,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FOmh48Vhhwgsmx",
-    "name": "Ecovision",
-    "sources": {
-      "streams": [
-        "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "J5HDeVjO016Oz1",
     "name": "EPlanet TV",
     "sources": {
@@ -1308,18 +1308,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Dsvkj5Ex7UWMgQ",
-    "name": "Heroes & Icons",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/88/index.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pwNSvcC8tmy7wH",
     "name": "History",
     "sources": {
@@ -1352,8 +1340,7 @@
     "name": "History East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/HISTORY_CHANNEL/index.m3u8",
-        "https://206.212.244.63/91/index.m3u8"
+        "https://40.160.24.53/HISTORY_CHANNEL/index.m3u8"
       ]
     },
     "languages": [
@@ -1569,20 +1556,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yWqRPjIHcgYftM",
     "name": "Nano",
     "sources": {
@@ -1654,26 +1627,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "P3rtGhMl7lNWwt",
-    "name": "National Geographic West",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/122/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pfvOjTL0SzRiOd",
     "name": "National Geographic Wild East",
     "sources": {
       "streams": [
-        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8",
-        "https://206.212.244.63/123/index.m3u8"
+        "https://40.160.24.53/NAT_GEO_WILD/index.m3u8"
       ]
     },
     "languages": [
@@ -1811,6 +1769,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0mulGVhtSW9kDC",
     "name": "RTД",
     "sources": {
@@ -1838,6 +1810,20 @@
       "mal"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M2QygmPlR8J2Gq",
+    "name": "Sky Nature",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/skynature/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {

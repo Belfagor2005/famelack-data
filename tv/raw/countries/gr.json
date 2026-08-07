@@ -181,6 +181,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c5sRTm8qGDYdgm",
+    "name": "ecclesiaTV.gr",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/qaXZv-EfX5Y"
+      ]
+    },
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kQoJODyIVFBenm",
     "name": "Egnatia TV",
     "sources": {
@@ -276,20 +290,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rNwXK8U9QtgSSA",
-    "name": "Faros TV2",
-    "sources": {
-      "streams": [
-        "https://s1.cystream.net/live/faros2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "BBnkN7RuoWZuoo",
     "name": "Gnomi TV",
     "sources": {
@@ -365,6 +365,20 @@
       "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aD4cUpbRFASr0S",
+    "name": "Lepanto TV",
+    "sources": {
+      "streams": [
+        "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ell"
     ],

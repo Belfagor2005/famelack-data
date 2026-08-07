@@ -1,5 +1,36 @@
 [
   {
+    "nanoid": "aNWcalM8ImXSeK",
+    "name": "Aruba.TV",
+    "sources": {
+      "streams": [
+        "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Vnfhy8nuGLWns0",
+    "name": "ArubaTV +",
+    "sources": {
+      "streams": [
+        "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sdiObwInEYoWku",
     "name": "Balchi TV",
     "sources": {
@@ -24,6 +55,37 @@
     },
     "languages": [
       "eng",
+      "nld",
+      "pap"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sFkDjoLVPgprWa",
+    "name": "Heart Radio Aruba",
+    "sources": {
+      "streams": [
+        "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld",
+      "pap"
+    ],
+    "country": "aw",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T58f95dx4sdCvQ",
+    "name": "Nos Isla TV",
+    "sources": {
+      "streams": [
+        "https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8"
+      ]
+    },
+    "languages": [
       "nld",
       "pap"
     ],
@@ -72,21 +134,6 @@
     },
     "languages": [
       "nld",
-      "pap"
-    ],
-    "country": "aw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rRrU0vsSO24VhA",
-    "name": "X 102.7 FM",
-    "sources": {
-      "streams": [
-        "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "pap"
     ],
     "country": "aw",

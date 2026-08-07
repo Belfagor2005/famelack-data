@@ -57,6 +57,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "j3cU74KjFvVxGm",
+    "name": "Great Commission TV",
+    "sources": {
+      "streams": [
+        "https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bjEIxQbflZEnVl",
     "name": "Inooro TV",
     "sources": {
@@ -103,7 +118,7 @@
     "name": "KTN News Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/SAQCwIuJekI"
+        "https://www.youtube-nocookie.com/embed/hxx3LBjKAYQ"
       ]
     },
     "languages": [
@@ -127,11 +142,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nnVl6vXmVVFvf3",
+    "name": "MOF TV",
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HmimxNpLzs8JkF",
     "name": "Morning Cloud TV",
     "sources": {
       "streams": [
-        "https://livecdn.live247stream.com/mc/tv/playlist.m3u8"
+        "https://livecdn.live247stream.com/mc/tv/playlist.m3u8",
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -145,7 +175,7 @@
     "name": "NTV Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/5uFIa5Kufi4"
+        "https://www.youtube-nocookie.com/embed/6Qj6kqBhflc"
       ]
     },
     "languages": [

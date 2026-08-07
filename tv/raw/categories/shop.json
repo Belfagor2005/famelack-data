@@ -451,9 +451,6 @@
     "sources": {
       "streams": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/DMpVvusgGgY"
       ]
     },
     "languages": [
@@ -503,20 +500,6 @@
       "vie"
     ],
     "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IPkLjLkp2JBRTC",
-    "name": "Leomax 24",
-    "sources": {
-      "streams": [
-        "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -632,6 +615,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "sources": {
+      "streams": [
+        "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GPfN3XUpvverSy",
+    "name": "NS Shop+",
+    "sources": {
+      "streams": [
+        "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+      ]
+    },
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XSj8RLmWub2bay",
     "name": "OnTV4U",
     "sources": {
@@ -707,9 +718,9 @@
     "name": "QVC",
     "sources": {
       "streams": [
-        "https://206.212.244.63/141/index.m3u8",
         "https://40.160.24.55/QVC/index.m3u8",
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+        "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -858,7 +869,6 @@
     "name": "QVC2",
     "sources": {
       "streams": [
-        "https://206.212.244.63/142/index.m3u8",
         "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
       ]
     },
@@ -873,8 +883,7 @@
     "name": "QVC3",
     "sources": {
       "streams": [
-        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
-        "https://206.212.244.63/143/index.m3u8"
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
       ]
     },
     "languages": [

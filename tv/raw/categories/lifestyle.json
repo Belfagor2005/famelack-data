@@ -155,13 +155,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Xc6IpLccTTfU6S",
     "name": "Cleo TV",
     "sources": {
       "streams": [
-        "https://206.212.244.63/4234/index.m3u8",
-        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8",
-        "https://206.212.244.63/38/index.m3u8"
+        "https://gpuserver3.tier1streams.com/Cleo_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -241,20 +253,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kYQnPKKVLeV7yp",
-    "name": "Dog TV",
-    "sources": {
-      "streams": [
-        "https://206.212.244.63/56/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "H02hn1sGkwKEV1",
     "name": "Domashniy",
     "sources": {
@@ -274,7 +272,7 @@
     "name": "El Futuro En tu Mano",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ZzlY3d_YSF0"
+        "https://www.youtube-nocookie.com/embed/Dr_QUl3MVMc"
       ]
     },
     "languages": [
@@ -455,7 +453,6 @@
     "name": "Great American Faith & Living",
     "sources": {
       "streams": [
-        "https://206.212.244.63/82/index.m3u8",
         "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8"
       ]
     },
@@ -554,6 +551,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "TgLpqjb9zic5hc",
+    "name": "Kaloopy TV",
+    "sources": {
+      "streams": [
+        "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dKTtrFcAzjZPS1",
     "name": "Kappa TV",
     "sources": {
@@ -638,20 +649,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AQcwe6Z9P7sz9G",
-    "name": "MRTV Farmer",
-    "sources": {
-      "streams": [
-        "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8"
-      ]
-    },
-    "languages": [
-      "mya"
-    ],
-    "country": "mm",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LSoGDBr7qw33OY",
     "name": "NBC LX Home",
     "sources": {
@@ -721,6 +718,20 @@
       "spa"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZaL0G4IX2UbO5f",
+    "name": "ON Life",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=188"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
     "isGeoBlocked": false
   },
   {

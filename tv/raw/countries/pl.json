@@ -150,20 +150,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "sources": {
-      "streams": [
-        "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9IWJvqi8MKA5iX",
     "name": "Dr G Medical Examiner",
     "sources": {
@@ -887,6 +873,22 @@
       ]
     },
     "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "sources": {
+      "streams": [
+        "https://stream.twoja.tv/ttv_hls/live.m3u8",
+        "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
       "pol"
     ],
     "country": "pl",

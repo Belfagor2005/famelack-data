@@ -38,6 +38,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYZ8jNOYg4pp1T",
+    "name": "Ahlulbayt TV",
+    "sources": {
+      "streams": [
+        "https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SCCSu7TMHcxg2h",
     "name": "Akaal Channel",
     "sources": {
@@ -276,7 +290,6 @@
     "name": "BBC News North America",
     "sources": {
       "streams": [
-        "https://206.212.244.63/14/index.m3u8",
         "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
       ]
     },
@@ -324,9 +337,6 @@
         "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8",
         "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/XRHV-9m_WO4"
       ]
     },
     "languages": [
@@ -633,6 +643,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UgNjSslbf36nno",
+    "name": "Deen TV",
+    "sources": {
+      "streams": [
+        "https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1150,6 +1174,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eaLExqWZXvp5pC",
+    "name": "INTER 24/7",
+    "sources": {
+      "streams": [
+        "https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0002/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tOgrmVxWlQxOPo",
     "name": "Intervention",
     "sources": {
@@ -1416,11 +1452,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LbTx61exNziTLe",
+    "name": "Miracle TV",
+    "sources": {
+      "streams": [
+        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "sources": {
       "streams": [
-        "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+        "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8",
+        "https://tvsen6.aynaott.com/MoonbugKids/index.m3u8"
       ]
     },
     "languages": [
@@ -2087,6 +2138,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "M2QygmPlR8J2Gq",
+    "name": "Sky Nature",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/skynature/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "sources": {
@@ -2175,6 +2240,20 @@
       ]
     },
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HaSrGVIiTCsULV",
+    "name": "Takbeer TV",
+    "sources": {
+      "streams": [
+        "https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2688,6 +2767,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/BtdE3diFaJs"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MbPIxYg8e29Ojj",
+    "name": "WildBrain: Inspector Gadget",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/n1QXuDJV55k"
+      ]
+    },
     "languages": [
       "eng"
     ],

@@ -623,18 +623,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "szbJVfsHulqWcu",
-    "name": "FilmRise Hot Ones",
-    "sources": {
-      "streams": [
-        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082"
-      ]
-    },
-    "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zK1h4297m1m9Ls",
     "name": "FilmRise Les Routes du Paradis",
     "sources": {
@@ -996,6 +984,18 @@
     "sources": {
       "streams": [
         "https://rakutenaa-fastmedia-motuslachaine-rakuten-547u3.amagi.tv/playlist/rakutenAA-fastmedia-motuslachaine-rakuten/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "frxoUV6KIlJwd1",
+    "name": "MyTime Movie Network France",
+    "sources": {
+      "streams": [
+        "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [],
@@ -1408,7 +1408,7 @@
     "name": "Simon Super Lapin",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/IDfHkdSMWs8"
+        "https://www.youtube-nocookie.com/embed/dvYreLu9xos"
       ]
     },
     "languages": [
@@ -1897,6 +1897,20 @@
     "sources": {
       "streams": [
         "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SbiWPbW9abVIyM",
+    "name": "Vosges TV",
+    "sources": {
+      "streams": [
+        "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
       ]
     },
     "languages": [

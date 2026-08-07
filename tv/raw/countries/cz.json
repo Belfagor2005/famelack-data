@@ -65,11 +65,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Msa0rkk2Ovcz6v",
-    "name": "Jihoceska televize",
+    "nanoid": "Cpn6uRs6WJZHOr",
+    "name": "HAHA TV",
     "sources": {
       "streams": [
-        "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
+        "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "slk"
+    ],
+    "country": "cz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vSFSSUY1YrEDW7",
+    "name": "JC1",
+    "sources": {
+      "streams": [
+        "https://stream.jc1.cz/hls/jc1.m3u8"
       ]
     },
     "languages": [
@@ -79,11 +93,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uoQs1GLoP77edf",
-    "name": "Mnau TV",
+    "nanoid": "Msa0rkk2Ovcz6v",
+    "name": "Jihoceska televize",
     "sources": {
       "streams": [
-        "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+        "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8"
       ]
     },
     "languages": [
@@ -179,20 +193,6 @@
       "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ces"
-    ],
-    "country": "cz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B1D7ROeH3iyq1i",
-    "name": "Polar2",
-    "sources": {
-      "streams": [
-        "https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8"
-      ]
-    },
     "languages": [
       "ces"
     ],

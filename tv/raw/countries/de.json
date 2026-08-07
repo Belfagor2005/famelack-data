@@ -44,7 +44,8 @@
     "name": "ARD-alpha",
     "sources": {
       "streams": [
-        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"
+        "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
+        "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
       ]
     },
     "languages": [
@@ -287,6 +288,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E3Fuo7LqwAfWE9",
+    "name": "Deluxe Dance",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hoEK50b8RIgSOh",
     "name": "Deluxe Music",
     "sources": {
@@ -296,6 +311,21 @@
     },
     "languages": [
       "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kxfwLfpFpzHMm2",
+    "name": "Deluxe Rap",
+    "sources": {
+      "streams": [
+        "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -638,9 +668,6 @@
     "sources": {
       "streams": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/DMpVvusgGgY"
       ]
     },
     "languages": [
@@ -738,6 +765,20 @@
       "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qm2znUA46MmZwc",
+    "name": "labor14",
+    "sources": {
+      "streams": [
+        "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
+      ]
+    },
     "languages": [
       "deu"
     ],
@@ -1212,6 +1253,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jrhvPj9Sfa0uyr",
+    "name": "Rakuten TV Family Movies Germany",
+    "sources": {
+      "streams": [
+        "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ILjNpPssxRQReN",
     "name": "RAN1",
     "sources": {
@@ -1639,33 +1694,6 @@
     "sources": {
       "streams": [
         "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Dh2uUg08yXJN7u",
-    "name": "Tennis Channel Germany",
-    "sources": {
-      "streams": [
-        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
-      ]
-    },
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "26XgnwsMGpjD8v",
-    "name": "Tide TV",
-    "sources": {
-      "streams": [
-        "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
-        "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
       ]
     },
     "languages": [

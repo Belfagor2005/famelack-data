@@ -527,7 +527,7 @@
         "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/yJ6MBmiFQp0"
+        "https://www.youtube-nocookie.com/embed/e_oYf-DMTQ4"
       ]
     },
     "languages": [
@@ -690,6 +690,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dUunw6na7BVxaU",
+    "name": "Costa Noroeste TV",
+    "sources": {
+      "streams": [
+        "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cXG1ys411JhMWW",
     "name": "Crímenes Reales",
     "sources": {
@@ -698,20 +712,6 @@
       ]
     },
     "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cYGWjqo31Nlvlm",
-    "name": "Diez TV Las Villas",
-    "sources": {
-      "streams": [
-        "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -814,21 +814,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "CuPJ7DXi3sDSGh",
-    "name": "Esport3 Originals",
-    "sources": {
-      "streams": [
-        "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-        "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vBQYI4XuRuNh2P",
     "name": "Estepona Television",
     "sources": {
@@ -839,18 +824,6 @@
     "languages": [
       "spa"
     ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "awUBqlQNui5V6X",
-    "name": "Estilo y Vida",
-    "sources": {
-      "streams": [
-        "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1194,20 +1167,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lMIWUh9FjBPLOx",
-    "name": "Molahits TV",
-    "sources": {
-      "streams": [
-        "https://ventdelnord.tv:8080/mola/directe.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lRMrIEjwRowfq6",
     "name": "Mr. Bean Anime Spain",
     "stream_urls": [
@@ -1276,6 +1235,20 @@
     "sources": {
       "streams": [
         "https://40.160.24.55/Nova/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q7nooMvVTTe0YZ",
+    "name": "Onda 15 TV",
+    "sources": {
+      "streams": [
+        "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
       ]
     },
     "languages": [
@@ -1453,6 +1426,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "79RGODupZW3p8n",
+    "name": "Radio Carnaval TV",
+    "sources": {
+      "streams": [
+        "https://eu1.servers10.com:8081/8116/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5yu8uNtNIpaTKc",
     "name": "Radio Television Marbella",
     "sources": {
@@ -1495,9 +1482,7 @@
         "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
       ]
     },
-    "languages": [
-      "spa"
-    ],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },

@@ -26,20 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rU6vHTb2mU89s2",
-    "name": "Aaj Entertainment",
-    "sources": {
-      "streams": [
-        "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "q9MeF0SCQHRY97",
     "name": "Aaj TV",
     "stream_urls": [],
@@ -73,20 +59,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vYTfRrA0rBw"
     ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AdIl1CSIOqCaJ6",
-    "name": "Bol Entertainment",
-    "sources": {
-      "streams": [
-        "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8"
-      ]
-    },
     "languages": [
       "urd"
     ],
@@ -137,7 +109,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/LcOkg116ahU"
+        "https://www.youtube-nocookie.com/embed/lyiVqaRgk-g"
       ]
     },
     "languages": [
@@ -198,20 +170,6 @@
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/e2XVSUYh4S0"
-      ]
-    },
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4xxsG81BRkH6LA",
-    "name": "Express Entertainment",
-    "sources": {
-      "streams": [
-        "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8"
       ]
     },
     "languages": [
@@ -317,6 +275,161 @@
     "sources": {
       "streams": [
         "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IGkGdoXwnCTsO2",
+    "name": "God Stands Kids Club TV Arabic",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "97TDYmlPdbsepe",
+    "name": "God Stands Kids Club TV English",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oXC3NCXK3UzLO5",
+    "name": "God Stands Kids Club TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TmKO7eJbzWWIRg",
+    "name": "God Stands TV Arabic",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NcmIJl0QEk2Pmg",
+    "name": "God Stands TV Chinese",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GzFin24wHyjwSS",
+    "name": "God Stands TV English",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v05zRUt0wtjOm3",
+    "name": "God Stands TV Hindi",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+      ]
+    },
+    "languages": [
+      "hin"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gmAnyp0vi78tWo",
+    "name": "God Stands TV Main",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "udYM5OktKE92Dh",
+    "name": "God Stands TV Punjabi",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
+      ]
+    },
+    "languages": [
+      "pan"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5jBZcISN5C325C",
+    "name": "God Stands TV Tagalog",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MJZCJdg9pFYsCd",
+    "name": "God Stands TV Urdu",
+    "sources": {
+      "streams": [
+        "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
       ]
     },
     "languages": [
@@ -608,7 +721,7 @@
     "name": "PTV News",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/poLqld7QiIE"
+        "https://www.youtube-nocookie.com/embed/tgiknQx6XjA"
       ]
     },
     "languages": [

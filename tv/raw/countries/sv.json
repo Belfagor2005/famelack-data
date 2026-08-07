@@ -45,7 +45,7 @@
     "name": "Canal 10",
     "sources": {
       "streams": [
-        "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8"
+        "https://stream.giostreaming.app/canal11/canal11.m3u8"
       ]
     },
     "languages": [
@@ -55,11 +55,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aM75JGWBPQWWgI",
-    "name": "Canal 11 TuTV",
+    "nanoid": "2JuIWNzpBvexFE",
+    "name": "Canal 26 TV IAP",
     "sources": {
       "streams": [
-        "https://stream.giostreaming.app/canal11/canal11.m3u8"
+        "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8"
       ]
     },
     "languages": [
@@ -212,34 +212,6 @@
     "sources": {
       "streams": [
         "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2fDbweulZuyK2h",
-    "name": "TVCa",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1jzCwLIvYDfCXS",
-    "name": "WOW TV",
-    "sources": {
-      "streams": [
-        "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8"
       ]
     },
     "languages": [

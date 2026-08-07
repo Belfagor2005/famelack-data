@@ -142,6 +142,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mAl50UnEXvw3NE",
+    "name": "Afontovo",
+    "sources": {
+      "streams": [
+        "https://stream.afontovo.ru/hd.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hCnlUCWzC85Pyo",
     "name": "AIST TV",
     "sources": {
@@ -357,9 +371,9 @@
     "name": "Carousel",
     "sources": {
       "streams": [
+        "https://streaming.televizor-24-tochka.ru/live/232.m3u8",
         "https://stream.mcquack.net/120/index.m3u8",
-        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+        "https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8"
       ]
     },
     "languages": [
@@ -1252,20 +1266,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nTIR26728Xpjfo",
-    "name": "Legendarnyy 24",
-    "sources": {
-      "streams": [
-        "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "S00p2qbV49fypF",
     "name": "LenTV24",
     "sources": {
@@ -1278,20 +1278,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "IPkLjLkp2JBRTC",
-    "name": "Leomax 24",
-    "sources": {
-      "streams": [
-        "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "NmNu9xP3DzG5RI",
@@ -1471,21 +1457,6 @@
       ]
     },
     "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y5ryr3X9r1YZgg",
-    "name": "MMA-TV.com",
-    "sources": {
-      "streams": [
-        "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
       "rus"
     ],
     "country": "ru",
@@ -1762,34 +1733,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "BFH0gtUHGzILzf",
-    "name": "Novy Vek",
-    "sources": {
-      "streams": [
-        "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FPW5dG6jwJsfts",
-    "name": "Novyi Russkii",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "nqorl9gKU461MK",
@@ -2643,7 +2586,8 @@
     "name": "Simferopol 24",
     "sources": {
       "streams": [
-        "https://simf.1tvcrimea.ru/simferopol24.m3u8"
+        "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+        "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2974,8 +2918,7 @@
     "name": "Tamyr",
     "sources": {
       "streams": [
-        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
-        "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+        "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
       ]
     },
     "languages": [
