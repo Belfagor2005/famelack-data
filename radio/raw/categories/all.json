@@ -81001,7 +81001,7 @@
     "name": "Deep Mix Radio",
     "sources": {
       "streams": [
-        "https://deepmix.org/stream"
+        "https://deepmixradio.com/stream"
       ]
     },
     "languages": [
@@ -246738,7 +246738,6 @@
     "name": "Radio Free Americana",
     "sources": {
       "streams": [
-        "https://janus.cdnstream.com:5140/live",
         "https://thassos.cdnstream.com:9950/stream"
       ]
     },
@@ -292974,6 +292973,20 @@
     "sources": {
       "streams": [
         "https://radyo.yayin.com.tr:6179/;"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "APtep0OwWOQnqO",
+    "name": "Radyo Göktürk",
+    "sources": {
+      "streams": [
+        "https://yayin.radyogokturk.com:8004/;stream.mp3"
       ]
     },
     "languages": [
