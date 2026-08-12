@@ -5199,12 +5199,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ReLAhtajROi9Yn",
-    "name": "ICI Musique",
+    "nanoid": "BGJdcp14EAMokB",
+    "name": "ICI Musique Alberta",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SRC.mp3",
+        "https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1Emr9aVV3LsY2b",
+    "name": "ICI Musique Bas-Saint-Laurent",
+    "sources": {
+      "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8"
       ]
     },
@@ -5215,11 +5227,81 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZG8cD9e7bvHlLH",
-    "name": "ICI Musique (Halifax)",
+    "nanoid": "5O63pGr3xQ86ol",
+    "name": "ICI Musique Colombie-Britannique",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/master.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0FtuM8RTAUY9Pw",
+    "name": "ICI Musique Estrie",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DRkya8KlwiYa54",
+    "name": "ICI Musique Manitoba",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rid3WetPK6pi6V",
+    "name": "ICI Musique Mauricie–Centre-du-Québec",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kfRQt5rLnaBKdJ",
+    "name": "ICI Musique Montréal",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FCccvCJ36MUO4j",
+    "name": "ICI Musique Nord de l’Ontario",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8"
       ]
     },
     "languages": [
@@ -5230,7 +5312,7 @@
   },
   {
     "nanoid": "aWaB8uima0qJy9",
-    "name": "ICI Musique (Moncton)",
+    "name": "ICI Musique Nouveau-Brunswick",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8"
@@ -5244,10 +5326,10 @@
   },
   {
     "nanoid": "FpNcKjwn55Gwdv",
-    "name": "ICI Musique Ottawa",
+    "name": "ICI Musique Ottawa–Gatineau",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8"
       ]
     },
     "languages": [
@@ -5257,11 +5339,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YxiJZmAwIo49PK",
-    "name": "ICI Musique Regina",
+    "nanoid": "ReLAhtajROi9Yn",
+    "name": "ICI Musique Québec",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8"
       ]
     },
     "languages": [
@@ -5272,7 +5354,7 @@
   },
   {
     "nanoid": "MjMAgJvyBSeEkP",
-    "name": "ICI Musique Saguenay",
+    "name": "ICI Musique Saguenay–Lac-Saint-Jean",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8"
@@ -5285,11 +5367,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0FtuM8RTAUY9Pw",
-    "name": "ICI Musique Sherbrooke",
+    "nanoid": "YxiJZmAwIo49PK",
+    "name": "ICI Musique Saskatchewan",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8"
       ]
     },
     "languages": [
@@ -5299,53 +5381,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FCccvCJ36MUO4j",
-    "name": "ICI Musique Sudbury",
+    "nanoid": "ZG8cD9e7bvHlLH",
+    "name": "ICI Première Nouvelle-Écosse",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rid3WetPK6pi6V",
-    "name": "ICI Musique Trois-Rivières",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5O63pGr3xQ86ol",
-    "name": "ICI Musique Vancouver",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DRkya8KlwiYa54",
-    "name": "ICI Musique Winnipeg",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/master.m3u8"
       ]
     },
     "languages": [

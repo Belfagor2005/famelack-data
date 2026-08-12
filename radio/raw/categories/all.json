@@ -138105,41 +138105,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ReLAhtajROi9Yn",
-    "name": "ICI Musique",
+    "nanoid": "BGJdcp14EAMokB",
+    "name": "ICI Musique Alberta",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SRC.mp3",
+        "https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1Emr9aVV3LsY2b",
+    "name": "ICI Musique Bas-Saint-Laurent",
+    "sources": {
+      "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZG8cD9e7bvHlLH",
-    "name": "ICI Musique (Halifax)",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aWaB8uima0qJy9",
-    "name": "ICI Musique (Moncton)",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8"
       ]
     },
     "languages": [
@@ -138153,92 +138137,7 @@
     "name": "ICI Musique Classique",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/ICI_MusiqueClassique_SRC.mp3"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FpNcKjwn55Gwdv",
-    "name": "ICI Musique Ottawa",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YxiJZmAwIo49PK",
-    "name": "ICI Musique Regina",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MjMAgJvyBSeEkP",
-    "name": "ICI Musique Saguenay",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0FtuM8RTAUY9Pw",
-    "name": "ICI Musique Sherbrooke",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FCccvCJ36MUO4j",
-    "name": "ICI Musique Sudbury",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rid3WetPK6pi6V",
-    "name": "ICI Musique Trois-Rivières",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8"
       ]
     },
     "languages": [
@@ -138249,7 +138148,7 @@
   },
   {
     "nanoid": "5O63pGr3xQ86ol",
-    "name": "ICI Musique Vancouver",
+    "name": "ICI Musique Colombie-Britannique",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8"
@@ -138262,11 +138161,137 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0FtuM8RTAUY9Pw",
+    "name": "ICI Musique Estrie",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DRkya8KlwiYa54",
-    "name": "ICI Musique Winnipeg",
+    "name": "ICI Musique Manitoba",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rid3WetPK6pi6V",
+    "name": "ICI Musique Mauricie–Centre-du-Québec",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kfRQt5rLnaBKdJ",
+    "name": "ICI Musique Montréal",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FCccvCJ36MUO4j",
+    "name": "ICI Musique Nord de l’Ontario",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aWaB8uima0qJy9",
+    "name": "ICI Musique Nouveau-Brunswick",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FpNcKjwn55Gwdv",
+    "name": "ICI Musique Ottawa–Gatineau",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ReLAhtajROi9Yn",
+    "name": "ICI Musique Québec",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MjMAgJvyBSeEkP",
+    "name": "ICI Musique Saguenay–Lac-Saint-Jean",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YxiJZmAwIo49PK",
+    "name": "ICI Musique Saskatchewan",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8"
       ]
     },
     "languages": [
@@ -138290,12 +138315,95 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AL1O2KkFEkZ0ep",
-    "name": "ICI Première",
+    "nanoid": "MpT3a2suaAf4sy",
+    "name": "ICI Première Abitibi-Témiscamingue",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CBAFFM_SRC.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006955/P-2QROU0_ROU/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nSvHb4SVuxQyo9",
+    "name": "ICI Première Alberta",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4lOr2EWHYV9KXG",
+    "name": "ICI Première Bas-Saint-Laurent",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006651/P-2QRIM0_RIM/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wuYSCMdvljdiHH",
+    "name": "ICI Première Colombie-Britannique",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mUJHsjlxQvOCqT",
+    "name": "ICI Première Côte-Nord",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9EgH8Bg5fFGrj3",
+    "name": "ICI Première Estrie",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006971/P-2QSHE0_SHE/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WvzeshEBHDDg9H",
+    "name": "ICI Première Gaspésie–Îles-de-la-Madeleine",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006977/P-2MWIN0_WIN/master.m3u8"
       ]
     },
     "languages": [
@@ -138306,7 +138414,7 @@
   },
   {
     "nanoid": "yd7MKDewk9Uc8m",
-    "name": "ICI Première Charlottetown",
+    "name": "ICI Première Île-du-Prince-Édouard",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006948/P-2EMCT3_CHR/master.m3u8"
@@ -138320,7 +138428,7 @@
   },
   {
     "nanoid": "QciG4f47az8yNQ",
-    "name": "Ici Première Manitoba",
+    "name": "ICI Première Manitoba",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006977/P-2MWIN0_WIN/master.m3u8"
@@ -138333,11 +138441,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WvzeshEBHDDg9H",
-    "name": "ICI Première Matane",
+    "nanoid": "0sqedIDUiF9Lb5",
+    "name": "ICI Première Mauricie–Centre-du-Québec",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006951/P-2QMAT0_MAT/master.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/master.m3u8"
       ]
     },
     "languages": [
@@ -138361,64 +138469,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4lOr2EWHYV9KXG",
-    "name": "ICI Première Rimouski",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006651/P-2QRIM0_RIM/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MpT3a2suaAf4sy",
-    "name": "ICI Première Rouyn-Noranda",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006955/P-2QROU0_ROU/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mUJHsjlxQvOCqT",
-    "name": "ICI Première Sept-Îles",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9EgH8Bg5fFGrj3",
-    "name": "ICI Première Sherbrooke",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006971/P-2QSHE0_SHE/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "t4041C2feazfrX",
-    "name": "ICI Première Sudbury",
+    "name": "ICI Première Nord de l’Ontario",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/master.m3u8"
@@ -138431,50 +138483,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9x1LY3YrP4xB5J",
-    "name": "Ici Première Toronto 860 AM",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0sqedIDUiF9Lb5",
-    "name": "ICI Première Trois-Rivières",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nSvHb4SVuxQyo9",
-    "name": "ICI Radio-Canada Première",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wk9O4skRJ0VAL5",
-    "name": "ICI Radio-Canada Première (Moncton)",
+    "name": "ICI Première Nouveau-Brunswick",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8"
@@ -138487,25 +138497,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w4sXCJp3GYacZS",
-    "name": "ICI Radio-Canada Première (Montréal)",
+    "nanoid": "ZG8cD9e7bvHlLH",
+    "name": "ICI Première Nouvelle-Écosse",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gmCI2xKlJMH5UY",
-    "name": "ICI Radio-Canada Première Montreal",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/master.m3u8"
       ]
     },
     "languages": [
@@ -138516,7 +138512,7 @@
   },
   {
     "nanoid": "QfQHlYefU03god",
-    "name": "ICI Radio-Canada Première Ottawa",
+    "name": "ICI Première Ottawa–Gatineau",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/master.m3u8"
@@ -138530,7 +138526,7 @@
   },
   {
     "nanoid": "xN888FFFBLJWKE",
-    "name": "ICI Radio-Canada Première Quebec City",
+    "name": "ICI Première Québec",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/master.m3u8"
@@ -138543,22 +138539,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ml9qO9pO9aRxTc",
-    "name": "ICI Radio-Canada Première Regina",
-    "sources": {
-      "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006954/P-2SREG0_REG/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NxreG0euNzE0Fg",
-    "name": "ICI Radio-Canada Première Saguenay",
+    "name": "ICI Première Saguenay–Lac-Saint-Jean",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006969/P-2QSAG0_SAG/master.m3u8"
@@ -138571,11 +138553,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wuYSCMdvljdiHH",
-    "name": "ICI Radio-Canada Première Vancouver",
+    "nanoid": "ml9qO9pO9aRxTc",
+    "name": "ICI Première Saskatchewan",
     "sources": {
       "streams": [
-        "https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8"
+        "https://rcavliveaudio.akamaized.net/hls/live/2006954/P-2SREG0_REG/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9x1LY3YrP4xB5J",
+    "name": "ICI Première Toronto",
+    "sources": {
+      "streams": [
+        "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8"
       ]
     },
     "languages": [
@@ -138586,7 +138582,7 @@
   },
   {
     "nanoid": "2SYmZqVoZnogju",
-    "name": "ICI Radio-Canada Première Windsor",
+    "name": "ICI Première Windsor",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/master.m3u8"
@@ -239263,6 +239259,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ob31KR2QFYLGaS",
+    "name": "Rádio Despertar Marechal",
+    "sources": {
+      "streams": [
+        "https://srv1.braudio.com.br/7236"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
