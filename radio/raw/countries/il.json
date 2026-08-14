@@ -52,8 +52,8 @@
     "name": "Eco 99 FM",
     "sources": {
       "streams": [
-        "https://eco-live.mediacast.co.il/99fm_aac",
-        "https://99.mediacast.co.il/99fm_aac"
+        "https://99.mediacast.co.il/99fm_aac",
+        "https://eco-live.mediacast.co.il/99fm_aac"
       ]
     },
     "languages": [
@@ -225,8 +225,8 @@
     "name": "Joint Radio Beat",
     "sources": {
       "streams": [
-        "https://jointil.com/stream-beat",
-        "https://star.jointil.net/proxy/jrn_beat"
+        "https://star.jointil.net/proxy/jrn_beat",
+        "https://jointil.com/stream-beat"
       ]
     },
     "languages": [
@@ -251,8 +251,8 @@
     "name": "Joint Radio Reggae",
     "sources": {
       "streams": [
-        "https://star.jointil.net/proxy/jrn_reggae",
-        "https://jointil.com/stream-reggae"
+        "https://jointil.com/stream-reggae",
+        "https://star.jointil.net/proxy/jrn_reggae"
       ]
     },
     "languages": [
@@ -276,8 +276,8 @@
     "name": "Kabbalah TV (French)",
     "sources": {
       "streams": [
-        "https://icecast.kab.tv/live1-spa-574bcfd5.mp3",
-        "https://icecast.kab.tv/live1-fre-574bcfd5.mp3"
+        "https://icecast.kab.tv/live1-fre-574bcfd5.mp3",
+        "https://icecast.kab.tv/live1-spa-574bcfd5.mp3"
       ]
     },
     "languages": [
@@ -325,8 +325,8 @@
     "name": "Kan Bet",
     "sources": {
       "streams": [
-        "https://28563.live.streamtheworld.com/KAN_BET.mp3",
-        "https://25583.live.streamtheworld.com/KAN_BET.mp3"
+        "https://25583.live.streamtheworld.com/KAN_BET.mp3",
+        "https://28563.live.streamtheworld.com/KAN_BET.mp3"
       ]
     },
     "languages": [
@@ -442,6 +442,21 @@
       "eng",
       "heb"
     ]
+  },
+  {
+    "nanoid": "veiTk0EM7KFhWM",
+    "name": "Radio Agape",
+    "sources": {
+      "streams": [
+        "https://s3.radio.co/s43b65d791/listen"
+      ]
+    },
+    "languages": [
+      "eng",
+      "heb"
+    ],
+    "country": "il",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "67ObIb9xaPkpHB",
@@ -592,8 +607,8 @@
     "name": "Radio Lev Hamedina 91 FM",
     "sources": {
       "streams": [
-        "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
-        "https://91fm.streamgates.net/Lev91Fm"
+        "https://91fm.streamgates.net/Lev91Fm",
+        "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
       ]
     },
     "languages": [

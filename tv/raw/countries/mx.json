@@ -28,6 +28,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dKvffVf67Ibo9n",
+    "name": "Acustik TV",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6AYObDCpHjAFK9",
     "name": "ADN 40",
     "sources": {
@@ -112,11 +126,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6SQhQn74t89lq",
-    "name": "B15 Fresnillo",
+    "nanoid": "z9NmlAa4TNcIbD",
+    "name": "BAMOS TV",
     "sources": {
       "streams": [
-        "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
+        "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
       ]
     },
     "languages": [
@@ -140,11 +154,39 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "xyJyUeE9SZM9fy",
+    "name": "Canal 5",
+    "sources": {
+      "streams": [
+        "https://45.181.87.106/CANAL5HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "sources": {
       "streams": [
         "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "om7GIuOIZrQShy",
+    "name": "Canal 10 Durango",
+    "sources": {
+      "streams": [
+        "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
       ]
     },
     "languages": [
@@ -237,20 +279,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mCYSTDjXapnUpp",
-    "name": "Canal del Congreso 45.1",
-    "sources": {
-      "streams": [
-        "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zjs8fScsFVoj7q",
     "name": "Canal Parlamento del Congreso de Jalisco",
     "sources": {
@@ -284,23 +312,6 @@
     "sources": {
       "streams": [
         "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dE1MtHTFsxve60",
-    "name": "CreaLaTV",
-    "sources": {
-      "streams": [
-        "https://stream.crealatv.com/live.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/ozt0sb06H34"
       ]
     },
     "languages": [
@@ -380,6 +391,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FmWRIKhG72Bl7Q",
+    "name": "Filmex",
+    "sources": {
+      "streams": [
+        "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "57x1qIQqd5IFIt",
+    "name": "Filmex Clasico",
+    "sources": {
+      "streams": [
+        "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "duaSLomE9AQYzs",
     "name": "Golden",
     "stream_urls": [
@@ -429,6 +468,18 @@
     "languages": [
       "spa"
     ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dQroYObAPsPIjO",
+    "name": "Imagen TV+",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NJ9yQLL0hss"
+      ]
+    },
+    "languages": [],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -830,7 +881,7 @@
     "name": "Televisa Ciudad Juarez",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/EHzGDUSqpaw"
+        "https://www.youtube-nocookie.com/embed/l-sGQ2LjA1g"
       ]
     },
     "languages": [
@@ -905,6 +956,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V9bf7FdY5Rbg5t",
+    "name": "Televisa Guerrero",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/VrAulL9-w1w"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "stream_urls": [],
@@ -924,6 +989,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ysbrswZdn90"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OqUk1Slt9fsdYN",
+    "name": "Televisa Monterrey",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/R_MMX9wWHlY"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1027,7 +1106,7 @@
     "name": "Televisa Sonora",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/8xMeFrmpVac"
+        "https://www.youtube-nocookie.com/embed/CMh4QO_8xcs"
       ]
     },
     "languages": [
@@ -1043,6 +1122,20 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/zGMwuFZYVGI"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kBLqWOYbCQz0Mi",
+    "name": "Televisa Univision Saltillo",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/uBPDz1Mk7tI"
+      ]
+    },
     "languages": [
       "spa"
     ],
@@ -1278,6 +1371,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z8y7pyWQF00bRD",
+    "name": "TV Mar Los Cabos",
+    "sources": {
+      "streams": [
+        "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "UB1O3LUxfTUgSf",
     "name": "TV Mar Puerto Vallarta",
     "sources": {
@@ -1445,6 +1552,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bryavBUrbLKzmf",
+    "name": "Univision Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streamer.metronethn.com/Univision/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2EyL9brYPFxMTy",
     "name": "VB Media TV",
     "sources": {
@@ -1506,6 +1627,20 @@
     "sources": {
       "streams": [
         "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1eJU4mPC18iVYo",
+    "name": "XHGV-TDT",
+    "sources": {
+      "streams": [
+        "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8"
       ]
     },
     "languages": [

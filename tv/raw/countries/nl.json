@@ -14,20 +14,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3LwrECAb6nB7EL",
-    "name": "1Twente TV",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CReHCdZVKTCuD1",
     "name": "360TuneBox",
     "sources": {
@@ -435,21 +421,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LaumigPirXIG5i",
-    "name": "KempenTV",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8",
-        "https://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pKE0ZgARlvt46E",
     "name": "L1 TV",
     "sources": {
@@ -469,34 +440,6 @@
     "sources": {
       "streams": [
         "https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "43nlqCsPfKQWwb",
-    "name": "Lansingerland TV",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "brszZyzF2c0VMk",
-    "name": "LEO Middelse TV",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -576,18 +519,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cz0NSemk409jgG",
-    "name": "NOOS TV",
+    "nanoid": "NTVSvKBJVIIEgI",
+    "name": "MYZen Fit",
     "sources": {
       "streams": [
-        "https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8"
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8"
       ]
     },
-    "languages": [
-      "nld"
-    ],
+    "languages": [],
     "country": "nl",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "OgYe6u4a9Y8YAf",
@@ -660,20 +601,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hk7PXKEYotjuny",
-    "name": "Omroep Hoeksche Waard",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
     "sources": {
@@ -733,8 +660,7 @@
     "name": "Omroep Tilburg",
     "sources": {
       "streams": [
-        "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
-        "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
+        "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -820,34 +746,6 @@
     "sources": {
       "streams": [
         "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "25pB0MbXoRopRk",
-    "name": "OPEN Rotterdam TV",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P7GryzYlzv8Fx4",
-    "name": "ORTS TV",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -994,18 +892,6 @@
     "languages": [
       "nld"
     ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bzhuoIIHDSQpOH",
-    "name": "Rotterdam Podium TV",
-    "sources": {
-      "streams": [
-        "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -1179,20 +1065,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ua4a0OdjOruHxv",
-    "name": "RTV Rijnstreek TV",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y3tRl2FeGVTyQz",
     "name": "RTV SLOS",
     "sources": {
@@ -1240,20 +1112,6 @@
     "sources": {
       "streams": [
         "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MG8m0vh6HIQQvq",
-    "name": "RTV Zulthe",
-    "sources": {
-      "streams": [
-        "https://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1386,21 +1244,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dAXeuFzPs6OaT0",
-    "name": "StreekTV",
-    "sources": {
-      "streams": [
-        "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
-        "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vO7ItMw9qBUGew",
     "name": "Studio Rheden",
     "sources": {
@@ -1442,180 +1285,12 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "yaYUxFsan9hbOE",
-    "name": "Tweede Kamer: Actualiteitenkanaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6OQOS7AT6Gma3n",
-    "name": "Tweede Kamer: Aletta Jacobszaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5hB4P9nJujh5eA",
-    "name": "Tweede Kamer: Enquetezaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PL16C9OHm1Jw0b",
-    "name": "Tweede Kamer: Groen van Prinstererzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ae17iGLPc7Gwuz",
-    "name": "Tweede Kamer: Klompezaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BJ3SYF7xMwSu2u",
-    "name": "Tweede Kamer: Max van der Stoelzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MOoTHhVYsb8MlG",
-    "name": "Tweede Kamer: Plenaire zaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rB1O4Lh7x5fa2y",
-    "name": "Tweede Kamer: Suze Groenewegzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qHNjpcf1s4YBcD",
-    "name": "Tweede Kamer: Thorbeckezaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9j3l55qDqhq9x4",
-    "name": "Tweede Kamer: Troelstrazaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xk5ybVwggmYe7A",
-    "name": "Tweede Kamer: Wttewaall van Stoetwegenzaal",
-    "sources": {
-      "streams": [
-        "https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kFgkTaYcE0JGsc",
     "name": "UStad",
     "sources": {
       "streams": [
         "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
         "https://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "i2GpEeoaXxzJ13",
-    "name": "Vechtdal TV",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1633,20 +1308,6 @@
       ]
     },
     "languages": [],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zl0ukpBnhgDrtz",
-    "name": "WeertFM TV",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
     "country": "nl",
     "isGeoBlocked": false
   },

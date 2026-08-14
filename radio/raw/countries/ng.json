@@ -98,11 +98,11 @@
     ]
   },
   {
-    "nanoid": "IrglhoFbSHMGYm",
-    "name": "Buzz FM",
+    "nanoid": "epoakXx6IgOaUu",
+    "name": "Bond FM",
     "sources": {
       "streams": [
-        "https://buzzfm897.com/wp-content/uploads/2021/01/josh_pan.mp3"
+        "https://go.webgateready.com/bondfm"
       ]
     },
     "languages": [
@@ -110,11 +110,11 @@
     ]
   },
   {
-    "nanoid": "kjLaYHCPfqSMPn",
-    "name": "Domi Radio",
+    "nanoid": "IrglhoFbSHMGYm",
+    "name": "Buzz FM",
     "sources": {
       "streams": [
-        "https://domimedia.org/stream"
+        "https://buzzfm897.com/wp-content/uploads/2021/01/josh_pan.mp3"
       ]
     },
     "languages": [
@@ -245,20 +245,6 @@
     ]
   },
   {
-    "nanoid": "gVncAEm8dCJgiV",
-    "name": "Kcity Radio",
-    "sources": {
-      "streams": [
-        "https://radio.gotright.net/radio/8010/radio.mp3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XdNKFbH9Kwv9LI",
     "name": "Konga FM",
     "sources": {
@@ -306,6 +292,21 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "tIwl6kBmH1Ius9",
+    "name": "Metro FM",
+    "sources": {
+      "streams": [
+        "https://go.webgateready.com/metrofm/radio.mp3",
+        "https://go.webgateready.com/metrofm"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "JZhES3PacaZTLP",

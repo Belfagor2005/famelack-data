@@ -109,7 +109,7 @@
     "name": "City 41",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/lyiVqaRgk-g"
+        "https://www.youtube-nocookie.com/embed/skgNtQvaN8g"
       ]
     },
     "languages": [
@@ -298,15 +298,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "97TDYmlPdbsepe",
-    "name": "God Stands Kids Club TV English",
+    "nanoid": "X2mzfNA1EyPeME",
+    "name": "God Stands Kids Club TV Chinese",
     "sources": {
       "streams": [
-        "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8"
+        "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "zho"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -496,6 +496,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-gJDf2U7AHU"
+      ]
+    },
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0DyoG3XduwwwLj",
     "name": "King TV",
     "sources": {
@@ -651,6 +665,9 @@
     "sources": {
       "streams": [
         "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/fpQj5en0_3o"
       ]
     },
     "languages": [

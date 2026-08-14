@@ -4,9 +4,9 @@
     "name": "AgroCanal",
     "sources": {
       "streams": [
-        "https://45.162.64.114/AGRO_CANAL/index.m3u8",
-        "https://45.190.28.50/AGRO_CANAL/index.m3u8",
-        "https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8"
+        "https://186.219.52.187/agro_canal/index.m3u8",
+        "https://168.197.104.22/AGRO_CANAL/index.m3u8",
+        "https://45.162.64.114/AGRO_CANAL/index.m3u8"
       ]
     },
     "languages": [
@@ -99,12 +99,27 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w9iKnoeRBQ99pR",
+    "name": "Can Tho TV 2",
+    "sources": {
+      "streams": [
+        "https://live.canthotv.vn/cs2/live.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7nyUSJn5aAWm7k",
     "name": "Canal Educacao",
     "sources": {
       "streams": [
-        "https://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
-        "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+        "https://45.177.114.115/CANAL_EDUCACAO/index.m3u8",
+        "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "https://168.197.104.22/CANAL_EDUCACAO/index.m3u8"
       ]
     },
     "languages": [
@@ -341,21 +356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FH7NvrC8IdGbek",
-    "name": "DLTV 2",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Z2nBboETrkSzIa",
     "name": "DLTV 3",
     "sources": {
@@ -371,101 +371,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "28rjnzXjPjea82",
-    "name": "DLTV 4",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv04.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfFYZpw2B1Tu6O",
-    "name": "DLTV 5",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv05.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SBNkYWrTHUHlU6",
-    "name": "DLTV 6",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv06.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5n7uTj1v7KJgAK",
     "name": "DLTV 7",
     "sources": {
       "streams": [
         "https://cdn-live.dltv.ac.th/dltv07.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AtqNekEK9bqlpP",
-    "name": "DLTV 8",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv08.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ReBKejReML00hL",
-    "name": "DLTV 9",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv09.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J2tWh2yACsVBKq",
-    "name": "DLTV 10",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv10.m3u8"
       ]
     },
     "languages": [
@@ -496,21 +406,6 @@
     "sources": {
       "streams": [
         "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "tha"
-    ],
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPUnfb9kCWJfnO",
-    "name": "DLTV 13",
-    "sources": {
-      "streams": [
-        "https://cdn-live.dltv.ac.th/dltv13.m3u8"
       ]
     },
     "languages": [
@@ -735,6 +630,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nuezSbylZ8GRsS",
+    "name": "Futura",
+    "sources": {
+      "streams": [
+        "https://168.197.104.22/FUTURA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xZPdiS2AIsXbXV",
     "name": "GVision",
     "sources": {
@@ -805,6 +714,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kqr3JHbCw7DAtR",
+    "name": "ISTV",
+    "sources": {
+      "streams": [
+        "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Pz1CuDeSJYHivR",
     "name": "Jalisco TV",
     "sources": {
@@ -861,6 +784,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "EYOg6mbwI8lejh",
+    "name": "Knowledge Channel",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/knowledge/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "sources": {
@@ -908,6 +845,20 @@
     "sources": {
       "streams": [
         "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uvGkHvj4kYuGpc",
+    "name": "MCPSS TV",
+    "sources": {
+      "streams": [
+        "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1252,6 +1203,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sJBxRr1Fg3I5q3",
+    "name": "St Lucie Public Schools",
+    "sources": {
+      "streams": [
+        "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IYaHECLKltBJ5V",
     "name": "STVE Telebasica",
     "sources": {
@@ -1575,20 +1540,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vvLSrEdftAhFqe",
-    "name": "Vyas Channel",
-    "sources": {
-      "streams": [
-        "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JliijnACP4jH0u",
     "name": "Wiki TV",
     "sources": {
@@ -1649,6 +1600,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pvxpjJZ1DkpUbg",
+    "name": "WPS-TV",
+    "sources": {
+      "streams": [
+        "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MvxVdnZ8G06Wbd",
     "name": "XHPBZC-TDT2",
     "sources": {
@@ -1681,20 +1646,6 @@
     "sources": {
       "streams": [
         "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "47o1HNzoeOQk95",
-    "name": "XHUNES-TDT",
-    "sources": {
-      "streams": [
-        "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
       ]
     },
     "languages": [

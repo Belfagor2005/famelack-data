@@ -407,20 +407,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FkwHKfpMGiYx0r",
-    "name": "ems TV Lingen",
-    "sources": {
-      "streams": [
-        "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dikaN7zl5U7F3z",
     "name": "Erz-TV Stollberg",
     "sources": {
@@ -487,6 +473,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6ftPsR4C1PTDrI",
+    "name": "Fluss Monster",
+    "sources": {
+      "streams": [
+        "https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8bSuKSVwMMeWf7",
+    "name": "Folx Music Television",
+    "sources": {
+      "streams": [
+        "https://folxapp.b-cdn.net/1080p/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cmt0eNnG0G5SGu",
     "name": "Franken Fernsehen",
     "sources": {
@@ -509,20 +521,6 @@
       ]
     },
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/bRcHwAHbn-w"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -668,6 +666,9 @@
     "sources": {
       "streams": [
         "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/hHrJB5xMQ7g"
       ]
     },
     "languages": [
@@ -682,20 +683,6 @@
     "sources": {
       "streams": [
         "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/JoQTU0Wf-rs"
       ]
     },
     "languages": [
@@ -765,20 +752,6 @@
       "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "sources": {
-      "streams": [
-        "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
-      ]
-    },
     "languages": [
       "deu"
     ],
@@ -1253,20 +1226,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jrhvPj9Sfa0uyr",
-    "name": "Rakuten TV Family Movies Germany",
-    "sources": {
-      "streams": [
-        "https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ILjNpPssxRQReN",
     "name": "RAN1",
     "sources": {
@@ -1564,6 +1523,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c6FglMe1KLnNPQ",
+    "name": "Sky Sport Top Event",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/6/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "e8rG5QU8htEE7k",
     "name": "Sophia TV",
     "sources": {
@@ -1601,6 +1574,21 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sDVZRUTmx8aVEt",
+    "name": "Sportdigital FUSSBALL",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
     ],
     "country": "de",
     "isGeoBlocked": false
@@ -1694,6 +1682,33 @@
     "sources": {
       "streams": [
         "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dh2uUg08yXJN7u",
+    "name": "Tennis Channel Germany",
+    "sources": {
+      "streams": [
+        "https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "26XgnwsMGpjD8v",
+    "name": "Tide TV",
+    "sources": {
+      "streams": [
+        "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8",
+        "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8"
       ]
     },
     "languages": [

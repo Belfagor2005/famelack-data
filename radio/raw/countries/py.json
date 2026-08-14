@@ -158,9 +158,9 @@
     "name": "Radio Aspen 102.7 FM",
     "sources": {
       "streams": [
+        "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
         "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
-        "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
-        "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
+        "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -231,6 +231,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "f0gzgwyPcyF1ev",
+    "name": "Radio Tapiracuai 88.7 FM",
+    "sources": {
+      "streams": [
+        "https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "J3WhGO82DCbCuF",

@@ -555,6 +555,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TvC9IkacQ2bEar",
+    "name": "Radar 97.8 FM",
+    "sources": {
+      "streams": [
+        "https://proic1.evspt.com/radar_aac",
+        "https://proic1.evspt.com/radar_mp3"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oJnSTQGt0MorXd",
     "name": "Rádio Alto Minho",
     "sources": {
@@ -741,8 +756,8 @@
     "name": "Rádio Comercial Portugal",
     "sources": {
       "streams": [
-        "https://stream-icy.bauermedia.pt/rctuga.aac",
-        "https://stream-icy.bauermedia.pt/comercial.mp3"
+        "https://stream-icy.bauermedia.pt/comercial.mp3",
+        "https://stream-icy.bauermedia.pt/rctuga.aac"
       ]
     },
     "languages": [
@@ -1057,11 +1072,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hmlHtQxMssmgH5",
-    "name": "Radio Orbital",
+    "nanoid": "XVPPh3yP5MLpu0",
+    "name": "Rádio Oxigénio 102.6 FM",
     "sources": {
       "streams": [
-        "https://ec2.yesstreaming.net:3025/stream"
+        "https://proic1.evspt.com/oxigenio_aac"
       ]
     },
     "languages": [
@@ -1076,20 +1091,6 @@
     "sources": {
       "streams": [
         "https://audio.serv.pt/8018/stream.mp3"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "S61CVxYvlZsBY6",
-    "name": "Rádio Paralelo",
-    "sources": {
-      "streams": [
-        "https://radioparalelo.indymedia.pt:8443/main.ogg"
       ]
     },
     "languages": [

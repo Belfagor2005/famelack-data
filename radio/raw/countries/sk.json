@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "h7HudEHLbSJke2",
-    "name": "897 Dance Radio",
-    "sources": {
-      "streams": [
-        "https://c34.radioboss.fm:8106/stream"
-      ]
-    },
-    "languages": [
-      "slk"
-    ],
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QdDZc5nbWo6PmC",
     "name": "BB FM",
     "sources": {
@@ -288,6 +274,7 @@
     "name": "Rádio Expres",
     "sources": {
       "streams": [
+        "https://stream.bauermedia.sk/128.mp3",
         "https://stream.expres.sk/128.mp3"
       ]
     },
@@ -456,8 +443,8 @@
     "name": "Radio Viva",
     "sources": {
       "streams": [
-        "https://stream.sepia.sk/viva128.mp3",
-        "https://stream.sepia.sk:8000/viva128.mp3"
+        "https://stream.sepia.sk:8000/viva128.mp3",
+        "https://stream.sepia.sk/viva128.mp3"
       ]
     },
     "languages": [

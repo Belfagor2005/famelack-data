@@ -59,13 +59,28 @@
     ]
   },
   {
+    "nanoid": "dudeyjFGw7VQZH",
+    "name": "Just Music Radio",
+    "sources": {
+      "streams": [
+        "https://radiostream.neotel.mk/justmusicradio"
+      ]
+    },
+    "languages": [
+      "eng",
+      "mkd"
+    ],
+    "country": "mk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zLYbwvx7xdVnLd",
     "name": "Kanal 77",
     "sources": {
       "streams": [
         "https://radiocnd.mms.mk/proxy/reactradio/stream",
-        "https://radiocnd.mms.mk/proxy/player/stream",
-        "https://radiocnd.mms.mk/proxy/offnet/stream"
+        "https://radiocnd.mms.mk/proxy/offnet/stream",
+        "https://radiocnd.mms.mk/proxy/player/stream"
       ]
     },
     "languages": [
@@ -144,6 +159,20 @@
     "languages": [
       "mkd"
     ]
+  },
+  {
+    "nanoid": "ilzYBIW2Y7eBPr",
+    "name": "Sky Radio",
+    "sources": {
+      "streams": [
+        "https://s1.skyradio.com.mk/;*.mp3"
+      ]
+    },
+    "languages": [
+      "mkd"
+    ],
+    "country": "mk",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Fo1Tdo190wlPGm",

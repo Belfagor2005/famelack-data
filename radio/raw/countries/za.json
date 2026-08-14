@@ -17,8 +17,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-        "https://22343.live.streamtheworld.com/FM702_SC",
-        "https://25293.live.streamtheworld.com/FM702_SC"
+        "https://28513.live.streamtheworld.com/FM702_SC",
+        "https://22533.live.streamtheworld.com/FM702_SC"
       ]
     },
     "languages": [
@@ -43,9 +43,9 @@
     "name": "947",
     "sources": {
       "streams": [
-        "https://22653.live.streamtheworld.com/FM947AAC_SC",
-        "https://25283.live.streamtheworld.com/FM947AAC_SC",
-        "https://27953.live.streamtheworld.com/FM947AAC_SC"
+        "https://22733.live.streamtheworld.com/FM947AAC_SC",
+        "https://25223.live.streamtheworld.com/FM947AAC_SC",
+        "https://25703.live.streamtheworld.com/FM947_SC"
       ]
     },
     "languages": [
@@ -91,8 +91,8 @@
     "name": "Amapiano FM",
     "sources": {
       "streams": [
-        "https://stream-37.zeno.fm/xs6zeac1ts8uv",
-        "https://stream.zeno.fm/xs6zeac1ts8uv"
+        "https://stream.zeno.fm/xs6zeac1ts8uv",
+        "https://stream-37.zeno.fm/xs6zeac1ts8uv"
       ]
     },
     "languages": [
@@ -147,8 +147,8 @@
     "sources": {
       "streams": [
         "https://22733.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://23623.live.streamtheworld.com/CAPE_TALK_SC",
-        "https://25453.live.streamtheworld.com/CAPE_TALK_SC"
+        "https://25643.live.streamtheworld.com/CAPE_TALK_SC",
+        "https://27823.live.streamtheworld.com/CAPE_TALK_SC"
       ]
     },
     "languages": [
@@ -1035,6 +1035,20 @@
     ]
   },
   {
+    "nanoid": "QZcDwSdJMDaIAJ",
+    "name": "SFM 90.1",
+    "sources": {
+      "streams": [
+        "https://iceant.eclipse-streaming.co.za/SFM"
+      ]
+    },
+    "languages": [
+      "afr"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bH6wVVsQdUrjyn",
     "name": "Simply Making Success Radio",
     "sources": {
@@ -1158,6 +1172,20 @@
     "languages": [
       "zul"
     ]
+  },
+  {
+    "nanoid": "koENG4uGsqQxmY",
+    "name": "Ukhozi FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC"
+      ]
+    },
+    "languages": [
+      "zul"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "G7ZXTeI8suCVaR",

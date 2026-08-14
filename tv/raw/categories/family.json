@@ -133,7 +133,7 @@
     "name": "FETV",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
+        "https://40.160.24.56/FETV_SD/index.m3u8"
       ]
     },
     "languages": [
@@ -143,27 +143,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ni7lHqOGMgUILm",
-    "name": "Freeform East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.52/FREEFORM/index.m3u8",
-        "https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "ScKFn570TqDOwF",
     "name": "Great American Family",
     "sources": {
       "streams": [
-        "https://40.160.24.58/GAC_FAMILY/index.m3u8",
-        "https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8"
+        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
       ]
     },
     "languages": [
@@ -244,20 +228,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DpXLigaj4ocq6i",
-    "name": "MNB Family",
-    "sources": {
-      "streams": [
-        "https://live.mnb.mn/hls/mnb_family.stream.m3u8"
-      ]
-    },
-    "languages": [
-      "mon"
-    ],
-    "country": "mn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3SXsiS0bu9wuAn",
     "name": "Positiv TV",
     "stream_urls": [
@@ -328,12 +298,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oLnLTQ4nnHeCAZ",
+    "name": "Soweto TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "sources": {
       "streams": [
         "https://stream.mcquack.net/138/index.m3u8",
-        "https://streaming.televizor-24-tochka.ru/live/296.m3u8",
+        "https://tshift-1.telecoma.tv/sts/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
       ]
     },

@@ -85,20 +85,6 @@
     ]
   },
   {
-    "nanoid": "NKbyZ8iIPeubOb",
-    "name": "Color Stereo 105.3 FM",
-    "sources": {
-      "streams": [
-        "https://cloudstream2032.conectarhosting.com/9470/;"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NIQiNZjgjDtHeo",
     "name": "Cómplice FM",
     "sources": {
@@ -678,8 +664,8 @@
     "name": "Radio 11Q",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8012/radio11q",
-        "https://streamingecuador.net:8012/stream"
+        "https://streamingecuador.net:8012/stream",
+        "https://streamingecuador.net:8012/radio11q"
       ]
     },
     "languages": [
@@ -812,8 +798,8 @@
     "name": "Radio Canela",
     "sources": {
       "streams": [
-        "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
         "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
+        "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
         "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
       ]
     },
@@ -966,6 +952,20 @@
     ]
   },
   {
+    "nanoid": "DmN9zEZXNolHtC",
+    "name": "Radio La Red",
+    "sources": {
+      "streams": [
+        "https://icecast.radiolared.com.ec/radiolared"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HHp2kVPExCT7dQ",
     "name": "Radio La Única",
     "sources": {
@@ -1017,8 +1017,8 @@
     "name": "Radio Naval",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8029/radionaval",
-        "https://streamingecuador.net:8029/Radio_Naval"
+        "https://streamingecuador.net:8029/Radio_Naval",
+        "https://streamingecuador.net:8029/radionaval"
       ]
     },
     "languages": [
@@ -1456,6 +1456,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "vTHoqkBenwyr5S",
+    "name": "Tucán Radio 105.1 FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8023/radiotucan"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "GgJbGGgx4SnUC4",

@@ -414,6 +414,34 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "cQkoUN7cMF98ao",
+    "name": "Polsat Sport 1",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HCuXiJRBY0QrpX",
+    "name": "Puls 2",
+    "sources": {
+      "streams": [
+        "https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PgSQJkjlJAZPaq",
     "name": "RACER International",
     "stream_urls": [
@@ -781,6 +809,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XHTx1GiWzd6xhN",
+    "name": "TV Puls",
+    "sources": {
+      "streams": [
+        "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8",
+        "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "8WHhXW6sorajRc",
     "name": "TV Regionalna Lubin",
     "sources": {
@@ -851,6 +894,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1FmkZgcgURnflD",
+    "name": "TVP Sport",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2NOHQqe5XXGwtZ",
     "name": "TVP World",
     "stream_urls": [
@@ -883,8 +940,7 @@
     "name": "Twoja.TV",
     "sources": {
       "streams": [
-        "https://stream.twoja.tv/ttv_hls/live.m3u8",
-        "https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8"
+        "https://stream.twoja.tv/ttv_hls/live.m3u8"
       ]
     },
     "languages": [

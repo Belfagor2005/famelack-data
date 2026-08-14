@@ -696,8 +696,8 @@
     "name": "Disco Diamond Radio",
     "sources": {
       "streams": [
-        "https://ddr2020.radioca.st/stream",
-        "https://discodiamond.radioca.st/stream"
+        "https://discodiamond.radioca.st/stream",
+        "https://ddr2020.radioca.st/stream"
       ]
     },
     "languages": [
@@ -715,6 +715,20 @@
     "languages": [
       "hun"
     ]
+  },
+  {
+    "nanoid": "yssvNpelyvDlDi",
+    "name": "Európa Rádió",
+    "sources": {
+      "streams": [
+        "https://europaradio.hu/miskolc"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ZOdHP35NDAl8Zo",
@@ -1366,20 +1380,6 @@
     ]
   },
   {
-    "nanoid": "Z1pvIPtPO6AQHn",
-    "name": "Oxygen Xmas",
-    "sources": {
-      "streams": [
-        "https://oxygenmusic.hu:8000/xmas_320"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9c4XmzHs5KKZ0y",
     "name": "Ozone FM",
     "sources": {
@@ -1557,8 +1557,8 @@
     "name": "radiOzora Chill",
     "sources": {
       "streams": [
-        "https://chill.out.airtime.pro:8000/chill_a",
-        "https://chill.out.airtime.pro/chill_a"
+        "https://chill.out.airtime.pro/chill_a",
+        "https://chill.out.airtime.pro:8000/chill_a"
       ]
     },
     "languages": [
@@ -1582,9 +1582,9 @@
     "name": "Retro Rádió",
     "sources": {
       "streams": [
+        "https://icast.connectmedia.hu/5002/live.mp3",
         "https://icast.connectmedia.hu/5001/live.mp3",
-        "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a",
-        "https://icast.connectmedia.hu/5002/live.mp3"
+        "https://icast.connectmedia.hu/5001/live.mp3/retroradio_aac_128.m4a"
       ]
     },
     "languages": [

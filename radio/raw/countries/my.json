@@ -16,8 +16,8 @@
     "name": "988 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac",
-        "https://28103.live.streamtheworld.com/988_FMAAC.aac"
+        "https://28103.live.streamtheworld.com/988_FMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac"
       ]
     },
     "languages": [
@@ -195,6 +195,20 @@
     "languages": [
       "msa"
     ]
+  },
+  {
+    "nanoid": "5Iou2VgeMdHe8S",
+    "name": "Kool 101",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/3930238mtd3vv/10_vqvq5cj8918202/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "msa"
+    ],
+    "country": "my",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "1SQJLMXaLUmzPX",
@@ -501,8 +515,8 @@
     "name": "Traxx FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
-        "https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac"
+        "https://28103.live.streamtheworld.com/TRAXX_FMAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC"
       ]
     },
     "languages": [

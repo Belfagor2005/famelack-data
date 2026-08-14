@@ -17,7 +17,6 @@
     "name": "24 Hour Free Movies",
     "sources": {
       "streams": [
-        "https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi",
         "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
       ]
     },
@@ -57,11 +56,10 @@
   },
   {
     "nanoid": "UubRrT9WgFyP0i",
-    "name": "ActionMax East HD",
+    "name": "ActionMax East",
     "sources": {
       "streams": [
-        "https://40.160.24.52/ACTIONMAX/index.m3u8",
-        "https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8"
+        "https://40.160.24.56/ACTIONMAX_SD/index.m3u8"
       ]
     },
     "languages": [
@@ -284,20 +282,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jBRnRrfFd8SgXb",
-    "name": "Bioskop TelkomVision",
-    "sources": {
-      "streams": [
-        "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FWhDbCLuy2F57c",
     "name": "BIZ Cinema",
     "sources": {
@@ -396,26 +380,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "btEJDr7vMTEkmk",
-    "name": "Canal Cine Dios",
+    "nanoid": "GrcOSQRyVFsYve",
+    "name": "CCTV-6",
     "sources": {
       "streams": [
-        "https://canal.mediaserver.com.co/live/cinedios.m3u8"
+        "https://live.eac-news.com/CCTV/streams/cctv6.m3u8"
       ]
     },
     "languages": [
-      "spa"
+      "zho"
     ],
-    "country": "co",
-    "isGeoBlocked": false
+    "country": "cn",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "CZQIAk4EUWp6Ag",
     "name": "Charge!",
     "sources": {
       "streams": [
-        "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
-        "https://gpuserver3.tier1streams.com/CHARGE/index.m3u8"
+        "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8"
       ]
     },
     "languages": [
@@ -926,26 +909,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eGHy3rK88v9mBY",
-    "name": "Great American Faith & Living",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ScKFn570TqDOwF",
     "name": "Great American Family",
     "sources": {
       "streams": [
-        "https://40.160.24.58/GAC_FAMILY/index.m3u8",
-        "https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8"
+        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
       ]
     },
     "languages": [
@@ -1335,21 +1303,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lzh8NoZwGUGsG2",
-    "name": "MCI Television",
-    "sources": {
-      "streams": [
-        "https://video.ejeserver.com/live/mcitelevision.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CH0OBldtzqtjEK",
     "name": "Mega Cine TV",
     "sources": {
@@ -1375,36 +1328,6 @@
       "fas"
     ],
     "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VnkIr8lEIZSTtT",
-    "name": "MGM+ Drive-In",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nmvDYU77CcKzht",
-    "name": "MGM+ East",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/EPIX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1659,22 +1582,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yq9I4GUJy9xQLc",
-    "name": "NH BollyFlix",
-    "sources": {
-      "streams": [
-        "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8"
-      ]
-    },
-    "languages": [
-      "hin",
-      "mai",
-      "nep"
-    ],
-    "country": "np",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LfWutn3icfqkaF",
     "name": "Nolly Africa",
     "stream_urls": [
@@ -1699,6 +1606,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FPW5dG6jwJsfts",
+    "name": "Novyi Russkii",
+    "sources": {
+      "streams": [
+        "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1917,20 +1838,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "puttCC33EGjZMn",
-    "name": "Punjabi Shorts",
-    "sources": {
-      "streams": [
-        "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pan"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xPU4Ep9UnoE2H1",
     "name": "Raj Digital Plus",
     "sources": {
@@ -2144,28 +2051,15 @@
     "name": "Sony Movies",
     "sources": {
       "streams": [
-        "https://45.162.64.114/SONY_MOVIES/index.m3u8",
-        "https://45.190.28.50/SONY_MOVIES/index.m3u8"
+        "https://45.177.114.115/SONY_MOVIES/index.m3u8",
+        "https://170.83.16.50/SONY_MOVIES/index.m3u8",
+        "https://168.197.104.22/SONY_MOVIES/index.m3u8"
       ]
     },
     "languages": [
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Kvk7RMDyU5nlWZ",
-    "name": "Sony Movies Latin America",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/SONY_MOVIES/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -2312,20 +2206,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rIfJThnFhfHSaq",
-    "name": "Sundance TV East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/SUNDANCE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9XCIxSDz7ScIo3",
     "name": "Suriyan TV",
     "stream_urls": [
@@ -2372,7 +2252,9 @@
         "https://stream.mcquack.net/152/index.m3u8"
       ]
     },
-    "languages": [],
+    "languages": [
+      "rus"
+    ],
     "country": "ru",
     "isGeoBlocked": false
   },
@@ -2504,6 +2386,20 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "68rv53iZ2D53v3",
+    "name": "Viva Cinema",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/viva/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
     "isGeoBlocked": false
   },
   {

@@ -228,7 +228,8 @@
     "name": "CGTN Global Biz",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
       ]
     },
     "languages": [
@@ -236,20 +237,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BrKtlgOZb5CWr8",
-    "name": "Cheddar Business",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -271,7 +258,7 @@
     "name": "CNBC",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/CNBC/index.m3u8"
+        "https://40.160.24.56/CNBC_SD/index.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
@@ -387,7 +374,7 @@
     "name": "CNBC World",
     "sources": {
       "streams": [
-        "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8"
+        "https://40.160.24.56/CNBC_WORLD_SD/index.m3u8"
       ]
     },
     "languages": [
@@ -445,7 +432,7 @@
     "sources": {
       "streams": [
         "https://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8",
-        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
+        "https://40.160.24.56/FOX_BUSINESS_SD/index.m3u8"
       ]
     },
     "languages": [
@@ -508,6 +495,20 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
     "isGeoBlocked": false
   },
   {
@@ -632,7 +633,7 @@
     "name": "서울경제TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/JVBVZIUAAtI"
+        "https://www.youtube-nocookie.com/embed/ciA-0rInLwQ"
       ]
     },
     "languages": [

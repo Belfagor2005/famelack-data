@@ -857,8 +857,8 @@
     "name": "Magic FM Gold",
     "sources": {
       "streams": [
-        "https://live.kissfm.ro/magic.gold.hits",
-        "https://live.magicfm.ro/magic.gold.hits"
+        "https://live.magicfm.ro/magic.gold.hits",
+        "https://live.kissfm.ro/magic.gold.hits"
       ]
     },
     "languages": [
@@ -906,8 +906,8 @@
     "name": "Magic FM Party Mix",
     "sources": {
       "streams": [
-        "https://live.kissfm.ro/magic.party.mix",
-        "https://live.magicfm.ro/magic.party.mix"
+        "https://live.magicfm.ro/magic.party.mix",
+        "https://live.kissfm.ro/magic.party.mix"
       ]
     },
     "languages": [
@@ -1127,8 +1127,8 @@
     "name": "Play Urban",
     "sources": {
       "streams": [
-        "https://live.playradio.org:8443/UrbanHD",
-        "https://live.playradio.org:9090/UrbanHD"
+        "https://live.playradio.org:9090/UrbanHD",
+        "https://live.playradio.org:8443/UrbanHD"
       ]
     },
     "languages": [
@@ -1467,8 +1467,8 @@
     "name": "Radio Calea Spre Cer Copii",
     "sources": {
       "streams": [
-        "https://panel.radiocaleasprecer.com/radio/8040/radio.mp3",
-        "https://panel.radiocaleasprecer.com/radio/8020/radio.mp3"
+        "https://panel.radiocaleasprecer.com/radio/8020/radio.mp3",
+        "https://panel.radiocaleasprecer.com/radio/8040/radio.mp3"
       ]
     },
     "languages": [
@@ -1808,6 +1808,20 @@
     ]
   },
   {
+    "nanoid": "uj1A3vyaoA8m2e",
+    "name": "Rádió GaGa Marosszék",
+    "sources": {
+      "streams": [
+        "https://a3.my-control-panel.com:6660/radio.mp3"
+      ]
+    },
+    "languages": [
+      "hun"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dcsEE6Nqpivp14",
     "name": "Radio GMusic Colinde",
     "sources": {
@@ -2075,20 +2089,6 @@
     ]
   },
   {
-    "nanoid": "sqQGMgp4iKA6aI",
-    "name": "Radio Manele Petrecere",
-    "sources": {
-      "streams": [
-        "https://ssl.servereradio.ro/8123/stream"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qCbv7wn9dNt0Ex",
     "name": "Radio Marketescu House & Minimal",
     "sources": {
@@ -2136,6 +2136,20 @@
     ]
   },
   {
+    "nanoid": "ObJ9CstCckbi11",
+    "name": "Radio Marketescu Travel",
+    "sources": {
+      "streams": [
+        "https://s103.radiolize.com:8020/radio.mp3"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xksZZurrRsNzNN",
     "name": "Radio Mirajul Muzicii",
     "sources": {
@@ -2168,6 +2182,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "tBWeTBxkvmhXBA",
+    "name": "Radio Mynele",
+    "sources": {
+      "streams": [
+        "https://live.radiomynele.ro:8000/;"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "tg54J3tsTbxTO7",
@@ -2913,6 +2941,20 @@
     ]
   },
   {
+    "nanoid": "ansKcotHhgP905",
+    "name": "Radio Trinitas",
+    "sources": {
+      "streams": [
+        "https://live.radiotrinitas.ro:8003/;stream.nsv"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zJ0QoQgQS6bRtt",
     "name": "Radio Turda",
     "sources": {
@@ -2959,11 +3001,24 @@
     ]
   },
   {
+    "nanoid": "Wmoeg4GuNvOKKw",
+    "name": "Radio UMF Craiova",
+    "sources": {
+      "streams": [
+        "https://sonic2-rbx.cloud-center.ro/8072/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WcMXHLzHkkT9Lb",
     "name": "Radio Underland",
     "sources": {
       "streams": [
-        "https://radio.underland.team:8000/radio.mp3",
         "https://radio.underland.team/radio/8000/radio.mp3"
       ]
     },
@@ -3851,6 +3906,48 @@
     ]
   },
   {
+    "nanoid": "TvlAmxWwF614HN",
+    "name": "Viva FM Botoșani",
+    "sources": {
+      "streams": [
+        "https://cloud.radiosonicpanel.ro:8006/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pYtN1Z9efuHnKL",
+    "name": "Viva FM Deep Music",
+    "sources": {
+      "streams": [
+        "https://cloud.radiosonicpanel.ro/8024/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mhnj5IIfFVfIAV",
+    "name": "Viva FM Fălticeni",
+    "sources": {
+      "streams": [
+        "https://cloud.radiosonicpanel.ro:8012/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ggcJbnyIdDR6Kd",
     "name": "Viva FM Hârlău",
     "sources": {
@@ -3935,6 +4032,20 @@
     "sources": {
       "streams": [
         "https://cloud.radiosonicpanel.ro:8010/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NnxCFDRk6zLwTk",
+    "name": "Viva FM Piatra Neamț",
+    "sources": {
+      "streams": [
+        "https://cloud.radiosonicpanel.ro:8008/stream"
       ]
     },
     "languages": [

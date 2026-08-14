@@ -13,6 +13,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WDEjDpDWifIyr0",
+    "name": "Imai TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
+    ],
+    "country": "lk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aPS8EfkYXWdlK5",
     "name": "Jaya TV",
     "sources": {
@@ -124,7 +138,7 @@
     "name": "Newsfirst Sri Lanka",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/PCKIihxeLPE"
+        "https://www.youtube-nocookie.com/embed/fMcH9lM7jhk"
       ]
     },
     "languages": [
@@ -167,20 +181,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/mSGL-Dn4XLk"
     ],
-    "languages": [
-      "sin"
-    ],
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "93ImfKCer0mJxB",
-    "name": "Siyatha TV",
-    "sources": {
-      "streams": [
-        "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
-      ]
-    },
     "languages": [
       "sin"
     ],

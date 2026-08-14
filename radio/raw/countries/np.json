@@ -5,8 +5,8 @@
     "sources": {
       "streams": [
         "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
-        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
-        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac"
+        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
       ]
     },
     "languages": [
@@ -110,6 +110,20 @@
     "country": "np",
     "languages": [
       "eng",
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZBN9TSqyMsKWCp",
+    "name": "Vijaya FM 101.6",
+    "sources": {
+      "streams": [
+        "https://live.itech.host:3320/stream"
+      ]
+    },
+    "languages": [
       "nep"
     ],
     "country": "np",

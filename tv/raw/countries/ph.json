@@ -30,6 +30,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qnEYIzkc0TBKSS",
+    "name": "Aliw Channel 23",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/aliw/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VD4GTEUpGmMeyP",
     "name": "All TV",
     "sources": {
@@ -103,22 +118,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "k6kILJ1P88D8yy",
-    "name": "CLTV 36",
-    "sources": {
-      "streams": [
-        "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8"
-      ]
-    },
-    "languages": [
-      "eng",
-      "pam",
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xO426KlalATtSy",
     "name": "Dream TV Philippines",
     "sources": {
@@ -138,6 +137,20 @@
     "sources": {
       "streams": [
         "https://duriantvph.itunerworldwide.workers.dev/master.live.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7il1J2yhx2duaZ",
+    "name": "DZMM TeleRadyo",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8"
       ]
     },
     "languages": [
@@ -190,6 +203,79 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qOfhqTR2NrNFTd",
+    "name": "Net 25",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/net_25/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DP9NEfuihJNycY",
+    "name": "One Sports",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/one_sports/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fKpe3aa2xmQa2u",
+    "name": "PBO",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/pbo/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vX2Vm81TXt010f",
+    "name": "Premier Sports",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSj74UmnkvuvdN",
+    "name": "Premier Sports 2",
+    "sources": {
+      "streams": [
+        "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aSbh31FN0fGHrR",
     "name": "PTN",
     "sources": {
@@ -209,6 +295,20 @@
     "sources": {
       "streams": [
         "https://streams.comclark.com/pknsd/ptv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ewQFyBRyxXlHC5",
+    "name": "RJ DigiTV",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/rjtv_29/playlist.m3u8"
       ]
     },
     "languages": [
@@ -247,6 +347,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2gkarGO4fauZPH",
+    "name": "SMNI",
+    "sources": {
+      "streams": [
+        "https://stream.kdlc.click/hls/0/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SmRUs7iKM5d3cy",
+    "name": "Solar Sports",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/solar_sports/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xSbLWMj1xdKRQ4",
+    "name": "SolarFlix",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/solar_flix/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fil"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wTn8t48jb6lXBN",
     "name": "Star Television",
     "sources": {
@@ -275,11 +418,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iy4DzSWvO3GYHT",
-    "name": "Teleradyo Serbisyo",
+    "nanoid": "SE7U73EhYiqR6q",
+    "name": "Tagalized Movie Channel",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/h3ptkJbWrkA"
+      "streams": [
+        "https://streams.comclark.com/pknsd/tmc/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ntiWQQYB5T4tD7",
+    "name": "TV Maria",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8"
       ]
     },
     "languages": [
@@ -303,11 +460,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6liHadCs3WjetP",
+    "name": "UNTV",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/untv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hMNBoVmzvLJ9tI",
     "name": "UNTV News and Rescue",
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/UxQZ1yOqbQE"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "68rv53iZ2D53v3",
+    "name": "Viva Cinema",
+    "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/viva/playlist.m3u8"
       ]
     },
     "languages": [

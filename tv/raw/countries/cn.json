@@ -13,11 +13,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FLJTgXx5Ik6ljh",
-    "name": "Angel TV Chinese",
+    "nanoid": "uzMnROBDMiNzKY",
+    "name": "Anhui TV",
     "sources": {
       "streams": [
-        "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
+        "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
       ]
     },
     "languages": [
@@ -83,18 +83,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fKZLucUhJYe0vc",
-    "name": "CCTV-5+",
+    "nanoid": "GrcOSQRyVFsYve",
+    "name": "CCTV-6",
     "sources": {
       "streams": [
-        "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
+        "https://live.eac-news.com/CCTV/streams/cctv6.m3u8"
       ]
     },
     "languages": [
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "8qbHNd2Zc2MjWY",
@@ -191,7 +191,7 @@
     "name": "CGTN Europe",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/_6dRRfnYJws"
+        "https://www.youtube-nocookie.com/embed/fZqr56lztHw"
       ]
     },
     "languages": [
@@ -221,7 +221,8 @@
     "name": "CGTN Global Biz",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
       ]
     },
     "languages": [
@@ -284,7 +285,8 @@
     "name": "China Travel",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
       ]
     },
     "languages": [
@@ -299,7 +301,8 @@
     "name": "Discovering China",
     "sources": {
       "streams": [
-        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
+        "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8",
+        "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8"
       ]
     },
     "languages": [
@@ -342,7 +345,8 @@
     "name": "Hebei TV",
     "sources": {
       "streams": [
-        "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8"
+        "https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8",
+        "https://event.pull.hebtv.com/live/live101.m3u8"
       ]
     },
     "languages": [
@@ -394,20 +398,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sxmEu2IrHYwAmm",
-    "name": "Lanzhou Comprehensive News Channel",
-    "sources": {
-      "streams": [
-        "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8"
-      ]
-    },
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TBLEe7xTZlOnb",
     "name": "Lanzhou Culture & Tourism Channel",
     "sources": {
@@ -446,6 +436,20 @@
     },
     "languages": [
       "mon",
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IV9oDGVXC1kS4J",
+    "name": "Qinghai TV",
+    "sources": {
+      "streams": [
+        "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8"
+      ]
+    },
+    "languages": [
       "zho"
     ],
     "country": "cn",

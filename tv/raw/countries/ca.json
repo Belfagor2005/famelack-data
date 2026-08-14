@@ -341,53 +341,11 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "C2IpSsj3CjIb2e",
-    "name": "CBKFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "1yLst6OvN4IiS8",
-    "name": "CBLFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "qMfxPERIpN5bJn",
     "name": "CBOFT-DT",
     "sources": {
       "streams": [
         "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "9l6DsmybaReA2E",
-    "name": "CBUFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
       ]
     },
     "languages": [
@@ -420,20 +378,6 @@
     },
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "vN4KxpB8RBfII1",
-    "name": "CBXFT-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -577,20 +521,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UmEJkzAUB1AYQg",
-    "name": "CJBR-DT",
-    "sources": {
-      "streams": [
-        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "lvoDUBhVQd9VsC",
     "name": "CJON-DT",
     "sources": {
@@ -671,34 +601,6 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "ZjrdyB3hSZu0bK",
-    "name": "CP24",
-    "sources": {
-      "streams": [
-        "https://tvsen6.aynaott.com/cp24/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5FIig7aRRBANHx",
-    "name": "CTV Speed Channel",
-    "sources": {
-      "streams": [
-        "https://gpuserver3.tier1streams.com/DISCOVERY_SCIENCE_HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "ZXvLfybRDCi9xD",
@@ -874,7 +776,6 @@
     "name": "Hard Knocks",
     "sources": {
       "streams": [
-        "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
         "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
       ]
     },
@@ -1108,6 +1009,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ggVaTzuCKy1JEd",
+    "name": "Legislative Assembly TV Nunavut",
+    "sources": {
+      "streams": [
+        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lQWrqWxPSBgWUI",
     "name": "Love Nature",
     "stream_urls": [
@@ -1336,34 +1251,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jVntXYmn9juMuc",
-    "name": "Slice",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/SLICE/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tam"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7Cp1Y1X0LUUt6R",
     "name": "Stingray Christian Hits",
     "sources": {
@@ -1402,6 +1289,23 @@
     ],
     "country": "ca",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5t53vL5oPCm3CM",
+    "name": "Stingray Classica",
+    "sources": {
+      "streams": [
+        "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng",
+      "fra",
+      "spa"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "LuDNPxab0f0pCa",
@@ -2111,62 +2015,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ai9BqwKChqqER5",
-    "name": "TSN2",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wb9D3FYsHIR9Dd",
-    "name": "TSN3",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_3/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5ikJPlxT4rSlki",
-    "name": "TSN4",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_4/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WWeaDyjDDgcRDS",
-    "name": "TSN5",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_5/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "26wbYyZD2WNH5P",
     "name": "TV Punjab",
     "sources": {
@@ -2231,20 +2079,6 @@
       ]
     },
     "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7MJcYnhqkdKmZp",
-    "name": "Watan-e-Maa TV",
-    "sources": {
-      "streams": [
-        "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "prd"
-    ],
     "country": "ca",
     "isGeoBlocked": false
   },

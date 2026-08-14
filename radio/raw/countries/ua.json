@@ -97,20 +97,6 @@
     ]
   },
   {
-    "nanoid": "VEgcJqQ72yDZHi",
-    "name": "Europa Plus Ukraine",
-    "sources": {
-      "streams": [
-        "https://s5.radioforge.com:7908/live"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MuQHW4bz5BFIJN",
     "name": "FM Галичина (Galychyna)",
     "sources": {
@@ -680,20 +666,6 @@
     ]
   },
   {
-    "nanoid": "UXnQmoPekiVfkv",
-    "name": "RockRadio UA (РокРадіо UA)",
-    "sources": {
-      "streams": [
-        "https://rockradioua.online:8433/rock_256"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DKI2LAISvIj66j",
     "name": "Seven Rays Radio",
     "sources": {
@@ -766,6 +738,20 @@
     "languages": [
       "ukr"
     ]
+  },
+  {
+    "nanoid": "gzt6j5duenjVsl",
+    "name": "Svoboda.FM",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/623869/stream/686722"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "JfPDM8xXVlg60M",
@@ -1016,25 +1002,10 @@
     ]
   },
   {
-    "nanoid": "M1gHxIFsmT74Tn",
-    "name": "Київ FM",
-    "sources": {
-      "streams": [
-        "https://cdn.vsnw.net:8943/kyiv_fm_128k"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KeBm4hbMl72KfD",
     "name": "Люкс FM (Lux FM)",
     "sources": {
       "streams": [
-        "https://icecastdc.luxnet.ua/lux_mp3_128",
         "https://icecast.luxnet.ua/lux",
         "https://icecast.luxnet.ua/luxlviv"
       ]
@@ -1618,20 +1589,6 @@
     ]
   },
   {
-    "nanoid": "B9MjwWB8VBHUA3",
-    "name": "Радіо Рейд",
-    "sources": {
-      "streams": [
-        "https://a9.asurahosting.com:7390/radio.mp3"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iFd2gimhjpoWkD",
     "name": "Радіо Сільпо",
     "stream_urls": [
@@ -1797,20 +1754,6 @@
     "languages": [
       "ukr"
     ]
-  },
-  {
-    "nanoid": "NNH2Y2potnU13Z",
-    "name": "Українське радіо - Радіоточка",
-    "sources": {
-      "streams": [
-        "https://radio.ukr.radio/ur5-mp3"
-      ]
-    },
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "KWmapzoW6vyP6o",

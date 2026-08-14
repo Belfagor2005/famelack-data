@@ -287,20 +287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z7tHup27v1j2Td",
-    "name": "Bodrum Kent TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/bodrumkenttv/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lnPH0Jssl2BDkS",
     "name": "Bric ve Satranc TV",
     "sources": {
@@ -1356,6 +1342,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F2Mb6ARE1l9qx2",
+    "name": "Kanal 33",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/kanal33/bant1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WlWPbkUSbOHRgd",
     "name": "Kanal 34",
     "sources": {
@@ -1549,20 +1549,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "axZRIy6sk182NP",
-    "name": "Konya Olay TV",
-    "sources": {
-      "streams": [
-        "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bxi4Hq4FcCvPGc",
     "name": "KRT TV",
     "stream_urls": [],
@@ -1594,7 +1580,7 @@
     "name": "Lider Haber",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/66PY-wjbgBQ"
+        "https://www.youtube-nocookie.com/embed/KRm4U6CNxb0"
       ]
     },
     "languages": [
@@ -1748,7 +1734,21 @@
     "name": "Muhteşem Yüzyıl",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0dmPGl8HV3A"
+        "https://www.youtube-nocookie.com/embed/d8pBFfmscKo"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BO4YypoB7kcaVn",
+    "name": "Neo Haber",
+    "sources": {
+      "streams": [
+        "https://edge2.taksimbilisim.com/neohaber/bant1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1952,6 +1952,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oQ5AK419QlFTfh",
+    "name": "S Sport",
+    "sources": {
+      "streams": [
+        "https://corestream.siteyaptim.live/s-sport/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tBhHjWUW81vL3u",
     "name": "S Sport 2",
     "sources": {
@@ -1972,20 +1987,6 @@
     "sources": {
       "streams": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mighzagP16kd5V",
-    "name": "Semerkand Way",
-    "sources": {
-      "streams": [
-        "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/mt_0.m3u8"
       ]
     },
     "languages": [
@@ -2019,6 +2020,20 @@
       ]
     },
     "languages": [],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1GHn7hBwkPvtBl",
+    "name": "Sonmez TV",
+    "sources": {
+      "streams": [
+        "https://sonmeztv.ozelip.com.tr:3826/live/sonmeztvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -2093,20 +2108,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5GoagSnDbPwxmH",
-    "name": "Tele 1",
-    "sources": {
-      "streams": [
-        "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pTUvBY4x4L3ji9",
     "name": "Telenews",
     "sources": {
@@ -2167,6 +2168,9 @@
     "sources": {
       "streams": [
         "https://tjktv-live.tjk.org/tjktv.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MDwwU_kFvPY"
       ]
     },
     "languages": [
@@ -2477,6 +2481,9 @@
     "nanoid": "W5plAUUYqWIZ2k",
     "name": "TV 100",
     "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/4WSvLRk83-c"
       ]

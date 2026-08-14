@@ -73,8 +73,8 @@
     "name": "88.5 WXPN",
     "sources": {
       "streams": [
-        "https://wxpn.xpn.org/xpnmp3hi",
-        "https://wxpnhi.xpn.org/xpnhi"
+        "https://wxpnhi.xpn.org/xpnhi",
+        "https://wxpn.xpn.org/xpnmp3hi"
       ]
     },
     "languages": [
@@ -128,6 +128,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "Zggh2YAAjtg59Q",
+    "name": "A Fine Jazz Gumbo Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.smartradio.ch:9502/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ch",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "D6ttLzh9QRbk2r",
@@ -393,7 +407,7 @@
     "name": "CBC Music Atlantic",
     "sources": {
       "streams": [
-        "https://26283.live.streamtheworld.com/CBH_CBC_SC",
+        "https://29327.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
         "https://17813.live.streamtheworld.com/CBH_CBC_SC"
       ]
@@ -422,7 +436,7 @@
       "streams": [
         "https://22983.live.streamtheworld.com/CBR1FM_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8",
-        "https://26373.live.streamtheworld.com/CBR1FM_CBC_SC"
+        "https://27033.live.streamtheworld.com/CBR1FM_CBC_SC"
       ]
     },
     "languages": [
@@ -606,8 +620,8 @@
     "name": "Exclusively Muddy Waters",
     "sources": {
       "streams": [
-        "https://2.mystreaming.net/er/muddywaters/icecast.audio",
-        "https://streaming.exclusive.radio/er/muddywaters/icecast.audio"
+        "https://streaming.exclusive.radio/er/muddywaters/icecast.audio",
+        "https://2.mystreaming.net/er/muddywaters/icecast.audio"
       ]
     },
     "languages": [
@@ -789,7 +803,7 @@
   },
   {
     "nanoid": "aWaB8uima0qJy9",
-    "name": "ICI Musique (Moncton)",
+    "name": "ICI Musique Nouveau-Brunswick",
     "sources": {
       "streams": [
         "https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8"
@@ -992,13 +1006,27 @@
     ]
   },
   {
+    "nanoid": "FxmfFgtRuMC4sN",
+    "name": "KNKX",
+    "sources": {
+      "streams": [
+        "https://knkx-live-a.edge.audiocdn.com/6284_128k"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XVj1dmBX5sDk3Y",
     "name": "KOFA Border Radio",
     "sources": {
       "streams": [
         "https://18443.live.streamtheworld.com/KAWCAM_SC",
         "https://23023.live.streamtheworld.com/KAWCAM_SC",
-        "https://29325.live.streamtheworld.com/KAWCAM_SC"
+        "https://23023.live.streamtheworld.com/KAWCAM.mp3"
       ]
     },
     "languages": [
@@ -1072,8 +1100,8 @@
     "name": "LifeGate Radio Blues",
     "sources": {
       "streams": [
-        "https://router.xdevel.com/audio3s975809-348/stream/icecast.audio",
-        "https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio"
+        "https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio",
+        "https://router.xdevel.com/audio3s975809-348/stream/icecast.audio"
       ]
     },
     "languages": [
@@ -1180,8 +1208,8 @@
     "name": "Music City Roadhouse",
     "sources": {
       "streams": [
-        "https://streaming.live365.com/a73754",
         "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
+        "https://streaming.live365.com/a73754",
         "https://ais-edge09-live365-dal02.cdnstream.com/a73754"
       ]
     },
@@ -1593,6 +1621,20 @@
     ]
   },
   {
+    "nanoid": "w4TFpIyrbwGcGq",
+    "name": "Radio OIOM",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7240/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "flJRMEq2ZAITFg",
     "name": "Radio Rennes 100.8 FM",
     "sources": {
@@ -1742,9 +1784,9 @@
     "name": "ROCK ANTENNE - Blues Rock",
     "sources": {
       "streams": [
-        "https://stream.rockantenne.de/hair-metal/stream/mp3",
+        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
         "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
-        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3"
+        "https://stream.rockantenne.de/hair-metal/stream/mp3"
       ]
     },
     "languages": [
@@ -1869,21 +1911,6 @@
     "languages": [
       "eng"
     ]
-  },
-  {
-    "nanoid": "7C8xJTE7Gn9Owk",
-    "name": "Styria Lounge",
-    "sources": {
-      "streams": [
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
-        "https://styrialounge.out.airtime.pro/styrialounge_a"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "9s55Nu3sZ1jJiV",

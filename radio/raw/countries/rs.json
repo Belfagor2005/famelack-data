@@ -209,8 +209,8 @@
     "name": "Naxi 70e Radio",
     "sources": {
       "streams": [
-        "https://naxidigital-70s128ssl.streaming.rs:8382/;",
-        "https://naxidigital-70s128ssl.streaming.rs:8042/;"
+        "https://naxidigital-70s128ssl.streaming.rs:8042/;",
+        "https://naxidigital-70s128ssl.streaming.rs:8382/;"
       ]
     },
     "languages": [
@@ -1068,6 +1068,20 @@
     ]
   },
   {
+    "nanoid": "E1JlzVwDYU5z40",
+    "name": "Radio Kolo",
+    "sources": {
+      "streams": [
+        "https://mars.streamerr.co/8280/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1W7U36D2JYwMzz",
     "name": "Radio Krajina 019",
     "sources": {
@@ -1288,8 +1302,8 @@
     "name": "Radio S3 Narodni",
     "sources": {
       "streams": [
-        "https://stream.radios.rs:9016/;",
-        "https://stream.radios.rs:9016/;*.mp3"
+        "https://stream.radios.rs:9016/;*.mp3",
+        "https://stream.radios.rs:9016/;"
       ]
     },
     "languages": [

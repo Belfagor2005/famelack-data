@@ -161,9 +161,9 @@
     "name": "DR P2",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A27L.mp3",
         "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
-        "https://live-icy.dr.dk/A/A04L.mp3"
+        "https://live-icy.dr.dk/A/A04L.mp3",
+        "https://live-icy.dr.dk/A/A27L.mp3"
       ]
     },
     "languages": [
@@ -187,9 +187,9 @@
     "name": "DR P4 Bornholm",
     "sources": {
       "streams": [
-        "https://live-icy.dr.dk/A/A30H.mp3",
+        "https://live-icy.gslb01.dr.dk/A/A06H.mp3",
         "https://live-icy.gss.dr.dk/A/A06H.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A06H.mp3"
+        "https://live-icy.dr.dk/A/A30H.mp3"
       ]
     },
     "languages": [
@@ -240,8 +240,8 @@
     "name": "DR P4 Midt & Vest",
     "sources": {
       "streams": [
-        "https://live-icy.gss.dr.dk/A/A09H.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A09H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A09H.mp3",
+        "https://live-icy.gss.dr.dk/A/A09H.mp3"
       ]
     },
     "languages": [
@@ -293,8 +293,8 @@
     "name": "DR P4 Syd",
     "sources": {
       "streams": [
-        "https://live-icy.gslb01.dr.dk/A/A12H.mp3",
-        "https://live-icy.gss.dr.dk/A/A12H.mp3"
+        "https://live-icy.gss.dr.dk/A/A12H.mp3",
+        "https://live-icy.gslb01.dr.dk/A/A12H.mp3"
       ]
     },
     "languages": [
@@ -398,8 +398,8 @@
     "sources": {
       "streams": [
         "https://live-icy.dr.dk/A/A29H.mp3",
-        "https://live-icy.gss.dr.dk/A/A29H.mp3",
-        "https://live-icy.gslb01.dr.dk/A/A29H.mp3"
+        "https://live-icy.gslb01.dr.dk/A/A29H.mp3",
+        "https://live-icy.gss.dr.dk/A/A29H.mp3"
       ]
     },
     "languages": [
@@ -1043,7 +1043,8 @@
     "name": "The Voice",
     "sources": {
       "streams": [
-        "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"
+        "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+        "https://live-bauerdk.sharp-stream.com/voice128.mp3"
       ]
     },
     "languages": [
@@ -1081,8 +1082,7 @@
     "name": "Vinyl Hits",
     "sources": {
       "streams": [
-        "https://stream.vinylhits.dk/vinylaac",
-        "https://stream.vinylhits.dk/vinylmp3"
+        "https://stream.vinylhits.dk/vinylaac"
       ]
     },
     "languages": [

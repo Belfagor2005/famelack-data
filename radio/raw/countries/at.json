@@ -60,9 +60,9 @@
     "name": "88.6 OnAir",
     "sources": {
       "streams": [
-        "https://edge07.streamonkey.net/radio886-onair/stream/mp3",
+        "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
         "https://radio886.at/streams/radio_88.6/mp3",
-        "https://edge82.streamonkey.net/radio886-onair/stream/mp3"
+        "https://edge07.streamonkey.net/radio886-onair/stream/mp3"
       ]
     },
     "languages": [
@@ -798,8 +798,8 @@
     "name": "I Love Deutschrap First",
     "sources": {
       "streams": [
-        "https://streams.ilovemusic.de/iloveradio104.mp3",
-        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst"
+        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst",
+        "https://streams.ilovemusic.de/iloveradio104.mp3"
       ]
     },
     "languages": [
@@ -1014,8 +1014,8 @@
     "name": "Life Radio Tirol",
     "sources": {
       "streams": [
-        "https://stream.liferadio.tirol/live/mp3-192/link",
-        "https://stream.liferadio.tirol/live/aac-256/SHQ"
+        "https://stream.liferadio.tirol/live/aac-256/SHQ",
+        "https://stream.liferadio.tirol/live/mp3-192/link"
       ]
     },
     "languages": [
@@ -1100,8 +1100,8 @@
     "name": "METAL Radio",
     "sources": {
       "streams": [
-        "https://stream.radiotechnikum.at:80/METALRadio",
-        "https://stream.radiotechnikum.at/METALRadio"
+        "https://stream.radiotechnikum.at/METALRadio",
+        "https://stream.radiotechnikum.at:80/METALRadio"
       ]
     },
     "languages": [
@@ -1820,6 +1820,20 @@
     ]
   },
   {
+    "nanoid": "nfwwZTyKgzRB7t",
+    "name": "Radio Helsinki",
+    "sources": {
+      "streams": [
+        "https://live.helsinki.at:8088/live160.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DPUIGJkR1OnUvO",
     "name": "Radio Himmelberg",
     "sources": {
@@ -2059,9 +2073,9 @@
     "name": "Radio U1 Tirol",
     "sources": {
       "streams": [
-        "https://live.u1-radio.at/",
-        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
-        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192",
+        "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
+        "https://live.u1-radio.at/"
       ]
     },
     "languages": [
@@ -2300,21 +2314,6 @@
     "languages": [
       "deu"
     ]
-  },
-  {
-    "nanoid": "7C8xJTE7Gn9Owk",
-    "name": "Styria Lounge",
-    "sources": {
-      "streams": [
-        "https://styrialounge.out.airtime.pro:8000/styrialounge_a",
-        "https://styrialounge.out.airtime.pro/styrialounge_a"
-      ]
-    },
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "rf1IYjW29uqjXN",

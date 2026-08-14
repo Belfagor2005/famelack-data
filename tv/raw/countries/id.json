@@ -195,6 +195,20 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "JTbs2lIH8ln5ro",
+    "name": "Davika TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ksjOnBMCR8R7y0",
     "name": "Dhamma TV",
     "sources": {
@@ -214,20 +228,6 @@
     "sources": {
       "streams": [
         "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uXrEKCywSeVE7r",
-    "name": "DM TV Malang",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/dmtv.m3u8"
       ]
     },
     "languages": [
@@ -279,20 +279,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OUu8h6kQM645jC",
-    "name": "E International America",
-    "sources": {
-      "streams": [
-        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U2wJ3BI8Zw3hJZ",
     "name": "E International Asia",
     "sources": {
@@ -312,7 +298,8 @@
     "name": "E International Europe",
     "sources": {
       "streams": [
-        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8"
+        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8",
+        "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
       ]
     },
     "languages": [
@@ -368,20 +355,6 @@
     "name": "Indonesiana.TV",
     "stream_urls": [
       "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T3RkIVyDffmjkr",
-    "name": "Izzah TV",
-    "sources": {
-      "streams": [
-        "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -466,20 +439,6 @@
     "languages": [
       "ind",
       "jav"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "76VjihbmJOrWcW",
-    "name": "Madani TV",
-    "sources": {
-      "streams": [
-        "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -841,25 +800,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2XkFMpRoLYu9Ma",
-    "name": "Selaparang TV",
-    "sources": {
-      "streams": [
-        "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eQt3qfpQWLo9FO",
     "name": "Serambinews",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/apKHVONfzLU"
+        "https://www.youtube-nocookie.com/embed/j41Ty6Eg9rs"
       ]
     },
     "languages": [
@@ -1521,20 +1466,6 @@
     "sources": {
       "streams": [
         "https://srs.u-channel.tv/live/uchannel-tv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PEvAzPEqyCSHPP",
-    "name": "UFA Live 24",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/HaDwWL5y1vQ"
       ]
     },
     "languages": [

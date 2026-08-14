@@ -31,8 +31,8 @@
     "nanoid": "D6dxjs1hy0YRqm",
     "name": "Advocate Broadcasting Network",
     "sources": {
-      "streams": [
-        "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/jWNdMWykZRM"
       ]
     },
     "languages": [
@@ -221,6 +221,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jsFrBbDFba8Hpn",
+    "name": "Kingsview TV",
+    "sources": {
+      "streams": [
+        "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YSG1ZKKDkWTBCC",
+    "name": "LoveWorld Arabic",
+    "sources": {
+      "streams": [
+        "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8pEfgic6D8bCYA",
     "name": "LoveWorld Persia",
     "sources": {
@@ -324,20 +352,6 @@
     "sources": {
       "streams": [
         "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3KT5yHhVtK3z0L",
-    "name": "NTA Live",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/eTo4msH3Jac"
       ]
     },
     "languages": [
@@ -459,20 +473,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yRDzHhTj4zd7dc",
-    "name": "Tele Regency TV",
-    "sources": {
-      "streams": [
-        "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mQsEQa26uw8XEM",
     "name": "TrustTV News",
     "stream_urls": [],
@@ -559,20 +559,6 @@
     "sources": {
       "streams": [
         "https://newproxy3.vidivu.tv/waptv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XBCn7LG1vDEDMn",
-    "name": "Wazobia Max TV Nigeria",
-    "sources": {
-      "streams": [
-        "https://wazobia.live:8333/channel/wmax.m3u8"
       ]
     },
     "languages": [
