@@ -58,6 +58,9 @@
       "streams": [
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WVMN4hoZC-0"
       ]
     },
     "languages": [
@@ -73,7 +76,7 @@
       "streams": [
         "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
         "https://english-livebkali.cgtn.com/live/encgtn.m3u8",
-        "https://0472.org/hls/cgtn.m3u8"
+        "https://streams.comclark.com/pknsd/cgtn/playlist.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/LJgXwC-AKu8"
@@ -90,6 +93,9 @@
     "nanoid": "WGiKSjCar1BvSz",
     "name": "CNA International",
     "sources": {
+      "streams": [
+        "https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8"
+      ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ"
       ]
@@ -251,7 +257,7 @@
         "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/b8lPrtjmnmw"
+        "https://www.youtube-nocookie.com/embed/Ox9v0q-ohLM"
       ]
     },
     "languages": [
@@ -266,8 +272,8 @@
     "sources": {
       "streams": [
         "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
-        "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8",
-        "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8"
+        "https://wion-klowdtv.amagi.tv/playlist.m3u8",
+        "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8"
       ],
       "youtube": [
         "https://www.youtube-nocookie.com/embed/vfszY1JYbMc"
