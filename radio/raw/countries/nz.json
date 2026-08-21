@@ -440,20 +440,6 @@
     ]
   },
   {
-    "nanoid": "T3z1rxtgUtfMmu",
-    "name": "New Zealand Net Radio",
-    "sources": {
-      "streams": [
-        "https://radio.nznetradio.net.nz/stream3"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "nz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9aZ0SylzyKtDWi",
     "name": "Newstalk ZB",
     "stream_urls": [
@@ -639,6 +625,21 @@
       "eng",
       "smo"
     ]
+  },
+  {
+    "nanoid": "bWjRIdsRLNHBDZ",
+    "name": "Radio Samoa 1593 AM",
+    "sources": {
+      "streams": [
+        "https://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k"
+      ]
+    },
+    "languages": [
+      "eng",
+      "smo"
+    ],
+    "country": "nz",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "oVPNez5MfWuBu7",

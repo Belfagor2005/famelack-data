@@ -923,20 +923,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BMUX82mxnWd5Ru",
-    "name": "Mezzo",
-    "sources": {
-      "streams": [
-        "https://live-3.otcnet.ru/Mezzo/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LMz39hxqiqUJdI",
     "name": "Mezzo Live",
     "sources": {
@@ -1364,6 +1350,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YtkPirsEkzhkfe",
+    "name": "RMC Sport 1",
+    "sources": {
+      "streams": [
+        "https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WRXxoyW4bEOLd9",
     "name": "RMC Story",
     "sources": {
@@ -1398,20 +1398,6 @@
     "sources": {
       "streams": [
         "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/dvYreLu9xos"
       ]
     },
     "languages": [
@@ -1877,20 +1863,6 @@
       ]
     },
     "languages": [],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4iaZvz0DlRN5Ya",
-    "name": "ViaMatele",
-    "sources": {
-      "streams": [
-        "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "fra"
-    ],
     "country": "fr",
     "isGeoBlocked": false
   },

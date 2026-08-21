@@ -362,7 +362,6 @@
     "name": "SCTV6",
     "sources": {
       "streams": [
-        "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
         "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8"
       ]
     },
@@ -567,20 +566,6 @@
     ],
     "country": "vn",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kykLIpB1I5quZw",
-    "name": "Thua Thien Hue TV",
-    "sources": {
-      "streams": [
-        "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8"
-      ]
-    },
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "3ssQc7PdBXGpNU",

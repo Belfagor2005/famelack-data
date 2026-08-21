@@ -56,12 +56,11 @@
     "name": "CBS News 24/7",
     "sources": {
       "streams": [
-        "https://40.160.24.56/CBS_NEWS/index.m3u8",
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
         "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/w8AKWFzMyy4"
+        "https://www.youtube-nocookie.com/embed/SOHxICmHqv8"
       ]
     },
     "languages": [
@@ -170,26 +169,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "bt1m1v4h1CmExI",
-    "name": "NHK World-Japan",
-    "sources": {
-      "streams": [
-        "https://cdn-7.pishow.tv/live/455/master.m3u8",
-        "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-        "https://nhk.lls.pbs.org/index.m3u8"
-      ],
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/f0lYkdA-Gtw"
-      ]
-    },
-    "languages": [
-      "eng",
-      "jpn"
-    ],
-    "country": "jp",
     "isGeoBlocked": true
   },
   {

@@ -1263,8 +1263,8 @@
     "name": "Radio MegaMix",
     "sources": {
       "streams": [
-        "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951",
         "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
+        "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951",
         "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8"
       ]
     },
@@ -1566,20 +1566,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "I2ehmzZomN4e3u",
-    "name": "Radio Sad Perú",
-    "sources": {
-      "streams": [
-        "https://stream.zeno.fm/2kma2c011uquv"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "2cdNOD7xlQlEbQ",

@@ -73,8 +73,8 @@
     "name": "88.5 WXPN",
     "sources": {
       "streams": [
-        "https://wxpnhi.xpn.org/xpnhi",
-        "https://wxpn.xpn.org/xpnmp3hi"
+        "https://wxpn.xpn.org/xpnmp3hi",
+        "https://wxpnhi.xpn.org/xpnhi"
       ]
     },
     "languages": [
@@ -407,9 +407,9 @@
     "name": "CBC Music Atlantic",
     "sources": {
       "streams": [
-        "https://29327.live.streamtheworld.com/CBH_CBC_SC",
+        "https://17813.live.streamtheworld.com/CBH_CBC_SC",
         "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
-        "https://17813.live.streamtheworld.com/CBH_CBC_SC"
+        "https://29327.live.streamtheworld.com/CBH_CBC_SC"
       ]
     },
     "languages": [
@@ -620,8 +620,8 @@
     "name": "Exclusively Muddy Waters",
     "sources": {
       "streams": [
-        "https://streaming.exclusive.radio/er/muddywaters/icecast.audio",
-        "https://2.mystreaming.net/er/muddywaters/icecast.audio"
+        "https://2.mystreaming.net/er/muddywaters/icecast.audio",
+        "https://streaming.exclusive.radio/er/muddywaters/icecast.audio"
       ]
     },
     "languages": [
@@ -914,8 +914,8 @@
     "name": "Joint Radio Blues",
     "sources": {
       "streams": [
-        "https://jointil.com/stream-blues",
-        "https://star.jointil.net/proxy/jrn_blues"
+        "https://star.jointil.net/proxy/jrn_blues",
+        "https://jointil.com/stream-blues"
       ]
     },
     "languages": [
@@ -1145,20 +1145,6 @@
     ]
   },
   {
-    "nanoid": "loWIy5Fkr53SfT",
-    "name": "Mixadance FM - Jazz",
-    "sources": {
-      "streams": [
-        "https://stream.mixadance.fm/mixadancejazz"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6vPIankPPQG3k8",
     "name": "Morena FM 98",
     "sources": {
@@ -1208,8 +1194,8 @@
     "name": "Music City Roadhouse",
     "sources": {
       "streams": [
-        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
         "https://streaming.live365.com/a73754",
+        "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
         "https://ais-edge09-live365-dal02.cdnstream.com/a73754"
       ]
     },
@@ -1468,7 +1454,7 @@
       "streams": [
         "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
         "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage",
-        "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
+        "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de"
       ]
     },
     "languages": [
@@ -1784,8 +1770,8 @@
     "name": "ROCK ANTENNE - Blues Rock",
     "sources": {
       "streams": [
-        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
         "https://s8-webradio.rockantenne.de/hair-metal/stream/mp3",
+        "https://s9-webradio.rockantenne.de/blues-rock/stream/mp3",
         "https://stream.rockantenne.de/hair-metal/stream/mp3"
       ]
     },

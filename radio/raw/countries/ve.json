@@ -576,8 +576,8 @@
     "name": "Fiesta Latina 106.1 FM",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/e2kzfpr34d0uv/;type=mp3",
-        "https://stream.zeno.fm/e2kzfpr34d0uv"
+        "https://stream.zeno.fm/e2kzfpr34d0uv",
+        "https://stream.zeno.fm/e2kzfpr34d0uv/;type=mp3"
       ]
     },
     "languages": [
@@ -796,20 +796,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LAolZ2Ks6O2JT5",
-    "name": "Líder 92.3 FM Mérida",
-    "sources": {
-      "streams": [
-        "https://acp4.lorini.net:15022/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y8jtOjlu8OwFxT",
     "name": "Líder 94.9 FM Barquisimeto",
     "sources": {
@@ -854,11 +840,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9MAwwZCRtl6g4c",
-    "name": "Líder 100.5 FM Maracaibo",
+    "nanoid": "08sX3UfGkIp4zj",
+    "name": "Líder 100.3 FM Puerto Ordaz",
     "sources": {
       "streams": [
-        "https://acp4.lorini.net:15030/stream"
+        "https://acp4.lorini.net:15032/stream",
+        "https://stream.zeno.fm/ee4zas6mva0uv"
       ]
     },
     "languages": [
@@ -1405,20 +1392,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "90ns6ubIhuGUWt",
-    "name": "RockNet Radio",
-    "sources": {
-      "streams": [
-        "https://s2.myradiostream.com/:31836/listen.mp3"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "cVnljaIrkgW4Mb",

@@ -343,9 +343,9 @@
     "name": "538 Ibiza",
     "sources": {
       "streams": [
-        "https://22533.live.streamtheworld.com/TLPSTR19_SC",
-        "https://22333.live.streamtheworld.com/TLPSTR19_SC",
-        "https://22343.live.streamtheworld.com/TLPSTR19_SC"
+        "https://29093.live.streamtheworld.com/TLPSTR19_SC",
+        "https://22343.live.streamtheworld.com/TLPSTR19_SC",
+        "https://29023.live.streamtheworld.com/TLPSTR19_SC"
       ]
     },
     "languages": [
@@ -357,9 +357,9 @@
     "name": "538 Non-Stop",
     "sources": {
       "streams": [
-        "https://25233.live.streamtheworld.com/TLPSTR09_SC",
-        "https://22723.live.streamtheworld.com/TLPSTR09_SC",
-        "https://28983.live.streamtheworld.com/TLPSTR09_SC"
+        "https://22603.live.streamtheworld.com/TLPSTR09_SC",
+        "https://22663.live.streamtheworld.com/TLPSTR09_SC",
+        "https://22673.live.streamtheworld.com/TLPSTR09_SC"
       ]
     },
     "languages": [
@@ -371,9 +371,9 @@
     "name": "538 Party",
     "sources": {
       "streams": [
-        "https://22333.live.streamtheworld.com/TLPSTR16_SC",
         "https://22533.live.streamtheworld.com/TLPSTR16_SC",
-        "https://22713.live.streamtheworld.com/TLPSTR16_SC"
+        "https://22713.live.streamtheworld.com/TLPSTR16_SC",
+        "https://28973.live.streamtheworld.com/TLPSTR16_SC"
       ]
     },
     "languages": [
@@ -510,6 +510,20 @@
     ]
   },
   {
+    "nanoid": "5MQLGfoWCku0Sb",
+    "name": "Accent FM",
+    "sources": {
+      "streams": [
+        "https://stream.accentfm.nl/"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uoOCdi7VZSaFOf",
     "name": "AFM Aladna FM",
     "sources": {
@@ -601,8 +615,8 @@
     "name": "Amsterdam Funk Channel",
     "sources": {
       "streams": [
-        "https://stream.afc.fm/index.html",
         "https://live.afc.fm/",
+        "https://stream.afc.fm/index.html",
         "https://stream.afc.fm/"
       ]
     },
@@ -726,8 +740,8 @@
     "name": "BNR Nieuwsradio",
     "sources": {
       "streams": [
-        "https://stream.bnr.nl/bnr_mp3_128_20",
         "https://stream.bnr.nl/bnr_mp3_128_01",
+        "https://stream.bnr.nl/bnr_mp3_128_20",
         "https://stream.bnr.nl/bnr_aac_96_20"
       ]
     },
@@ -799,6 +813,7 @@
     "name": "BredaNu",
     "sources": {
       "streams": [
+        "https://icecast.bredanu.nl/bredanu.stl",
         "https://icecast.bredanu.nl/high",
         "https://icecast.bredanu.nl/bredanu.mp3"
       ]
@@ -827,9 +842,9 @@
     "name": "Candlelight",
     "sources": {
       "streams": [
-        "https://22613.live.streamtheworld.com/CANDLELIGHT_SC",
-        "https://22663.live.streamtheworld.com/CANDLELIGHT_SC",
-        "https://22673.live.streamtheworld.com/CANDLELIGHT_SC"
+        "https://22603.live.streamtheworld.com/CANDLELIGHT_SC",
+        "https://28973.live.streamtheworld.com/CANDLELIGHT_SC",
+        "https://22353.live.streamtheworld.com/CANDLELIGHT_SC"
       ]
     },
     "languages": [
@@ -1129,6 +1144,21 @@
     ]
   },
   {
+    "nanoid": "RxlBLIJ8Mxs6Gn",
+    "name": "DANCEableRADIO",
+    "sources": {
+      "streams": [
+        "https://s14.myradiostream.com:19580/;"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9omZdzRRomBZTH",
     "name": "Danceclassic.eu",
     "sources": {
@@ -1335,8 +1365,8 @@
     "name": "Efteling Kids Radio",
     "sources": {
       "streams": [
-        "https://29093.live.streamtheworld.com/TLPSTR07_SC",
-        "https://22603.live.streamtheworld.com/TLPSTR07_SC",
+        "https://22323.live.streamtheworld.com/TLPSTR07_SC",
+        "https://22343.live.streamtheworld.com/TLPSTR07_SC",
         "https://22613.live.streamtheworld.com/TLPSTR07_SC"
       ]
     },
@@ -2497,9 +2527,9 @@
     "name": "KINK",
     "sources": {
       "streams": [
-        "https://25233.live.streamtheworld.com/KINKAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_SC",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3"
+        "https://28973.live.streamtheworld.com/KINKAAC_SC"
       ]
     },
     "languages": [
@@ -2513,9 +2543,9 @@
     "name": "KINK 90's",
     "sources": {
       "streams": [
-        "https://28983.live.streamtheworld.com/KINK_90S_SC",
+        "https://29033.live.streamtheworld.com/KINK_90S_SC",
         "https://29093.live.streamtheworld.com/KINK_90S_SC",
-        "https://22333.live.streamtheworld.com/KINK_90S_SC"
+        "https://22343.live.streamtheworld.com/KINK_90S_SC"
       ]
     },
     "languages": [
@@ -2541,9 +2571,9 @@
     "name": "KINK Classics",
     "sources": {
       "streams": [
-        "https://22603.live.streamtheworld.com/KINK_DNA_SC",
-        "https://22663.live.streamtheworld.com/KINK_DNA_SC",
-        "https://29033.live.streamtheworld.com/KINK_DNA_SC"
+        "https://29033.live.streamtheworld.com/KINK_DNA_SC",
+        "https://29043.live.streamtheworld.com/KINK_DNA_SC",
+        "https://22343.live.streamtheworld.com/KINK_DNA_SC"
       ]
     },
     "languages": [
@@ -2555,9 +2585,9 @@
     "name": "KINK Distortion",
     "sources": {
       "streams": [
-        "https://22663.live.streamtheworld.com/KINK_DISTORTION_SC",
-        "https://22723.live.streamtheworld.com/KINK_DISTORTION_SC",
-        "https://28983.live.streamtheworld.com/KINK_DISTORTION_SC"
+        "https://22713.live.streamtheworld.com/KINK_DISTORTION_SC",
+        "https://28983.live.streamtheworld.com/KINK_DISTORTION_SC",
+        "https://29023.live.streamtheworld.com/KINK_DISTORTION_SC"
       ]
     },
     "languages": [
@@ -2569,9 +2599,9 @@
     "name": "KINK DNA",
     "sources": {
       "streams": [
-        "https://29003.live.streamtheworld.com/KINK_DNAAAC_SC",
-        "https://22343.live.streamtheworld.com/KINK_DNAAAC_SC",
-        "https://22603.live.streamtheworld.com/KINK_DNAAAC_SC"
+        "https://22333.live.streamtheworld.com/KINK_DNAAAC_SC",
+        "https://22673.live.streamtheworld.com/KINK_DNAAAC_SC",
+        "https://29043.live.streamtheworld.com/KINK_DNAAAC_SC"
       ]
     },
     "languages": [
@@ -3220,8 +3250,8 @@
     "sources": {
       "streams": [
         "https://icecast.omroep.nl/radio1-bb-mp3",
-        "https://icecast.omroep.nl/radio1-sb-mp3",
-        "https://icecast.omroep.nl/radio1-bb-aac"
+        "https://icecast.omroep.nl/radio1-bb-aac",
+        "https://icecast.omroep.nl/radio1-sb-mp3"
       ]
     },
     "languages": [
@@ -3248,8 +3278,8 @@
     "sources": {
       "streams": [
         "https://icecast.omroep.nl/radio5-bb-mp3",
-        "https://icecast.omroep.nl/radio5-sb-mp3",
-        "https://icecast.omroep.nl/radio5-bb-aac"
+        "https://icecast.omroep.nl/radio5-bb-aac",
+        "https://icecast.omroep.nl/radio5-sb-mp3"
       ]
     },
     "languages": [
@@ -3920,6 +3950,21 @@
     ]
   },
   {
+    "nanoid": "iAynv4zzgxRFHZ",
+    "name": "Piraten.FM 19",
+    "sources": {
+      "streams": [
+        "https://piraten.fm/top/19"
+      ]
+    },
+    "languages": [
+      "deu",
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xGWAllMTFsP2jB",
     "name": "Piraten.FM 20",
     "sources": {
@@ -4503,8 +4548,8 @@
     "sources": {
       "streams": [
         "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac"
       ]
     },
     "languages": [
@@ -4516,9 +4561,9 @@
     "name": "Radio 10 60s & 70s Hits",
     "sources": {
       "streams": [
-        "https://22333.live.streamtheworld.com/TLPSTR18_SC",
-        "https://25233.live.streamtheworld.com/TLPSTR18_SC",
-        "https://28973.live.streamtheworld.com/TLPSTR18_SC"
+        "https://28973.live.streamtheworld.com/TLPSTR18_SC",
+        "https://29023.live.streamtheworld.com/TLPSTR18_SC",
+        "https://22603.live.streamtheworld.com/TLPSTR18_SC"
       ]
     },
     "languages": [
@@ -5048,8 +5093,8 @@
     "name": "Radio Hulchul",
     "sources": {
       "streams": [
-        "https://everestcast.live-streams.nl:18015/stream",
-        "https://everestcast.live-streams.nl:18010/stream"
+        "https://everestcast.live-streams.nl:18010/stream",
+        "https://everestcast.live-streams.nl:18015/stream"
       ]
     },
     "languages": [
@@ -5269,8 +5314,8 @@
     "name": "Radio Rijnmond",
     "sources": {
       "streams": [
-        "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp",
-        "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3"
+        "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+        "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp"
       ]
     },
     "languages": [
@@ -6267,8 +6312,8 @@
     "name": "SLAM!",
     "sources": {
       "streams": [
-        "https://stream.slam.nl/slam",
         "https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_MP3_SC",
+        "https://stream.slam.nl/slam",
         "https://streaming.slam.nl/slam_aac"
       ]
     },
@@ -6616,9 +6661,9 @@
     "name": "Team FM",
     "sources": {
       "streams": [
-        "https://audiostreamen.nl/twente",
         "https://audiostreamen.nl/drenthe",
-        "https://audiostreamen.nl/friesland"
+        "https://audiostreamen.nl/friesland",
+        "https://audiostreamen.nl/twente"
       ]
     },
     "languages": [
@@ -6896,6 +6941,21 @@
       "eng",
       "nld"
     ]
+  },
+  {
+    "nanoid": "KA36aPlNVNZMC5",
+    "name": "WestRadio",
+    "sources": {
+      "streams": [
+        "https://streaming.westradio.nl/WestRadio-aac-96"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "1rQLuqSghHRHR2",

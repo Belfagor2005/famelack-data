@@ -169,17 +169,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Xc6IpLccTTfU6S",
-    "name": "Cleo TV",
+    "nanoid": "rPl77qAXLXht7K",
+    "name": "City Eden MedZdrav",
     "sources": {
       "streams": [
-        "https://40.160.24.56/Cleo_TV_SD/index.m3u8"
+        "https://cityeden.catcast.tv/content/47519/index.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "rus"
     ],
-    "country": "us",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -222,20 +222,6 @@
       "tel"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "npYrPfjJi5ZgRi",
-    "name": "Dabl",
-    "sources": {
-      "streams": [
-        "https://40.160.24.56/DABL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -377,21 +363,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WDQpCRq4dLb0NU",
-    "name": "Fortuna TV",
-    "sources": {
-      "streams": [
-        "https://edge2.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
-        "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -681,20 +652,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "to6WdXHX9Bv9Ju",
-    "name": "Nova",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/Nova/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZGvoYb8iZS7uzb",
     "name": "NowMedia Television",
     "sources": {
@@ -780,21 +737,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3FPl5RIfISFiTh",
-    "name": "PRIDEtv LATAM",
-    "sources": {
-      "streams": [
-        "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-      ]
-    },
-    "languages": [
-      "eng",
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZFUAyI6f5T43PD",
     "name": "Revry",
     "sources": {
@@ -820,6 +762,21 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qWijccdHGumaJp",
+    "name": "Salira TV",
+    "sources": {
+      "streams": [
+        "https://live.salira.tv:3870/stream/play.m3u8",
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {

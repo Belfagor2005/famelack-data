@@ -271,8 +271,7 @@
     "name": "Dublin's FM104",
     "sources": {
       "streams": [
-        "https://onic.dublin.live.stream.broadcasting.news/stream-fm104",
-        "https://wg.cdn.tibus.net/fm104MP3128"
+        "https://onic.dublin.live.stream.broadcasting.news/stream-fm104"
       ]
     },
     "languages": [
@@ -526,8 +525,8 @@
     "sources": {
       "streams": [
         "https://direct.sharp-stream.com/midwestfmie.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac"
       ]
     },
     "languages": [
@@ -615,6 +614,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "hMY5FdH2Fck6FH",
+    "name": "MPB Radio 2 90s & 00s",
+    "sources": {
+      "streams": [
+        "https://sc.mpbnl.nl/radio2-90s00s.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lyvDPWoa3XrMBP",
@@ -936,8 +949,8 @@
     "name": "RTÉ 2fm",
     "sources": {
       "streams": [
-        "https://icecast2.rte.ie/ie2fm",
-        "https://icecast.rte.ie/2fm"
+        "https://icecast.rte.ie/2fm",
+        "https://icecast2.rte.ie/ie2fm"
       ]
     },
     "languages": [
@@ -1060,9 +1073,9 @@
     "name": "SPIN South West",
     "sources": {
       "streams": [
+        "https://edge.audioxi.com/SW",
         "https://live-bauerie.sharp-stream.com/SW",
-        "https://stream.audioxi.com/SW",
-        "https://edge.audioxi.com/SW"
+        "https://stream.audioxi.com/SW"
       ]
     },
     "languages": [
@@ -1135,8 +1148,8 @@
     "sources": {
       "streams": [
         "https://pri.gocaster.net/td",
-        "https://live-bauerie.sharp-stream.com/TDAAC",
-        "https://edge.audioxi.com/TDAAC"
+        "https://stream.audioxi.com/TD",
+        "https://live-bauerie.sharp-stream.com/TDAAC"
       ]
     },
     "languages": [

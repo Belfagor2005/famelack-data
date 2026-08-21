@@ -109,20 +109,6 @@
     ]
   },
   {
-    "nanoid": "f9ZrwRbR3XB3X8",
-    "name": "Radio Baraguá 91.3 FM",
-    "sources": {
-      "streams": [
-        "https://icecast.teveo.cu/3CMM7zph"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "otSbeEb0TxKdgw",
     "name": "Radio Bayamo 98.6 FM",
     "sources": {
@@ -230,6 +216,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "HYCLudGxg2DkFr",
+    "name": "Radio Jiganí",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/nkz3TCfR"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "kowxErg3TjkbD8",
@@ -349,20 +349,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "msPAua9SG5v6dE",
-    "name": "Radio Victoria",
-    "sources": {
-      "streams": [
-        "https://icecast.teveo.cu/P77NJX4X"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cu",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "onWSKSInKUktIW",

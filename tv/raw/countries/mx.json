@@ -126,11 +126,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
+    "nanoid": "I6SQhQn74t89lq",
+    "name": "B15 Fresnillo",
     "sources": {
       "streams": [
-        "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
+        "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9BZEZK4EYJz8lC",
+    "name": "B15 Zacatecas",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
       ]
     },
     "languages": [
@@ -321,6 +335,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dE1MtHTFsxve60",
+    "name": "CreaLaTV",
+    "sources": {
+      "streams": [
+        "https://stream.crealatv.com/live.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/7vfbJk26QWQ"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0v8d7EFpyejD8F",
     "name": "Eclipse TV",
     "sources": {
@@ -476,7 +507,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/NJ9yQLL0hss"
+        "https://www.youtube-nocookie.com/embed/g0r2rLd46po"
       ]
     },
     "languages": [],
@@ -579,11 +610,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bdMQX2BCZexBtf",
+    "name": "MTV Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streamer.metronethn.com/MTV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kOILMSbtSvgFyR",
     "name": "MULTIMEDIOS",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/weLXdwVjSxs"
+        "https://www.youtube-nocookie.com/embed/SM864ZgPpG8"
       ]
     },
     "languages": [
@@ -598,6 +643,20 @@
     "sources": {
       "streams": [
         "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LhLrzvZ35u0Jdu",
+    "name": "Nick Jr. Latin America Panregional",
+    "sources": {
+      "streams": [
+        "https://streamer.metronethn.com/NickJr/index.m3u8"
       ]
     },
     "languages": [
@@ -809,6 +868,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
+    "sources": {
+      "streams": [
+        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "arUwONnDyiIo6o",
     "name": "Tele Yucatan",
     "sources": {
@@ -881,7 +954,7 @@
     "name": "Televisa Ciudad Juarez",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/l-sGQ2LjA1g"
+        "https://www.youtube-nocookie.com/embed/RHpjvz0C6hc"
       ]
     },
     "languages": [
@@ -960,7 +1033,7 @@
     "name": "Televisa Guerrero",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/VrAulL9-w1w"
+        "https://www.youtube-nocookie.com/embed/DdqKwNcJIxU"
       ]
     },
     "languages": [
@@ -1000,7 +1073,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/R_MMX9wWHlY"
+        "https://www.youtube-nocookie.com/embed/MbV1QKROqDk"
       ]
     },
     "languages": [
@@ -1106,7 +1179,7 @@
     "name": "Televisa Sonora",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/CMh4QO_8xcs"
+        "https://www.youtube-nocookie.com/embed/TzHZTfCz7Fk"
       ]
     },
     "languages": [
@@ -1133,7 +1206,7 @@
     "name": "Televisa Univision Saltillo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/uBPDz1Mk7tI"
+        "https://www.youtube-nocookie.com/embed/7Fz_HoNdyCI"
       ]
     },
     "languages": [
@@ -1170,7 +1243,7 @@
     "name": "Televisa Victoria",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/txsJyE8--rM"
+        "https://www.youtube-nocookie.com/embed/91ecBZIx040"
       ]
     },
     "languages": [
@@ -1217,14 +1290,14 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": true
+    "isGeoBlocked": false
   },
   {
-    "nanoid": "LIcwsfed7X4ZRx",
-    "name": "TRC TV",
+    "nanoid": "XOxYoEJxY8dEWb",
+    "name": "TUDN",
     "sources": {
       "streams": [
-        "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8"
+        "https://streamer.metronethn.com/TUDN/index.m3u8"
       ]
     },
     "languages": [
@@ -1552,20 +1625,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bryavBUrbLKzmf",
-    "name": "Univision Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://streamer.metronethn.com/Univision/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2EyL9brYPFxMTy",
     "name": "VB Media TV",
     "sources": {
@@ -1726,6 +1785,20 @@
       "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "47o1HNzoeOQk95",
+    "name": "XHUNES-TDT",
+    "sources": {
+      "streams": [
+        "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

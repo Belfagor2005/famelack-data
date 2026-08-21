@@ -232,8 +232,8 @@
     "name": "Mix Megapol 104.3",
     "sources": {
       "streams": [
-        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
-        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp"
+        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
+        "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3"
       ]
     },
     "languages": [
@@ -457,20 +457,6 @@
     "languages": [
       "swe"
     ]
-  },
-  {
-    "nanoid": "I8q8wCzs3nkEs5",
-    "name": "RIX FM 106.7",
-    "sources": {
-      "streams": [
-        "https://fm01-ice.stream.khz.se/fm01_aac"
-      ]
-    },
-    "languages": [
-      "swe"
-    ],
-    "country": "se",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "JYgXH2Gq4crNQt",
@@ -811,7 +797,6 @@
     "name": "Sveriges Radio P4 Västernorrland",
     "sources": {
       "streams": [
-        "https://live1.sr.se/p4vnrl-aac-320",
         "https://live1.sr.se/p4vnrl-mp3-96",
         "https://ljud1-cdn.sr.se/lc/p4vnrl.m3u8"
       ]

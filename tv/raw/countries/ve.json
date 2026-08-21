@@ -124,11 +124,40 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BcpXd12u6A6rk7",
+    "name": "Contactv",
+    "sources": {
+      "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s3sqg6vutusQdl",
     "name": "eSports Max TV",
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8",
+        "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
       ]
     },
     "languages": [
@@ -207,6 +236,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3E5bqWDK2SMWXh",
+    "name": "Latina TV",
+    "sources": {
+      "streams": [
+        "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JdxBGAz4N8XmqU",
     "name": "LGD Television",
     "sources": {
@@ -253,34 +296,6 @@
     "sources": {
       "streams": [
         "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kE8N5CkT9Xc9Iu",
-    "name": "Nortena Tv",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4vAoi7DUnPi0Mm",
-    "name": "Onza TV",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8"
       ]
     },
     "languages": [
@@ -536,6 +551,20 @@
       "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
+    "sources": {
+      "streams": [
+        "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
+      ]
+    },
     "languages": [
       "spa"
     ],

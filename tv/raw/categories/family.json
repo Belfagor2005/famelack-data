@@ -1,5 +1,19 @@
 [
   {
+    "nanoid": "iTbSyptSI7ovhK",
+    "name": "1KZN TV",
+    "sources": {
+      "streams": [
+        "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LyB1P5SiU3vOaG",
     "name": "6 Wise Tv",
     "sources": {
@@ -129,34 +143,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "sALap2IcbEVEBj",
-    "name": "FETV",
-    "sources": {
-      "streams": [
-        "https://40.160.24.56/FETV_SD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ScKFn570TqDOwF",
-    "name": "Great American Family",
-    "sources": {
-      "streams": [
-        "https://40.160.24.58/GAC_FAMILY/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "29x0D5l70jxbBR",
     "name": "Green TV",
     "sources": {
@@ -171,17 +157,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "92clp3Gx6q8TVk",
-    "name": "Hallmark Channel East",
+    "nanoid": "Lzh8NoZwGUGsG2",
+    "name": "MCI Television",
     "sources": {
       "streams": [
-        "https://40.160.24.53/HALLMARK/index.m3u8"
+        "https://video.ejeserver.com/live/mcitelevision.m3u8"
       ]
     },
     "languages": [
-      "eng"
+      "eng",
+      "spa"
     ],
-    "country": "us",
+    "country": "co",
     "isGeoBlocked": false
   },
   {
@@ -298,20 +285,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oLnLTQ4nnHeCAZ",
-    "name": "Soweto TV",
-    "sources": {
-      "streams": [
-        "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Q2BhpM1IToL6dc",
     "name": "STS",
     "sources": {
@@ -381,20 +354,6 @@
       "eng"
     ],
     "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HZWd4go9om2ldn",
-    "name": "TV Paraense",
-    "sources": {
-      "streams": [
-        "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
     "isGeoBlocked": false
   },
   {

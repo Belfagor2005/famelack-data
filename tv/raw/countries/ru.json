@@ -72,20 +72,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sQrljGUpW3a5Wd",
-    "name": "15+ Music",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DnX6s8UUlBogeL",
     "name": "86",
     "sources": {
@@ -402,7 +388,6 @@
     "sources": {
       "streams": [
         "https://tshift-1.telecoma.tv/8channel/index.m3u8",
-        "https://v4.proofix.ru/okino-tv/index.m3u8",
         "https://v4.proofix.ru/8tv-russia/index.m3u8"
       ]
     },
@@ -677,6 +662,20 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/213/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D64rjLP065KQ1v",
+    "name": "Enisey",
+    "sources": {
+      "streams": [
+        "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1271,6 +1270,20 @@
     "sources": {
       "streams": [
         "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nTIR26728Xpjfo",
+    "name": "Legendarnyy 24",
+    "sources": {
+      "streams": [
+        "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
       ]
     },
     "languages": [
@@ -2006,6 +2019,20 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "CdPsbXmKIYhFzA",
+    "name": "OTV-Prim",
+    "sources": {
+      "streams": [
+        "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ClrLVtv3nyuxRh",
@@ -3004,7 +3031,6 @@
     "name": "TNT",
     "sources": {
       "streams": [
-        "https://45.153.24.78/TNT/index.m3u8",
         "https://stream.mcquack.net/135/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
       ]
@@ -3036,6 +3062,20 @@
       "streams": [
         "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
         "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ds3HryXQoDHbVI",
+    "name": "TNV-Tatarstan",
+    "sources": {
+      "streams": [
+        "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8"
       ]
     },
     "languages": [

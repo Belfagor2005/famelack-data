@@ -56,20 +56,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NsRP1rTNLBH991",
-    "name": "Balapan",
-    "sources": {
-      "streams": [
-        "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "kaz"
-    ],
-    "country": "kz",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JCokef05ozWI8Y",
     "name": "Balapan International",
     "sources": {
@@ -150,6 +136,20 @@
     },
     "languages": [
       "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a3tM5au4kJNioz",
+    "name": "Novoe televidenie",
+    "sources": {
+      "streams": [
+        "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8"
+      ]
+    },
+    "languages": [
+      "kaz"
     ],
     "country": "kz",
     "isGeoBlocked": false
@@ -259,6 +259,20 @@
     ],
     "country": "kz",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HKWXuzT38k7GF2",
+    "name": "TDK 42",
+    "sources": {
+      "streams": [
+        "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "kz",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "if2kwrLRFc4oRC",

@@ -60,9 +60,9 @@
     "name": "88.6 OnAir",
     "sources": {
       "streams": [
-        "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
+        "https://edge07.streamonkey.net/radio886-onair/stream/mp3",
         "https://radio886.at/streams/radio_88.6/mp3",
-        "https://edge07.streamonkey.net/radio886-onair/stream/mp3"
+        "https://edge82.streamonkey.net/radio886-onair/stream/mp3"
       ]
     },
     "languages": [
@@ -798,8 +798,8 @@
     "name": "I Love Deutschrap First",
     "sources": {
       "streams": [
-        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst",
-        "https://streams.ilovemusic.de/iloveradio104.mp3"
+        "https://streams.ilovemusic.de/iloveradio104.mp3",
+        "https://play.ilovemusic.de/ilm_ilovedeutschrapfirst"
       ]
     },
     "languages": [
@@ -1075,8 +1075,8 @@
     "name": "LoungeFM",
     "sources": {
       "streams": [
-        "https://s35.derstream.net/100austria.mp3",
-        "https://s35.derstream.net/digital.mp3"
+        "https://s35.derstream.net/digital.mp3",
+        "https://s35.derstream.net/100austria.mp3"
       ]
     },
     "languages": [
@@ -1100,8 +1100,8 @@
     "name": "METAL Radio",
     "sources": {
       "streams": [
-        "https://stream.radiotechnikum.at/METALRadio",
-        "https://stream.radiotechnikum.at:80/METALRadio"
+        "https://stream.radiotechnikum.at:80/METALRadio",
+        "https://stream.radiotechnikum.at/METALRadio"
       ]
     },
     "languages": [
@@ -1358,6 +1358,20 @@
     ]
   },
   {
+    "nanoid": "Y7oUjRiCSnIlpZ",
+    "name": "Radio 3: The DJ Johnson Somerset Remixes",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8020/radio.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1QBt3gSWP6B30X",
     "name": "Radio Agora 105.5",
     "sources": {
@@ -1510,8 +1524,7 @@
     "name": "Radio Arabella Hot",
     "sources": {
       "streams": [
-        "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile",
-        "https://edge12.streams.arabella.at/arabella-hot"
+        "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
       ]
     },
     "languages": [
@@ -1525,8 +1538,8 @@
     "name": "Radio Arabella Lovesongs",
     "sources": {
       "streams": [
-        "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile",
-        "https://edge69.streams.arabella.at/arabella-lovesongs"
+        "https://edge69.streams.arabella.at/arabella-lovesongs",
+        "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile"
       ]
     },
     "languages": [
@@ -2073,9 +2086,9 @@
     "name": "Radio U1 Tirol",
     "sources": {
       "streams": [
-        "https://live.u1-radio.at/u1-tirol-live/mp3-192",
-        "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
-        "https://live.u1-radio.at/"
+        "https://live.u1-radio.at/",
+        "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+        "https://live.u1-radio.at/u1-tirol-live/mp3-192"
       ]
     },
     "languages": [

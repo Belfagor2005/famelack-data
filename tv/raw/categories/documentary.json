@@ -916,7 +916,8 @@
     "name": "Backstage",
     "sources": {
       "streams": [
-        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+        "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+        "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
       ]
     },
     "languages": [
@@ -924,6 +925,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OULTM0gM1sr5Ul",
+    "name": "BBC Earth Turkiye",
+    "sources": {
+      "streams": [
+        "https://nord.ayakkabiparti.lol/bbc/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "eQ0MWZIQb0YBdg",
@@ -1046,6 +1061,20 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UYW2WtzuwJvxrr",
+    "name": "City Eden KinoDok",
+    "sources": {
+      "streams": [
+        "https://cityeden.catcast.tv/content/38354/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1329,8 +1358,8 @@
     "sources": {
       "streams": [
         "https://45.177.114.114/HISTORY/index.m3u8",
-        "https://45.190.28.50/HISTORY_HD/index.m3u8",
-        "https://170.83.16.50/HISTORY/index.m3u8"
+        "https://170.83.16.50/HISTORY/index.m3u8",
+        "https://45.190.28.50/HISTORY_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -1355,11 +1384,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D0kxX68lMX7LDk",
-    "name": "History East",
+    "nanoid": "OdnRloFb9PVDPW",
+    "name": "History Asia",
     "sources": {
       "streams": [
-        "https://40.160.24.53/HISTORY_CHANNEL/index.m3u8"
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
       ]
     },
     "languages": [
@@ -1477,6 +1506,21 @@
     "sources": {
       "streams": [
         "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "feuZPyWhX6la0P",
+    "name": "Law & Crime",
+    "sources": {
+      "streams": [
+        "https://cdn.lawandcrime.net/rewind/playlist.m3u8",
+        "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1760,6 +1804,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "sources": {
+      "streams": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
     "stream_urls": [
@@ -1815,6 +1873,20 @@
       "mal"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M2QygmPlR8J2Gq",
+    "name": "Sky Nature",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/skynature/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1927,6 +1999,20 @@
       "bul"
     ],
     "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HU7t21P03xeEXV",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8"
+      ]
+    },
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {

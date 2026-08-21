@@ -125,20 +125,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lwOO3yKfQFwVFA",
-    "name": "Comedy Central East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8j5W4jKa2q9Ms3",
     "name": "Comedy Dynamics",
     "sources": {
@@ -152,6 +138,20 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QDT0Nt5qZTPoXG",
+    "name": "Comedy Play",
+    "sources": {
+      "streams": [
+        "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
     "isGeoBlocked": false
   },
   {
@@ -297,7 +297,7 @@
     "name": "Laff",
     "sources": {
       "streams": [
-        "https://40.160.24.53/LAFF_TV/index.m3u8"
+        "https://tvsen7.aynascope.net/laff/index.m3u8"
       ]
     },
     "languages": [
@@ -532,35 +532,6 @@
     "sources": {
       "streams": [
         "https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lKPGETEt2FJ6ge",
-    "name": "USA Network East",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK/index.m3u8",
-        "https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fE02SPfh0IePpn",
-    "name": "USA Network West",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/USA_NETWORK_WEST/index.m3u8"
       ]
     },
     "languages": [

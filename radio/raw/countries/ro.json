@@ -550,20 +550,6 @@
     ]
   },
   {
-    "nanoid": "88L2elIFG0vsnp",
-    "name": "Europa FM",
-    "sources": {
-      "streams": [
-        "https://astreaming.edi.ro:8443/EuropaFM_aac"
-      ]
-    },
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "27nE8Pmhu5wTb4",
     "name": "Eveniment FM 103.2",
     "sources": {
@@ -857,8 +843,8 @@
     "name": "Magic FM Gold",
     "sources": {
       "streams": [
-        "https://live.magicfm.ro/magic.gold.hits",
-        "https://live.kissfm.ro/magic.gold.hits"
+        "https://live.kissfm.ro/magic.gold.hits",
+        "https://live.magicfm.ro/magic.gold.hits"
       ]
     },
     "languages": [
@@ -906,8 +892,8 @@
     "name": "Magic FM Party Mix",
     "sources": {
       "streams": [
-        "https://live.magicfm.ro/magic.party.mix",
-        "https://live.kissfm.ro/magic.party.mix"
+        "https://live.kissfm.ro/magic.party.mix",
+        "https://live.magicfm.ro/magic.party.mix"
       ]
     },
     "languages": [
@@ -1114,8 +1100,8 @@
     "sources": {
       "streams": [
         "https://live.playradio.org:8443/90HD",
-        "https://live.playradio.org:8443/FMHD",
-        "https://live.playradio.org:9090/FMHD"
+        "https://live.playradio.org:9090/FMHD",
+        "https://live.playradio.org:8443/FMHD"
       ]
     },
     "languages": [
@@ -1127,8 +1113,8 @@
     "name": "Play Urban",
     "sources": {
       "streams": [
-        "https://live.playradio.org:9090/UrbanHD",
-        "https://live.playradio.org:8443/UrbanHD"
+        "https://live.playradio.org:8443/UrbanHD",
+        "https://live.playradio.org:9090/UrbanHD"
       ]
     },
     "languages": [
@@ -1182,6 +1168,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "f8w75khyrarLSx",
+    "name": "Radio A-Tentat",
+    "sources": {
+      "streams": [
+        "https://ssl.omegahost.ro/8066/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "NylW5Y2qw41Nsa",
@@ -1784,6 +1784,20 @@
     ]
   },
   {
+    "nanoid": "uiXW8blUbqNmbE",
+    "name": "Radio Folclor",
+    "sources": {
+      "streams": [
+        "https://ssl.omegahost.ro/8092/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4jfEeH9bK8QQn3",
     "name": "Radio Folclor Buzău",
     "sources": {
@@ -2089,6 +2103,20 @@
     ]
   },
   {
+    "nanoid": "sqQGMgp4iKA6aI",
+    "name": "Radio Manele Petrecere",
+    "sources": {
+      "streams": [
+        "https://ssl.servereradio.ro/8123/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qCbv7wn9dNt0Ex",
     "name": "Radio Marketescu House & Minimal",
     "sources": {
@@ -2269,6 +2297,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "h3tD6GZUH4soKr",
+    "name": "Radio Reîntregirea",
+    "sources": {
+      "streams": [
+        "https://live.reintregirea.ro/"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "lsMTsDNpzCJzaw",
@@ -2482,6 +2524,20 @@
     ]
   },
   {
+    "nanoid": "WkrNn412DrgpMa",
+    "name": "Radio Sonic România",
+    "sources": {
+      "streams": [
+        "https://ssl.omegahost.ro:10958/;"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OA3Rat1CjlJsSn",
     "name": "Radio Sound Four You",
     "sources": {
@@ -2522,8 +2578,50 @@
     "name": "Radio Stil Mix Manele",
     "sources": {
       "streams": [
-        "https://stream.zeno.fm/87sktrysmuqtv",
-        "https://stream.zeno.fm/zt84vax7ptzuv"
+        "https://stream.zeno.fm/zt84vax7ptzuv",
+        "https://stream.zeno.fm/87sktrysmuqtv"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "19rHyJ5kzIgXtL",
+    "name": "Radio Stil România Dance",
+    "sources": {
+      "streams": [
+        "https://dance.radiostill.ro/8166/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4ZQH7KPvXwp9Tx",
+    "name": "Radio Stil România Manele",
+    "sources": {
+      "streams": [
+        "https://mp3.radiostill.ro:8888/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iRDcbillLVi3vu",
+    "name": "Radio Stil România Popular",
+    "sources": {
+      "streams": [
+        "https://popular.radiostill.ro/8176/stream"
       ]
     },
     "languages": [
@@ -2660,6 +2758,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "F928KdNedVTKH3",
+    "name": "Radio Tequila Dance",
+    "sources": {
+      "streams": [
+        "https://dance.radiotequila.ro/7000/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "F928KdNedVTKH3",
@@ -3050,6 +3162,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "tFf3AAGJRCfdRr",
+    "name": "Radio Valoare Manele Vechi",
+    "sources": {
+      "streams": [
+        "https://ssl.omegahost.ro/8000/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ZpbzLezo1gTIy3",
@@ -3737,6 +3863,20 @@
     ]
   },
   {
+    "nanoid": "XMMPrqWrXLZz6c",
+    "name": "Super FM Manele",
+    "sources": {
+      "streams": [
+        "https://asculta.superfmradio.ro/9720/stream"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9s55Nu3sZ1jJiV",
     "name": "Supersonic Radio",
     "sources": {
@@ -4117,6 +4257,20 @@
     "languages": [
       "ron"
     ]
+  },
+  {
+    "nanoid": "w0V8rUfDUzOFpW",
+    "name": "West City Radio",
+    "sources": {
+      "streams": [
+        "https://radiotrucker.com/en/play/west-city-radio"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "LL6mYaGllfzRwU",

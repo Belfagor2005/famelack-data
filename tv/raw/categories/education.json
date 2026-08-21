@@ -356,11 +356,56 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z2nBboETrkSzIa",
-    "name": "DLTV 3",
+    "nanoid": "FH7NvrC8IdGbek",
+    "name": "DLTV 2",
     "sources": {
       "streams": [
-        "https://cdn-live.dltv.ac.th/dltv03.m3u8"
+        "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "28rjnzXjPjea82",
+    "name": "DLTV 4",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv04.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RfFYZpw2B1Tu6O",
+    "name": "DLTV 5",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv05.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tha"
+    ],
+    "country": "th",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SBNkYWrTHUHlU6",
+    "name": "DLTV 6",
+    "sources": {
+      "streams": [
+        "https://cdn-live.dltv.ac.th/dltv06.m3u8"
       ]
     },
     "languages": [
@@ -386,11 +431,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1UZOek5lIzCih6",
-    "name": "DLTV 11",
+    "nanoid": "AtqNekEK9bqlpP",
+    "name": "DLTV 8",
     "sources": {
       "streams": [
-        "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+        "https://cdn-live.dltv.ac.th/dltv08.m3u8"
       ]
     },
     "languages": [
@@ -401,11 +446,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9tRf46L4LZNOGa",
-    "name": "DLTV 12",
+    "nanoid": "ReBKejReML00hL",
+    "name": "DLTV 9",
     "sources": {
       "streams": [
-        "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+        "https://cdn-live.dltv.ac.th/dltv09.m3u8"
       ]
     },
     "languages": [
@@ -416,11 +461,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "i5UXCyXzVkJ6Kf",
-    "name": "DLTV 14",
+    "nanoid": "J2tWh2yACsVBKq",
+    "name": "DLTV 10",
     "sources": {
       "streams": [
-        "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+        "https://cdn-live.dltv.ac.th/dltv10.m3u8"
       ]
     },
     "languages": [
@@ -686,6 +731,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6EdtrtcTzJTHBM",
+    "name": "HTV4",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9NYf5msdVIxgC1",
     "name": "ILCE Canal 15 Summa Saberes",
     "sources": {
@@ -784,20 +843,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "EYOg6mbwI8lejh",
-    "name": "Knowledge Channel",
-    "sources": {
-      "streams": [
-        "https://streams.comclark.com/pknsd/knowledge/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "tgl"
-    ],
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "sources": {
@@ -845,20 +890,6 @@
     "sources": {
       "streams": [
         "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uvGkHvj4kYuGpc",
-    "name": "MCPSS TV",
-    "sources": {
-      "streams": [
-        "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1231,6 +1262,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c0t3w9rs29fRKj",
+    "name": "Tele UV",
+    "sources": {
+      "streams": [
+        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wG03qaF80rSneK",
     "name": "Telepace 3",
     "sources": {
@@ -1540,20 +1585,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JliijnACP4jH0u",
-    "name": "Wiki TV",
-    "sources": {
-      "streams": [
-        "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "khm"
-    ],
-    "country": "kh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
     "stream_urls": [
@@ -1646,6 +1677,20 @@
     "sources": {
       "streams": [
         "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "47o1HNzoeOQk95",
+    "name": "XHUNES-TDT",
+    "sources": {
+      "streams": [
+        "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
       ]
     },
     "languages": [

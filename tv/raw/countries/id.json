@@ -56,6 +56,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TKjF9Dh5jBDraW",
+    "name": "Ashiil TV",
+    "sources": {
+      "streams": [
+        "https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wgCHFkD8F6PNpc",
     "name": "Astha TV",
     "sources": {
@@ -251,20 +265,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KTv1lAQngiwpQF",
-    "name": "dTVi",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/dtvi.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QsUhnT0pi51wcj",
     "name": "Duta TV",
     "sources": {
@@ -323,20 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "swg1noloxNDS5D",
-    "name": "Ficom Channel",
-    "sources": {
-      "streams": [
-        "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LISekcgicAyOGd",
     "name": "Garuda TV",
     "sources": {
@@ -355,6 +341,20 @@
     "name": "Indonesiana.TV",
     "stream_urls": [
       "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3RkIVyDffmjkr",
+    "name": "Izzah TV",
+    "sources": {
+      "streams": [
+        "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
+      ]
+    },
+    "languages": [
+      "ind"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -650,20 +650,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ha2zWLoq5d13uY",
-    "name": "Radar Lampung TV",
-    "sources": {
-      "streams": [
-        "https://www.streaming.radartv.co.id/hls/test.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3v2UZx2WqrnRDM",
     "name": "Radar Tasikmalaya TV",
     "sources": {
@@ -684,6 +670,20 @@
       "https://v10.siar.us/rctv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2osdXOCanj9JNQ",
+    "name": "RCTV",
+    "sources": {
+      "streams": [
+        "https://v10.siar.us/rctv/live/playlist.m3u8"
+      ]
+    },
     "languages": [
       "ind"
     ],
@@ -733,11 +733,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SM5dGWTEmeAMrT",
-    "name": "Salam TV",
+    "nanoid": "qWijccdHGumaJp",
+    "name": "Salira TV",
     "sources": {
       "streams": [
-        "https://salamtv.siar.us/live/salamtv.m3u8"
+        "https://live.salira.tv:3870/stream/play.m3u8",
+        "https://live.salira.tv/p/3870/hybrid/play.m3u8"
       ]
     },
     "languages": [
@@ -793,20 +794,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LcS4BwRmf-U"
     ],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/j41Ty6Eg9rs"
-      ]
-    },
     "languages": [
       "ind"
     ],
@@ -907,20 +894,6 @@
       "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pu17TwY3OoDiLo",
-    "name": "TV Mu",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/tvmu.m3u8"
-      ]
-    },
     "languages": [
       "ind"
     ],
@@ -1475,11 +1448,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SlDXX35NImvk2c",
-    "name": "UGTV",
+    "nanoid": "PEvAzPEqyCSHPP",
+    "name": "UFA Live 24",
     "sources": {
-      "streams": [
-        "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/6ysty72wl34"
       ]
     },
     "languages": [

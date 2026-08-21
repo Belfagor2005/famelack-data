@@ -73,29 +73,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vLJxCfSjAO72Wd",
-    "name": "Belmedia TV",
+    "nanoid": "fruS79xWb73ha2",
+    "name": "Barney the Dinosaur",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Gs4pkJDNH0s"
+        "https://www.youtube-nocookie.com/embed/NS0fu_Q7X8E"
       ]
     },
     "languages": [
-      "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XHxGpxMeodxqTd",
-    "name": "C Malayalam TV",
-    "sources": {
-      "streams": [
-        "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "mal"
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -341,6 +327,34 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "C2IpSsj3CjIb2e",
+    "name": "CBKFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "1yLst6OvN4IiS8",
+    "name": "CBLFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "qMfxPERIpN5bJn",
     "name": "CBOFT-DT",
     "sources": {
@@ -378,6 +392,20 @@
     },
     "languages": [
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "vN4KxpB8RBfII1",
+    "name": "CBXFT-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": true
@@ -521,6 +549,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UmEJkzAUB1AYQg",
+    "name": "CJBR-DT",
+    "sources": {
+      "streams": [
+        "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "lvoDUBhVQd9VsC",
     "name": "CJON-DT",
     "sources": {
@@ -601,6 +643,20 @@
     ],
     "country": "ca",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "ZjrdyB3hSZu0bK",
+    "name": "CP24",
+    "sources": {
+      "streams": [
+        "https://tvsen6.aynaott.com/cp24/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "ZXvLfybRDCi9xD",
@@ -961,7 +1017,6 @@
     "name": "Legislative Assembly of Ontario",
     "sources": {
       "streams": [
-        "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
         "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
       ]
     },
@@ -1005,20 +1060,6 @@
       ]
     },
     "languages": [],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "sources": {
-      "streams": [
-        "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -1081,20 +1122,6 @@
     "sources": {
       "streams": [
         "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3QXzyalX8rk3oU",
-    "name": "Much",
-    "sources": {
-      "streams": [
-        "https://40.160.24.53/MUCH/index.m3u8"
       ]
     },
     "languages": [
@@ -1246,6 +1273,20 @@
     },
     "languages": [
       "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
+    "sources": {
+      "streams": [
+        "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -2001,20 +2042,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BBHJGmom0c53qu",
-    "name": "TSN1",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/TSN_1/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "26wbYyZD2WNH5P",
     "name": "TV Punjab",
     "sources": {
@@ -2067,18 +2094,6 @@
       "eng",
       "iku"
     ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WiDMfKMgfVPHnh",
-    "name": "W Network",
-    "sources": {
-      "streams": [
-        "https://40.160.24.55/W_NETWORK/index.m3u8"
-      ]
-    },
-    "languages": [],
     "country": "ca",
     "isGeoBlocked": false
   },

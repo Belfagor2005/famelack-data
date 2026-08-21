@@ -103,8 +103,8 @@
     "name": "Contigo FM",
     "sources": {
       "streams": [
-        "https://panel.innovatestream.pe:10852/;",
-        "https://panel.innovatestream.pe:10852/stream"
+        "https://panel.innovatestream.pe:10852/stream",
+        "https://panel.innovatestream.pe:10852/;"
       ]
     },
     "languages": [
@@ -664,8 +664,8 @@
     "name": "Radio 11Q",
     "sources": {
       "streams": [
-        "https://streamingecuador.net:8012/stream",
-        "https://streamingecuador.net:8012/radio11q"
+        "https://streamingecuador.net:8012/radio11q",
+        "https://streamingecuador.net:8012/stream"
       ]
     },
     "languages": [
@@ -1072,6 +1072,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "gLYxfNVabcJI9w",
+    "name": "Radio Pichincha",
+    "sources": {
+      "streams": [
+        "https://icecast.radiopichincha.com/radiopichincha"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "cZV54EqQTehrj2",

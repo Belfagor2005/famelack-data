@@ -253,21 +253,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "p4RUs4APE7OSx0",
-    "name": "Interactivo Television",
-    "sources": {
-      "streams": [
-        "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
-        "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YIKke4PY7wnkdl",
     "name": "Palenque TV",
     "sources": {
@@ -456,8 +441,8 @@
     "sources": {
       "streams": [
         "https://rtp.noxun.net/hls/stream.m3u8",
-        "https://rtp.noxun.net/hls720/stream3.m3u8",
-        "https://rtp.noxun.net/hls480/stream2.m3u8"
+        "https://rtp.noxun.net/hls480/stream2.m3u8",
+        "https://rtp.noxun.net/hls720/stream3.m3u8"
       ]
     },
     "languages": [

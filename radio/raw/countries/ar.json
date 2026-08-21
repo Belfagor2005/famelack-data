@@ -97,6 +97,20 @@
     ]
   },
   {
+    "nanoid": "EUYY14GOkW4aNK",
+    "name": "AM Con Vos 1420",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/7192"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yFRd1wsNgRQKbL",
     "name": "AM Cumbre 1400",
     "sources": {
@@ -409,8 +423,8 @@
     "name": "Cadena Heat",
     "sources": {
       "streams": [
-        "https://liveradio.mediainbox.net/fmcordoba.mp3",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3",
+        "https://liveradio.mediainbox.net/fmcordoba.mp3"
       ]
     },
     "languages": [
@@ -632,20 +646,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "mn9XIKLhJO5yZC",
-    "name": "De la Nueva Bahía 106.1 FM",
-    "sources": {
-      "streams": [
-        "https://radios.solumedia.com/6136/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "jKsd7EXlbSfjqY",
@@ -915,6 +915,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "GCRA6GGiGpoEhy",
+    "name": "Espacial FM 105.1",
+    "sources": {
+      "streams": [
+        "https://chino.republicahosting.com:2282/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "nsHjmOoJUfibru",
@@ -1277,20 +1291,6 @@
     "languages": [
       "spa"
     ]
-  },
-  {
-    "nanoid": "iTTugYnmAiAEIH",
-    "name": "FM Cielo 88.7",
-    "sources": {
-      "streams": [
-        "https://server6.hostradios.com:7108/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Jf36UkISYjfO04",
@@ -2610,6 +2610,20 @@
     ]
   },
   {
+    "nanoid": "swIcQ28X3ETbKI",
+    "name": "Radio 1: Electric Circus",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1epjaE7S4pYFa2",
     "name": "Radio 2 AM 1230",
     "sources": {
@@ -2624,10 +2638,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8zXX7Bfi1i6ctV",
+    "name": "Radio 2: The Monday Revolution",
+    "sources": {
+      "streams": [
+        "https://radio.eduneu.eu:8010/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KddVNyxMJHX9qG",
     "name": "Radio 4: Rock & Pop Argentino",
     "sources": {
       "streams": [
+        "https://radio.eduneu.eu:8030/radio.mp3",
         "https://radio.eduneu.eu/hls/radio4/live.m3u8"
       ]
     },
@@ -3094,6 +3123,20 @@
     ]
   },
   {
+    "nanoid": "Gtr5AwiZBnyPna",
+    "name": "Radio del Mar 98.5 FM",
+    "sources": {
+      "streams": [
+        "https://sslstream.online/8344/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mgfwcBGtn4rdjD",
     "name": "Radio del Mar 98.7 FM",
     "sources": {
@@ -3171,8 +3214,8 @@
     "name": "Radio Disney Argentina 94.3 FM",
     "sources": {
       "streams": [
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac",
-        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3"
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac"
       ]
     },
     "languages": [
@@ -3556,6 +3599,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "hdpjKmzCSLdXHy",
+    "name": "Radio Mitre",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "2uGUr7wVKiIrs3",
@@ -4201,6 +4258,20 @@
     "languages": [
       "eng"
     ]
+  },
+  {
+    "nanoid": "Zb2pquW8p8Qa34",
+    "name": "RadioDJ",
+    "sources": {
+      "streams": [
+        "https://pulsedeck.org/listen/radiodj/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "3rLkU8M0RwcYCc",

@@ -25,11 +25,11 @@
     ]
   },
   {
-    "nanoid": "5bANIJQqWfNi5s",
-    "name": "Azúcar 99.9 FM",
+    "nanoid": "FJGwpruQbizDYG",
+    "name": "Azúcar 96.7 FM",
     "sources": {
       "streams": [
-        "https://radiostreamingaac.com:8570/azucarjutiapa"
+        "https://radiostreamingaac.com:8568/azucarzacapa"
       ]
     },
     "languages": [
@@ -170,6 +170,20 @@
     "languages": [
       "spa"
     ]
+  },
+  {
+    "nanoid": "4uvMq0b08NLKoi",
+    "name": "Estéreo Solar 98.3 FM",
+    "sources": {
+      "streams": [
+        "https://radiostreamingaac.com:8562/solarjutiapa"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zq0n7tnYbj3wBC",

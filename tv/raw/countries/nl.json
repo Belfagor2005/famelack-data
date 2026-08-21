@@ -449,6 +449,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "43nlqCsPfKQWwb",
+    "name": "Lansingerland TV",
+    "sources": {
+      "streams": [
+        "https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YgwesPOmCiZn25",
     "name": "LOE TV",
     "sources": {
@@ -592,6 +606,20 @@
     "sources": {
       "streams": [
         "https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/index.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hk7PXKEYotjuny",
+    "name": "Omroep Hoeksche Waard",
+    "sources": {
+      "streams": [
+        "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1014,20 +1042,6 @@
     "sources": {
       "streams": [
         "https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8"
-      ]
-    },
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MOZ6D8VfrxOi60",
-    "name": "RTV Purmerend",
-    "sources": {
-      "streams": [
-        "https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8"
       ]
     },
     "languages": [
