@@ -15823,34 +15823,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iwxUxHEYfy4tL2",
-    "name": "Boom FM 89.3",
-    "sources": {
-      "streams": [
-        "https://stream.freepi.io:8204/live"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hgV8IsDTS82Zs7",
-    "name": "Boom FM 101.5",
-    "sources": {
-      "streams": [
-        "https://stream.freepi.io:8200/stream"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mqMpbXyjvn1x7G",
     "name": "Boomerang 2010s",
     "sources": {
@@ -25324,6 +25296,20 @@
       "ara"
     ],
     "country": "sy",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5sDFNJeemaZ5dA",
+    "name": "Emarat FM",
+    "sources": {
+      "streams": [
+        "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
     "isGeoBlocked": false
   },
   {
