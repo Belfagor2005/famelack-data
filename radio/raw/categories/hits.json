@@ -15851,6 +15851,20 @@
     ]
   },
   {
+    "nanoid": "JMmIFuQ9TBb6RQ",
+    "name": "COPE Espuña",
+    "sources": {
+      "streams": [
+        "https://eu1.lhdserver.es:3197/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tnkNTtXiJYiUK3",
     "name": "Cosmopolitan FM 90.4",
     "sources": {
@@ -23572,6 +23586,20 @@
     ]
   },
   {
+    "nanoid": "ORSIs3VVbgeAIg",
+    "name": "Heart",
+    "sources": {
+      "streams": [
+        "https://live-nors.sharp-stream.com/nors15.mp3"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "do0szAe3BM0h01",
     "name": "Heart 10s",
     "sources": {
@@ -24101,6 +24129,20 @@
     "languages": [
       "fra"
     ]
+  },
+  {
+    "nanoid": "61vvp92QUYkLq3",
+    "name": "Hit Radio",
+    "sources": {
+      "streams": [
+        "https://live-nors.sharp-stream.com/nors2.mp3"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "V3NJTZ4XIFMQLj",
@@ -35785,8 +35827,7 @@
     "name": "NRJ Norge",
     "sources": {
       "streams": [
-        "https://nrj.p4groupaudio.com/NRJ_AH",
-        "https://nrj.p4groupaudio.com/NRJ_MM"
+        "https://live-bauerno.sharp-stream.com/kiss_no_mp3"
       ]
     },
     "languages": [
@@ -35943,9 +35984,7 @@
     "name": "NRK mP3",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_mp3_aac_h",
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
-        "https://lyd.nrk.no/nrk_radio_mp3_mp3_l"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/mp3"
       ]
     },
     "languages": [
@@ -35957,7 +35996,7 @@
     "name": "NRK P1",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h"
+        "https://nrk-live-radio-world.akamaized.net/p1/muxed.m3u8"
       ]
     },
     "languages": [
@@ -35969,7 +36008,6 @@
     "name": "NRK P1 Buskerud",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h",
         "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h"
       ]
     },
@@ -36006,8 +36044,7 @@
     "name": "NRK P1 Hordaland",
     "sources": {
       "streams": [
-        "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h",
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h"
       ]
     },
     "languages": [
@@ -36019,7 +36056,6 @@
     "name": "NRK P1 Møre og Romsdal",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l",
         "https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h"
       ]
     },
@@ -36058,9 +36094,7 @@
     "name": "NRK P1 Østfold",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
-        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15",
-        "https://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h"
+        "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15"
       ]
     },
     "languages": [
@@ -36099,7 +36133,7 @@
     "name": "NRK P1 Stor-Oslo",
     "sources": {
       "streams": [
-        "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h"
+        "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
       ]
     },
     "languages": [
@@ -37438,8 +37472,7 @@
     "name": "P5 Hits",
     "sources": {
       "streams": [
-        "https://p4.p4groupaudio.com/P05_MM",
-        "https://p5.p4groupaudio.com/P05_MM"
+        "https://p5.p4groupaudio.com/P05_MH"
       ]
     },
     "languages": [
@@ -43300,6 +43333,20 @@
     ]
   },
   {
+    "nanoid": "3JGkYNbQ0KGvaz",
+    "name": "Radio Estudio J",
+    "sources": {
+      "streams": [
+        "https://usa3.fastcast4u.com/proxy/radioestudioj26/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4fPPJdZIIfseXF",
     "name": "Radio Eurodance Classic",
     "sources": {
@@ -47981,6 +48028,20 @@
     "languages": [
       "ita"
     ]
+  },
+  {
+    "nanoid": "eQqUUvogmtyeZ2",
+    "name": "Radio Sol",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/7389"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "rKk5fvlfEJRbV6",

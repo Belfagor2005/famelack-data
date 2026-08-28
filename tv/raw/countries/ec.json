@@ -42,6 +42,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9rZVPlxNd1hrQ9",
+    "name": "America Estereo Tulcan",
+    "sources": {
+      "streams": [
+        "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8Bv8hcX2tNuzZb",
     "name": "Antena Uno Radiovideo",
     "sources": {
@@ -637,11 +651,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0Vw6NdTRGURL25",
-    "name": "RTU",
+    "nanoid": "8GS07KlJ6wtlsy",
+    "name": "RTV",
     "sources": {
       "streams": [
-        "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid="
+        "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
       ]
     },
     "languages": [
@@ -808,20 +822,6 @@
     "sources": {
       "streams": [
         "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M10FM4kxvf869B",
-    "name": "Zaracay TV",
-    "sources": {
-      "streams": [
-        "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8"
       ]
     },
     "languages": [

@@ -70,6 +70,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TkiAJBVKDzg5NK",
+    "name": "Canal 7 Talanga Vision",
+    "sources": {
+      "streams": [
+        "https://amixtv.com:8081/talangavision/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "s5LZw8Yx4rrG1s",
     "name": "Canal 11",
     "sources": {
@@ -173,20 +187,6 @@
     "sources": {
       "streams": [
         "https://tv.webmedialive.com/unciontv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "hn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "81AXIOjoDu8lAA",
-    "name": "Ebenezer TV",
-    "sources": {
-      "streams": [
-        "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
       ]
     },
     "languages": [
@@ -648,6 +648,20 @@
     "sources": {
       "streams": [
         "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5Dr7rNIxY7en3G",
+    "name": "Waldivision Internacional",
+    "sources": {
+      "streams": [
+        "https://media.streambrothers.com:19360/8308/8308.m3u8"
       ]
     },
     "languages": [

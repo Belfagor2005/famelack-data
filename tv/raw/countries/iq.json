@@ -74,8 +74,7 @@
     "name": "Al Sharqiya",
     "sources": {
       "streams": [
-        "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
-        "https://185.9.2.18/chid_144/index.m3u8"
+        "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -104,6 +103,20 @@
     "sources": {
       "streams": [
         "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sNovQ9z7x1J0Qw",
+    "name": "Alabbassia TV",
+    "sources": {
+      "streams": [
+        "https://stream.alabbassia.com/live/alabbassia/index.m3u8"
       ]
     },
     "languages": [
@@ -191,21 +204,6 @@
     ],
     "languages": [
       "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MIpBDCxySOyKyM",
-    "name": "Dijlah TV",
-    "sources": {
-      "streams": [
-        "https://ghaasiflu.online/Dijlah/index.m3u8"
-      ]
-    },
-    "languages": [
-      "ara",
-      "eng"
     ],
     "country": "iq",
     "isGeoBlocked": false
@@ -457,8 +455,7 @@
     "name": "Payam TV",
     "sources": {
       "streams": [
-        "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-        "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8"
+        "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8"
       ]
     },
     "languages": [

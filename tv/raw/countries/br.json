@@ -52,7 +52,7 @@
       "streams": [
         "https://45.177.114.115/AGROMAIS_HD/index.m3u8",
         "https://168.197.104.22/AGROMAIS/index.m3u8",
-        "https://170.83.16.50/AGRO_MAIS/index.m3u8"
+        "https://45.162.64.114/AGROMAIS/index.m3u8"
       ]
     },
     "languages": [
@@ -110,7 +110,7 @@
       "streams": [
         "https://45.177.114.115/ARTE1/index.m3u8",
         "https://168.197.104.22/ARTE1/index.m3u8",
-        "https://170.83.16.50/ARTE_1/index.m3u8"
+        "https://45.162.64.114/ARTE1/index.m3u8"
       ]
     },
     "languages": [
@@ -152,8 +152,8 @@
     "name": "AXN",
     "sources": {
       "streams": [
-        "https://45.190.28.50/AXN_HD/index.m3u8",
-        "https://170.83.16.50/AXN/index.m3u8"
+        "https://170.83.16.50/AXN/index.m3u8",
+        "https://45.190.28.50/AXN_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -184,8 +184,8 @@
     "sources": {
       "streams": [
         "https://45.162.64.114/BAND_SPORTS/index.m3u8",
-        "https://45.190.28.50/BAND_SPORTS_HD/index.m3u8",
-        "https://170.83.16.50/BAND_SPORTS/index.m3u8"
+        "https://170.83.16.50/BAND_SPORTS/index.m3u8",
+        "https://45.190.28.50/BAND_SPORTS_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -200,8 +200,8 @@
     "sources": {
       "streams": [
         "https://45.177.114.115/BAND_NEWS/index.m3u8",
-        "https://45.190.28.50/BAND_NEWS_HD/index.m3u8",
-        "https://168.197.104.22/BAND_NEWS/index.m3u8"
+        "https://168.197.104.22/BAND_NEWS/index.m3u8",
+        "https://45.162.64.114/BAND_NEWS/index.m3u8"
       ]
     },
     "languages": [
@@ -370,9 +370,9 @@
     "name": "Canal Futura",
     "sources": {
       "streams": [
+        "https://170.83.16.50/FUTURA/index.m3u8",
         "https://186.219.52.187/futura/index.m3u8",
-        "https://45.162.64.114/FUTURA/index.m3u8",
-        "https://170.83.16.50/FUTURA/index.m3u8"
+        "https://45.162.64.114/FUTURA/index.m3u8"
       ]
     },
     "languages": [
@@ -434,20 +434,6 @@
     "sources": {
       "streams": [
         "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "haAQVTXfQJECVE",
-    "name": "CazeTV",
-    "sources": {
-      "streams": [
-        "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
       ]
     },
     "languages": [
@@ -700,8 +686,8 @@
     "sources": {
       "streams": [
         "https://168.197.104.22/FISH_TV/index.m3u8",
-        "https://170.83.16.50/FISH_TV/index.m3u8",
-        "https://45.162.64.114/FISH_TV/index.m3u8"
+        "https://45.162.64.114/FISH_TV/index.m3u8",
+        "https://170.83.16.50/FISH_TV/index.m3u8"
       ]
     },
     "languages": [
@@ -900,8 +886,7 @@
     "name": "Music Box Brazil",
     "sources": {
       "streams": [
-        "https://168.197.104.22/MUSIC/index.m3u8",
-        "https://45.190.28.50/MUSIC_BOX_HD/index.m3u8"
+        "https://168.197.104.22/MUSIC/index.m3u8"
       ]
     },
     "languages": [
@@ -969,9 +954,9 @@
     "name": "Novo Tempo",
     "sources": {
       "streams": [
-        "https://45.190.28.50/TV_NOVO_TEMPO/index.m3u8",
         "https://186.219.52.187/novo_tempo/index.m3u8",
-        "https://168.197.104.22/NOVO_TEMPO/index.m3u8"
+        "https://168.197.104.22/NOVO_TEMPO/index.m3u8",
+        "https://45.162.64.114/NOVO_TEMPO/index.m3u8"
       ]
     },
     "languages": [
@@ -1181,8 +1166,8 @@
     "name": "Rede Brasil",
     "sources": {
       "streams": [
-        "https://170.84.165.204/REDEBRASIL/index.m3u8",
         "https://45.190.28.50/REDE_BRASIL_HD/index.m3u8",
+        "https://170.84.165.204/REDEBRASIL/index.m3u8",
         "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
       ]
     },
@@ -1213,8 +1198,8 @@
     "name": "Rede Familia",
     "sources": {
       "streams": [
-        "https://186.219.52.187/rede_familia/index.m3u8",
-        "https://168.197.104.22/REDE_FAMILIA/index.m3u8"
+        "https://168.197.104.22/REDE_FAMILIA/index.m3u8",
+        "https://186.219.52.187/rede_familia/index.m3u8"
       ]
     },
     "languages": [
@@ -1438,7 +1423,7 @@
     "name": "SBT CENTRAL",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0mJmdLMDeuY"
+        "https://www.youtube-nocookie.com/embed/X-1K9BrEJ28"
       ]
     },
     "languages": [
@@ -1454,7 +1439,7 @@
       "streams": [
         "https://170.84.165.204/SBT_HD/index.m3u8",
         "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
-        "https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8"
+        "https://45.190.28.50/SBT_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -1482,7 +1467,7 @@
     "name": "SBT RIBEIRÃO PRETO",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/6O7dxXnSjwY"
+        "https://www.youtube-nocookie.com/embed/BLEoN63nOjg"
       ]
     },
     "languages": [
@@ -1496,7 +1481,7 @@
     "name": "SBT Rio",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/0zqz0f7XBts"
+        "https://www.youtube-nocookie.com/embed/F3q8Aw9j8gM"
       ]
     },
     "languages": [
@@ -1668,26 +1653,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wQwzJWldq22ymG",
-    "name": "SIC TV",
-    "sources": {
-      "streams": [
-        "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QpFBz4IliCTjej",
     "name": "Sony Channel",
     "sources": {
       "streams": [
-        "https://45.190.28.50/SONY_HD/index.m3u8",
-        "https://170.83.16.50/SONY_CHANNEL/index.m3u8"
+        "https://170.83.16.50/SONY_CHANNEL/index.m3u8",
+        "https://45.190.28.50/SONY_HD/index.m3u8"
       ]
     },
     "languages": [
@@ -1702,8 +1673,8 @@
     "sources": {
       "streams": [
         "https://45.177.114.115/SONY_MOVIES/index.m3u8",
-        "https://168.197.104.22/SONY_MOVIES/index.m3u8",
-        "https://170.83.16.50/SONY_MOVIES/index.m3u8"
+        "https://170.83.16.50/SONY_MOVIES/index.m3u8",
+        "https://168.197.104.22/SONY_MOVIES/index.m3u8"
       ]
     },
     "languages": [
@@ -1934,7 +1905,7 @@
     "name": "TV Assembleia Minas Gerais",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/J0CeSloYehg"
+        "https://www.youtube-nocookie.com/embed/ewLZUpHlP6M"
       ]
     },
     "languages": [
@@ -1965,20 +1936,6 @@
         "https://45.177.114.115/TV_BRASIL/index.m3u8",
         "https://tvbrasil-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2bhXPviPJO5yGg",
-    "name": "TV Brasil Oeste",
-    "sources": {
-      "streams": [
-        "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
       ]
     },
     "languages": [
@@ -2148,9 +2105,9 @@
     "name": "TV Evangelizar",
     "sources": {
       "streams": [
+        "https://170.83.16.50/TV_EVANGELIZAR/index.m3u8",
         "https://45.190.28.50/TV_EVANGELIZAR/index.m3u8",
-        "https://168.197.104.22/EVANGELIZAR/index.m3u8",
-        "https://170.83.16.50/TV_EVANGELIZAR/index.m3u8"
+        "https://168.197.104.22/EVANGELIZAR/index.m3u8"
       ]
     },
     "languages": [
@@ -2264,9 +2221,9 @@
     "name": "TV Justica",
     "sources": {
       "streams": [
-        "https://45.190.28.50/TV_JUSTICA/index.m3u8",
         "https://168.197.104.22/TV_JUSTICA/index.m3u8",
-        "https://45.162.64.114/TV_JUSTICA/index.m3u8"
+        "https://45.162.64.114/TV_JUSTICA/index.m3u8",
+        "https://45.190.28.50/TV_JUSTICA/index.m3u8"
       ]
     },
     "languages": [
@@ -2444,9 +2401,9 @@
     "name": "TV Pai Eterno",
     "sources": {
       "streams": [
-        "https://45.190.28.50/PAI_ETERNO/index.m3u8",
         "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
-        "https://168.197.104.22/TV_PAI_ETERNO/index.m3u8"
+        "https://168.197.104.22/TV_PAI_ETERNO/index.m3u8",
+        "https://45.162.64.114/TV_PAI_ETERNO/index.m3u8"
       ]
     },
     "languages": [
@@ -2462,6 +2419,20 @@
     "sources": {
       "streams": [
         "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HZWd4go9om2ldn",
+    "name": "TV Paraense",
+    "sources": {
+      "streams": [
+        "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
       ]
     },
     "languages": [
@@ -2531,9 +2502,9 @@
     "name": "TV Ra Tim Bum",
     "sources": {
       "streams": [
-        "https://45.190.28.50/RATIMBUM/index.m3u8",
         "https://45.177.114.115/TV_RA_TIM_BUM/index.m3u8",
-        "https://168.197.104.22/RA_TIM_BUM/index.m3u8"
+        "https://168.197.104.22/RA_TIM_BUM/index.m3u8",
+        "https://45.162.64.114/RA_TIM_BUM/index.m3u8"
       ]
     },
     "languages": [
@@ -2673,7 +2644,7 @@
     "name": "TV Thathi SBT",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/w04noz7ohqc"
+        "https://www.youtube-nocookie.com/embed/sMiGRiuYing"
       ]
     },
     "languages": [

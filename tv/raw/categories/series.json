@@ -240,20 +240,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UYW2WtzuwJvxrr",
-    "name": "City Eden KinoDok",
-    "sources": {
-      "streams": [
-        "https://cityeden.catcast.tv/content/38354/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OSKKDWCAHjH9Fa",
     "name": "CNBC-e",
     "sources": {
@@ -397,20 +383,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "sources": {
-      "streams": [
-        "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RQLjZpBmmmFy6U",
     "name": "Duck Dynasty",
     "stream_urls": [
@@ -453,6 +425,21 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VX5kVJoRiCmbKU",
+    "name": "Europa Europa",
+    "sources": {
+      "streams": [
+        "https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ],
+    "country": "ar",
     "isGeoBlocked": false
   },
   {
@@ -662,7 +649,6 @@
     "name": "Inside Crime UK",
     "sources": {
       "streams": [
-        "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8",
         "https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8",
         "https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8"
       ]
@@ -705,7 +691,7 @@
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/goeRRwG3OsU"
+        "https://www.youtube-nocookie.com/embed/cAZDo7sVvQ8"
       ]
     },
     "languages": [
@@ -1039,20 +1025,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HkrrOjtIUJU4ad",
-    "name": "Star Channel Latin America Central America",
-    "sources": {
-      "streams": [
-        "https://streamer.metronethn.com/StarChannel/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Jwks7n28SQBw5S",
     "name": "Star Channel Latin America Panregional",
     "sources": {
@@ -1164,6 +1136,20 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "5SXjpCaq35k9dq",
+    "name": "The Doctors",
+    "sources": {
+      "streams": [
+        "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "wxBGFlZApAgv7M",
@@ -1299,6 +1285,20 @@
       "https://d31z96rdrmwfsp.cloudfront.net/master.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lKPGETEt2FJ6ge",
+    "name": "USA Network East",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8"
+      ]
+    },
     "languages": [
       "eng"
     ],

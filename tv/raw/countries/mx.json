@@ -168,20 +168,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "xyJyUeE9SZM9fy",
-    "name": "Canal 5",
-    "sources": {
-      "streams": [
-        "https://45.181.87.106/CANAL5HD/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "sources": {
@@ -507,7 +493,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/g0r2rLd46po"
+        "https://www.youtube-nocookie.com/embed/RishGJFPnjQ"
       ]
     },
     "languages": [],
@@ -638,34 +624,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4i2dbm12cF2ARa",
-    "name": "Nayarit Comunica",
-    "sources": {
-      "streams": [
-        "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LhLrzvZ35u0Jdu",
-    "name": "Nick Jr. Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://streamer.metronethn.com/NickJr/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pCFfnKm8W8E1LH",
     "name": "NMás",
     "sources": {
@@ -711,6 +669,20 @@
     "name": "PSN Canal 45.2",
     "stream_urls": [
       "https://srspsn2.live/live/livestream.m3u8"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rGCqu82AwJbUrk",
+    "name": "PSN Canal 45.2",
+    "sources": {
+      "streams": [
+        "https://srspsn2.live/live/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
     ],
     "country": "mx",
     "isGeoBlocked": false
@@ -868,20 +840,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c0t3w9rs29fRKj",
-    "name": "Tele UV",
-    "sources": {
-      "streams": [
-        "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "arUwONnDyiIo6o",
     "name": "Tele Yucatan",
     "sources": {
@@ -954,7 +912,7 @@
     "name": "Televisa Ciudad Juarez",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RHpjvz0C6hc"
+        "https://www.youtube-nocookie.com/embed/7d_AzjBEXKQ"
       ]
     },
     "languages": [
@@ -1033,7 +991,7 @@
     "name": "Televisa Guerrero",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/DdqKwNcJIxU"
+        "https://www.youtube-nocookie.com/embed/oSSZNxnQVYs"
       ]
     },
     "languages": [
@@ -1073,7 +1031,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/MbV1QKROqDk"
+        "https://www.youtube-nocookie.com/embed/H09lduXWCwQ"
       ]
     },
     "languages": [
@@ -1165,7 +1123,7 @@
     "name": "Televisa Sinaloa",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/3lPl16jl-HY"
+        "https://www.youtube-nocookie.com/embed/Zly-iYgyfX4"
       ]
     },
     "languages": [
@@ -1206,7 +1164,7 @@
     "name": "Televisa Univision Saltillo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/7Fz_HoNdyCI"
+        "https://www.youtube-nocookie.com/embed/Cc0Eelc7WoA"
       ]
     },
     "languages": [

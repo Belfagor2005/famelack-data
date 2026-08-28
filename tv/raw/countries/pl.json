@@ -239,7 +239,8 @@
     "sources": {
       "streams": [
         "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
-        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
       ]
     },
     "languages": [
@@ -414,20 +415,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "cQkoUN7cMF98ao",
-    "name": "Polsat Sport 1",
-    "sources": {
-      "streams": [
-        "https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "sources": {
@@ -460,20 +447,6 @@
     "sources": {
       "streams": [
         "https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cVaJUABGdrFesO",
-    "name": "Radiowa Czworka",
-    "sources": {
-      "streams": [
-        "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -809,20 +782,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zm99zgCQP8EGKf",
-    "name": "Top Movies Polska",
-    "sources": {
-      "streams": [
-        "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "viSqDXiMLM8FN0",
     "name": "TV ASTA",
     "sources": {
@@ -922,20 +881,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1FmkZgcgURnflD",
-    "name": "TVP Sport",
-    "sources": {
-      "streams": [
-        "https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8"
-      ]
-    },
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2NOHQqe5XXGwtZ",
     "name": "TVP World",
     "stream_urls": [
@@ -945,6 +890,20 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/y8wVGM18c18"
+      ]
+    },
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

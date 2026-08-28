@@ -198,20 +198,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pxpERTjTLU5biZ",
-    "name": "Canal CHD",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "btEJDr7vMTEkmk",
     "name": "Canal Cine Dios",
     "sources": {
@@ -259,21 +245,6 @@
       "streams": [
         "https://movil.ejeserver.com/live/teledoradahd.m3u8",
         "https://video.ejeserver.com/live/teledoradahd.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "QA1x5OQRH7UVPJ",
-    "name": "Canal Nets",
-    "sources": {
-      "streams": [
-        "https://movil.ejeserver.com/live/nets.m3u8",
-        "https://video.ejeserver.com/live/nets.m3u8"
       ]
     },
     "languages": [
@@ -352,6 +323,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "A9tPf7Rzt5ngpc",
+    "name": "Canica TV",
+    "sources": {
+      "streams": [
+        "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "y6DIrrNamySBRa",
     "name": "Caracol Televisión",
     "sources": {
@@ -384,7 +369,8 @@
     "name": "CMB Television",
     "sources": {
       "streams": [
-        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
+        "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
+        "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8"
       ]
     },
     "languages": [
@@ -441,20 +427,6 @@
     "sources": {
       "streams": [
         "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jWsKSPOfnPdCDP",
-    "name": "CNC Valledupar",
-    "sources": {
-      "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
       ]
     },
     "languages": [
@@ -578,20 +550,6 @@
     "sources": {
       "streams": [
         "https://45.162.193.35/FX/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dGlGj1o58afxz8",
-    "name": "Heliconia Radio TV",
-    "sources": {
-      "streams": [
-        "https://eu1.servers10.com:8081/8178/index.m3u8"
       ]
     },
     "languages": [
@@ -844,20 +802,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nlsdaZ2L48vHzM",
-    "name": "Nickelodeon Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://streamer.metronethn.com/Nickelodeon/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zI3NybQoMP9Xkx",
     "name": "Noticias Caracol",
     "sources": {
@@ -919,20 +863,6 @@
     "sources": {
       "streams": [
         "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vIdlh7SNXt3y4k",
-    "name": "Panche Television",
-    "sources": {
-      "streams": [
-        "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8"
       ]
     },
     "languages": [
@@ -1017,6 +947,7 @@
     "name": "Salsa Gorda Television",
     "sources": {
       "streams": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
         "https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8"
       ]
     },

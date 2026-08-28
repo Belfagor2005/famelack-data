@@ -72,20 +72,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "vGCm6ufhO0hHv0",
-    "name": "MediBizTV",
-    "sources": {
-      "streams": [
-        "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uPBnVmprz4lcyz",
     "name": "NASA: ISS",
     "sources": {
@@ -147,8 +133,7 @@
     "name": "UMSA TVU Internacional",
     "sources": {
       "streams": [
-        "https://edge.enhdtv.com/8026/index.m3u8",
-        "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8"
+        "https://edge.enhdtv.com/8026/index.m3u8"
       ]
     },
     "languages": [

@@ -102,20 +102,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Fv2fpsvbcUPHP8",
-    "name": "Aragon TV Internacional",
-    "sources": {
-      "streams": [
-        "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MkDG8x514T8qvl",
     "name": "Bon Dia TV",
     "sources": {
@@ -174,6 +160,20 @@
     ],
     "country": "es",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc4FxqftW4YwtA",
+    "name": "Clan",
+    "sources": {
+      "streams": [
+        "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "Qfv5oZJyTVO7ql",

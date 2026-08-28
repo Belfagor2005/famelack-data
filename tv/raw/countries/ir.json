@@ -766,20 +766,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RYW8cokw1YUAPH",
-    "name": "NewFlix",
-    "sources": {
-      "streams": [
-        "https://newfhls.wns.live/hls/stream.m3u8"
-      ]
-    },
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Hq5kvgoL2uBOds",
     "name": "OXIR TV",
     "sources": {
@@ -1096,6 +1082,20 @@
     "sources": {
       "streams": [
         "https://sltwohls.wns.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yBa18DitYklzQT",
+    "name": "SNN TV",
+    "sources": {
+      "streams": [
+        "https://live2.snn.ir/hls/snn2_hd720/index.m3u8"
       ]
     },
     "languages": [
