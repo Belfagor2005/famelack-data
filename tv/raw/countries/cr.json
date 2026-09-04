@@ -407,20 +407,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
-    "sources": {
-      "streams": [
-        "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HYkbd92n6SC6wf",
     "name": "San Jose TV",
     "sources": {
@@ -564,12 +550,25 @@
     "name": "TV Cartago Digital",
     "sources": {
       "streams": [
+        "https://lbgo.bozztv.com/ssh101/ssh101/tvcartagodigital/chunks.m3u8?lb_backend_hint=6",
         "https://video2.getstreamhosting.com:19360/8110/8110.m3u8"
       ]
     },
     "languages": [
       "spa"
     ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oFBYYfrHTKyW0r",
+    "name": "TV Nosara",
+    "sources": {
+      "streams": [
+        "https://latamvdo.com:3870/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "cr",
     "isGeoBlocked": false
   },

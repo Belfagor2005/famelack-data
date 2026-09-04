@@ -1,19 +1,5 @@
 [
   {
-    "nanoid": "DNvXN4cXK8bo20",
-    "name": "AFBTV Kupang",
-    "sources": {
-      "streams": [
-        "https://afbtv.siar.us/live/afbtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fEk1aZZhOygCxY",
     "name": "Ahsan TV",
     "sources": {
@@ -264,20 +250,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KTv1lAQngiwpQF",
-    "name": "dTVi",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/dtvi.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QsUhnT0pi51wcj",
     "name": "Duta TV",
     "sources": {
@@ -322,11 +294,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "swg1noloxNDS5D",
-    "name": "Ficom Channel",
+    "nanoid": "Eg0R1qmDu85lEs",
+    "name": "Efarina TV",
     "sources": {
       "streams": [
-        "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
+        "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
       ]
     },
     "languages": [
@@ -502,7 +474,7 @@
     "name": "Media Sunnah Aceh TV",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/l3hBKFF0vgc"
+        "https://www.youtube-nocookie.com/embed/E2xkV677crI"
       ]
     },
     "languages": [
@@ -519,21 +491,7 @@
         "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/hjNOqYN6UJo"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VYzPIJkb2iBgYd",
-    "name": "MGSTV",
-    "sources": {
-      "streams": [
-        "https://mgstv.siar.us/live/mgstv.m3u8"
+        "https://www.youtube-nocookie.com/embed/oUYnZv_G82Q"
       ]
     },
     "languages": [
@@ -570,11 +528,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D6GBQhdMfQr39B",
-    "name": "Naajiya TV",
+    "nanoid": "L5BvWuf8rlqBr4",
+    "name": "Music Information Channel",
     "sources": {
       "streams": [
-        "https://www.naajiyatv.com/live/livestream.m3u8"
+        "https://mic.siar.us/mic/live/mic.m3u8"
       ]
     },
     "languages": [
@@ -582,20 +540,6 @@
     ],
     "country": "id",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZAMsD9HhaPz9Bn",
-    "name": "Nusantara TV",
-    "sources": {
-      "streams": [
-        "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "ts73mvVV0P9A9R",
@@ -667,20 +611,6 @@
     "sources": {
       "streams": [
         "https://v10.siar.us/rctv/live/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GyYMyUUtPptNeI",
-    "name": "Rinjani TV",
-    "sources": {
-      "streams": [
-        "https://rinjanitv.cloud/hls/tvkabel.m3u8"
       ]
     },
     "languages": [
@@ -800,20 +730,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2XkFMpRoLYu9Ma",
-    "name": "Selaparang TV",
-    "sources": {
-      "streams": [
-        "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eQt3qfpQWLo9FO",
     "name": "Serambinews",
     "sources": {
@@ -921,20 +837,6 @@
       "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Pu17TwY3OoDiLo",
-    "name": "TV Mu",
-    "sources": {
-      "streams": [
-        "https://e.siar.us/live/tvmu.m3u8"
-      ]
-    },
     "languages": [
       "ind"
     ],
@@ -1493,21 +1395,7 @@
     "name": "UFA Live 24",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/GXIxVTUaqNQ"
-      ]
-    },
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SlDXX35NImvk2c",
-    "name": "UGTV",
-    "sources": {
-      "streams": [
-        "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
+        "https://www.youtube-nocookie.com/embed/_9cb9QWOKW0"
       ]
     },
     "languages": [

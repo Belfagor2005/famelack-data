@@ -353,7 +353,7 @@
         "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
       ],
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/I0PU3dgFnGQ"
+        "https://www.youtube-nocookie.com/embed/iVQJRxmux8Q"
       ]
     },
     "languages": [
@@ -1219,6 +1219,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WNYH3Yw8Ugl7X8",
+    "name": "Iqra Bangla",
+    "sources": {
+      "streams": [
+        "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ben"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5oHHeA42AXWK92",
     "name": "Iran International",
     "stream_urls": [
@@ -1609,7 +1623,8 @@
     "name": "MTV Global",
     "sources": {
       "streams": [
-        "https://shift03.isp.bg/MTVEurope/index.m3u8"
+        "https://shift03.isp.bg/MTVEurope/index.m3u8",
+        "https://dvr2.kablova.tv/MTV/index.m3u8"
       ]
     },
     "languages": [
@@ -2088,20 +2103,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dxmNzNdEqt5bY8",
-    "name": "Sangat TV",
-    "sources": {
-      "streams": [
-        "https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UuT4hF41jXyjM4",
     "name": "Sanskar UK",
     "sources": {
@@ -2148,7 +2149,7 @@
     "name": "Shaun the Sheep Official",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ucxQ7wvUoWc"
+        "https://www.youtube-nocookie.com/embed/PvWa9XUzOz8"
       ]
     },
     "languages": [
@@ -2177,6 +2178,20 @@
     "sources": {
       "youtube": [
         "https://www.youtube-nocookie.com/embed/xDWQ3LkccY8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "sources": {
+      "streams": [
+        "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
       ]
     },
     "languages": [

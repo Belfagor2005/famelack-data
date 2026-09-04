@@ -129,7 +129,6 @@
     "name": "Canal Gov",
     "sources": {
       "streams": [
-        "https://45.177.114.115/TV_BRASIL_2/index.m3u8",
         "https://canalgov-stream.ebc.com.br/index.m3u8",
         "https://168.197.104.22/TV_BRASIL_2/index.m3u8"
       ],
@@ -416,6 +415,20 @@
     "sources": {
       "streams": [
         "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "54APtzgfl8rhY2",
+    "name": "CT-N Live Stream 2",
+    "sources": {
+      "streams": [
+        "https://video.ct-n.com/live/web2stream/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1024,20 +1037,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4WEiFY5k9mJhz",
-    "name": "Orszaggyules: OGY plenaris",
-    "sources": {
-      "streams": [
-        "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "sources": {
@@ -1325,7 +1324,7 @@
     "name": "TV Justiça",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Loa9DFv2dpA"
+        "https://www.youtube-nocookie.com/embed/NMa5fwMcI9w"
       ]
     },
     "languages": [

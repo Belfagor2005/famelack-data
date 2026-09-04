@@ -14,6 +14,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3QRPAcVmVoh8UN",
+    "name": "4ever Drama",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/260/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "unFAtIKdGdKV06",
     "name": "13T",
     "sources": {
@@ -687,11 +701,25 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PjiUkxL4Sa4RnA",
+    "name": "La Rosa de Guadalupe",
+    "sources": {
+      "streams": [
+        "https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cwqY1fSd0UvwAg",
     "name": "Land Of The Lost",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/cAZDo7sVvQ8"
+        "https://www.youtube-nocookie.com/embed/HpQWvSPjLbo"
       ]
     },
     "languages": [
@@ -942,34 +970,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AEW5rUSukyBObX",
-    "name": "Smotrim 100% Lyubov",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xskSlYuVIwl8pa",
-    "name": "Smotrim 100% Muzhskoe",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XsDojCA8SLZ0wU",
     "name": "Smotrim Chestnyy Detektiv",
     "sources": {
@@ -1022,20 +1022,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jwks7n28SQBw5S",
-    "name": "Star Channel Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://45.162.193.35/STAR_CHANNEL/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -1143,6 +1129,20 @@
     "sources": {
       "streams": [
         "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i5p0X5SsyFECKS",
+    "name": "The Loop",
+    "sources": {
+      "streams": [
+        "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8"
       ]
     },
     "languages": [
@@ -1306,6 +1306,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZcTlJjeaCc55j6",
+    "name": "Viasat Serial",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rbTDCc0BqwXsLy",
     "name": "viju+ Serial",
     "sources": {
@@ -1395,7 +1409,7 @@
     "name": "Кино Добряк: Сваты и Байки Митяя",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
+        "https://www.youtube-nocookie.com/embed/h3mA6LNHmmI"
       ]
     },
     "languages": [

@@ -55,6 +55,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JNkGygM92uxejo",
+    "name": "Canal 15 El Zamorano",
+    "sources": {
+      "streams": [
+        "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lZCJ28tnHKpEgP",
     "name": "El Camino TV",
     "sources": {
@@ -165,6 +179,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8szgaxbEMvvVbh",
+    "name": "SolTV",
+    "sources": {
+      "streams": [
+        "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Blt46frCkDVO7v",
     "name": "TV CRET",
     "sources": {
@@ -207,11 +235,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2fDbweulZuyK2h",
-    "name": "TVCa",
+    "nanoid": "1jzCwLIvYDfCXS",
+    "name": "WOW TV",
     "sources": {
       "streams": [
-        "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
+        "https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8"
       ]
     },
     "languages": [

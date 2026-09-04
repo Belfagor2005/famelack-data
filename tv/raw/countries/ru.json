@@ -72,20 +72,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sQrljGUpW3a5Wd",
-    "name": "15+ Music",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DnX6s8UUlBogeL",
     "name": "86",
     "sources": {
@@ -147,20 +133,6 @@
     "sources": {
       "streams": [
         "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "miNrjenD6E2QJg",
-    "name": "alpha Cinema",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
       ]
     },
     "languages": [
@@ -1041,7 +1013,8 @@
     "name": "Kino TV",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/221/index.m3u8"
+        "https://stream.mcquack.net/221/index.m3u8",
+        "https://flussonic.linkintel.ru/kino-tv/index.m3u8"
       ]
     },
     "languages": [
@@ -1198,8 +1171,7 @@
     "name": "Kongress TV",
     "sources": {
       "streams": [
-        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
-        "https://live-3.otcnet.ru/congresstv/index.m3u8"
+        "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8"
       ]
     },
     "languages": [
@@ -1353,7 +1325,8 @@
     "name": "Mama",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/79/index.m3u8"
+        "https://stream.mcquack.net/79/index.m3u8",
+        "https://flussonic.linkintel.ru/mama/index.m3u8"
       ]
     },
     "languages": [
@@ -1762,20 +1735,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "FPW5dG6jwJsfts",
-    "name": "Novyi Russkii",
-    "sources": {
-      "streams": [
-        "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nqorl9gKU461MK",
     "name": "NST",
     "sources": {
@@ -1911,7 +1870,6 @@
     "name": "Okhota i rybalka",
     "sources": {
       "streams": [
-        "https://stream.mcquack.net/155/index.m3u8",
         "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
       ]
     },
@@ -1928,20 +1886,6 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/491/index.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MN7RONR6RbtuUw",
-    "name": "Okko Prajm Sport",
-    "sources": {
-      "streams": [
-        "https://stream.mcquack.net/493/index.m3u8"
       ]
     },
     "languages": [
@@ -2081,6 +2025,7 @@
     "name": "Pobeda",
     "sources": {
       "streams": [
+        "https://94.155.93.182/POBEDA_HD/index.m3u8",
         "https://streaming.thestream.cyou/live/43.m3u8"
       ]
     },
@@ -2611,90 +2556,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rzeNGQqOs9ouwZ",
-    "name": "Smotrim 100% Detskoe",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "orDXxZRC4vUyeM",
-    "name": "Smotrim 100% Fakty",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6UMqfCWAL6fJyw",
-    "name": "Smotrim 100% Klassika",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AEW5rUSukyBObX",
-    "name": "Smotrim 100% Lyubov",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xskSlYuVIwl8pa",
-    "name": "Smotrim 100% Muzhskoe",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xmXphKZ88u1bWW",
-    "name": "Smotrim 100% Prazdnik",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XsDojCA8SLZ0wU",
     "name": "Smotrim Chestnyy Detektiv",
     "sources": {
@@ -2830,8 +2691,8 @@
     "sources": {
       "streams": [
         "https://stream.mcquack.net/138/index.m3u8",
-        "https://tshift-1.telecoma.tv/sts/index.m3u8",
-        "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8"
+        "https://flussonic.linkintel.ru/sts/index.m3u8",
+        "https://tshift-1.telecoma.tv/sts/index.m3u8"
       ]
     },
     "languages": [
@@ -3046,6 +2907,7 @@
     "name": "TNT4",
     "sources": {
       "streams": [
+        "https://flussonic.linkintel.ru/tnt4/index.m3u8",
         "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
       ]
     },
@@ -3225,20 +3087,6 @@
     ],
     "country": "ru",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "HLEoRKBCS06HUI",
-    "name": "Ugra-TV",
-    "sources": {
-      "streams": [
-        "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "wDy5L6UWLImGOC",
@@ -3687,7 +3535,7 @@
     "name": "Кино Добряк: Сваты и Байки Митяя",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
+        "https://www.youtube-nocookie.com/embed/h3mA6LNHmmI"
       ]
     },
     "languages": [

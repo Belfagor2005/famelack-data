@@ -978,6 +978,7 @@
     "name": "BTB Info",
     "sources": {
       "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
         "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
       ]
     },
@@ -1487,34 +1488,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ovqg1va2O0hkqi",
-    "name": "KPVM-LD 25.6",
-    "sources": {
-      "streams": [
-        "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KkqMuLxaMTBFSE",
-    "name": "KTOO-TV 3.3",
-    "sources": {
-      "streams": [
-        "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8"
-      ]
-    },
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "feuZPyWhX6la0P",
     "name": "Law & Crime",
     "sources": {
@@ -1690,20 +1663,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g2bTTopTiGfPsS",
-    "name": "National Geographic Latin America Panregional",
-    "sources": {
-      "streams": [
-        "https://45.162.193.35/NATGEO/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AbcJxYxf3cyf3H",
     "name": "Nature Time",
     "sources": {
@@ -1818,6 +1777,21 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gEeVOh2cSKdMiu",
+    "name": "Persiana Travel",
+    "sources": {
+      "streams": [
+        "https://mardomhls.wns.live/hls/stream.m3u8",
+        "https://ptravelhls.persiana.live/hls/stream.m3u8"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Slt5syXsekpkl9",
     "name": "RT Documentary English",
     "stream_urls": [
@@ -1865,7 +1839,6 @@
     "name": "Safari TV",
     "sources": {
       "streams": [
-        "https://cdn-6.pishow.tv/live/1513/master.m3u8",
         "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
       ]
     },
@@ -1887,20 +1860,6 @@
       "eng"
     ],
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "orDXxZRC4vUyeM",
-    "name": "Smotrim 100% Fakty",
-    "sources": {
-      "streams": [
-        "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8"
-      ]
-    },
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   },
   {
@@ -1998,6 +1957,20 @@
       "bul"
     ],
     "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PfbaswQwxPL2la",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
     "isGeoBlocked": false
   },
   {

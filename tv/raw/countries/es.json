@@ -730,6 +730,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cYGWjqo31Nlvlm",
+    "name": "Diez TV Las Villas",
+    "sources": {
+      "streams": [
+        "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fdCqBOy89zJCPX",
+    "name": "Diez TV Ubeda",
+    "sources": {
+      "streams": [
+        "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3PEdAjcPyYNLge",
     "name": "Distrito TV",
     "sources": {
@@ -1668,20 +1696,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9WgfAeppTstCFn",
-    "name": "Tele Safor",
-    "sources": {
-      "streams": [
-        "https://video.telesafor.com/hls/video.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RYfMxL6JZWi97a",
     "name": "Teledeporte",
     "sources": {
@@ -1701,20 +1715,6 @@
     "sources": {
       "streams": [
         "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "sources": {
-      "streams": [
-        "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1947,20 +1947,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6lhNwfN4k1Lr3T",
-    "name": "Urola Telebista",
-    "sources": {
-      "streams": [
-        "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "eus"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Hw4gcMWFqlE6Dv",
     "name": "Vevo Pop Spain",
     "sources": {
@@ -1982,20 +1968,6 @@
     },
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "f4MvB70GxNwe4i",
-    "name": "VOTV",
-    "sources": {
-      "streams": [
-        "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

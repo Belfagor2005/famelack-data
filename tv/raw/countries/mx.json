@@ -98,20 +98,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yq7NxSgMJ0x6ko",
-    "name": "Antena TV",
-    "sources": {
-      "streams": [
-        "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "49nmeVhY8qIuOA",
     "name": "Azteca Internacional",
     "sources": {
@@ -182,20 +168,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "om7GIuOIZrQShy",
-    "name": "Canal 10 Durango",
-    "sources": {
-      "streams": [
-        "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gwICuV95fTarKx",
     "name": "Canal 22 Nacional",
     "sources": {
@@ -214,7 +186,7 @@
     "name": "Canal 23 Televisa Ensenada",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oOcGCgVXzV0"
+        "https://www.youtube-nocookie.com/embed/HDgjTvk_-CE"
       ]
     },
     "languages": [
@@ -394,6 +366,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y2XbgAUNu1jdKZ",
     "name": "Expresa TV",
     "sources": {
@@ -493,7 +479,7 @@
     "name": "Imagen TV+",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/RishGJFPnjQ"
+        "https://www.youtube-nocookie.com/embed/I81CaYvXgI8"
       ]
     },
     "languages": [],
@@ -596,11 +582,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bdMQX2BCZexBtf",
-    "name": "MTV Latin America Panregional",
+    "nanoid": "kOILMSbtSvgFyR",
+    "name": "MULTIMEDIOS",
     "sources": {
-      "streams": [
-        "https://streamer.metronethn.com/MTV/index.m3u8"
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/SM864ZgPpG8"
       ]
     },
     "languages": [
@@ -610,11 +596,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kOILMSbtSvgFyR",
-    "name": "MULTIMEDIOS",
+    "nanoid": "4i2dbm12cF2ARa",
+    "name": "Nayarit Comunica",
     "sources": {
-      "youtube": [
-        "https://www.youtube-nocookie.com/embed/SM864ZgPpG8"
+      "streams": [
+        "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
       ]
     },
     "languages": [
@@ -744,6 +730,30 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CIkEFZcLn9ruGH",
+    "name": "SET Televisión Canal 26.1",
+    "sources": {
+      "streams": [
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MvxVdnZ8G06Wbd",
+    "name": "SET Televisión Canal 26.2",
+    "sources": {
+      "streams": [
+        "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "inKpcU1CFpY4af",
     "name": "SIPSE TV 8.1",
     "stream_urls": [
@@ -863,6 +873,18 @@
     "languages": [
       "spa"
     ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IomnjUMD148fu8",
+    "name": "Telemax (XEWH-TDT)",
+    "sources": {
+      "streams": [
+        "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
+      ]
+    },
+    "languages": [],
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -991,7 +1013,7 @@
     "name": "Televisa Guerrero",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/oSSZNxnQVYs"
+        "https://www.youtube-nocookie.com/embed/L89Huyy4FJY"
       ]
     },
     "languages": [
@@ -1031,7 +1053,7 @@
     "name": "Televisa Monterrey",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/H09lduXWCwQ"
+        "https://www.youtube-nocookie.com/embed/7O1rUm1XQ4A"
       ]
     },
     "languages": [
@@ -1164,7 +1186,7 @@
     "name": "Televisa Univision Saltillo",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/Cc0Eelc7WoA"
+        "https://www.youtube-nocookie.com/embed/BfWBdF2dHos"
       ]
     },
     "languages": [
@@ -1374,20 +1396,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ql898Hb5o5onXW",
-    "name": "TV Lobo",
-    "sources": {
-      "streams": [
-        "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2eqKKZD9vsVmKP",
     "name": "TV Mar La Paz",
     "sources": {
@@ -1471,39 +1479,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wbA0Ma6O1OQNwg",
-    "name": "TV UJAT",
-    "sources": {
-      "streams": [
-        "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "44FCkvJ9nZtnKa",
     "name": "TVP Culiacan",
     "sources": {
       "streams": [
         "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CXFEfwBakQ1YSI",
-    "name": "TVP Los Mochis",
-    "sources": {
-      "streams": [
-        "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8"
       ]
     },
     "languages": [
@@ -1602,20 +1582,6 @@
     "sources": {
       "streams": [
         "https://cloudvideo.servers10.com:8081/8016/index.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IomnjUMD148fu8",
-    "name": "XEWH-TDT",
-    "sources": {
-      "streams": [
-        "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8"
       ]
     },
     "languages": [

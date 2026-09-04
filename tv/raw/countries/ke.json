@@ -118,11 +118,25 @@
     "name": "KTN News Kenya",
     "sources": {
       "youtube": [
-        "https://www.youtube-nocookie.com/embed/54iiVbRlT_Q"
+        "https://www.youtube-nocookie.com/embed/V7vZqfW7hcE"
       ]
     },
     "languages": [
       "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nnVl6vXmVVFvf3",
+    "name": "MOF TV",
+    "sources": {
+      "streams": [
+        "https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
     ],
     "country": "ke",
     "isGeoBlocked": false

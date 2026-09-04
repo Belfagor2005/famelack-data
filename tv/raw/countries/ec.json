@@ -390,20 +390,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y0sG32hXHAVy2Q",
-    "name": "Majestad Television",
-    "sources": {
-      "streams": [
-        "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
-      ]
-    },
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E3rLmWg3JB8sKD",
     "name": "MakroDigital Television",
     "sources": {
@@ -808,6 +794,20 @@
     "sources": {
       "streams": [
         "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9TUqw93GWA6FwZ",
+    "name": "Vos y TV",
+    "sources": {
+      "streams": [
+        "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
       ]
     },
     "languages": [
